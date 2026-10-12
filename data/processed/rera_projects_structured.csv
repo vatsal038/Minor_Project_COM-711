@@ -1,0 +1,14 @@
+builder_name,rera_registration_no,registration_status,incorporation_year,total_projects_delivered,active_registered_projects,complaints_registered_count,complaints_resolved_count,on_time_delivery_pct,legal_dispute_flag,synthesized_credibility_score,rating_rationale
+SMVD Homes,JKRERA/PRJ/JMU/2020/004,Registered & Active,2012,14,3,2,2,94.0,False,9.2,High track record of delivery; active RERA compliance; all consumer complaints resolved.
+Trikuta Buildwell,JKRERA/PRJ/JMU/2019/012,Registered & Active,2008,19,4,3,3,91.5,False,8.7,Strong institutional presence in South Jammu; sound financial backing; clean compliance.
+Kailash Infra,JKRERA/PRJ/JMU/2021/019,Registered & Active,2015,11,2,1,1,88.0,False,8.1,Solid mid-scale developer; timely completion of plotted and apartment projects in Satwari/Channi.
+Jammu Heights Realty,JKRERA/PRJ/JMU/2020/027,Registered & Active,2014,10,3,4,3,82.0,False,7.8,Consistent urban multi-story builder; minor delivery delays reported during 2021-2022.
+Amar Mahal Developers,JKRERA/PRJ/JMU/2018/008,Registered & Active,2005,22,5,6,5,79.5,False,7.3,Veteran Jammu developer; extensive portfolio; occasional handover delays in commercial segments.
+Shivalik Homes,JKRERA/PRJ/JMU/2021/031,Registered & Active,2016,8,2,3,2,77.0,False,7.1,Specializes in independent housing units; stable execution; 1 pending consumer grievance.
+Ranbir Housing Co.,JKRERA/PRJ/JMU/2019/015,Registered & Active,2010,15,3,7,5,73.0,False,6.8,Mid-tier residential developer; multiple plotted developments; moderate delivery latency.
+Vaishno Estates,JKRERA/PRJ/JMU/2022/045,Registered & Active,2017,7,2,5,3,69.0,False,6.5,Suburban builder; multiple projects in Roop Nagar & Bari Brahmana; moderate complaint frequency.
+Duggar Constructions,JKRERA/PRJ/JMU/2017/003,Registered (Renewal Pending),2002,25,2,9,6,64.0,True,6.0,Long market presence but has faced civil arbitration on title clearance and completion timelines.
+Bahu Fort Builders,JKRERA/PRJ/JMU/2020/039,Registered (Scrutiny Active),2013,9,1,8,4,58.0,True,5.6,Lower delivery velocity; higher complaint ratio regarding promised amenities and parking allocation.
+Tawi Riverside Developers,JKRERA/PRJ/JMU/2021/052,Registered (Notices Issued),2015,6,1,11,5,52.0,True,5.1,Projects near Tawi river basin faced environmental stay orders and timeline extensions.
+Purmandal Properties,Unregistered / Under Investigation,Unregistered,2018,3,0,14,3,41.0,True,4.5,Fails full RERA disclosures; plotted sales on unapproved layout subdivisions; high consumer risk.
+Local Individual Seller,Exempt (Individual Resale / Single Plot),Exempt,2026,1,0,0,0,75.0,False,4.9,Individual secondary market transactions; default neutral baseline rating.

@@ -1,0 +1,37 @@
+locality,flood_risk_level,basin_name,elevation_profile,historic_inundation_depth_m,mitigation_embankment_present
+Bagh-e-Bahu,Medium,Tawi Left Bank / Bahu Ridge,Mid-Plateau,0.3,True
+Bahu Plaza,Medium,Tawi Left Bank / Railway Basin,Plain,0.4,True
+Bakshi Nagar,Low,Western Drainage Catchment,Elevated Ridge,0.0,False
+Bantalab,Low,Kandi Foothill Belt,High Kandi Ridge,0.0,False
+Bari Brahmana,Low,Balol Nallah Plain,Plain,0.1,True
+Bathindi,Low,Shivalik Flank,Hill Slope,0.0,False
+Bhagwati Nagar,High,Tawi Right Bank Riverbed Floodplain,Low Riverbed,1.8,True
+Channi Himmat,Low,Tawi Upper Terrace,Elevated Terrace,0.0,True
+Digiana,High,South Jammu Low Drainage Sump,Low Depression,1.2,False
+Domana,Low,Akhnoor Kandi Belt,Kandi Plateau,0.0,False
+Gandhi Nagar,Low,Central Alluvial Plateau,High Plain,0.0,True
+Gangyal,High,Industrial Low Catchment,Low Depression,1.4,False
+Gole Market,Low,Central Alluvial Plateau,High Plain,0.0,True
+Greater Kailash Jammu,Low,South Outer Terrace,Gentle Slope,0.0,False
+Janipur,Low,Northern Foot-slope,Elevated Slope,0.0,False
+Jewel Chowk,High,Central Drainage Sump / Tawi Approach,Low Core,1.6,True
+Kunjwani,Low,Bypass Plain,Plain,0.1,False
+Marh,Low,Chenab / Tawi Inter-fluvial Agricultural Belt,Flat Agricultural,0.2,False
+Miran Sahib,Low,Southern Plain,Alluvial Plain,0.0,False
+Muthi,Low,North-West Terrace,Terrace,0.0,False
+Nagrota,Low,Tawi Gorge Upper Basin,River Gorge / Hill,0.0,False
+Nanak Nagar,Low,South Central Plain,Plain,0.0,True
+Paloura,Low,Suburban Foothills,Elevated Plain,0.0,False
+Panjtirthi,Medium,Tawi Cliff Slopes,Ridge Cliff,0.0,False
+Rajpura,Low,Canal Sub-basin,Gentle Slope,0.0,True
+Rehari,Medium,Rehari Nallah Drainage Channel,Channel Depression,0.8,True
+Roop Nagar,Low,Kandi Hill Flank,Elevated Ridge,0.0,False
+Sainik Colony,Low,South-Eastern High Ground,Elevated Terrace,0.0,True
+Sarwal,Low,West Ridge,Ridge,0.0,False
+Satwari,Low,Airport Plain,High Plain,0.0,False
+Shastri Nagar,Low,Central Alluvial Plain,High Plain,0.0,True
+Sidhra,Low,Tawi Upper Slopes,Hill Terrace,0.0,True
+Sunjwan,Low,Eastern Hills,Hill Foot,0.0,False
+Talab Tillo,Medium,Ranbir Canal Low Banks,Low Canal Sump,0.9,True
+Trikuta Nagar,Low,South Urban Terrace,Terrace,0.0,True
+Vijaypur,Low,Outer Plain Drainage,Alluvial Plain,0.0,False
