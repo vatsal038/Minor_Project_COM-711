@@ -1,0 +1,42 @@
+Introduction: 
+Property purchase is one of the major financial decisions made by individuals and families. Unlike
+ordinary consumer purchases, evaluating a property requires simultaneous consideration of current price,
+historical price trends, location characteristics, infrastructure development, builder credibility, civic
+conditions and future growth potential.
+Existing real-estate platforms primarily facilitate property discovery by providing listings, prices,
+locations and basic characteristics. However, the information required to determine whether a specific
+property is actually worth buying is often distributed across different sources and difficult to evaluate
+collectively. Historical property prices may indicate market appreciation, infrastructure development may
+influence future demand, civic complaints can signal locality-level issues, and builder credibility can
+indicate project-related risk.
+The proposed project develops an AI/ML-based property decision-support system that evaluates a given
+property using multiple relevant indicators rather than simply recommending properties based on user
+preferences. The system focuses on property assessment rather than property recommendation: it
+evaluates a property provided by the user. All inference is performed client-side, ensuring that no user
+data leaves the device.
+Abstract:
+Property purchase is a high-stakes financial decision requiring simultaneous evaluation of price, market
+history, locality conditions, legal status, civic risk and builder credibility, yet in Jammu this information is
+scattered across unconnected sources. This project proposes an AI-Based Property Buy-Worthiness
+Assessment and Property Value Forecasting System that evaluates a user-specified property rather than
+recommending listings.
+The system uses only public data: (i) publicly displayed Jammu listings on 99acres (1,200 records, 36
+localities) for prices and property attributes; (ii) Jammu Development Authority (JDA) layout approvals
+and master-plan records for approval status and land use; (iii) J&K RERA registers for project
+registration, builder history and complaints; (iv) Jammu Municipal Corporation and Smart City Jammu
+records for civic complaints, water, sewage and road data; (v) J&K Revenue and Registration Department
+records and circle rates for ownership and registry type; (vi) J&K SDMA flood-hazard maps; and (vii)
+OpenStreetMap for distances, schools, hospitals and transport. A local Retrieval-Augmented Generation(RAG) component synthesises builder credibility from public RERA and news documents.
+These sources yield 35 variables (28 base, 7 engineered). An ensemble of Random Forest, XGBoost and
+LightGBM forecasts 1-, 3- and 5-year values. Buy-worthiness is a transparent weighted composite: Score
+= 100 × Σ w·I, where each I ∈ [0,1] is a min–max-normalised index built from related variables:
+valuation fairness (25%; price-versus-locality and price-versus-type ratios, locality price rank), growth
+outlook (25%; past growth, forecast growth, growth momentum), legal clarity (20%), builder credibility
+(10%), location and amenity access (10%), and inverted civic risk (10%). Scores ≥70 indicate Buy, 40–69
+Maybe and <40 No-Buy; missing JDA approval or an unclear registry caps the verdict at Maybe. Initial
+weights are expert-defined, then validated against SHAP importances and stratified cross-validated
+performance, while a classifier supplies the final label with confidence.
+Explainable AI shows each factor's contribution to every verdict, so buyers can see why a property is rated
+as it is. Evaluation uses R², MAE, RMSE, MAPE, accuracy and F1, with bias audits across localities and
+price bands. All inference runs client-side, so no user data leaves the device, in line with the V.E.T.S.
+framework.
