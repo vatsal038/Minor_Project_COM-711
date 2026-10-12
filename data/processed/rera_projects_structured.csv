@@ -1,4 +1,4 @@
-builder_name, rera_registration_no,registration_status,incorporation_year,total_projects_delivered,active_registered_projects,complaints_registered_count,complaints_resolved_count,on_time_delivery_pct,legal_dispute_flag,synthesized_credibility_score,rating_rationale
+builder_name,rera_registration_no,registration_status,incorporation_year,total_projects_delivered,active_registered_projects,complaints_registered_count,complaints_resolved_count,on_time_delivery_pct,legal_dispute_flag,synthesized_credibility_score,rating_rationale
 SMVD Homes,JKRERA/PRJ/JMU/2020/004,Registered & Active,2012,14,3,2,2,94.0,False,9.2,High track record of delivery; active RERA compliance; all consumer complaints resolved.
 Trikuta Buildwell,JKRERA/PRJ/JMU/2019/012,Registered & Active,2008,19,4,3,3,91.5,False,8.7,Strong institutional presence in South Jammu; sound financial backing; clean compliance.
 Kailash Infra,JKRERA/PRJ/JMU/2021/019,Registered & Active,2015,11,2,1,1,88.0,False,8.1,Solid mid-scale developer; timely completion of plotted and apartment projects in Satwari/Channi.
