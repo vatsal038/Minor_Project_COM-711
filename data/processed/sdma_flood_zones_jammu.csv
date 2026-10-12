@@ -1,4 +1,4 @@
-locality,flood_risk_level,basin_name,elevation_profile,historic_inundation_depth_m,mitigation_embankment_present
+locality, flood_risk_level,basin_name,elevation_profile,historic_inundation_depth_m,mitigation_embankment_present
 Bagh-e-Bahu,Medium,Tawi Left Bank / Bahu Ridge,Mid-Plateau,0.3,True
 Bahu Plaza,Medium,Tawi Left Bank / Railway Basin,Plain,0.4,True
 Bakshi Nagar,Low,Western Drainage Catchment,Elevated Ridge,0.0,False
