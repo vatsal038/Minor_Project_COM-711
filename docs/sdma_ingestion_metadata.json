@@ -1,0 +1,14 @@
+{
+  "execution_timestamp": "2026-10-12T18:10:45.882503+00:00",
+  "total_localities_classified": 36,
+  "high_risk_count": 4,
+  "medium_risk_count": 5,
+  "low_risk_count": 27,
+  "high_risk_localities": [
+    "Bhagwati Nagar",
+    "Digiana",
+    "Gangyal",
+    "Jewel Chowk"
+  ],
+  "source": "J&K State Disaster Management Authority (jksdma.jk.gov.in) Flood Hazard Atlas & DDMP Jammu Inundation Records"
+}
