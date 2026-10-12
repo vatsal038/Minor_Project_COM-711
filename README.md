@@ -2,7 +2,6 @@
 
 **A practical, privacy-preserving AI/ML decision-support system evaluating property buy-worthiness and future valuation in Jammu.**
 
----
 
 ## 1. Project Overview & Scope (Weeks 1–4)
 
