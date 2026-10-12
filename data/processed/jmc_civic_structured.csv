@@ -1,4 +1,4 @@
-locality,ward_number,water_supply_hrs_per_day,sewer_coverage_pct,drainage_complaints_per_year,road_condition_index,solid_waste_efficiency
+locality, ward_number,water_supply_hrs_per_day,sewer_coverage_pct,drainage_complaints_per_year,road_condition_index,solid_waste_efficiency
 Bagh-e-Bahu,47,2.5,65,14,6.8,72
 Bahu Plaza,49,6.0,98,2,8.9,95
 Bakshi Nagar,28,3.5,88,9,7.5,84
