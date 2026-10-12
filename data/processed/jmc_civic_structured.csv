@@ -1,0 +1,37 @@
+locality,ward_number,water_supply_hrs_per_day,sewer_coverage_pct,drainage_complaints_per_year,road_condition_index,solid_waste_efficiency
+Bagh-e-Bahu,47,2.5,65,14,6.8,72
+Bahu Plaza,49,6.0,98,2,8.9,95
+Bakshi Nagar,28,3.5,88,9,7.5,84
+Bantalab,64,1.5,30,22,5.4,58
+Bari Brahmana,72,2.0,45,18,6.1,62
+Bathindi,51,1.8,25,26,5.2,50
+Bhagwati Nagar,14,3.0,75,19,7.0,78
+Channi Himmat,50,4.5,92,4,8.2,89
+Digiana,58,2.5,55,16,6.2,66
+Domana,65,1.5,20,24,5.5,52
+Gandhi Nagar,20,5.0,99,3,9.2,96
+Gangyal,56,2.5,60,21,6.0,64
+Gole Market,21,5.0,99,2,9.0,94
+Greater Kailash Jammu,68,4.0,85,7,7.8,85
+Janipur,34,3.0,78,13,7.1,77
+Jewel Chowk,19,4.5,94,11,8.0,88
+Kunjwani,55,2.5,50,15,6.5,68
+Marh,75,1.0,10,28,4.8,42
+Miran Sahib,73,1.5,15,25,5.0,48
+Muthi,62,2.5,65,12,6.7,71
+Nagrota,74,1.5,20,20,5.8,54
+Nanak Nagar,43,4.0,90,6,7.9,86
+Paloura,60,2.5,55,14,6.4,69
+Panjtirthi,2,4.0,95,8,7.6,87
+Rajpura,29,3.0,72,11,6.9,74
+Rehari,24,3.5,89,7,7.7,83
+Roop Nagar,63,3.5,82,8,7.5,80
+Sainik Colony,70,4.5,90,5,8.0,88
+Sarwal,25,3.5,86,6,7.6,82
+Satwari,23,3.0,70,12,7.2,76
+Shastri Nagar,22,4.5,95,4,8.5,90
+Sidhra,71,2.5,40,17,6.6,65
+Sunjwan,52,1.5,25,27,5.1,46
+Talab Tillo,31,3.0,74,15,7.1,75
+Trikuta Nagar,54,5.0,97,3,9.1,95
+Vijaypur,76,2.0,35,19,6.0,60
