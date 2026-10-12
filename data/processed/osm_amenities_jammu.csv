@@ -1,4 +1,4 @@
-locality,latitude,longitude,osm_schools_count,osm_hospitals_count,osm_bus_stops,highway_distance_km,haversine_to_center_km
+locality, latitude,longitude,osm_schools_count,osm_hospitals_count,osm_bus_stops,highway_distance_km,haversine_to_center_km
 Bagh-e-Bahu,32.716,74.8785,4,2,3,4.1,2.33
 Bahu Plaza,32.7058,74.8722,5,3,8,1.2,2.72
 Bakshi Nagar,32.738,74.8465,6,4,7,3.5,1.6
