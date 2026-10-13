@@ -171,28 +171,6 @@ The technical pipeline implemented across Weeks 1–4 follows a systematic progr
 [Master Unified Dataset (1,200 x 71)]
 ```
 
-# Task: Fix LaTeX/Markdown Rendering Errors in README.md
-
-Act as a careful technical documentation engineer. Fix the equation-rendering errors in the **“The 7 Synopsis Engineered Variables”** section of my project's `README.md`.
-
-**Repository:** `Minor_Project_COM-711`  
-**Branch:** `main`  
-**File to modify:** `README.md`
-
-## 1. Identify and Fix the Problem
-
-Open and inspect the existing `README.md`. Locate the section titled **“The 7 Synopsis Engineered Variables.”**
-
-GitHub is displaying rendering errors such as:
-- `'&' can not be used here`
-- `'_' allowed only in math mode`
-
-These errors arise from the current mathematical formatting. Replace the problematic LaTeX equation blocks with ordinary Markdown text and inline code. Formulas must remain readable when viewed on GitHub.
-
-## 2. Replace the Section Content
-
-Replace only the content of the existing “The 7 Synopsis Engineered Variables” section with the following:
-
 ### The 7 Synopsis Engineered Variables
 
 The following seven engineered indicators are documented for the unified property dataset at `data/processed/unified_property_dataset_jammu.csv`.
@@ -255,27 +233,7 @@ Indicates the relative price position of a locality compared with the other loca
 
 **Implementation note:** These are the formulas and ranges documented in the project report. The presence of a formula or column does not independently establish that its values were correctly generated or validated. In particular, verify the inputs used for `growth_momentum` and the provenance of any builder or forecasting-related scores before describing their generating systems as operational.
 
-## 3. Important Editing Constraints
-
-- Modify only the specified section in `README.md`.
-- Preserve all other README content, headings, links, and repository documentation.
-- Do not use LaTeX display-math blocks in this section.
-- Put variable names and formulas inside Markdown inline-code formatting wherever appropriate.
-- Preserve all seven variable names, formulas, numerical ranges, and explanations exactly as provided above.
-- Do not invent new results, claims, or data.
-- Do not change source code, datasets, reports, or configuration files.
-- Do not commit, push, reset, or switch branches automatically.
-
-## 4. Validate the Changes
-
-After editing:
-
-1. Review the updated section for Markdown syntax errors.
-2. Inspect the Git diff and confirm that only the intended README section changed.
-3. Run `git diff --check` to check for whitespace problems.
-4. Show me a summary of the changes and the final diff for review.
-
-The task is complete when the seven-variable section uses GitHub-compatible Markdown and no longer contains the problematic LaTeX syntax responsible for the displayed errors.
+---
 
 ## 8. Installation and Dependencies
 
