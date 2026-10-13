@@ -171,33 +171,111 @@ The technical pipeline implemented across Weeks 1–4 follows a systematic progr
 [Master Unified Dataset (1,200 x 71)]
 ```
 
+# Task: Fix LaTeX/Markdown Rendering Errors in README.md
+
+Act as a careful technical documentation engineer. Fix the equation-rendering errors in the **“The 7 Synopsis Engineered Variables”** section of my project's `README.md`.
+
+**Repository:** `Minor_Project_COM-711`  
+**Branch:** `main`  
+**File to modify:** `README.md`
+
+## 1. Identify and Fix the Problem
+
+Open and inspect the existing `README.md`. Locate the section titled **“The 7 Synopsis Engineered Variables.”**
+
+GitHub is displaying rendering errors such as:
+- `'&' can not be used here`
+- `'_' allowed only in math mode`
+
+These errors arise from the current mathematical formatting. Replace the problematic LaTeX equation blocks with ordinary Markdown text and inline code. Formulas must remain readable when viewed on GitHub.
+
+## 2. Replace the Section Content
+
+Replace only the content of the existing “The 7 Synopsis Engineered Variables” section with the following:
+
 ### The 7 Synopsis Engineered Variables
-Derived across all 1,200 records in `data/processed/unified_property_dataset_jammu.csv`:
 
-1. **`price_vs_locality_type`** (Asking Price ÷ Locality-Type Median):
-   $$\text{Ratio} = \frac{\text{Price per sqft}}{\text{Median}(\text{Price per sqft for same locality \& property type})}$$
-   *Range*: `0.551` to `1.742` (Identifies neighborhood bargains vs. premium pricing).
-2. **`price_vs_type`** (Asking Price ÷ Citywide Type Median):
-   $$\text{Ratio} = \frac{\text{Price per sqft}}{\text{Citywide Median}(\text{Price per sqft for same property type})}$$
-   *Range*: `0.384` to `2.164` (Identifies citywide relative valuation fairness).
-3. **`growth_momentum`** (Forecast Growth − Past Growth):
-   $$\Delta = \text{forecast\_3yr\_price\_growth\_pct} - \text{past\_5yr\_price\_growth\_pct}$$
-   *Range*: `-10.8%` to `+14.6%` (Captures market appreciation acceleration).
-4. **`legal_clarity_index`** (Statutory Title and Planning Safety Index):
-   $$\text{Index} = 0.35 \times \text{RegDeed} + 0.25 \times \text{JDA} + 0.25 \times \text{BankLoan} + 0.15 \times \text{Freehold}$$
-   *Range*: `0.020` to `1.000` (Penalizes Power of Attorney or unapproved state land transactions).
-5. **`amenity_access_index`** (Composite Public Infrastructure Accessibility Index):
-   $$\text{Index} = 0.25 \times \text{Norm}(\text{Schools}) + 0.25 \times \text{Norm}(\text{Hospitals}) + 0.25 \times \text{Norm}(\text{Transit}) + 0.25 \times (1 - \text{Norm}(\text{Distance to Center}))$$
-   *Range*: `0.184` to `0.892` (Evaluates physical accessibility to key urban amenities).
-6. **`civic_risk_index`** (Composite Municipal & Environmental Liability Index):
-   $$\text{Index} = 0.30 \times \text{Norm}(\text{Complaints}) + 0.30 \times \text{FloodScale} + 0.40 \times \text{UtilityDeficiencies}$$
-   *Range*: `0.114` to `0.884` (Higher values indicate higher civic/flood risk).
-7. **`locality_price_rank`** (Locality Price Percentile Rank):
-   $$\text{Percentile} = \text{Rank}_{\text{pct}}(\text{Locality Median Price per sqft})$$
-   *Range*: `0.028` to `1.000` (Normalized ranking across all 36 localities).
-* *Additional Economic Metric*: **`asking_vs_circle_rate_ratio`** ($\text{Price per sqft} \div \text{Circle Rate per sqft}$): Range `0.88x` to `6.25x` (Median: `2.82x`).
+The following seven engineered indicators are documented for the unified property dataset at `data/processed/unified_property_dataset_jammu.csv`.
 
----
+**1. `price_vs_locality_type` — Locality-Level Price Fairness**
+
+**Formula:** `Asking price per sq ft / Median asking price per sq ft for the same locality and property type`
+
+**Range:** 0.551–1.742
+
+Measures whether a property is priced below or above the median for comparable properties in its locality.
+
+**2. `price_vs_type` — Citywide Price Fairness**
+
+**Formula:** `Asking price per sq ft / Citywide median asking price per sq ft for the same property type`
+
+**Range:** 0.384–2.164
+
+Measures relative pricing fairness compared with the same property type across Jammu.
+
+**3. `growth_momentum` — Growth Acceleration**
+
+**Formula:** `Forecast 3-year growth percentage - Past 5-year growth percentage`
+
+**Range:** -10.8% to +14.6%
+
+Compares projected growth with historical growth. Its final derivation depends on the availability and validity of the forecasting-related inputs.
+
+**4. `legal_clarity_index` — Legal and Documentation Clarity**
+
+**Formula:** `0.35 × RegDeed + 0.25 × JDA + 0.25 × BankLoan + 0.15 × Freehold`
+
+**Range:** 0.020–1.000
+
+Combines registered-deed status, JDA approval, bank-loan eligibility, and freehold ownership indicators into a composite index.
+
+**5. `amenity_access_index` — Amenity Accessibility**
+
+**Formula:** `0.25 × Schools + 0.25 × Hospitals + 0.25 × Transit + 0.25 × (1 - NormDist)`
+
+**Range:** 0.184–0.892
+
+Combines school access, hospital access, public-transit access, and normalized distance into an accessibility indicator.
+
+**6. `civic_risk_index` — Civic and Environmental Risk**
+
+**Formula:** `0.30 × Complaints + 0.30 × FloodRisk + 0.40 × UtilityDeficiencies`
+
+**Range:** 0.114–0.884
+
+Combines municipal complaints, flood risk, and utility deficiencies into a composite risk indicator.
+
+**7. `locality_price_rank` — Locality Price Ranking**
+
+**Formula:** `Percentile rank of the locality's median price per sq ft across the 36 canonical localities`
+
+**Range:** 0.028–1.000
+
+Indicates the relative price position of a locality compared with the other localities in the dataset.
+
+**Implementation note:** These are the formulas and ranges documented in the project report. The presence of a formula or column does not independently establish that its values were correctly generated or validated. In particular, verify the inputs used for `growth_momentum` and the provenance of any builder or forecasting-related scores before describing their generating systems as operational.
+
+## 3. Important Editing Constraints
+
+- Modify only the specified section in `README.md`.
+- Preserve all other README content, headings, links, and repository documentation.
+- Do not use LaTeX display-math blocks in this section.
+- Put variable names and formulas inside Markdown inline-code formatting wherever appropriate.
+- Preserve all seven variable names, formulas, numerical ranges, and explanations exactly as provided above.
+- Do not invent new results, claims, or data.
+- Do not change source code, datasets, reports, or configuration files.
+- Do not commit, push, reset, or switch branches automatically.
+
+## 4. Validate the Changes
+
+After editing:
+
+1. Review the updated section for Markdown syntax errors.
+2. Inspect the Git diff and confirm that only the intended README section changed.
+3. Run `git diff --check` to check for whitespace problems.
+4. Show me a summary of the changes and the final diff for review.
+
+The task is complete when the seven-variable section uses GitHub-compatible Markdown and no longer contains the problematic LaTeX syntax responsible for the displayed errors.
 
 ## 8. Installation and Dependencies
 
