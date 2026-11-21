@@ -6,10 +6,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹25,000",
+      "display_price": "\u20b925,000",
       "price_value": 25000,
-      "price_per_sqft": "₹10 /sqft",
-      "price_per_marla": "₹2,250 / Marla"
+      "price_per_sqft": "\u20b910 /sqft",
+      "price_per_marla": "\u20b92,250 / Marla"
     },
     "area": {
       "area_display": "2400 sqft sqft",
@@ -72,10 +72,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹12,000",
+      "display_price": "\u20b912,000",
       "price_value": 12000,
-      "price_per_sqft": "₹8 /sqft",
-      "price_per_marla": "₹1,800 / Marla"
+      "price_per_sqft": "\u20b98 /sqft",
+      "price_per_marla": "\u20b91,800 / Marla"
     },
     "area": {
       "area_display": "1500 sqft sqft",
@@ -123,74 +123,16 @@
     "status": "Ready to Move"
   },
   {
-    "property_id": "B95517452",
-    "url": "https://www.99acres.com/2-bhk-bedroom-independent-house-villa-for-rent-in-kunjwani-jammu-1200-sqft-spid-B95517452",
-    "title": "2 Bedroom House for rent in Kunjwani, Jammu",
-    "type_of_property": "Independent House/Villa",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹12,000",
-      "price_value": 12000,
-      "price_per_sqft": "₹10 /sqft",
-      "price_per_marla": "₹2,250 / Marla"
-    },
-    "area": {
-      "area_display": "1200 sqft sq.ft.",
-      "area_sqm": 1200,
-      "area_type": "SUPER_AREA",
-      "area_in_marla": "5.33 Marla"
-    },
-    "address": {
-      "full_address": "2 Bedroom House for rent in Kunjwani, Jammu, Kunjwani, Jammu",
-      "locality": "Kunjwani",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "",
-        "SOCIETY_NAME": "",
-        "LOCALITY_ID": "903409",
-        "LOCALITY_NAME": "Kunjwani",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": "2",
-      "bathrooms": "1",
-      "balconies": "1",
-      "summary": "2 Bedrooms, 1 Bathrooms, 1 Balconies"
-    },
-    "property_ownership": null,
-    "floors": "G,1,2 of 3 floors",
-    "property_age": "1-5 years",
-    "highlights": [
-      "Situated in kunjwani, opposite vishal mega mart, this furnished 4 bhk independent villa spans 1200 sqft across ground, first, and second floors. With 4 bedrooms and 3 bathrooms, its a 5-10 year old property available for immediate rent from november 1, 2026. Ideal for those seeking ready-To-Move-In comfort in a convenient location."
-    ],
-    "key_highlights": [
-      "Independent House/Villa",
-      "5.33 Marla (1200 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [],
-    "furnished_components": [
-      "bed",
-      "ac"
-    ],
-    "status": "Ready to Move"
-  },
-  {
     "property_id": "G81372977",
     "url": "https://www.99acres.com/8-bhk-bedroom-independent-house-villa-for-rent-in-gandhi-nagar-jammu-5600-sqft-r7-spid-G81372977",
     "title": "8 Bedroom House for rent in Gandhi Nagar, Jammu",
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹2 L",
+      "display_price": "\u20b92 L",
       "price_value": 200000,
-      "price_per_sqft": "₹33 /sqft",
-      "price_per_marla": "₹7,425 / Marla"
+      "price_per_sqft": "\u20b933 /sqft",
+      "price_per_marla": "\u20b97,425 / Marla"
     },
     "area": {
       "area_display": "6000 sqft sq.ft.",
@@ -251,10 +193,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹80,000",
+      "display_price": "\u20b980,000",
       "price_value": 80000,
-      "price_per_sqft": "₹25 /sqft",
-      "price_per_marla": "₹5,625 / Marla"
+      "price_per_sqft": "\u20b925 /sqft",
+      "price_per_marla": "\u20b95,625 / Marla"
     },
     "area": {
       "area_display": "3200 sqft sq.ft.",
@@ -314,10 +256,10 @@
     "type_of_property": "Residential Apartment",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹21,000",
+      "display_price": "\u20b921,000",
       "price_value": 21000,
-      "price_per_sqft": "₹10 /sqft",
-      "price_per_marla": "₹2,250 / Marla"
+      "price_per_sqft": "\u20b910 /sqft",
+      "price_per_marla": "\u20b92,250 / Marla"
     },
     "area": {
       "area_display": "2000 sqft sqft",
@@ -375,10 +317,10 @@
     "type_of_property": "Residential Apartment",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹21,000",
+      "display_price": "\u20b921,000",
       "price_value": 21000,
-      "price_per_sqft": "₹8 /sqft",
-      "price_per_marla": "₹1,800 / Marla"
+      "price_per_sqft": "\u20b98 /sqft",
+      "price_per_marla": "\u20b91,800 / Marla"
     },
     "area": {
       "area_display": "2500 sqft sqft",
@@ -434,10 +376,10 @@
     "type_of_property": "Other",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹12,000",
+      "display_price": "\u20b912,000",
       "price_value": 12000,
-      "price_per_sqft": "₹48 /sqft",
-      "price_per_marla": "₹10,800 / Marla"
+      "price_per_sqft": "\u20b948 /sqft",
+      "price_per_marla": "\u20b910,800 / Marla"
     },
     "area": {
       "area_display": "250 sqft sqft",
@@ -493,10 +435,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹20,000",
+      "display_price": "\u20b920,000",
       "price_value": 20000,
-      "price_per_sqft": "₹16 /sqft",
-      "price_per_marla": "₹3,600 / Marla"
+      "price_per_sqft": "\u20b916 /sqft",
+      "price_per_marla": "\u20b93,600 / Marla"
     },
     "area": {
       "area_display": "1200 sqft sqft",
@@ -551,10 +493,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹17,000",
+      "display_price": "\u20b917,000",
       "price_value": 17000,
-      "price_per_sqft": "₹13 /sqft",
-      "price_per_marla": "₹2,925 / Marla"
+      "price_per_sqft": "\u20b913 /sqft",
+      "price_per_marla": "\u20b92,925 / Marla"
     },
     "area": {
       "area_display": "1300 sqft sqft",
@@ -611,10 +553,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹16,000",
+      "display_price": "\u20b916,000",
       "price_value": 16000,
-      "price_per_sqft": "₹17 /sqft",
-      "price_per_marla": "₹3,825 / Marla"
+      "price_per_sqft": "\u20b917 /sqft",
+      "price_per_marla": "\u20b93,825 / Marla"
     },
     "area": {
       "area_display": "900 sqft sqft",
@@ -668,10 +610,10 @@
     "type_of_property": "Residential Apartment",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹25,000",
+      "display_price": "\u20b925,000",
       "price_value": 25000,
-      "price_per_sqft": "₹17 /sqft",
-      "price_per_marla": "₹3,825 / Marla"
+      "price_per_sqft": "\u20b917 /sqft",
+      "price_per_marla": "\u20b93,825 / Marla"
     },
     "area": {
       "area_display": "1400 sqft sqft",
@@ -727,10 +669,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹16,500",
+      "display_price": "\u20b916,500",
       "price_value": 16500,
-      "price_per_sqft": "₹16 /sqft",
-      "price_per_marla": "₹3,600 / Marla"
+      "price_per_sqft": "\u20b916 /sqft",
+      "price_per_marla": "\u20b93,600 / Marla"
     },
     "area": {
       "area_display": "1000 sqft sqft",
@@ -787,10 +729,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹21,000",
+      "display_price": "\u20b921,000",
       "price_value": 21000,
-      "price_per_sqft": "₹8 /sqft",
-      "price_per_marla": "₹1,800 / Marla"
+      "price_per_sqft": "\u20b98 /sqft",
+      "price_per_marla": "\u20b91,800 / Marla"
     },
     "area": {
       "area_display": "2400 sqft sqft",
@@ -849,10 +791,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹50,000",
+      "display_price": "\u20b950,000",
       "price_value": 50000,
-      "price_per_sqft": "₹11 /sqft",
-      "price_per_marla": "₹2,475 / Marla"
+      "price_per_sqft": "\u20b911 /sqft",
+      "price_per_marla": "\u20b92,475 / Marla"
     },
     "area": {
       "area_display": "4500 sqft sq.ft.",
@@ -917,10 +859,10 @@
     "type_of_property": "Studio Apartment",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹12,000",
+      "display_price": "\u20b912,000",
       "price_value": 12000,
-      "price_per_sqft": "₹20 /sqft",
-      "price_per_marla": "₹4,500 / Marla"
+      "price_per_sqft": "\u20b920 /sqft",
+      "price_per_marla": "\u20b94,500 / Marla"
     },
     "area": {
       "area_display": "600 sqft sqft",
@@ -974,10 +916,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹12,000",
+      "display_price": "\u20b912,000",
       "price_value": 12000,
-      "price_per_sqft": "₹20 /sqft",
-      "price_per_marla": "₹4,500 / Marla"
+      "price_per_sqft": "\u20b920 /sqft",
+      "price_per_marla": "\u20b94,500 / Marla"
     },
     "area": {
       "area_display": "600 sqft sq.ft.",
@@ -1034,10 +976,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹9,000",
+      "display_price": "\u20b99,000",
       "price_value": 9000,
-      "price_per_sqft": "₹3 /sqft",
-      "price_per_marla": "₹675 / Marla"
+      "price_per_sqft": "\u20b93 /sqft",
+      "price_per_marla": "\u20b9675 / Marla"
     },
     "area": {
       "area_display": "2700 sqft sqft",
@@ -1095,10 +1037,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹10,000",
+      "display_price": "\u20b910,000",
       "price_value": 10000,
-      "price_per_sqft": "₹3 /sqft",
-      "price_per_marla": "₹675 / Marla"
+      "price_per_sqft": "\u20b93 /sqft",
+      "price_per_marla": "\u20b9675 / Marla"
     },
     "area": {
       "area_display": "2700 sqft sqft",
@@ -1155,10 +1097,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹11,000",
+      "display_price": "\u20b911,000",
       "price_value": 11000,
-      "price_per_sqft": "₹73 /sqft",
-      "price_per_marla": "₹16,425 / Marla"
+      "price_per_sqft": "\u20b973 /sqft",
+      "price_per_marla": "\u20b916,425 / Marla"
     },
     "area": {
       "area_display": "150 sqft sqft",
@@ -1208,82 +1150,16 @@
     "status": "FOR SINGLE MEN"
   },
   {
-    "property_id": "F95519674",
-    "url": "https://www.99acres.com/2-bhk-bedroom-apartment-flat-for-rent-in-jammu-600-sqft-spid-F95519674",
-    "title": "2 BHK Duplex Flat for rent in Aiims Vijaypur, Jammu",
-    "type_of_property": "Duplex Residential Apartment",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹17,000",
-      "price_value": 17000,
-      "price_per_sqft": "₹28 /sqft",
-      "price_per_marla": "₹6,300 / Marla"
-    },
-    "area": {
-      "area_display": "600 sqft sqft",
-      "area_sqm": 55.7418,
-      "area_type": "CARPET_AREA",
-      "area_in_marla": "2.67 Marla"
-    },
-    "address": {
-      "full_address": "2 BHK Duplex Flat for rent in Aiims Vijaypur, Jammu, Aiims Vijaypur, Jammu",
-      "locality": "Aiims Vijaypur",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "Gurha more",
-        "SOCIETY_NAME": "Gurha more",
-        "LOCALITY_ID": "0",
-        "LOCALITY_NAME": "Aiims Vijaypur",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": "2",
-      "bathrooms": "1",
-      "balconies": "1",
-      "summary": "2 Bedrooms, 1 Bathrooms, 1 Balconies"
-    },
-    "property_ownership": null,
-    "floors": "1 of 1 floors",
-    "property_age": "0-1 years",
-    "highlights": [
-      "This flat consists of 1 bathroom & 1 balcony build in 600 sq.Ft. Carpet area. Flat is constructed on 600 sq.Ft. 1 covered parking available. Placed on top of 1 floor. This is a semi-Furnished flat. Furnishing options provided - 1 geyser, 1 light, 1 fan and 1 modular kitchen. The flat will be available from sun, 01 nov 2026 for families, single men and single women on any agreement type. We are demanding  17,000 for this unmatched property and is negotiable for this unmatched property. Rent quoted excludes electricity & water charges..If tenant required a bed, wardrobe ,etc we can arrange these after discussing their requirements and finalising the deal."
-    ],
-    "key_highlights": [
-      "Duplex Residential Apartment",
-      "0.25 Marla (56 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [
-      "Lift",
-      "Piped Gas",
-      "Amenity ID 36",
-      "Gymnasium"
-    ],
-    "furnished_components": [
-      "bed",
-      "wardrobe",
-      "ac",
-      "geyser",
-      "modular kitchen"
-    ],
-    "status": "Ready to Move"
-  },
-  {
     "property_id": "T95502254",
     "url": "https://www.99acres.com/2-bhk-bedroom-independent-house-villa-for-rent-in-jammu-650-sqft-spid-T95502254",
     "title": "2 Bedroom House for rent in marble market, matto colony, Jammu",
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
-      "price_per_sqft": "₹23 /sqft",
-      "price_per_marla": "₹5,175 / Marla"
+      "price_per_sqft": "\u20b923 /sqft",
+      "price_per_marla": "\u20b95,175 / Marla"
     },
     "area": {
       "area_display": "650 sqft sqft",
@@ -1342,10 +1218,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹8,500",
+      "display_price": "\u20b98,500",
       "price_value": 8500,
-      "price_per_sqft": "₹4 /sqft",
-      "price_per_marla": "₹900 / Marla"
+      "price_per_sqft": "\u20b94 /sqft",
+      "price_per_marla": "\u20b9900 / Marla"
     },
     "area": {
       "area_display": "1800 sqft sqft",
@@ -1402,10 +1278,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹75,000",
+      "display_price": "\u20b975,000",
       "price_value": 75000,
-      "price_per_sqft": "₹22 /sqft",
-      "price_per_marla": "₹4,950 / Marla"
+      "price_per_sqft": "\u20b922 /sqft",
+      "price_per_marla": "\u20b94,950 / Marla"
     },
     "area": {
       "area_display": "3280 sqft sqft",
@@ -1467,10 +1343,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
-      "price_per_sqft": "₹9 /sqft",
-      "price_per_marla": "₹2,025 / Marla"
+      "price_per_sqft": "\u20b99 /sqft",
+      "price_per_marla": "\u20b92,025 / Marla"
     },
     "area": {
       "area_display": "1600 sqft sqft",
@@ -1529,10 +1405,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹50,000",
+      "display_price": "\u20b950,000",
       "price_value": 50000,
-      "price_per_sqft": "₹22 /sqft",
-      "price_per_marla": "₹4,950 / Marla"
+      "price_per_sqft": "\u20b922 /sqft",
+      "price_per_marla": "\u20b94,950 / Marla"
     },
     "area": {
       "area_display": "2250 sqft sqft",
@@ -1589,10 +1465,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹7,000",
+      "display_price": "\u20b97,000",
       "price_value": 7000,
-      "price_per_sqft": "₹8 /sqft",
-      "price_per_marla": "₹1,800 / Marla"
+      "price_per_sqft": "\u20b98 /sqft",
+      "price_per_marla": "\u20b91,800 / Marla"
     },
     "area": {
       "area_display": "850 sqft sqft",
@@ -1651,10 +1527,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹25,000",
+      "display_price": "\u20b925,000",
       "price_value": 25000,
-      "price_per_sqft": "₹10 /sqft",
-      "price_per_marla": "₹2,250 / Marla"
+      "price_per_sqft": "\u20b910 /sqft",
+      "price_per_marla": "\u20b92,250 / Marla"
     },
     "area": {
       "area_display": "2475 sqft sqft",
@@ -1714,10 +1590,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹19,500",
+      "display_price": "\u20b919,500",
       "price_value": 19500,
-      "price_per_sqft": "₹22 /sqft",
-      "price_per_marla": "₹4,950 / Marla"
+      "price_per_sqft": "\u20b922 /sqft",
+      "price_per_marla": "\u20b94,950 / Marla"
     },
     "area": {
       "area_display": "850 sqft sqft",
@@ -1789,10 +1665,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹22,000",
+      "display_price": "\u20b922,000",
       "price_value": 22000,
-      "price_per_sqft": "₹6 /sqft",
-      "price_per_marla": "₹1,350 / Marla"
+      "price_per_sqft": "\u20b96 /sqft",
+      "price_per_marla": "\u20b91,350 / Marla"
     },
     "area": {
       "area_display": "3200 sqft sqft",
@@ -1855,10 +1731,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹9,000",
+      "display_price": "\u20b99,000",
       "price_value": 9000,
-      "price_per_sqft": "₹9 /sqft",
-      "price_per_marla": "₹2,025 / Marla"
+      "price_per_sqft": "\u20b99 /sqft",
+      "price_per_marla": "\u20b92,025 / Marla"
     },
     "area": {
       "area_display": "1000 sqft sq.ft.",
@@ -1921,10 +1797,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹10,000",
+      "display_price": "\u20b910,000",
       "price_value": 10000,
-      "price_per_sqft": "₹5 /sqft",
-      "price_per_marla": "₹1,125 / Marla"
+      "price_per_sqft": "\u20b95 /sqft",
+      "price_per_marla": "\u20b91,125 / Marla"
     },
     "area": {
       "area_display": "1900 sqft sqft",
@@ -1982,10 +1858,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹55,000",
+      "display_price": "\u20b955,000",
       "price_value": 55000,
-      "price_per_sqft": "₹25 /sqft",
-      "price_per_marla": "₹5,625 / Marla"
+      "price_per_sqft": "\u20b925 /sqft",
+      "price_per_marla": "\u20b95,625 / Marla"
     },
     "area": {
       "area_display": "2200 sqft sq.ft.",
@@ -2042,10 +1918,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹10,000",
+      "display_price": "\u20b910,000",
       "price_value": 10000,
-      "price_per_sqft": "₹10 /sqft",
-      "price_per_marla": "₹2,250 / Marla"
+      "price_per_sqft": "\u20b910 /sqft",
+      "price_per_marla": "\u20b92,250 / Marla"
     },
     "area": {
       "area_display": "1000 sqft sqft",
@@ -2099,10 +1975,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹13,000",
+      "display_price": "\u20b913,000",
       "price_value": 13000,
-      "price_per_sqft": "₹10 /sqft",
-      "price_per_marla": "₹2,250 / Marla"
+      "price_per_sqft": "\u20b910 /sqft",
+      "price_per_marla": "\u20b92,250 / Marla"
     },
     "area": {
       "area_display": "1200 sqft sqft",
@@ -2161,10 +2037,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹18,000",
+      "display_price": "\u20b918,000",
       "price_value": 18000,
-      "price_per_sqft": "₹8 /sqft",
-      "price_per_marla": "₹1,800 / Marla"
+      "price_per_sqft": "\u20b98 /sqft",
+      "price_per_marla": "\u20b91,800 / Marla"
     },
     "area": {
       "area_display": "2100 sqft sqft",
@@ -2230,10 +2106,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹22,000",
+      "display_price": "\u20b922,000",
       "price_value": 22000,
-      "price_per_sqft": "₹15 /sqft",
-      "price_per_marla": "₹3,375 / Marla"
+      "price_per_sqft": "\u20b915 /sqft",
+      "price_per_marla": "\u20b93,375 / Marla"
     },
     "area": {
       "area_display": "1400 sqft sqft",
@@ -2293,10 +2169,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
-      "price_per_sqft": "₹15 /sqft",
-      "price_per_marla": "₹3,375 / Marla"
+      "price_per_sqft": "\u20b915 /sqft",
+      "price_per_marla": "\u20b93,375 / Marla"
     },
     "area": {
       "area_display": "952 sqft sqft",
@@ -2353,10 +2229,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
-      "price_per_sqft": "₹15 /sqft",
-      "price_per_marla": "₹3,375 / Marla"
+      "price_per_sqft": "\u20b915 /sqft",
+      "price_per_marla": "\u20b93,375 / Marla"
     },
     "area": {
       "area_display": "1000 sqft sqft",
@@ -2415,10 +2291,10 @@
     "type_of_property": "Other",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹12,000",
+      "display_price": "\u20b912,000",
       "price_value": 12000,
-      "price_per_sqft": "₹7 /sqft",
-      "price_per_marla": "₹1,575 / Marla"
+      "price_per_sqft": "\u20b97 /sqft",
+      "price_per_marla": "\u20b91,575 / Marla"
     },
     "area": {
       "area_display": "1600 sqft sqft",
@@ -2473,10 +2349,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
-      "price_per_sqft": "₹15 /sqft",
-      "price_per_marla": "₹3,375 / Marla"
+      "price_per_sqft": "\u20b915 /sqft",
+      "price_per_marla": "\u20b93,375 / Marla"
     },
     "area": {
       "area_display": "1000 sqft sqft",
@@ -2539,10 +2415,10 @@
     "type_of_property": "Other",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
-      "price_per_sqft": "₹15 /sqft",
-      "price_per_marla": "₹3,375 / Marla"
+      "price_per_sqft": "\u20b915 /sqft",
+      "price_per_marla": "\u20b93,375 / Marla"
     },
     "area": {
       "area_display": "1000 sqft sqft",
@@ -2593,78 +2469,16 @@
     "status": "Ready to Move"
   },
   {
-    "property_id": "T95223722",
-    "url": "https://www.99acres.com/5-bhk-bedroom-independent-house-villa-for-rent-in-jakh-jammu-2700-sqft-spid-T95223722",
-    "title": "5 Bedroom House for rent in Jakh, Jammu",
-    "type_of_property": "Independent House/Villa",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹20,000",
-      "price_value": 20000,
-      "price_per_sqft": "₹7 /sqft",
-      "price_per_marla": "₹1,575 / Marla"
-    },
-    "area": {
-      "area_display": "2700 sqft sqft",
-      "area_sqm": 250.8381,
-      "area_type": "SUPER_AREA",
-      "area_in_marla": "12.00 Marla"
-    },
-    "address": {
-      "full_address": "5 Bedroom House for rent in Jakh, Jammu, Jakh, Jammu",
-      "locality": "Jakh",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "",
-        "SOCIETY_NAME": "",
-        "LOCALITY_ID": "1135199",
-        "LOCALITY_NAME": "Jakh",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": "5",
-      "bathrooms": "2",
-      "balconies": "1",
-      "summary": "5 Bedrooms, 2 Bathrooms, 1 Balconies"
-    },
-    "property_ownership": null,
-    "floors": "Total 1 floors",
-    "property_age": "0-1 years",
-    "highlights": [
-      "Located in jakh, jammu, this immediate-Availability independent 5 bhk villa offers 2700 sqft of semi-Furnished living space. Featuring 5 bedrooms, 2 bathrooms, marble flooring, a modular kitchen, and central ac, its just minutes from schools, hospitals, and the highway. The property includes one covered parking spot and is 1-5 years old."
-    ],
-    "key_highlights": [
-      "Independent House/Villa",
-      "1.11 Marla (251 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [
-      "Piped Gas",
-      "Private Garden/Terrace"
-    ],
-    "furnished_components": [
-      "bed",
-      "ac",
-      "modular kitchen"
-    ],
-    "status": "Ready to Move"
-  },
-  {
     "property_id": "M93145006",
     "url": "https://www.99acres.com/4-bhk-bedroom-independent-builder-floor-for-rent-in-sector-3-trikuta-nagar-jammu-5400-sqft-spid-M93145006",
     "title": "4 BHK Builder Floor for rent in Sector 3 Trikuta Nagar, Jammu",
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹60,000",
+      "display_price": "\u20b960,000",
       "price_value": 60000,
-      "price_per_sqft": "₹11 /sqft",
-      "price_per_marla": "₹2,475 / Marla"
+      "price_per_sqft": "\u20b911 /sqft",
+      "price_per_marla": "\u20b92,475 / Marla"
     },
     "area": {
       "area_display": "5400 sqft sqft",
@@ -2724,10 +2538,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹30,000",
+      "display_price": "\u20b930,000",
       "price_value": 30000,
-      "price_per_sqft": "₹16 /sqft",
-      "price_per_marla": "₹3,600 / Marla"
+      "price_per_sqft": "\u20b916 /sqft",
+      "price_per_marla": "\u20b93,600 / Marla"
     },
     "area": {
       "area_display": "1800 sqft sqft",
@@ -2797,80 +2611,16 @@
     "status": "Ready to Move"
   },
   {
-    "property_id": "T40955567",
-    "url": "https://www.99acres.com/3-bhk-bedroom-apartment-flat-for-rent-in-bari-brahmana-jammu-1370-sqft-r11-spid-T40955567",
-    "title": "3 BHK Flat for rent in Bari Brahmana, Jammu",
-    "type_of_property": "Residential Apartment",
-    "furnished_status": "Semi-Furnished",
-    "price": {
-      "display_price": "₹18,000",
-      "price_value": 18000,
-      "price_per_sqft": "₹13 /sqft",
-      "price_per_marla": "₹2,925 / Marla"
-    },
-    "area": {
-      "area_display": "1370 sqft sq.ft.",
-      "area_sqm": 1350,
-      "area_type": "SUPERBUILTUP_AREA",
-      "area_in_marla": "6.09 Marla"
-    },
-    "address": {
-      "full_address": "3 BHK Flat for rent in Bari Brahmana, Jammu, Bari Brahmana, Jammu",
-      "locality": "Bari Brahmana",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "Highway Towers",
-        "SOCIETY_NAME": "Highway Towers",
-        "LOCALITY_ID": "8889",
-        "LOCALITY_NAME": "Bari Brahmana",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": "3",
-      "bathrooms": "3",
-      "balconies": "3",
-      "summary": "3 Bedrooms, 3 Bathrooms, 3 Balconies"
-    },
-    "property_ownership": null,
-    "floors": "G of 3 floors",
-    "property_age": "6",
-    "highlights": [
-      "Gated society with a 24hrs water and electricity backup and security guard."
-    ],
-    "key_highlights": [
-      "Residential Apartment",
-      "6.00 Marla (1350 sqft)",
-      "Semi-Furnished",
-      "Ready to Move"
-    ],
-    "amenities": [
-      "Power Backup",
-      "Piped Gas",
-      "Amenity ID 19",
-      "Park",
-      "Cafeteria/Food Court",
-      "Fire Fighting Equipment"
-    ],
-    "furnished_components": [
-      "ac"
-    ],
-    "status": "Ready to Move"
-  },
-  {
     "property_id": "E88665412",
     "url": "https://www.99acres.com/3-bhk-bedroom-apartment-flat-for-rent-in-trikuta-nagar-jammu-1650-sqft-spid-E88665412",
     "title": "3 BHK Flat for rent in Trikuta Nagar, Jammu",
     "type_of_property": "Residential Apartment",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹30,000",
+      "display_price": "\u20b930,000",
       "price_value": 30000,
-      "price_per_sqft": "₹18 /sqft",
-      "price_per_marla": "₹4,050 / Marla"
+      "price_per_sqft": "\u20b918 /sqft",
+      "price_per_marla": "\u20b94,050 / Marla"
     },
     "area": {
       "area_display": "1650 sqft sqft",
@@ -2926,10 +2676,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹30,000",
+      "display_price": "\u20b930,000",
       "price_value": 30000,
-      "price_per_sqft": "₹20 /sqft",
-      "price_per_marla": "₹4,500 / Marla"
+      "price_per_sqft": "\u20b920 /sqft",
+      "price_per_marla": "\u20b94,500 / Marla"
     },
     "area": {
       "area_display": "1500 sqft sq.ft.",
@@ -2984,10 +2734,10 @@
     "type_of_property": "Residential Apartment",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹12,000",
+      "display_price": "\u20b912,000",
       "price_value": 12000,
-      "price_per_sqft": "₹8 /sqft",
-      "price_per_marla": "₹1,800 / Marla"
+      "price_per_sqft": "\u20b98 /sqft",
+      "price_per_marla": "\u20b91,800 / Marla"
     },
     "area": {
       "area_display": "1500 sqft sqft",
@@ -3041,10 +2791,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹19,000",
+      "display_price": "\u20b919,000",
       "price_value": 19000,
-      "price_per_sqft": "₹7 /sqft",
-      "price_per_marla": "₹1,575 / Marla"
+      "price_per_sqft": "\u20b97 /sqft",
+      "price_per_marla": "\u20b91,575 / Marla"
     },
     "area": {
       "area_display": "2700 sqft sqft",
@@ -3102,10 +2852,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹20,000",
+      "display_price": "\u20b920,000",
       "price_value": 20000,
-      "price_per_sqft": "₹5 /sqft",
-      "price_per_marla": "₹1,125 / Marla"
+      "price_per_sqft": "\u20b95 /sqft",
+      "price_per_marla": "\u20b91,125 / Marla"
     },
     "area": {
       "area_display": "3600 sqft sqft",
@@ -3163,10 +2913,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹16,000",
+      "display_price": "\u20b916,000",
       "price_value": 16000,
-      "price_per_sqft": "₹10 /sqft",
-      "price_per_marla": "₹2,250 / Marla"
+      "price_per_sqft": "\u20b910 /sqft",
+      "price_per_marla": "\u20b92,250 / Marla"
     },
     "area": {
       "area_display": "1575 sqft sqft",
@@ -3225,10 +2975,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹7,000",
+      "display_price": "\u20b97,000",
       "price_value": 7000,
-      "price_per_sqft": "₹20 /sqft",
-      "price_per_marla": "₹4,500 / Marla"
+      "price_per_sqft": "\u20b920 /sqft",
+      "price_per_marla": "\u20b94,500 / Marla"
     },
     "area": {
       "area_display": "350 sqft sqft",
@@ -3287,10 +3037,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹5,000",
+      "display_price": "\u20b95,000",
       "price_value": 5000,
-      "price_per_sqft": "₹41 /sqft",
-      "price_per_marla": "₹9,225 / Marla"
+      "price_per_sqft": "\u20b941 /sqft",
+      "price_per_marla": "\u20b99,225 / Marla"
     },
     "area": {
       "area_display": "120 sqft sqft",
@@ -3347,10 +3097,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
-      "price_per_sqft": "₹15 /sqft",
-      "price_per_marla": "₹3,375 / Marla"
+      "price_per_sqft": "\u20b915 /sqft",
+      "price_per_marla": "\u20b93,375 / Marla"
     },
     "area": {
       "area_display": "1000 sqft sqft",
@@ -3404,73 +3154,16 @@
     "status": "Ready to Move"
   },
   {
-    "property_id": "A95189876",
-    "url": "https://www.99acres.com/4-bhk-bedroom-independent-builder-floor-for-rent-in-jammu-2000-sqft-spid-A95189876",
-    "title": "4 BHK Builder Floor for rent in rajouri muradpur, Jammu",
-    "type_of_property": "Builder Floor",
-    "furnished_status": "Semi-Furnished",
-    "price": {
-      "display_price": "₹60,000",
-      "price_value": 60000,
-      "price_per_sqft": "₹30 /sqft",
-      "price_per_marla": "₹6,750 / Marla"
-    },
-    "area": {
-      "area_display": "2000 sqft sqft",
-      "area_sqm": 185.806,
-      "area_type": "SUPERBUILTUP_AREA",
-      "area_in_marla": "8.89 Marla"
-    },
-    "address": {
-      "full_address": "4 BHK Builder Floor for rent in rajouri muradpur, Jammu, rajouri muradpur, Jammu",
-      "locality": "rajouri muradpur",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "",
-        "SOCIETY_NAME": "",
-        "LOCALITY_ID": "0",
-        "LOCALITY_NAME": "rajouri muradpur",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": "4",
-      "bathrooms": "2",
-      "balconies": "2",
-      "summary": "4 Bedrooms, 2 Bathrooms, 2 Balconies"
-    },
-    "property_ownership": null,
-    "floors": "G of 1 floors",
-    "property_age": "5-10 years",
-    "highlights": [
-      "Builder floor available for rent in rajouri muradpur, jammu. Available at rent of rs 60000 per month. It has super area of 2000 sq ft. It has 4 bhk, 2 bathroom, 2 balcony."
-    ],
-    "key_highlights": [
-      "Builder Floor",
-      "0.83 Marla (186 sqft)",
-      "Semi-Furnished",
-      "Ready to Move"
-    ],
-    "amenities": [],
-    "furnished_components": [
-      "None explicitly mentioned in description"
-    ],
-    "status": "Ready to Move"
-  },
-  {
     "property_id": "F95160748",
     "url": "https://www.99acres.com/2-bhk-bedroom-independent-builder-floor-for-rent-in-old-heritage-city-jammu-1000-sqft-spid-F95160748",
     "title": "2 BHK Builder Floor for rent in Old Heritage City, Jammu",
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹22,000",
+      "display_price": "\u20b922,000",
       "price_value": 22000,
-      "price_per_sqft": "₹22 /sqft",
-      "price_per_marla": "₹4,950 / Marla"
+      "price_per_sqft": "\u20b922 /sqft",
+      "price_per_marla": "\u20b94,950 / Marla"
     },
     "area": {
       "area_display": "1000 sqft sqft",
@@ -3524,10 +3217,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹14,000",
+      "display_price": "\u20b914,000",
       "price_value": 14000,
-      "price_per_sqft": "₹46 /sqft",
-      "price_per_marla": "₹10,350 / Marla"
+      "price_per_sqft": "\u20b946 /sqft",
+      "price_per_marla": "\u20b910,350 / Marla"
     },
     "area": {
       "area_display": "300 sqft sqft",
@@ -3581,10 +3274,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹1.2 L",
+      "display_price": "\u20b91.2 L",
       "price_value": 120000,
-      "price_per_sqft": "₹48 /sqft",
-      "price_per_marla": "₹10,800 / Marla"
+      "price_per_sqft": "\u20b948 /sqft",
+      "price_per_marla": "\u20b910,800 / Marla"
     },
     "area": {
       "area_display": "2500 sqft sqft",
@@ -3644,10 +3337,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹25,000",
+      "display_price": "\u20b925,000",
       "price_value": 25000,
-      "price_per_sqft": "₹11 /sqft",
-      "price_per_marla": "₹2,475 / Marla"
+      "price_per_sqft": "\u20b911 /sqft",
+      "price_per_marla": "\u20b92,475 / Marla"
     },
     "area": {
       "area_display": "2250 sqft sqft",
@@ -3703,10 +3396,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹27,000",
+      "display_price": "\u20b927,000",
       "price_value": 27000,
-      "price_per_sqft": "₹54 /sqft",
-      "price_per_marla": "₹12,150 / Marla"
+      "price_per_sqft": "\u20b954 /sqft",
+      "price_per_marla": "\u20b912,150 / Marla"
     },
     "area": {
       "area_display": "500 sqft sqft",
@@ -3758,76 +3451,16 @@
     "status": "Ready to Move"
   },
   {
-    "property_id": "G74069521",
-    "url": "https://www.99acres.com/2-bhk-bedroom-independent-builder-floor-for-rent-in-kunjwani-jammu-1400-sqft-r2-spid-G74069521",
-    "title": "2 BHK Builder Floor for rent in Kunjwani, Jammu",
-    "type_of_property": "Builder Floor",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹14,000",
-      "price_value": 14000,
-      "price_per_sqft": "₹2 /sqft",
-      "price_per_marla": "₹450 / Marla"
-    },
-    "area": {
-      "area_display": "5000 sqft sqft",
-      "area_sqm": 464.515,
-      "area_type": "SUPER_AREA",
-      "area_in_marla": "22.22 Marla"
-    },
-    "address": {
-      "full_address": "2 BHK Builder Floor for rent in Kunjwani, Jammu, Kunjwani, Jammu",
-      "locality": "Kunjwani",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "",
-        "SOCIETY_NAME": "",
-        "LOCALITY_ID": "903409",
-        "LOCALITY_NAME": "Kunjwani",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": "2",
-      "bathrooms": "1",
-      "balconies": "0",
-      "summary": "2 Bedrooms, 1 Bathrooms, 0 Balconies"
-    },
-    "property_ownership": null,
-    "floors": "G of 2 floors",
-    "property_age": "1-5 years",
-    "highlights": [
-      "Builder floor available for rent in kunjwani, jammu. Available at rent of rs 15000 per month. It has super area of 1400 sq ft. It has 2 bhk, 1 bathroom, 0 balcony."
-    ],
-    "key_highlights": [
-      "Builder Floor",
-      "2.06 Marla (465 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [
-      "Internet/Wi-Fi",
-      "Amenity ID 19"
-    ],
-    "furnished_components": [
-      "None explicitly mentioned in description"
-    ],
-    "status": "Ready to Move"
-  },
-  {
     "property_id": "T94788980",
     "url": "https://www.99acres.com/2-bhk-bedroom-independent-house-villa-for-rent-in-lower-muthi-jammu-1125-sqft-spid-T94788980",
     "title": "2 Bedroom House for rent in Lower Muthi, Jammu",
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹18,000",
+      "display_price": "\u20b918,000",
       "price_value": 18000,
-      "price_per_sqft": "₹16 /sqft",
-      "price_per_marla": "₹3,600 / Marla"
+      "price_per_sqft": "\u20b916 /sqft",
+      "price_per_marla": "\u20b93,600 / Marla"
     },
     "area": {
       "area_display": "1125 sqft sqft",
@@ -3883,10 +3516,10 @@
     "type_of_property": "Residential Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹20,000",
+      "display_price": "\u20b920,000",
       "price_value": 20000,
-      "price_per_sqft": "₹18 /sqft",
-      "price_per_marla": "₹4,050 / Marla"
+      "price_per_sqft": "\u20b918 /sqft",
+      "price_per_marla": "\u20b94,050 / Marla"
     },
     "area": {
       "area_display": "1080 sqft sqft",
@@ -3944,10 +3577,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹25,000",
+      "display_price": "\u20b925,000",
       "price_value": 25000,
-      "price_per_sqft": "₹11 /sqft",
-      "price_per_marla": "₹2,475 / Marla"
+      "price_per_sqft": "\u20b911 /sqft",
+      "price_per_marla": "\u20b92,475 / Marla"
     },
     "area": {
       "area_display": "2250 sqft sqft",
@@ -4003,10 +3636,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹30,000",
+      "display_price": "\u20b930,000",
       "price_value": 30000,
-      "price_per_sqft": "₹13 /sqft",
-      "price_per_marla": "₹2,925 / Marla"
+      "price_per_sqft": "\u20b913 /sqft",
+      "price_per_marla": "\u20b92,925 / Marla"
     },
     "area": {
       "area_display": "2250 sqft sqft",
@@ -4063,10 +3696,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹14,000",
+      "display_price": "\u20b914,000",
       "price_value": 14000,
-      "price_per_sqft": "₹11 /sqft",
-      "price_per_marla": "₹2,475 / Marla"
+      "price_per_sqft": "\u20b911 /sqft",
+      "price_per_marla": "\u20b92,475 / Marla"
     },
     "area": {
       "area_display": "1200 sqft sqft",
@@ -4115,132 +3748,16 @@
     "status": "Ready to Move"
   },
   {
-    "property_id": "R94729984",
-    "url": "https://www.99acres.com/2-bhk-bedroom-independent-builder-floor-for-rent-in-bari-brahmana-jammu-1600-sqft-spid-R94729984",
-    "title": "2 BHK Builder Floor for rent in Bari Brahmana, Jammu",
-    "type_of_property": "Builder Floor",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹15,000",
-      "price_value": 15000,
-      "price_per_sqft": "₹9 /sqft",
-      "price_per_marla": "₹2,025 / Marla"
-    },
-    "area": {
-      "area_display": "1600 sqft sqft",
-      "area_sqm": 148.6448,
-      "area_type": "SUPERBUILTUP_AREA",
-      "area_in_marla": "7.11 Marla"
-    },
-    "address": {
-      "full_address": "2 BHK Builder Floor for rent in Bari Brahmana, Jammu, Bari Brahmana, Jammu",
-      "locality": "Bari Brahmana",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "",
-        "SOCIETY_NAME": "",
-        "LOCALITY_ID": "8889",
-        "LOCALITY_NAME": "Bari Brahmana",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": "2",
-      "bathrooms": "1",
-      "balconies": "1",
-      "summary": "2 Bedrooms, 1 Bathrooms, 1 Balconies"
-    },
-    "property_ownership": null,
-    "floors": "1 of 2 floors",
-    "property_age": "0-1 years",
-    "highlights": [
-      "Builder floor available for rent in bari brahmana, jammu. Available at rent of rs 15000 per month. It has super area of 1600 sq ft. It has 2 bhk, 1 bathroom, 1 balcony."
-    ],
-    "key_highlights": [
-      "Builder Floor",
-      "0.66 Marla (149 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [],
-    "furnished_components": [
-      "None explicitly mentioned in description"
-    ],
-    "status": "Ready to Move"
-  },
-  {
-    "property_id": "S94684598",
-    "url": "https://www.99acres.com/2-bhk-bedroom-apartment-flat-for-rent-in-sarore-jammu-1050-sqft-spid-S94684598",
-    "title": "2 BHK Flat for rent in Sarore, Jammu",
-    "type_of_property": "Residential Apartment",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹14,000",
-      "price_value": 14000,
-      "price_per_sqft": "₹13 /sqft",
-      "price_per_marla": "₹2,925 / Marla"
-    },
-    "area": {
-      "area_display": "1050 sqft sqft",
-      "area_sqm": 97.54814999999999,
-      "area_type": "CARPET_AREA",
-      "area_in_marla": "4.67 Marla"
-    },
-    "address": {
-      "full_address": "2 BHK Flat for rent in Sarore, Jammu, Sarore, Jammu",
-      "locality": "Sarore",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "independent",
-        "SOCIETY_NAME": "independent",
-        "LOCALITY_ID": "1135307",
-        "LOCALITY_NAME": "Sarore",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": "2",
-      "bathrooms": "1",
-      "balconies": "1",
-      "summary": "2 Bedrooms, 1 Bathrooms, 1 Balconies"
-    },
-    "property_ownership": null,
-    "floors": "2 of 2 floors",
-    "property_age": "0-1 years",
-    "highlights": [
-      "This 2 bhk flat spans 1050 sqft on the top floor of a low-Rise building in independent, sarore, jammu. Semi-Furnished with a modular kitchen and marble flooring, it features 2 bedrooms and 1 bathroom. The 1-5 year old property is immediately available for rent at rs 14,000, offering comfortable living in a well-Maintained space."
-    ],
-    "key_highlights": [
-      "Residential Apartment",
-      "0.43 Marla (98 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [],
-    "furnished_components": [
-      "bed",
-      "ac",
-      "modular kitchen"
-    ],
-    "status": "Ready to Move"
-  },
-  {
     "property_id": "Q94629084",
     "url": "https://www.99acres.com/2-bhk-bedroom-independent-house-villa-for-rent-in-digiana-jammu-1600-sqft-spid-Q94629084",
     "title": "2 Bedroom House for rent in Digiana, Jammu",
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹20,000",
+      "display_price": "\u20b920,000",
       "price_value": 20000,
-      "price_per_sqft": "₹8 /sqft",
-      "price_per_marla": "₹1,800 / Marla"
+      "price_per_sqft": "\u20b98 /sqft",
+      "price_per_marla": "\u20b91,800 / Marla"
     },
     "area": {
       "area_display": "2500 sqft sq.ft.",
@@ -4300,10 +3817,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹12,000",
+      "display_price": "\u20b912,000",
       "price_value": 12000,
-      "price_per_sqft": "₹1,090 /sqft",
-      "price_per_marla": "₹2.45 L / Marla"
+      "price_per_sqft": "\u20b91,090 /sqft",
+      "price_per_marla": "\u20b92.45 L / Marla"
     },
     "area": {
       "area_display": "11 sqft sqft",
@@ -4361,10 +3878,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹20,000",
+      "display_price": "\u20b920,000",
       "price_value": 20000,
-      "price_per_sqft": "₹8 /sqft",
-      "price_per_marla": "₹1,800 / Marla"
+      "price_per_sqft": "\u20b98 /sqft",
+      "price_per_marla": "\u20b91,800 / Marla"
     },
     "area": {
       "area_display": "2500 sqft sqft",
@@ -4426,10 +3943,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹8,000",
+      "display_price": "\u20b98,000",
       "price_value": 8000,
-      "price_per_sqft": "₹8 /sqft",
-      "price_per_marla": "₹1,800 / Marla"
+      "price_per_sqft": "\u20b98 /sqft",
+      "price_per_marla": "\u20b91,800 / Marla"
     },
     "area": {
       "area_display": "1000 sqft sqft",
@@ -4483,10 +4000,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
-      "price_per_sqft": "₹37 /sqft",
-      "price_per_marla": "₹8,325 / Marla"
+      "price_per_sqft": "\u20b937 /sqft",
+      "price_per_marla": "\u20b98,325 / Marla"
     },
     "area": {
       "area_display": "400 sqft sqft",
@@ -4540,10 +4057,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹12,000",
+      "display_price": "\u20b912,000",
       "price_value": 12000,
-      "price_per_sqft": "₹24 /sqft",
-      "price_per_marla": "₹5,400 / Marla"
+      "price_per_sqft": "\u20b924 /sqft",
+      "price_per_marla": "\u20b95,400 / Marla"
     },
     "area": {
       "area_display": "500 sqft sqft",
@@ -4597,10 +4114,10 @@
     "type_of_property": "Other",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
-      "price_per_sqft": "₹7 /sqft",
-      "price_per_marla": "₹1,575 / Marla"
+      "price_per_sqft": "\u20b97 /sqft",
+      "price_per_marla": "\u20b91,575 / Marla"
     },
     "area": {
       "area_display": "2250 sqft sqft",
@@ -4653,135 +4170,16 @@
     "status": "Ready to Move"
   },
   {
-    "property_id": "M89969058",
-    "url": "https://www.99acres.com/4-bhk-bedroom-independent-house-villa-for-rent-in-bari-brahmana-jammu-1480-sqft-r1-spid-M89969058",
-    "title": "4 Bedroom House for rent in Bari Brahmana, Jammu",
-    "type_of_property": "Independent House/Villa",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹12,000",
-      "price_value": 12000,
-      "price_per_sqft": "₹8 /sqft",
-      "price_per_marla": "₹1,800 / Marla"
-    },
-    "area": {
-      "area_display": "1480 sqft sqft",
-      "area_sqm": 137.49644,
-      "area_type": "SUPER_AREA",
-      "area_in_marla": "6.58 Marla"
-    },
-    "address": {
-      "full_address": "4 Bedroom House for rent in Bari Brahmana, Jammu, Bari Brahmana, Jammu",
-      "locality": "Bari Brahmana",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "",
-        "SOCIETY_NAME": "",
-        "LOCALITY_ID": "8889",
-        "LOCALITY_NAME": "Bari Brahmana",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": "4",
-      "bathrooms": "1",
-      "balconies": "0",
-      "summary": "4 Bedrooms, 1 Bathrooms, 0 Balconies"
-    },
-    "property_ownership": null,
-    "floors": null,
-    "property_age": "5-10 years",
-    "highlights": [
-      "The area is good with good environment also"
-    ],
-    "key_highlights": [
-      "Independent House/Villa",
-      "0.61 Marla (137 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [
-      "Piped Gas"
-    ],
-    "furnished_components": [
-      "None explicitly mentioned in description"
-    ],
-    "status": "Ready to Move"
-  },
-  {
-    "property_id": "O91813660",
-    "url": "https://www.99acres.com/3-bhk-bedroom-apartment-flat-for-rent-in-bari-brahmana-jammu-1501-sqft-r1-spid-O91813660",
-    "title": "3 BHK Flat for rent in Bari Brahmana, Jammu",
-    "type_of_property": "Residential Apartment",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹14,000",
-      "price_value": 14000,
-      "price_per_sqft": "₹9 /sqft",
-      "price_per_marla": "₹2,025 / Marla"
-    },
-    "area": {
-      "area_display": "1501 sqft sqft",
-      "area_sqm": 139.447403,
-      "area_type": "CARPET_AREA",
-      "area_in_marla": "6.67 Marla"
-    },
-    "address": {
-      "full_address": "3 BHK Flat for rent in Bari Brahmana, Jammu, Bari Brahmana, Jammu",
-      "locality": "Bari Brahmana",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "pahalwan",
-        "SOCIETY_NAME": "pahalwan",
-        "LOCALITY_ID": "8889",
-        "LOCALITY_NAME": "Bari Brahmana",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": "3",
-      "bathrooms": "2",
-      "balconies": "1",
-      "summary": "3 Bedrooms, 2 Bathrooms, 1 Balconies"
-    },
-    "property_ownership": null,
-    "floors": "1 of 4 floors",
-    "property_age": "0-1 years",
-    "highlights": [
-      "Located in pahalwan, bari brahmana, this 3 bhk flat offers 1501 sqft on the 1st floor of a 4-Story low-Rise building. Built 1-5 years ago, it features 3 bedrooms and 2 bathrooms. Semi-Furnished and ready for immediate occupancy by june 11, 2026, with on-Call maintenance staff nearby. Available for rent at rs14,000."
-    ],
-    "key_highlights": [
-      "Residential Apartment",
-      "0.62 Marla (139 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [
-      "Cafeteria/Food Court",
-      "Fire Fighting Equipment"
-    ],
-    "furnished_components": [
-      "bed"
-    ],
-    "status": "Ready to Move"
-  },
-  {
     "property_id": "T94486456",
     "url": "https://www.99acres.com/2-bhk-bedroom-independent-builder-floor-for-rent-in-trikuta-nagar-jammu-1620-sqft-spid-T94486456",
     "title": "2 BHK Builder Floor for rent in Trikuta Nagar, Jammu",
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹25,000",
+      "display_price": "\u20b925,000",
       "price_value": 25000,
-      "price_per_sqft": "₹15 /sqft",
-      "price_per_marla": "₹3,375 / Marla"
+      "price_per_sqft": "\u20b915 /sqft",
+      "price_per_marla": "\u20b93,375 / Marla"
     },
     "area": {
       "area_display": "1620 sqft sqft",
@@ -4850,10 +4248,10 @@
     "type_of_property": "Residential Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹30,000",
+      "display_price": "\u20b930,000",
       "price_value": 30000,
-      "price_per_sqft": "₹16 /sqft",
-      "price_per_marla": "₹3,600 / Marla"
+      "price_per_sqft": "\u20b916 /sqft",
+      "price_per_marla": "\u20b93,600 / Marla"
     },
     "area": {
       "area_display": "1800 sqft sqft",
@@ -4909,10 +4307,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹9,000",
+      "display_price": "\u20b99,000",
       "price_value": 9000,
-      "price_per_sqft": "₹11 /sqft",
-      "price_per_marla": "₹2,475 / Marla"
+      "price_per_sqft": "\u20b911 /sqft",
+      "price_per_marla": "\u20b92,475 / Marla"
     },
     "area": {
       "area_display": "800 sqft sqft",
@@ -4972,10 +4370,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹2 L",
+      "display_price": "\u20b92 L",
       "price_value": 200000,
-      "price_per_sqft": "₹40 /sqft",
-      "price_per_marla": "₹9,000 / Marla"
+      "price_per_sqft": "\u20b940 /sqft",
+      "price_per_marla": "\u20b99,000 / Marla"
     },
     "area": {
       "area_display": "5000 sqft sqft",
@@ -5030,10 +4428,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹17,000",
+      "display_price": "\u20b917,000",
       "price_value": 17000,
-      "price_per_sqft": "₹6 /sqft",
-      "price_per_marla": "₹1,350 / Marla"
+      "price_per_sqft": "\u20b96 /sqft",
+      "price_per_marla": "\u20b91,350 / Marla"
     },
     "area": {
       "area_display": "2500 sqft sqft",
@@ -5087,10 +4485,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹20,000",
+      "display_price": "\u20b920,000",
       "price_value": 20000,
-      "price_per_sqft": "₹11 /sqft",
-      "price_per_marla": "₹2,475 / Marla"
+      "price_per_sqft": "\u20b911 /sqft",
+      "price_per_marla": "\u20b92,475 / Marla"
     },
     "area": {
       "area_display": "1800 sqft sqft",
@@ -5149,10 +4547,10 @@
     "type_of_property": "Residential Apartment",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹33,000",
+      "display_price": "\u20b933,000",
       "price_value": 33000,
-      "price_per_sqft": "₹13 /sqft",
-      "price_per_marla": "₹2,925 / Marla"
+      "price_per_sqft": "\u20b913 /sqft",
+      "price_per_marla": "\u20b92,925 / Marla"
     },
     "area": {
       "area_display": "2500 sqft sqft",
@@ -5202,139 +4600,16 @@
     "status": "Ready to Move"
   },
   {
-    "property_id": "R90560302",
-    "url": "https://www.99acres.com/2-bhk-bedroom-apartment-flat-for-rent-in-vijaypur-jammu-650-sqft-r1-spid-R90560302",
-    "title": "2 BHK Flat for rent in Vijaypur, Jammu",
-    "type_of_property": "Residential Apartment",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹12,000",
-      "price_value": 12000,
-      "price_per_sqft": "₹18 /sqft",
-      "price_per_marla": "₹4,050 / Marla"
-    },
-    "area": {
-      "area_display": "650 sqft sqft",
-      "area_sqm": 60.38695,
-      "area_type": "CARPET_AREA",
-      "area_in_marla": "2.89 Marla"
-    },
-    "address": {
-      "full_address": "2 BHK Flat for rent in Vijaypur, Jammu, Vijaypur, Jammu",
-      "locality": "Vijaypur",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "railway road vijaypur ",
-        "SOCIETY_NAME": "railway road vijaypur ",
-        "LOCALITY_ID": "1045770",
-        "LOCALITY_NAME": "Vijaypur",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": "2",
-      "bathrooms": "1",
-      "balconies": "1",
-      "summary": "2 Bedrooms, 1 Bathrooms, 1 Balconies"
-    },
-    "property_ownership": null,
-    "floors": "1 of 1 floors",
-    "property_age": "6",
-    "highlights": [
-      "Newly well furnished 2bhk and 1bhk room available only for aiims's female nursing staff with all facilities"
-    ],
-    "key_highlights": [
-      "Residential Apartment",
-      "0.27 Marla (60 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [
-      "Lift",
-      "Internet/Wi-Fi"
-    ],
-    "furnished_components": [
-      "ac"
-    ],
-    "status": "Ready to Move"
-  },
-  {
-    "property_id": "N93294538",
-    "url": "https://www.99acres.com/3-bhk-bedroom-independent-house-villa-for-rent-in-vijaypur-jammu-2000-sqft-spid-N93294538",
-    "title": "3 Bedroom House for rent in Vijaypur, Jammu",
-    "type_of_property": "Independent House/Villa",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹10,000",
-      "price_value": 10000,
-      "price_per_sqft": "₹5 /sqft",
-      "price_per_marla": "₹1,125 / Marla"
-    },
-    "area": {
-      "area_display": "2000 sqft sqft",
-      "area_sqm": 185.806,
-      "area_type": "SUPER_AREA",
-      "area_in_marla": "8.89 Marla"
-    },
-    "address": {
-      "full_address": "3 Bedroom House for rent in Vijaypur, Jammu, Vijaypur, Jammu",
-      "locality": "Vijaypur",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "",
-        "SOCIETY_NAME": "",
-        "LOCALITY_ID": "1045770",
-        "LOCALITY_NAME": "Vijaypur",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": "3",
-      "bathrooms": "1",
-      "balconies": "2",
-      "summary": "3 Bedrooms, 1 Bathrooms, 2 Balconies"
-    },
-    "property_ownership": null,
-    "floors": null,
-    "property_age": "0-1 years",
-    "highlights": [
-      "Isolated property. Awesome front view of aiims vijaypur cleary visible"
-    ],
-    "key_highlights": [
-      "Independent House/Villa",
-      "0.83 Marla (186 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [
-      "Amenity ID 53",
-      "Lift",
-      "Internet/Wi-Fi",
-      "Fire Fighting Equipment",
-      "Private Garden/Terrace"
-    ],
-    "furnished_components": [
-      "None explicitly mentioned in description"
-    ],
-    "status": "Ready to Move"
-  },
-  {
     "property_id": "Z92596298",
     "url": "https://www.99acres.com/3-bhk-bedroom-independent-house-villa-for-rent-in-trikuta-nagar-jammu-2000-sqft-spid-Z92596298",
     "title": "3 Bedroom House for rent in Trikuta Nagar, Jammu",
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹24,999",
+      "display_price": "\u20b924,999",
       "price_value": 24999,
-      "price_per_sqft": "₹12 /sqft",
-      "price_per_marla": "₹2,700 / Marla"
+      "price_per_sqft": "\u20b912 /sqft",
+      "price_per_marla": "\u20b92,700 / Marla"
     },
     "area": {
       "area_display": "2000 sqft sqft",
@@ -5399,10 +4674,10 @@
     "type_of_property": "Other",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹7,000",
+      "display_price": "\u20b97,000",
       "price_value": 7000,
-      "price_per_sqft": "₹8 /sqft",
-      "price_per_marla": "₹1,800 / Marla"
+      "price_per_sqft": "\u20b98 /sqft",
+      "price_per_marla": "\u20b91,800 / Marla"
     },
     "area": {
       "area_display": "800 sqft sqft",
@@ -5460,10 +4735,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹10,000",
+      "display_price": "\u20b910,000",
       "price_value": 10000,
-      "price_per_sqft": "₹16 /sqft",
-      "price_per_marla": "₹3,600 / Marla"
+      "price_per_sqft": "\u20b916 /sqft",
+      "price_per_marla": "\u20b93,600 / Marla"
     },
     "area": {
       "area_display": "600 sqft sqft",
@@ -5517,10 +4792,10 @@
     "type_of_property": "Residential Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹18,000",
+      "display_price": "\u20b918,000",
       "price_value": 18000,
-      "price_per_sqft": "₹36 /sqft",
-      "price_per_marla": "₹8,100 / Marla"
+      "price_per_sqft": "\u20b936 /sqft",
+      "price_per_marla": "\u20b98,100 / Marla"
     },
     "area": {
       "area_display": "500 sqft sqft",
@@ -5580,10 +4855,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹50,000",
+      "display_price": "\u20b950,000",
       "price_value": 50000,
-      "price_per_sqft": "₹9 /sqft",
-      "price_per_marla": "₹2,025 / Marla"
+      "price_per_sqft": "\u20b99 /sqft",
+      "price_per_marla": "\u20b92,025 / Marla"
     },
     "area": {
       "area_display": "5444 sqft sqft",
@@ -5641,10 +4916,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹2 L",
+      "display_price": "\u20b92 L",
       "price_value": 200000,
-      "price_per_sqft": "₹40 /sqft",
-      "price_per_marla": "₹9,000 / Marla"
+      "price_per_sqft": "\u20b940 /sqft",
+      "price_per_marla": "\u20b99,000 / Marla"
     },
     "area": {
       "area_display": "5000 sqft sqft",
@@ -5702,10 +4977,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹20,000",
+      "display_price": "\u20b920,000",
       "price_value": 20000,
-      "price_per_sqft": "₹3 /sqft",
-      "price_per_marla": "₹675 / Marla"
+      "price_per_sqft": "\u20b93 /sqft",
+      "price_per_marla": "\u20b9675 / Marla"
     },
     "area": {
       "area_display": "5500 sqft sqft",
@@ -5759,10 +5034,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
-      "price_per_sqft": "₹13 /sqft",
-      "price_per_marla": "₹2,925 / Marla"
+      "price_per_sqft": "\u20b913 /sqft",
+      "price_per_marla": "\u20b92,925 / Marla"
     },
     "area": {
       "area_display": "1125 sqft sqft",
@@ -5817,10 +5092,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹20,000",
+      "display_price": "\u20b920,000",
       "price_value": 20000,
-      "price_per_sqft": "₹7 /sqft",
-      "price_per_marla": "₹1,575 / Marla"
+      "price_per_sqft": "\u20b97 /sqft",
+      "price_per_marla": "\u20b91,575 / Marla"
     },
     "area": {
       "area_display": "2700 sqft sqft",
@@ -5878,10 +5153,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹10,000",
+      "display_price": "\u20b910,000",
       "price_value": 10000,
-      "price_per_sqft": "₹40 /sqft",
-      "price_per_marla": "₹9,000 / Marla"
+      "price_per_sqft": "\u20b940 /sqft",
+      "price_per_marla": "\u20b99,000 / Marla"
     },
     "area": {
       "area_display": "250 sqft sqft",
@@ -5938,10 +5213,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹30,000",
+      "display_price": "\u20b930,000",
       "price_value": 30000,
-      "price_per_sqft": "₹7 /sqft",
-      "price_per_marla": "₹1,575 / Marla"
+      "price_per_sqft": "\u20b97 /sqft",
+      "price_per_marla": "\u20b91,575 / Marla"
     },
     "area": {
       "area_display": "4000 sqft sqft",
@@ -6002,10 +5277,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹30,000",
+      "display_price": "\u20b930,000",
       "price_value": 30000,
-      "price_per_sqft": "₹29 /sqft",
-      "price_per_marla": "₹6,525 / Marla"
+      "price_per_sqft": "\u20b929 /sqft",
+      "price_per_marla": "\u20b96,525 / Marla"
     },
     "area": {
       "area_display": "1001 sqft sqft",
@@ -6066,10 +5341,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹10,000",
+      "display_price": "\u20b910,000",
       "price_value": 10000,
-      "price_per_sqft": "₹25 /sqft",
-      "price_per_marla": "₹5,625 / Marla"
+      "price_per_sqft": "\u20b925 /sqft",
+      "price_per_marla": "\u20b95,625 / Marla"
     },
     "area": {
       "area_display": "400 sqft sqft",
@@ -6124,10 +5399,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹20,000",
+      "display_price": "\u20b920,000",
       "price_value": 20000,
-      "price_per_sqft": "₹7 /sqft",
-      "price_per_marla": "₹1,575 / Marla"
+      "price_per_sqft": "\u20b97 /sqft",
+      "price_per_marla": "\u20b91,575 / Marla"
     },
     "area": {
       "area_display": "2800 sqft sqft",
@@ -6193,10 +5468,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
-      "price_per_sqft": "₹8 /sqft",
-      "price_per_marla": "₹1,800 / Marla"
+      "price_per_sqft": "\u20b98 /sqft",
+      "price_per_marla": "\u20b91,800 / Marla"
     },
     "area": {
       "area_display": "1800 sqft sqft",
@@ -6248,74 +5523,16 @@
     "status": "Ready to Move"
   },
   {
-    "property_id": "R82041858",
-    "url": "https://www.99acres.com/3-bhk-bedroom-independent-builder-floor-for-rent-in-bari-brahmana-jammu-1800-sqft-r1-spid-R82041858",
-    "title": "3 BHK Builder Floor for rent in Bari Brahmana, Jammu",
-    "type_of_property": "Builder Floor",
-    "furnished_status": "Semi-Furnished",
-    "price": {
-      "display_price": "₹16,000",
-      "price_value": 16000,
-      "price_per_sqft": "₹11 /sqft",
-      "price_per_marla": "₹2,475 / Marla"
-    },
-    "area": {
-      "area_display": "1400 sqft sq.ft.",
-      "area_sqm": 1800,
-      "area_type": "CARPET_AREA",
-      "area_in_marla": "6.22 Marla"
-    },
-    "address": {
-      "full_address": "3 BHK Builder Floor for rent in Bari Brahmana, Jammu, Bari Brahmana, Jammu",
-      "locality": "Bari Brahmana",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "",
-        "SOCIETY_NAME": "",
-        "LOCALITY_ID": "8889",
-        "LOCALITY_NAME": "Bari Brahmana",
-        "ADDRESS": "Bari Brahmana",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": "3",
-      "bathrooms": "2",
-      "balconies": "3",
-      "summary": "3 Bedrooms, 2 Bathrooms, 3 Balconies"
-    },
-    "property_ownership": null,
-    "floors": "G of 3 floors",
-    "property_age": "1-5 years",
-    "highlights": [
-      "Check out this well-Constructed builder floor for rent in bari brahmana, jammu. You can rent this property for  18,000. Other charges to be paid include 600 monthly maintenance. Book this by paying only  20000 booking amount. Electricity & water charges are all included in rent. We are ready to rent out this builder floor on any agreement type from fri, 02 may 2025 to single men and single women only. This 3 bhk builder floor consists of 2 bathrooms & 3 balconies space. The floor is spread over built up area of 1800 sq.Ft. This property is on ground floor in a 3 floors building. This property is well-Maintained and is 5-10 years old. This floor is east facing."
-    ],
-    "key_highlights": [
-      "Builder Floor",
-      "8.00 Marla (1800 sqft)",
-      "Semi-Furnished",
-      "Ready to Move"
-    ],
-    "amenities": [],
-    "furnished_components": [
-      "ac"
-    ],
-    "status": "Ready to Move"
-  },
-  {
     "property_id": "P95188570",
     "url": "https://www.99acres.com/2-bhk-bedroom-apartment-flat-for-rent-in-gandhi-nagar-jammu-700-sqft-spid-P95188570",
     "title": "2 BHK Flat for rent in Gandhi Nagar, Jammu",
     "type_of_property": "Residential Apartment",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹12,000",
+      "display_price": "\u20b912,000",
       "price_value": 12000,
-      "price_per_sqft": "₹17 /sqft",
-      "price_per_marla": "₹3,825 / Marla"
+      "price_per_sqft": "\u20b917 /sqft",
+      "price_per_marla": "\u20b93,825 / Marla"
     },
     "area": {
       "area_display": "700 sqft sqft",
@@ -6369,10 +5586,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹23,000",
+      "display_price": "\u20b923,000",
       "price_value": 23000,
-      "price_per_sqft": "₹15 /sqft",
-      "price_per_marla": "₹3,375 / Marla"
+      "price_per_sqft": "\u20b915 /sqft",
+      "price_per_marla": "\u20b93,375 / Marla"
     },
     "area": {
       "area_display": "1500 sqft sqft",
@@ -6430,10 +5647,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹2,000",
+      "display_price": "\u20b92,000",
       "price_value": 2000,
-      "price_per_sqft": "₹2 /sqft",
-      "price_per_marla": "₹450 / Marla"
+      "price_per_sqft": "\u20b92 /sqft",
+      "price_per_marla": "\u20b9450 / Marla"
     },
     "area": {
       "area_display": "900 sqft sqft",
@@ -6487,10 +5704,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹16,000",
+      "display_price": "\u20b916,000",
       "price_value": 16000,
-      "price_per_sqft": "₹11 /sqft",
-      "price_per_marla": "₹2,475 / Marla"
+      "price_per_sqft": "\u20b911 /sqft",
+      "price_per_marla": "\u20b92,475 / Marla"
     },
     "area": {
       "area_display": "1400 sqft sq.ft.",
@@ -6549,10 +5766,10 @@
     "type_of_property": "Other",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
-      "price_per_sqft": "₹15 /sqft",
-      "price_per_marla": "₹3,375 / Marla"
+      "price_per_sqft": "\u20b915 /sqft",
+      "price_per_marla": "\u20b93,375 / Marla"
     },
     "area": {
       "area_display": "1000 sqft sqft",
@@ -6607,10 +5824,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
-      "price_per_sqft": "₹16 /sqft",
-      "price_per_marla": "₹3,600 / Marla"
+      "price_per_sqft": "\u20b916 /sqft",
+      "price_per_marla": "\u20b93,600 / Marla"
     },
     "area": {
       "area_display": "900 sqft sq.ft.",
@@ -6669,10 +5886,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹13,000",
+      "display_price": "\u20b913,000",
       "price_value": 13000,
-      "price_per_sqft": "₹7 /sqft",
-      "price_per_marla": "₹1,575 / Marla"
+      "price_per_sqft": "\u20b97 /sqft",
+      "price_per_marla": "\u20b91,575 / Marla"
     },
     "area": {
       "area_display": "1800 sqft sqft",
@@ -6726,10 +5943,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹10,000",
+      "display_price": "\u20b910,000",
       "price_value": 10000,
-      "price_per_sqft": "₹14 /sqft",
-      "price_per_marla": "₹3,150 / Marla"
+      "price_per_sqft": "\u20b914 /sqft",
+      "price_per_marla": "\u20b93,150 / Marla"
     },
     "area": {
       "area_display": "700 sqft sqft",
@@ -6786,10 +6003,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹9,000",
+      "display_price": "\u20b99,000",
       "price_value": 9000,
-      "price_per_sqft": "₹36 /sqft",
-      "price_per_marla": "₹8,100 / Marla"
+      "price_per_sqft": "\u20b936 /sqft",
+      "price_per_marla": "\u20b98,100 / Marla"
     },
     "area": {
       "area_display": "250 sqft sq.ft.",
@@ -6852,10 +6069,10 @@
     "type_of_property": "Residential Apartment",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹6,500",
+      "display_price": "\u20b96,500",
       "price_value": 6500,
-      "price_per_sqft": "₹16 /sqft",
-      "price_per_marla": "₹3,600 / Marla"
+      "price_per_sqft": "\u20b916 /sqft",
+      "price_per_marla": "\u20b93,600 / Marla"
     },
     "area": {
       "area_display": "400 sqft sqft",
@@ -6921,10 +6138,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹28,000",
+      "display_price": "\u20b928,000",
       "price_value": 28000,
-      "price_per_sqft": "₹18 /sqft",
-      "price_per_marla": "₹4,050 / Marla"
+      "price_per_sqft": "\u20b918 /sqft",
+      "price_per_marla": "\u20b94,050 / Marla"
     },
     "area": {
       "area_display": "1500 sqft sqft",
@@ -6982,10 +6199,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹8,000",
+      "display_price": "\u20b98,000",
       "price_value": 8000,
-      "price_per_sqft": "₹4 /sqft",
-      "price_per_marla": "₹900 / Marla"
+      "price_per_sqft": "\u20b94 /sqft",
+      "price_per_marla": "\u20b9900 / Marla"
     },
     "area": {
       "area_display": "2000 sqft sqft",
@@ -7043,10 +6260,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹25,000",
+      "display_price": "\u20b925,000",
       "price_value": 25000,
-      "price_per_sqft": "₹16 /sqft",
-      "price_per_marla": "₹3,600 / Marla"
+      "price_per_sqft": "\u20b916 /sqft",
+      "price_per_marla": "\u20b93,600 / Marla"
     },
     "area": {
       "area_display": "1500 sqft sq.ft.",
@@ -7105,10 +6322,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹12,000",
+      "display_price": "\u20b912,000",
       "price_value": 12000,
-      "price_per_sqft": "₹15 /sqft",
-      "price_per_marla": "₹3,375 / Marla"
+      "price_per_sqft": "\u20b915 /sqft",
+      "price_per_marla": "\u20b93,375 / Marla"
     },
     "area": {
       "area_display": "800 sqft sqft",
@@ -7163,9 +6380,9 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹11,999",
+      "display_price": "\u20b911,999",
       "price_value": 11999,
-      "price_per_sqft": "₹0 /sqft",
+      "price_per_sqft": "\u20b90 /sqft",
       "price_per_marla": null
     },
     "area": {
@@ -7223,10 +6440,10 @@
     "type_of_property": "Residential Apartment",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹7,500",
+      "display_price": "\u20b97,500",
       "price_value": 7500,
-      "price_per_sqft": "₹28 /sqft",
-      "price_per_marla": "₹6,300 / Marla"
+      "price_per_sqft": "\u20b928 /sqft",
+      "price_per_marla": "\u20b96,300 / Marla"
     },
     "area": {
       "area_display": "260 sqft sqft",
@@ -7280,10 +6497,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹7,500",
+      "display_price": "\u20b97,500",
       "price_value": 7500,
-      "price_per_sqft": "₹18 /sqft",
-      "price_per_marla": "₹4,050 / Marla"
+      "price_per_sqft": "\u20b918 /sqft",
+      "price_per_marla": "\u20b94,050 / Marla"
     },
     "area": {
       "area_display": "400 sqft sqft",
@@ -7345,10 +6562,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹6,500",
+      "display_price": "\u20b96,500",
       "price_value": 6500,
-      "price_per_sqft": "₹26 /sqft",
-      "price_per_marla": "₹5,850 / Marla"
+      "price_per_sqft": "\u20b926 /sqft",
+      "price_per_marla": "\u20b95,850 / Marla"
     },
     "area": {
       "area_display": "250 sqft sqft",
@@ -7406,10 +6623,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹5,500",
+      "display_price": "\u20b95,500",
       "price_value": 5500,
-      "price_per_sqft": "₹6 /sqft",
-      "price_per_marla": "₹1,350 / Marla"
+      "price_per_sqft": "\u20b96 /sqft",
+      "price_per_marla": "\u20b91,350 / Marla"
     },
     "area": {
       "area_display": "850 sqft sqft",
@@ -7469,10 +6686,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹4,500",
+      "display_price": "\u20b94,500",
       "price_value": 4500,
-      "price_per_sqft": "₹16 /sqft",
-      "price_per_marla": "₹3,600 / Marla"
+      "price_per_sqft": "\u20b916 /sqft",
+      "price_per_marla": "\u20b93,600 / Marla"
     },
     "area": {
       "area_display": "270 sqft sqft",
@@ -7527,10 +6744,10 @@
     "type_of_property": "Residential Apartment",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
-      "price_per_sqft": "₹15 /sqft",
-      "price_per_marla": "₹3,375 / Marla"
+      "price_per_sqft": "\u20b915 /sqft",
+      "price_per_marla": "\u20b93,375 / Marla"
     },
     "area": {
       "area_display": "1000 sqft sqft",
@@ -7588,10 +6805,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
-      "price_per_sqft": "₹13 /sqft",
-      "price_per_marla": "₹2,925 / Marla"
+      "price_per_sqft": "\u20b913 /sqft",
+      "price_per_marla": "\u20b92,925 / Marla"
     },
     "area": {
       "area_display": "1100 sqft sqft",
@@ -7648,10 +6865,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹25,000",
+      "display_price": "\u20b925,000",
       "price_value": 25000,
-      "price_per_sqft": "₹4 /sqft",
-      "price_per_marla": "₹900 / Marla"
+      "price_per_sqft": "\u20b94 /sqft",
+      "price_per_marla": "\u20b9900 / Marla"
     },
     "area": {
       "area_display": "5444 sqft sqft",
@@ -7711,10 +6928,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹7,000",
+      "display_price": "\u20b97,000",
       "price_value": 7000,
-      "price_per_sqft": "₹8 /sqft",
-      "price_per_marla": "₹1,800 / Marla"
+      "price_per_sqft": "\u20b98 /sqft",
+      "price_per_marla": "\u20b91,800 / Marla"
     },
     "area": {
       "area_display": "800 sqft sqft",
@@ -7768,10 +6985,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹12,000",
+      "display_price": "\u20b912,000",
       "price_value": 12000,
-      "price_per_sqft": "₹6 /sqft",
-      "price_per_marla": "₹1,350 / Marla"
+      "price_per_sqft": "\u20b96 /sqft",
+      "price_per_marla": "\u20b91,350 / Marla"
     },
     "area": {
       "area_display": "1800 sqft sqft",
@@ -7825,10 +7042,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹12,000",
+      "display_price": "\u20b912,000",
       "price_value": 12000,
-      "price_per_sqft": "₹545 /sqft",
-      "price_per_marla": "₹1.23 L / Marla"
+      "price_per_sqft": "\u20b9545 /sqft",
+      "price_per_marla": "\u20b91.23 L / Marla"
     },
     "area": {
       "area_display": "22 sqft sqft",
@@ -7883,10 +7100,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹18,000",
+      "display_price": "\u20b918,000",
       "price_value": 18000,
-      "price_per_sqft": "₹30 /sqft",
-      "price_per_marla": "₹6,750 / Marla"
+      "price_per_sqft": "\u20b930 /sqft",
+      "price_per_marla": "\u20b96,750 / Marla"
     },
     "area": {
       "area_display": "600 sqft sqft",
@@ -7944,10 +7161,10 @@
     "type_of_property": "Residential Apartment",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹10,000",
+      "display_price": "\u20b910,000",
       "price_value": 10000,
-      "price_per_sqft": "₹7 /sqft",
-      "price_per_marla": "₹1,575 / Marla"
+      "price_per_sqft": "\u20b97 /sqft",
+      "price_per_marla": "\u20b91,575 / Marla"
     },
     "area": {
       "area_display": "1361 sqft sqft",
@@ -8001,10 +7218,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹8,000",
+      "display_price": "\u20b98,000",
       "price_value": 8000,
-      "price_per_sqft": "₹36 /sqft",
-      "price_per_marla": "₹8,100 / Marla"
+      "price_per_sqft": "\u20b936 /sqft",
+      "price_per_marla": "\u20b98,100 / Marla"
     },
     "area": {
       "area_display": "220 sqft sqft",
@@ -8059,10 +7276,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹20,000",
+      "display_price": "\u20b920,000",
       "price_value": 20000,
-      "price_per_sqft": "₹11 /sqft",
-      "price_per_marla": "₹2,475 / Marla"
+      "price_per_sqft": "\u20b911 /sqft",
+      "price_per_marla": "\u20b92,475 / Marla"
     },
     "area": {
       "area_display": "1800 sqft sqft",
@@ -8117,10 +7334,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹20,000",
+      "display_price": "\u20b920,000",
       "price_value": 20000,
-      "price_per_sqft": "₹11 /sqft",
-      "price_per_marla": "₹2,475 / Marla"
+      "price_per_sqft": "\u20b911 /sqft",
+      "price_per_marla": "\u20b92,475 / Marla"
     },
     "area": {
       "area_display": "1800 sqft sqft",
@@ -8178,9 +7395,9 @@
     "type_of_property": "Other",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹6,000",
+      "display_price": "\u20b96,000",
       "price_value": 6000,
-      "price_per_sqft": "₹0 /sqft",
+      "price_per_sqft": "\u20b90 /sqft",
       "price_per_marla": null
     },
     "area": {
@@ -8235,10 +7452,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹8,500",
+      "display_price": "\u20b98,500",
       "price_value": 8500,
-      "price_per_sqft": "₹15 /sqft",
-      "price_per_marla": "₹3,375 / Marla"
+      "price_per_sqft": "\u20b915 /sqft",
+      "price_per_marla": "\u20b93,375 / Marla"
     },
     "area": {
       "area_display": "540 sqft sqft",
@@ -8296,10 +7513,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹20,000",
+      "display_price": "\u20b920,000",
       "price_value": 20000,
-      "price_per_sqft": "₹10 /sqft",
-      "price_per_marla": "₹2,250 / Marla"
+      "price_per_sqft": "\u20b910 /sqft",
+      "price_per_marla": "\u20b92,250 / Marla"
     },
     "area": {
       "area_display": "2000 sqft sqft",
@@ -8353,10 +7570,10 @@
     "type_of_property": "Studio Apartment",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹7,500",
+      "display_price": "\u20b97,500",
       "price_value": 7500,
-      "price_per_sqft": "₹41 /sqft",
-      "price_per_marla": "₹9,225 / Marla"
+      "price_per_sqft": "\u20b941 /sqft",
+      "price_per_marla": "\u20b99,225 / Marla"
     },
     "area": {
       "area_display": "180 sqft sqft",
@@ -8414,10 +7631,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹28,000",
+      "display_price": "\u20b928,000",
       "price_value": 28000,
-      "price_per_sqft": "₹15 /sqft",
-      "price_per_marla": "₹3,375 / Marla"
+      "price_per_sqft": "\u20b915 /sqft",
+      "price_per_marla": "\u20b93,375 / Marla"
     },
     "area": {
       "area_display": "1800 sqft sqft",
@@ -8467,133 +7684,16 @@
     "status": "Ready to Move"
   },
   {
-    "property_id": "K94368300",
-    "url": "https://www.99acres.com/2-bhk-bedroom-apartment-flat-for-rent-in-vijaypur-jammu-1600-sqft-spid-K94368300",
-    "title": "2 BHK Flat for rent in Vijaypur, Jammu",
-    "type_of_property": "Residential Apartment",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹11,000",
-      "price_value": 11000,
-      "price_per_sqft": "₹6 /sqft",
-      "price_per_marla": "₹1,350 / Marla"
-    },
-    "area": {
-      "area_display": "1600 sqft sqft",
-      "area_sqm": 148.6448,
-      "area_type": "CARPET_AREA",
-      "area_in_marla": "7.11 Marla"
-    },
-    "address": {
-      "full_address": "2 BHK Flat for rent in Vijaypur, Jammu, Vijaypur, Jammu",
-      "locality": "Vijaypur",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "railway road vijaypur ",
-        "SOCIETY_NAME": "railway road vijaypur ",
-        "LOCALITY_ID": "1045770",
-        "LOCALITY_NAME": "Vijaypur",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": "2",
-      "bathrooms": "1",
-      "balconies": "2",
-      "summary": "2 Bedrooms, 1 Bathrooms, 2 Balconies"
-    },
-    "property_ownership": null,
-    "floors": "1 of 2 floors",
-    "property_age": "6",
-    "highlights": [
-      "Located on railway road vijaypur, this furnished 2 bhk flat spans 1600 sqft on the 1st floor of a low-Rise building. With 2 bedrooms and 1 bathroom, the nearly new property is available for immediate rent. Ideal for comfortable living in vijaypur, jammu, it offers modern convenience in a freshly constructed residence."
-    ],
-    "key_highlights": [
-      "Residential Apartment",
-      "0.66 Marla (149 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [
-      "Lift"
-    ],
-    "furnished_components": [
-      "bed"
-    ],
-    "status": "Ready to Move"
-  },
-  {
-    "property_id": "O94343116",
-    "url": "https://www.99acres.com/2-bhk-bedroom-farm-house-for-rent-in-jakh-jammu-2138-sqft-spid-O94343116",
-    "title": "2 Bedroom Farm house for rent in Jakh, Jammu",
-    "type_of_property": "Farm House",
-    "furnished_status": "Semi-Furnished",
-    "price": {
-      "display_price": "₹6,000",
-      "price_value": 6000,
-      "price_per_sqft": "₹3 /sqft",
-      "price_per_marla": "₹675 / Marla"
-    },
-    "area": {
-      "area_display": "2137 sqft sqft",
-      "area_sqm": 198.533711,
-      "area_type": "SUPER_AREA",
-      "area_in_marla": "9.50 Marla"
-    },
-    "address": {
-      "full_address": "2 Bedroom Farm house for rent in Jakh, Jammu, Jakh, Jammu",
-      "locality": "Jakh",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "",
-        "SOCIETY_NAME": "",
-        "LOCALITY_ID": "1135199",
-        "LOCALITY_NAME": "Jakh",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": "2",
-      "bathrooms": "2",
-      "balconies": "0",
-      "summary": "2 Bedrooms, 2 Bathrooms, 0 Balconies"
-    },
-    "property_ownership": null,
-    "floors": "Total 1 floors",
-    "property_age": "0-1 years",
-    "highlights": [
-      "Located in jakh, jammu, this unfurnished 2 bhk farmhouse offers 2137.5 sqft of spacious living across 15 years old property. Featuring 2 bedrooms and 2 bathrooms, its available for immediate rent at rs 6000. Situated on a low floor, it provides a comfortable residential option for those seeking a serene lifestyle."
-    ],
-    "key_highlights": [
-      "Farm House",
-      "0.88 Marla (199 sqft)",
-      "Semi-Furnished",
-      "Ready to Move"
-    ],
-    "amenities": [],
-    "furnished_components": [
-      "bed",
-      "ac"
-    ],
-    "status": "Ready to Move"
-  },
-  {
     "property_id": "P37465353",
     "url": "https://www.99acres.com/1-bhk-bedroom-independent-house-villa-for-rent-in-channi-himmat-jammu-750-sqft-r7-spid-P37465353",
     "title": "1 Bedroom House for rent in Channi Himmat, Jammu",
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹8,500",
+      "display_price": "\u20b98,500",
       "price_value": 8500,
-      "price_per_sqft": "₹11 /sqft",
-      "price_per_marla": "₹2,475 / Marla"
+      "price_per_sqft": "\u20b911 /sqft",
+      "price_per_marla": "\u20b92,475 / Marla"
     },
     "area": {
       "area_display": "750 sqft sq.ft.",
@@ -8652,10 +7752,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹8,500",
+      "display_price": "\u20b98,500",
       "price_value": 8500,
-      "price_per_sqft": "₹59 /sqft",
-      "price_per_marla": "₹13,275 / Marla"
+      "price_per_sqft": "\u20b959 /sqft",
+      "price_per_marla": "\u20b913,275 / Marla"
     },
     "area": {
       "area_display": "144 sqft sq.ft.",
@@ -8710,10 +7810,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹20,000",
+      "display_price": "\u20b920,000",
       "price_value": 20000,
-      "price_per_sqft": "₹13 /sqft",
-      "price_per_marla": "₹2,925 / Marla"
+      "price_per_sqft": "\u20b913 /sqft",
+      "price_per_marla": "\u20b92,925 / Marla"
     },
     "area": {
       "area_display": "1500 sqft sqft",
@@ -8775,10 +7875,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹8,000",
+      "display_price": "\u20b98,000",
       "price_value": 8000,
-      "price_per_sqft": "₹1 /sqft",
-      "price_per_marla": "₹225 / Marla"
+      "price_per_sqft": "\u20b91 /sqft",
+      "price_per_marla": "\u20b9225 / Marla"
     },
     "area": {
       "area_display": "4320 sqft sqft",
@@ -8835,10 +7935,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹13,000",
+      "display_price": "\u20b913,000",
       "price_value": 13000,
-      "price_per_sqft": "₹1 /sqft",
-      "price_per_marla": "₹225 / Marla"
+      "price_per_sqft": "\u20b91 /sqft",
+      "price_per_marla": "\u20b9225 / Marla"
     },
     "area": {
       "area_display": "11700 sqft sqft",
@@ -8886,81 +7986,16 @@
     "status": "Ready to Move"
   },
   {
-    "property_id": "A94298858",
-    "url": "https://www.99acres.com/2-bhk-bedroom-independent-builder-floor-for-rent-in-jammu-18000-sqft-spid-A94298858",
-    "title": "2 BHK Builder Floor for rent in kathua hiranagar morh, Jammu",
-    "type_of_property": "Builder Floor",
-    "furnished_status": "Semi-Furnished",
-    "price": {
-      "display_price": "₹40,000",
-      "price_value": 40000,
-      "price_per_sqft": "₹2 /sqft",
-      "price_per_marla": "₹450 / Marla"
-    },
-    "area": {
-      "area_display": "18000 sqft sqft",
-      "area_sqm": 1672.254,
-      "area_type": "SUPER_AREA",
-      "area_in_marla": "80.00 Marla"
-    },
-    "address": {
-      "full_address": "2 BHK Builder Floor for rent in kathua hiranagar morh, Jammu, kathua hiranagar morh, Jammu",
-      "locality": "kathua hiranagar morh",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "building floor",
-        "SOCIETY_NAME": "building floor",
-        "LOCALITY_ID": "0",
-        "LOCALITY_NAME": "kathua hiranagar morh",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": "2",
-      "bathrooms": "1",
-      "balconies": "3",
-      "summary": "2 Bedrooms, 1 Bathrooms, 3 Balconies"
-    },
-    "property_ownership": null,
-    "floors": "1 of 1 floors",
-    "property_age": "0-1 years",
-    "highlights": [
-      "It is near to main road which connects directly to highway in less then 1 minute"
-    ],
-    "key_highlights": [
-      "Builder Floor",
-      "7.43 Marla (1672 sqft)",
-      "Semi-Furnished",
-      "FOR SINGLE MEN"
-    ],
-    "amenities": [
-      "Amenity ID 18",
-      "Power Backup",
-      "Lift",
-      "Amenity ID 19",
-      "Amenity ID 36",
-      "Gymnasium",
-      "Amenity ID 102"
-    ],
-    "furnished_components": [
-      "None explicitly mentioned in description"
-    ],
-    "status": "FOR SINGLE MEN"
-  },
-  {
     "property_id": "F94276494",
     "url": "https://www.99acres.com/studio-apartment-flat-for-rent-in-preet-nagar-jammu-550-sqft-spid-F94276494",
     "title": "Studio Apartments / 1 RK Flats for rent in Preet Nagar, Jammu",
     "type_of_property": "Studio Apartment",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹5,500",
+      "display_price": "\u20b95,500",
       "price_value": 5500,
-      "price_per_sqft": "₹10 /sqft",
-      "price_per_marla": "₹2,250 / Marla"
+      "price_per_sqft": "\u20b910 /sqft",
+      "price_per_marla": "\u20b92,250 / Marla"
     },
     "area": {
       "area_display": "550 sqft sqft",
@@ -9015,10 +8050,10 @@
     "type_of_property": "Residential Apartment",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹12,000",
+      "display_price": "\u20b912,000",
       "price_value": 12000,
-      "price_per_sqft": "₹10 /sqft",
-      "price_per_marla": "₹2,250 / Marla"
+      "price_per_sqft": "\u20b910 /sqft",
+      "price_per_marla": "\u20b92,250 / Marla"
     },
     "area": {
       "area_display": "1170 sqft sqft",
@@ -9072,10 +8107,10 @@
     "type_of_property": "Other",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹18,000",
+      "display_price": "\u20b918,000",
       "price_value": 18000,
-      "price_per_sqft": "₹37 /sqft",
-      "price_per_marla": "₹8,325 / Marla"
+      "price_per_sqft": "\u20b937 /sqft",
+      "price_per_marla": "\u20b98,325 / Marla"
     },
     "area": {
       "area_display": "480 sqft sqft",
@@ -9133,10 +8168,10 @@
     "type_of_property": "Residential Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹5,000",
+      "display_price": "\u20b95,000",
       "price_value": 5000,
-      "price_per_sqft": "₹16 /sqft",
-      "price_per_marla": "₹3,600 / Marla"
+      "price_per_sqft": "\u20b916 /sqft",
+      "price_per_marla": "\u20b93,600 / Marla"
     },
     "area": {
       "area_display": "300 sqft sqft",
@@ -9190,10 +8225,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹20,000",
+      "display_price": "\u20b920,000",
       "price_value": 20000,
-      "price_per_sqft": "₹14 /sqft",
-      "price_per_marla": "₹3,150 / Marla"
+      "price_per_sqft": "\u20b914 /sqft",
+      "price_per_marla": "\u20b93,150 / Marla"
     },
     "area": {
       "area_display": "1350 sqft sqft",
@@ -9247,10 +8282,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹20,000",
+      "display_price": "\u20b920,000",
       "price_value": 20000,
-      "price_per_sqft": "₹14 /sqft",
-      "price_per_marla": "₹3,150 / Marla"
+      "price_per_sqft": "\u20b914 /sqft",
+      "price_per_marla": "\u20b93,150 / Marla"
     },
     "area": {
       "area_display": "1350 sqft sqft",
@@ -9298,75 +8333,16 @@
     "status": "Ready to Move"
   },
   {
-    "property_id": "E94194044",
-    "url": "https://www.99acres.com/2-bhk-bedroom-independent-house-villa-for-rent-in-vijaypur-jammu-1650-sqft-spid-E94194044",
-    "title": "2 Bedroom House for rent in Vijaypur, Jammu",
-    "type_of_property": "Independent House/Villa",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹12,000",
-      "price_value": 12000,
-      "price_per_sqft": "₹7 /sqft",
-      "price_per_marla": "₹1,575 / Marla"
-    },
-    "area": {
-      "area_display": "1696 sqft sq.ft.",
-      "area_sqm": 1650,
-      "area_type": "SUPER_AREA",
-      "area_in_marla": "7.54 Marla"
-    },
-    "address": {
-      "full_address": "2 Bedroom House for rent in Vijaypur, Jammu, Vijaypur, Jammu",
-      "locality": "Vijaypur",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "",
-        "SOCIETY_NAME": "",
-        "LOCALITY_ID": "1045770",
-        "LOCALITY_NAME": "Vijaypur",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": "2",
-      "bathrooms": "1",
-      "balconies": "2",
-      "summary": "2 Bedrooms, 1 Bathrooms, 2 Balconies"
-    },
-    "property_ownership": null,
-    "floors": "G,1 of 2 floors",
-    "property_age": "0-1 years",
-    "highlights": [
-      "Newly fully furnished 2bhk available for rent"
-    ],
-    "key_highlights": [
-      "Independent House/Villa",
-      "7.33 Marla (1650 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [
-      "Lift"
-    ],
-    "furnished_components": [
-      "None explicitly mentioned in description"
-    ],
-    "status": "Ready to Move"
-  },
-  {
     "property_id": "D94184264",
     "url": "https://www.99acres.com/2-bhk-bedroom-independent-builder-floor-for-rent-in-sainik-colony-jammu-1350-sqft-spid-D94184264",
     "title": "2 BHK Builder Floor for rent in Sainik Colony, Jammu",
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹20,000",
+      "display_price": "\u20b920,000",
       "price_value": 20000,
-      "price_per_sqft": "₹14 /sqft",
-      "price_per_marla": "₹3,150 / Marla"
+      "price_per_sqft": "\u20b914 /sqft",
+      "price_per_marla": "\u20b93,150 / Marla"
     },
     "area": {
       "area_display": "1350 sqft sqft",
@@ -9425,10 +8401,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹6,500",
+      "display_price": "\u20b96,500",
       "price_value": 6500,
-      "price_per_sqft": "₹4 /sqft",
-      "price_per_marla": "₹900 / Marla"
+      "price_per_sqft": "\u20b94 /sqft",
+      "price_per_marla": "\u20b9900 / Marla"
     },
     "area": {
       "area_display": "1500 sqft sqft",
@@ -9485,10 +8461,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹30,000",
+      "display_price": "\u20b930,000",
       "price_value": 30000,
-      "price_per_sqft": "₹15 /sqft",
-      "price_per_marla": "₹3,375 / Marla"
+      "price_per_sqft": "\u20b915 /sqft",
+      "price_per_marla": "\u20b93,375 / Marla"
     },
     "area": {
       "area_display": "2000 sqft sqft",
@@ -9547,10 +8523,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹10,000",
+      "display_price": "\u20b910,000",
       "price_value": 10000,
-      "price_per_sqft": "₹33 /sqft",
-      "price_per_marla": "₹7,425 / Marla"
+      "price_per_sqft": "\u20b933 /sqft",
+      "price_per_marla": "\u20b97,425 / Marla"
     },
     "area": {
       "area_display": "300 sqft sqft",
@@ -9606,10 +8582,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
-      "price_per_sqft": "₹9 /sqft",
-      "price_per_marla": "₹2,025 / Marla"
+      "price_per_sqft": "\u20b99 /sqft",
+      "price_per_marla": "\u20b92,025 / Marla"
     },
     "area": {
       "area_display": "1600 sqft sqft",
@@ -9663,10 +8639,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹18,000",
+      "display_price": "\u20b918,000",
       "price_value": 18000,
-      "price_per_sqft": "₹1 /sqft",
-      "price_per_marla": "₹225 / Marla"
+      "price_per_sqft": "\u20b91 /sqft",
+      "price_per_marla": "\u20b9225 / Marla"
     },
     "area": {
       "area_display": "18000 sqft sqft",
@@ -9723,10 +8699,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹20,000",
+      "display_price": "\u20b920,000",
       "price_value": 20000,
-      "price_per_sqft": "₹7 /sqft",
-      "price_per_marla": "₹1,575 / Marla"
+      "price_per_sqft": "\u20b97 /sqft",
+      "price_per_marla": "\u20b91,575 / Marla"
     },
     "area": {
       "area_display": "2700 sqft sqft",
@@ -9782,10 +8758,10 @@
     "type_of_property": "Residential Apartment",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹13,000",
+      "display_price": "\u20b913,000",
       "price_value": 13000,
-      "price_per_sqft": "₹18 /sqft",
-      "price_per_marla": "₹4,050 / Marla"
+      "price_per_sqft": "\u20b918 /sqft",
+      "price_per_marla": "\u20b94,050 / Marla"
     },
     "area": {
       "area_display": "690 sqft sqft",
@@ -9841,10 +8817,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹14,500",
+      "display_price": "\u20b914,500",
       "price_value": 14500,
-      "price_per_sqft": "₹6 /sqft",
-      "price_per_marla": "₹1,350 / Marla"
+      "price_per_sqft": "\u20b96 /sqft",
+      "price_per_marla": "\u20b91,350 / Marla"
     },
     "area": {
       "area_display": "2300 sqft sq.ft.",
@@ -9911,87 +8887,16 @@
     "status": "Ready to Move"
   },
   {
-    "property_id": "J93925154",
-    "url": "https://www.99acres.com/2-bhk-bedroom-independent-house-villa-for-rent-in-bari-brahmana-jammu-2700-sqft-spid-J93925154",
-    "title": "2 Bedroom House for rent in Bari Brahmana, Jammu",
-    "type_of_property": "Independent House/Villa",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹13,000",
-      "price_value": 13000,
-      "price_per_sqft": "₹4 /sqft",
-      "price_per_marla": "₹900 / Marla"
-    },
-    "area": {
-      "area_display": "2700 sqft sqft",
-      "area_sqm": 250.8381,
-      "area_type": "SUPER_AREA",
-      "area_in_marla": "12.00 Marla"
-    },
-    "address": {
-      "full_address": "2 Bedroom House for rent in Bari Brahmana, Jammu, Bari Brahmana, Jammu",
-      "locality": "Bari Brahmana",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "Palli ",
-        "SOCIETY_NAME": "Palli ",
-        "LOCALITY_ID": "8889",
-        "LOCALITY_NAME": "Bari Brahmana",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": "2",
-      "bathrooms": "2",
-      "balconies": "2",
-      "summary": "2 Bedrooms, 2 Bathrooms, 2 Balconies"
-    },
-    "property_ownership": null,
-    "floors": "Total 1 floors",
-    "property_age": "6",
-    "highlights": [
-      "Independent villa with organic farming, small swimming pool and garden area"
-    ],
-    "key_highlights": [
-      "Independent House/Villa",
-      "1.11 Marla (251 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [
-      "Amenity ID 53",
-      "Amenity ID 49",
-      "Water Supply",
-      "Piped Gas",
-      "Internet/Wi-Fi",
-      "Visitor Parking",
-      "Amenity ID 19",
-      "Park",
-      "Fire Fighting Equipment",
-      "Amenity ID 47",
-      "Gymnasium",
-      "Amenity ID 40",
-      "Amenity ID 41"
-    ],
-    "furnished_components": [
-      "None explicitly mentioned in description"
-    ],
-    "status": "Ready to Move"
-  },
-  {
     "property_id": "D93876456",
     "url": "https://www.99acres.com/4-bhk-bedroom-independent-house-villa-for-rent-in-channi-himmat-jammu-1800-sqft-spid-D93876456",
     "title": "4 Bedroom House for rent in Channi Himmat, Jammu",
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹38,000",
+      "display_price": "\u20b938,000",
       "price_value": 38000,
-      "price_per_sqft": "₹21 /sqft",
-      "price_per_marla": "₹4,725 / Marla"
+      "price_per_sqft": "\u20b921 /sqft",
+      "price_per_marla": "\u20b94,725 / Marla"
     },
     "area": {
       "area_display": "1800 sqft sqft",
@@ -10054,10 +8959,10 @@
     "type_of_property": "Residential Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹11,000",
+      "display_price": "\u20b911,000",
       "price_value": 11000,
-      "price_per_sqft": "₹23 /sqft",
-      "price_per_marla": "₹5,175 / Marla"
+      "price_per_sqft": "\u20b923 /sqft",
+      "price_per_marla": "\u20b95,175 / Marla"
     },
     "area": {
       "area_display": "460 sqft sqft",
@@ -10111,10 +9016,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹8,500",
+      "display_price": "\u20b98,500",
       "price_value": 8500,
-      "price_per_sqft": "₹21 /sqft",
-      "price_per_marla": "₹4,725 / Marla"
+      "price_per_sqft": "\u20b921 /sqft",
+      "price_per_marla": "\u20b94,725 / Marla"
     },
     "area": {
       "area_display": "400 sqft sqft",
@@ -10171,10 +9076,10 @@
     "type_of_property": "Other",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹6,000",
+      "display_price": "\u20b96,000",
       "price_value": 6000,
-      "price_per_sqft": "₹30 /sqft",
-      "price_per_marla": "₹6,750 / Marla"
+      "price_per_sqft": "\u20b930 /sqft",
+      "price_per_marla": "\u20b96,750 / Marla"
     },
     "area": {
       "area_display": "200 sqft sqft",
@@ -10229,10 +9134,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
-      "price_per_sqft": "₹7 /sqft",
-      "price_per_marla": "₹1,575 / Marla"
+      "price_per_sqft": "\u20b97 /sqft",
+      "price_per_marla": "\u20b91,575 / Marla"
     },
     "area": {
       "area_display": "2000 sqft sqft",
@@ -10294,10 +9199,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹10,000",
+      "display_price": "\u20b910,000",
       "price_value": 10000,
-      "price_per_sqft": "₹6 /sqft",
-      "price_per_marla": "₹1,350 / Marla"
+      "price_per_sqft": "\u20b96 /sqft",
+      "price_per_marla": "\u20b91,350 / Marla"
     },
     "area": {
       "area_display": "1500 sqft sqft",
@@ -10352,10 +9257,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹20,000",
+      "display_price": "\u20b920,000",
       "price_value": 20000,
-      "price_per_sqft": "₹2,797 /sqft",
-      "price_per_marla": "₹6.29 L / Marla"
+      "price_per_sqft": "\u20b92,797 /sqft",
+      "price_per_marla": "\u20b96.29 L / Marla"
     },
     "area": {
       "area_display": "7 sqft sqft",
@@ -10414,10 +9319,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹50,000",
+      "display_price": "\u20b950,000",
       "price_value": 50000,
-      "price_per_sqft": "₹45 /sqft",
-      "price_per_marla": "₹10,125 / Marla"
+      "price_per_sqft": "\u20b945 /sqft",
+      "price_per_marla": "\u20b910,125 / Marla"
     },
     "area": {
       "area_display": "1100 sqft sqft",
@@ -10474,10 +9379,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹6,000",
+      "display_price": "\u20b96,000",
       "price_value": 6000,
-      "price_per_sqft": "₹30 /sqft",
-      "price_per_marla": "₹6,750 / Marla"
+      "price_per_sqft": "\u20b930 /sqft",
+      "price_per_marla": "\u20b96,750 / Marla"
     },
     "area": {
       "area_display": "200 sqft sqft",
@@ -10534,10 +9439,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹16,000",
+      "display_price": "\u20b916,000",
       "price_value": 16000,
-      "price_per_sqft": "₹38 /sqft",
-      "price_per_marla": "₹8,550 / Marla"
+      "price_per_sqft": "\u20b938 /sqft",
+      "price_per_marla": "\u20b98,550 / Marla"
     },
     "area": {
       "area_display": "420 sqft sq.ft.",
@@ -10593,10 +9498,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹5,500",
+      "display_price": "\u20b95,500",
       "price_value": 5500,
-      "price_per_sqft": "₹3 /sqft",
-      "price_per_marla": "₹675 / Marla"
+      "price_per_sqft": "\u20b93 /sqft",
+      "price_per_marla": "\u20b9675 / Marla"
     },
     "area": {
       "area_display": "1800 sqft sq.ft.",
@@ -10654,10 +9559,10 @@
     "type_of_property": "Duplex Residential Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹9,000",
+      "display_price": "\u20b99,000",
       "price_value": 9000,
-      "price_per_sqft": "₹9 /sqft",
-      "price_per_marla": "₹2,025 / Marla"
+      "price_per_sqft": "\u20b99 /sqft",
+      "price_per_marla": "\u20b92,025 / Marla"
     },
     "area": {
       "area_display": "1000 sqft sq.ft.",
@@ -10714,10 +9619,10 @@
     "type_of_property": "Residential Apartment",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹9,000",
+      "display_price": "\u20b99,000",
       "price_value": 9000,
-      "price_per_sqft": "₹7 /sqft",
-      "price_per_marla": "₹1,575 / Marla"
+      "price_per_sqft": "\u20b97 /sqft",
+      "price_per_marla": "\u20b91,575 / Marla"
     },
     "area": {
       "area_display": "1200 sqft sqft",
@@ -10773,10 +9678,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹20,000",
+      "display_price": "\u20b920,000",
       "price_value": 20000,
-      "price_per_sqft": "₹7 /sqft",
-      "price_per_marla": "₹1,575 / Marla"
+      "price_per_sqft": "\u20b97 /sqft",
+      "price_per_marla": "\u20b91,575 / Marla"
     },
     "area": {
       "area_display": "2700 sqft sqft",
@@ -10832,10 +9737,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹30,000",
+      "display_price": "\u20b930,000",
       "price_value": 30000,
-      "price_per_sqft": "₹10 /sqft",
-      "price_per_marla": "₹2,250 / Marla"
+      "price_per_sqft": "\u20b910 /sqft",
+      "price_per_marla": "\u20b92,250 / Marla"
     },
     "area": {
       "area_display": "2970 sqft sq.ft.",
@@ -10894,10 +9799,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹7,000",
+      "display_price": "\u20b97,000",
       "price_value": 7000,
-      "price_per_sqft": "₹6 /sqft",
-      "price_per_marla": "₹1,350 / Marla"
+      "price_per_sqft": "\u20b96 /sqft",
+      "price_per_marla": "\u20b91,350 / Marla"
     },
     "area": {
       "area_display": "1150 sqft sq.ft.",
@@ -10951,10 +9856,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹29,000",
+      "display_price": "\u20b929,000",
       "price_value": 29000,
-      "price_per_sqft": "₹10 /sqft",
-      "price_per_marla": "₹2,250 / Marla"
+      "price_per_sqft": "\u20b910 /sqft",
+      "price_per_marla": "\u20b92,250 / Marla"
     },
     "area": {
       "area_display": "2900 sqft sqft",
@@ -11014,10 +9919,10 @@
     "type_of_property": "Other",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹7,000",
+      "display_price": "\u20b97,000",
       "price_value": 7000,
-      "price_per_sqft": "₹3 /sqft",
-      "price_per_marla": "₹675 / Marla"
+      "price_per_sqft": "\u20b93 /sqft",
+      "price_per_marla": "\u20b9675 / Marla"
     },
     "area": {
       "area_display": "2200 sqft sqft",
@@ -11071,10 +9976,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹10,000",
+      "display_price": "\u20b910,000",
       "price_value": 10000,
-      "price_per_sqft": "₹8 /sqft",
-      "price_per_marla": "₹1,800 / Marla"
+      "price_per_sqft": "\u20b98 /sqft",
+      "price_per_marla": "\u20b91,800 / Marla"
     },
     "area": {
       "area_display": "1200 sqft sq.ft.",
@@ -11126,79 +10031,16 @@
     "status": "Ready to Move"
   },
   {
-    "property_id": "K93437040",
-    "url": "https://www.99acres.com/1-bhk-bedroom-apartment-flat-for-rent-in-vijaypur-jammu-200-sqft-spid-K93437040",
-    "title": "1 BHK Flat for rent in Vijaypur, Jammu",
-    "type_of_property": "Residential Apartment",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹8,000",
-      "price_value": 8000,
-      "price_per_sqft": "₹40 /sqft",
-      "price_per_marla": "₹9,000 / Marla"
-    },
-    "area": {
-      "area_display": "200 sqft sqft",
-      "area_sqm": 18.5806,
-      "area_type": "CARPET_AREA",
-      "area_in_marla": "0.89 Marla"
-    },
-    "address": {
-      "full_address": "1 BHK Flat for rent in Vijaypur, Jammu, Vijaypur, Jammu",
-      "locality": "Vijaypur",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "gurha morh",
-        "SOCIETY_NAME": "gurha morh",
-        "LOCALITY_ID": "1045770",
-        "LOCALITY_NAME": "Vijaypur",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": "1",
-      "bathrooms": "1",
-      "balconies": "1",
-      "summary": "1 Bedrooms, 1 Bathrooms, 1 Balconies"
-    },
-    "property_ownership": null,
-    "floors": "1 of 2 floors",
-    "property_age": "6",
-    "highlights": [
-      "Only for girls and woman. Located in gurha morh, vijaypur, this freshly constructed 1 bhk furnished flat offers 200 sqft of comfortable living on the first floor of a low-Rise building. Featuring a modular kitchen and one bathroom, the apartment is available for immediate rent. Ideal for those seeking a modern, ready-To-Move-In space."
-    ],
-    "key_highlights": [
-      "Residential Apartment",
-      "0.08 Marla (19 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [
-      "Lift",
-      "Amenity ID 36",
-      "Fire Fighting Equipment",
-      "Gymnasium"
-    ],
-    "furnished_components": [
-      "ac",
-      "modular kitchen"
-    ],
-    "status": "Ready to Move"
-  },
-  {
     "property_id": "Z93432612",
     "url": "https://www.99acres.com/1-bhk-bedroom-independent-house-villa-for-rent-in-greater-kailash-jammu-1100-sqft-spid-Z93432612",
     "title": "1 Bedroom House for rent in Greater Kailash, Jammu",
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹12,000",
+      "display_price": "\u20b912,000",
       "price_value": 12000,
-      "price_per_sqft": "₹10 /sqft",
-      "price_per_marla": "₹2,250 / Marla"
+      "price_per_sqft": "\u20b910 /sqft",
+      "price_per_marla": "\u20b92,250 / Marla"
     },
     "area": {
       "area_display": "1100 sqft sqft",
@@ -11252,10 +10094,10 @@
     "type_of_property": "Other",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹10,000",
+      "display_price": "\u20b910,000",
       "price_value": 10000,
-      "price_per_sqft": "₹4 /sqft",
-      "price_per_marla": "₹900 / Marla"
+      "price_per_sqft": "\u20b94 /sqft",
+      "price_per_marla": "\u20b9900 / Marla"
     },
     "area": {
       "area_display": "2250 sqft sqft",
@@ -11309,10 +10151,10 @@
     "type_of_property": "Residential Apartment",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹12,500",
+      "display_price": "\u20b912,500",
       "price_value": 12500,
-      "price_per_sqft": "₹12 /sqft",
-      "price_per_marla": "₹2,700 / Marla"
+      "price_per_sqft": "\u20b912 /sqft",
+      "price_per_marla": "\u20b92,700 / Marla"
     },
     "area": {
       "area_display": "1000 sqft sqft",
@@ -11371,10 +10213,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹20,000",
+      "display_price": "\u20b920,000",
       "price_value": 20000,
-      "price_per_sqft": "₹11 /sqft",
-      "price_per_marla": "₹2,475 / Marla"
+      "price_per_sqft": "\u20b911 /sqft",
+      "price_per_marla": "\u20b92,475 / Marla"
     },
     "area": {
       "area_display": "1800 sqft sqft",
@@ -11431,10 +10273,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹18,000",
+      "display_price": "\u20b918,000",
       "price_value": 18000,
-      "price_per_sqft": "₹1 /sqft",
-      "price_per_marla": "₹225 / Marla"
+      "price_per_sqft": "\u20b91 /sqft",
+      "price_per_marla": "\u20b9225 / Marla"
     },
     "area": {
       "area_display": "12600 sqft sqft",
@@ -11490,10 +10332,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹8,500",
+      "display_price": "\u20b98,500",
       "price_value": 8500,
-      "price_per_sqft": "₹4 /sqft",
-      "price_per_marla": "₹900 / Marla"
+      "price_per_sqft": "\u20b94 /sqft",
+      "price_per_marla": "\u20b9900 / Marla"
     },
     "area": {
       "area_display": "1905 sqft sqft",
@@ -11549,10 +10391,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹10,000",
+      "display_price": "\u20b910,000",
       "price_value": 10000,
-      "price_per_sqft": "₹7 /sqft",
-      "price_per_marla": "₹1,575 / Marla"
+      "price_per_sqft": "\u20b97 /sqft",
+      "price_per_marla": "\u20b91,575 / Marla"
     },
     "area": {
       "area_display": "1400 sqft sqft",
@@ -11604,76 +10446,16 @@
     "status": "Ready to Move"
   },
   {
-    "property_id": "W93332334",
-    "url": "https://www.99acres.com/2-bhk-bedroom-independent-house-villa-for-rent-in-vijaypur-jammu-2200-sqft-spid-W93332334",
-    "title": "2 Bedroom House for rent in Vijaypur, Jammu",
-    "type_of_property": "Independent House/Villa",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹12,500",
-      "price_value": 12500,
-      "price_per_sqft": "₹5 /sqft",
-      "price_per_marla": "₹1,125 / Marla"
-    },
-    "area": {
-      "area_display": "2200 sqft sqft",
-      "area_sqm": 204.3866,
-      "area_type": "SUPER_AREA",
-      "area_in_marla": "9.78 Marla"
-    },
-    "address": {
-      "full_address": "2 Bedroom House for rent in Vijaypur, Jammu, Vijaypur, Jammu",
-      "locality": "Vijaypur",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "",
-        "SOCIETY_NAME": "",
-        "LOCALITY_ID": "1045770",
-        "LOCALITY_NAME": "Vijaypur",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": "2",
-      "bathrooms": "1",
-      "balconies": "1",
-      "summary": "2 Bedrooms, 1 Bathrooms, 1 Balconies"
-    },
-    "property_ownership": null,
-    "floors": "Total 2 floors",
-    "property_age": "6",
-    "highlights": [
-      "House/villa available for rent in bijapur, jammu. Available at rent of rs 12500 per month. It has plot area of 2200 sq ft. It has 2 bhk, 1 bathroom, 1 balcony."
-    ],
-    "key_highlights": [
-      "Independent House/Villa",
-      "0.91 Marla (204 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [
-      "Lift",
-      "Gymnasium"
-    ],
-    "furnished_components": [
-      "None explicitly mentioned in description"
-    ],
-    "status": "Ready to Move"
-  },
-  {
     "property_id": "W93323964",
     "url": "https://www.99acres.com/2-bhk-bedroom-independent-builder-floor-for-rent-in-sainik-colony-jammu-2700-sqft-spid-W93323964",
     "title": "2 BHK Duplex Builder Floor for rent in Sainik Colony, Jammu",
     "type_of_property": "Duplex Builder Floor",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹16,000",
+      "display_price": "\u20b916,000",
       "price_value": 16000,
-      "price_per_sqft": "₹11 /sqft",
-      "price_per_marla": "₹2,475 / Marla"
+      "price_per_sqft": "\u20b911 /sqft",
+      "price_per_marla": "\u20b92,475 / Marla"
     },
     "area": {
       "area_display": "1400 sqft sqft",
@@ -11728,10 +10510,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹10,000",
+      "display_price": "\u20b910,000",
       "price_value": 10000,
-      "price_per_sqft": "₹8 /sqft",
-      "price_per_marla": "₹1,800 / Marla"
+      "price_per_sqft": "\u20b98 /sqft",
+      "price_per_marla": "\u20b91,800 / Marla"
     },
     "area": {
       "area_display": "1125 sqft sqft",
@@ -11789,10 +10571,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹25,000",
+      "display_price": "\u20b925,000",
       "price_value": 25000,
-      "price_per_sqft": "₹13 /sqft",
-      "price_per_marla": "₹2,925 / Marla"
+      "price_per_sqft": "\u20b913 /sqft",
+      "price_per_marla": "\u20b92,925 / Marla"
     },
     "area": {
       "area_display": "1800 sqft sqft",
@@ -11846,10 +10628,10 @@
     "type_of_property": "Other",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹8,000",
+      "display_price": "\u20b98,000",
       "price_value": 8000,
-      "price_per_sqft": "₹36 /sqft",
-      "price_per_marla": "₹8,100 / Marla"
+      "price_per_sqft": "\u20b936 /sqft",
+      "price_per_marla": "\u20b98,100 / Marla"
     },
     "area": {
       "area_display": "220 sqft sqft",
@@ -11905,10 +10687,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹10,000",
+      "display_price": "\u20b910,000",
       "price_value": 10000,
-      "price_per_sqft": "₹1 /sqft",
-      "price_per_marla": "₹225 / Marla"
+      "price_per_sqft": "\u20b91 /sqft",
+      "price_per_marla": "\u20b9225 / Marla"
     },
     "area": {
       "area_display": "6300 sqft sqft",
@@ -11965,10 +10747,10 @@
     "type_of_property": "Duplex Builder Floor",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹10,000",
+      "display_price": "\u20b910,000",
       "price_value": 10000,
-      "price_per_sqft": "₹14 /sqft",
-      "price_per_marla": "₹3,150 / Marla"
+      "price_per_sqft": "\u20b914 /sqft",
+      "price_per_marla": "\u20b93,150 / Marla"
     },
     "area": {
       "area_display": "700 sqft sqft",
@@ -12023,10 +10805,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹40,000",
+      "display_price": "\u20b940,000",
       "price_value": 40000,
-      "price_per_sqft": "₹16 /sqft",
-      "price_per_marla": "₹3,600 / Marla"
+      "price_per_sqft": "\u20b916 /sqft",
+      "price_per_marla": "\u20b93,600 / Marla"
     },
     "area": {
       "area_display": "2500 sqft sqft",
@@ -12087,10 +10869,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹25,000",
+      "display_price": "\u20b925,000",
       "price_value": 25000,
-      "price_per_sqft": "₹13 /sqft",
-      "price_per_marla": "₹2,925 / Marla"
+      "price_per_sqft": "\u20b913 /sqft",
+      "price_per_marla": "\u20b92,925 / Marla"
     },
     "area": {
       "area_display": "1800 sqft sqft",
@@ -12149,10 +10931,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹5,500",
+      "display_price": "\u20b95,500",
       "price_value": 5500,
-      "price_per_sqft": "₹11 /sqft",
-      "price_per_marla": "₹2,475 / Marla"
+      "price_per_sqft": "\u20b911 /sqft",
+      "price_per_marla": "\u20b92,475 / Marla"
     },
     "area": {
       "area_display": "500 sqft sqft",
@@ -12209,10 +10991,10 @@
     "type_of_property": "Residential Apartment",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹14,000",
+      "display_price": "\u20b914,000",
       "price_value": 14000,
-      "price_per_sqft": "₹11 /sqft",
-      "price_per_marla": "₹2,475 / Marla"
+      "price_per_sqft": "\u20b911 /sqft",
+      "price_per_marla": "\u20b92,475 / Marla"
     },
     "area": {
       "area_display": "1200 sqft sqft",
@@ -12277,10 +11059,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹13,000",
+      "display_price": "\u20b913,000",
       "price_value": 13000,
-      "price_per_sqft": "₹6 /sqft",
-      "price_per_marla": "₹1,350 / Marla"
+      "price_per_sqft": "\u20b96 /sqft",
+      "price_per_marla": "\u20b91,350 / Marla"
     },
     "area": {
       "area_display": "1900 sqft sqft",
@@ -12340,10 +11122,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹16,000",
+      "display_price": "\u20b916,000",
       "price_value": 16000,
-      "price_per_sqft": "₹10 /sqft",
-      "price_per_marla": "₹2,250 / Marla"
+      "price_per_sqft": "\u20b910 /sqft",
+      "price_per_marla": "\u20b92,250 / Marla"
     },
     "area": {
       "area_display": "1500 sqft sqft",
@@ -12400,10 +11182,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹20,000",
+      "display_price": "\u20b920,000",
       "price_value": 20000,
-      "price_per_sqft": "₹10 /sqft",
-      "price_per_marla": "₹2,250 / Marla"
+      "price_per_sqft": "\u20b910 /sqft",
+      "price_per_marla": "\u20b92,250 / Marla"
     },
     "area": {
       "area_display": "2000 sqft sqft",
@@ -12459,10 +11241,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹12,000",
+      "display_price": "\u20b912,000",
       "price_value": 12000,
-      "price_per_sqft": "₹8 /sqft",
-      "price_per_marla": "₹1,800 / Marla"
+      "price_per_sqft": "\u20b98 /sqft",
+      "price_per_marla": "\u20b91,800 / Marla"
     },
     "area": {
       "area_display": "1500 sqft sqft",
@@ -12519,10 +11301,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
-      "price_per_sqft": "₹13 /sqft",
-      "price_per_marla": "₹2,925 / Marla"
+      "price_per_sqft": "\u20b913 /sqft",
+      "price_per_marla": "\u20b92,925 / Marla"
     },
     "area": {
       "area_display": "1125 sqft sqft",
@@ -12570,79 +11352,16 @@
     "status": "Ready to Move"
   },
   {
-    "property_id": "B92365714",
-    "url": "https://www.99acres.com/2-bhk-bedroom-apartment-flat-for-rent-in-jakh-jammu-400-sqft-spid-B92365714",
-    "title": "2 BHK Flat for rent in Jakh, Jammu",
-    "type_of_property": "Residential Apartment",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹8,000",
-      "price_value": 8000,
-      "price_per_sqft": "₹20 /sqft",
-      "price_per_marla": "₹4,500 / Marla"
-    },
-    "area": {
-      "area_display": "400 sqft sqft",
-      "area_sqm": 37.1612,
-      "area_type": "CARPET_AREA",
-      "area_in_marla": "1.78 Marla"
-    },
-    "address": {
-      "full_address": "2 BHK Flat for rent in Jakh, Jammu, Jakh, Jammu",
-      "locality": "Jakh",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "no name",
-        "SOCIETY_NAME": "no name",
-        "LOCALITY_ID": "1135199",
-        "LOCALITY_NAME": "Jakh",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": "2",
-      "bathrooms": "2",
-      "balconies": "1",
-      "summary": "2 Bedrooms, 2 Bathrooms, 1 Balconies"
-    },
-    "property_ownership": null,
-    "floors": "1 of 1 floors",
-    "property_age": "6",
-    "highlights": [
-      "This property is near the nh-44. Property is in proximity to central university of jammu.\n\nPreferably for a family or students.\nAmenities also include bed, closet/almirah, study table and chair."
-    ],
-    "key_highlights": [
-      "Residential Apartment",
-      "0.17 Marla (37 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [
-      "Power Backup",
-      "Lift",
-      "Piped Gas",
-      "Internet/Wi-Fi",
-      "Fire Fighting Equipment"
-    ],
-    "furnished_components": [
-      "bed"
-    ],
-    "status": "Ready to Move"
-  },
-  {
     "property_id": "Z67560252",
     "url": "https://www.99acres.com/1-bhk-bedroom-apartment-flat-for-rent-in-suraj-nagar-jammu-220-sqft-r5-spid-Z67560252",
     "title": "1 BHK Flat for rent in Suraj Nagar, Jammu",
     "type_of_property": "Residential Apartment",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹7,000",
+      "display_price": "\u20b97,000",
       "price_value": 7000,
-      "price_per_sqft": "₹31 /sqft",
-      "price_per_marla": "₹6,975 / Marla"
+      "price_per_sqft": "\u20b931 /sqft",
+      "price_per_marla": "\u20b96,975 / Marla"
     },
     "area": {
       "area_display": "220 sqft sqft",
@@ -12699,10 +11418,10 @@
     "type_of_property": "Residential Apartment",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹10,000",
+      "display_price": "\u20b910,000",
       "price_value": 10000,
-      "price_per_sqft": "₹8 /sqft",
-      "price_per_marla": "₹1,800 / Marla"
+      "price_per_sqft": "\u20b98 /sqft",
+      "price_per_marla": "\u20b91,800 / Marla"
     },
     "area": {
       "area_display": "1200 sqft sqft",
@@ -12758,10 +11477,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹22,000",
+      "display_price": "\u20b922,000",
       "price_value": 22000,
-      "price_per_sqft": "₹7 /sqft",
-      "price_per_marla": "₹1,575 / Marla"
+      "price_per_sqft": "\u20b97 /sqft",
+      "price_per_marla": "\u20b91,575 / Marla"
     },
     "area": {
       "area_display": "2900 sqft sqft",
@@ -12818,10 +11537,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
-      "price_per_sqft": "₹5 /sqft",
-      "price_per_marla": "₹1,125 / Marla"
+      "price_per_sqft": "\u20b95 /sqft",
+      "price_per_marla": "\u20b91,125 / Marla"
     },
     "area": {
       "area_display": "2700 sqft sqft",
@@ -12880,10 +11599,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹25,000",
+      "display_price": "\u20b925,000",
       "price_value": 25000,
-      "price_per_sqft": "₹12 /sqft",
-      "price_per_marla": "₹2,700 / Marla"
+      "price_per_sqft": "\u20b912 /sqft",
+      "price_per_marla": "\u20b92,700 / Marla"
     },
     "area": {
       "area_display": "2000 sqft sqft",
@@ -12937,10 +11656,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹9,000",
+      "display_price": "\u20b99,000",
       "price_value": 9000,
-      "price_per_sqft": "₹4 /sqft",
-      "price_per_marla": "₹900 / Marla"
+      "price_per_sqft": "\u20b94 /sqft",
+      "price_per_marla": "\u20b9900 / Marla"
     },
     "area": {
       "area_display": "2000 sqft sqft",
@@ -12998,10 +11717,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹16,000",
+      "display_price": "\u20b916,000",
       "price_value": 16000,
-      "price_per_sqft": "₹28 /sqft",
-      "price_per_marla": "₹6,300 / Marla"
+      "price_per_sqft": "\u20b928 /sqft",
+      "price_per_marla": "\u20b96,300 / Marla"
     },
     "area": {
       "area_display": "560 sqft sqft",
@@ -13057,10 +11776,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹25,000",
+      "display_price": "\u20b925,000",
       "price_value": 25000,
-      "price_per_sqft": "₹19 /sqft",
-      "price_per_marla": "₹4,275 / Marla"
+      "price_per_sqft": "\u20b919 /sqft",
+      "price_per_marla": "\u20b94,275 / Marla"
     },
     "area": {
       "area_display": "1300 sqft sqft",
@@ -13119,10 +11838,10 @@
     "type_of_property": "Residential Apartment",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹5,500",
+      "display_price": "\u20b95,500",
       "price_value": 5500,
-      "price_per_sqft": "₹5 /sqft",
-      "price_per_marla": "₹1,125 / Marla"
+      "price_per_sqft": "\u20b95 /sqft",
+      "price_per_marla": "\u20b91,125 / Marla"
     },
     "area": {
       "area_display": "1000 sqft sqft",
@@ -13177,10 +11896,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹20,000",
+      "display_price": "\u20b920,000",
       "price_value": 20000,
-      "price_per_sqft": "₹7 /sqft",
-      "price_per_marla": "₹1,575 / Marla"
+      "price_per_sqft": "\u20b97 /sqft",
+      "price_per_marla": "\u20b91,575 / Marla"
     },
     "area": {
       "area_display": "2700 sqft sq.ft.",
@@ -13243,10 +11962,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹12,000",
+      "display_price": "\u20b912,000",
       "price_value": 12000,
-      "price_per_sqft": "₹24 /sqft",
-      "price_per_marla": "₹5,400 / Marla"
+      "price_per_sqft": "\u20b924 /sqft",
+      "price_per_marla": "\u20b95,400 / Marla"
     },
     "area": {
       "area_display": "500 sqft sqft",
@@ -13302,10 +12021,10 @@
     "type_of_property": "Independent House/Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹20,000",
+      "display_price": "\u20b920,000",
       "price_value": 20000,
-      "price_per_sqft": "₹6 /sqft",
-      "price_per_marla": "₹1,350 / Marla"
+      "price_per_sqft": "\u20b96 /sqft",
+      "price_per_marla": "\u20b91,350 / Marla"
     },
     "area": {
       "area_display": "3240 sqft sqft",
@@ -13359,10 +12078,10 @@
     "type_of_property": "Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹9,000",
+      "display_price": "\u20b99,000",
       "price_value": 9000,
-      "price_per_sqft": "₹5 /sqft",
-      "price_per_marla": "₹1,125 / Marla"
+      "price_per_sqft": "\u20b95 /sqft",
+      "price_per_marla": "\u20b91,125 / Marla"
     },
     "area": {
       "area_display": "1700 sqft sqft",
@@ -13418,10 +12137,10 @@
     "type_of_property": "Duplex Builder Floor",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹6,500",
+      "display_price": "\u20b96,500",
       "price_value": 6500,
-      "price_per_sqft": "₹5 /sqft",
-      "price_per_marla": "₹1,125 / Marla"
+      "price_per_sqft": "\u20b95 /sqft",
+      "price_per_marla": "\u20b91,125 / Marla"
     },
     "area": {
       "area_display": "1250 sqft sqft",
@@ -13465,6 +12184,124 @@
     "amenities": [
       "Fire Fighting Equipment",
       "Conference Room"
+    ],
+    "furnished_components": [
+      "None explicitly mentioned in description"
+    ],
+    "status": "Ready to Move"
+  },
+  {
+    "property_id": "B95517452",
+    "url": "https://www.99acres.com/2-bhk-bedroom-independent-house-villa-for-rent-in-kunjwani-jammu-1200-sqft-spid-B95517452",
+    "title": "2 Bedroom House for rent in Kunjwani, Jammu",
+    "type_of_property": "Independent House/Villa",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "\u20b912,000",
+      "price_value": 12000,
+      "price_per_sqft": "\u20b910 /sqft",
+      "price_per_marla": "\u20b92,250 / Marla"
+    },
+    "area": {
+      "area_display": "1200 sqft sq.ft.",
+      "area_sqm": 1200,
+      "area_type": "SUPER_AREA",
+      "area_in_marla": "5.33 Marla"
+    },
+    "address": {
+      "full_address": "2 Bedroom House for rent in Kunjwani, Jammu, Kunjwani, Jammu",
+      "locality": "Kunjwani",
+      "city": "Jammu",
+      "coordinates": {
+        "CITY": "111",
+        "CITY_NAME": "Jammu",
+        "BUILDING_ID": "0",
+        "BUILDING_NAME": "",
+        "SOCIETY_NAME": "",
+        "LOCALITY_ID": "903409",
+        "LOCALITY_NAME": "Kunjwani",
+        "CITY_SEO_ENTITY_LABEL": "Jammu"
+      }
+    },
+    "configuration": {
+      "bedrooms": "2",
+      "bathrooms": "1",
+      "balconies": "1",
+      "summary": "2 Bedrooms, 1 Bathrooms, 1 Balconies"
+    },
+    "property_ownership": null,
+    "floors": "G,1,2 of 3 floors",
+    "property_age": "1-5 years",
+    "highlights": [
+      "Situated in kunjwani, opposite vishal mega mart, this furnished 4 bhk independent villa spans 1200 sqft across ground, first, and second floors. With 4 bedrooms and 3 bathrooms, its a 5-10 year old property available for immediate rent from november 1, 2026. Ideal for those seeking ready-To-Move-In comfort in a convenient location."
+    ],
+    "key_highlights": [
+      "Independent House/Villa",
+      "5.33 Marla (1200 sqft)",
+      "Unfurnished",
+      "Ready to Move"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "bed",
+      "ac"
+    ],
+    "status": "Ready to Move"
+  },
+  {
+    "property_id": "G74069521",
+    "url": "https://www.99acres.com/2-bhk-bedroom-independent-builder-floor-for-rent-in-kunjwani-jammu-1400-sqft-r2-spid-G74069521",
+    "title": "2 BHK Builder Floor for rent in Kunjwani, Jammu",
+    "type_of_property": "Builder Floor",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "\u20b914,000",
+      "price_value": 14000,
+      "price_per_sqft": "\u20b92 /sqft",
+      "price_per_marla": "\u20b9450 / Marla"
+    },
+    "area": {
+      "area_display": "5000 sqft sqft",
+      "area_sqm": 464.515,
+      "area_type": "SUPER_AREA",
+      "area_in_marla": "22.22 Marla"
+    },
+    "address": {
+      "full_address": "2 BHK Builder Floor for rent in Kunjwani, Jammu, Kunjwani, Jammu",
+      "locality": "Kunjwani",
+      "city": "Jammu",
+      "coordinates": {
+        "CITY": "111",
+        "CITY_NAME": "Jammu",
+        "BUILDING_ID": "0",
+        "BUILDING_NAME": "",
+        "SOCIETY_NAME": "",
+        "LOCALITY_ID": "903409",
+        "LOCALITY_NAME": "Kunjwani",
+        "CITY_SEO_ENTITY_LABEL": "Jammu"
+      }
+    },
+    "configuration": {
+      "bedrooms": "2",
+      "bathrooms": "1",
+      "balconies": "0",
+      "summary": "2 Bedrooms, 1 Bathrooms, 0 Balconies"
+    },
+    "property_ownership": null,
+    "floors": "G of 2 floors",
+    "property_age": "1-5 years",
+    "highlights": [
+      "Builder floor available for rent in kunjwani, jammu. Available at rent of rs 15000 per month. It has super area of 1400 sq ft. It has 2 bhk, 1 bathroom, 0 balcony."
+    ],
+    "key_highlights": [
+      "Builder Floor",
+      "2.06 Marla (465 sqft)",
+      "Unfurnished",
+      "Ready to Move"
+    ],
+    "amenities": [
+      "Internet/Wi-Fi",
+      "Amenity ID 19"
     ],
     "furnished_components": [
       "None explicitly mentioned in description"

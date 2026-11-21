@@ -1,0 +1,6105 @@
+[
+  {
+    "property_id": "12655663",
+    "url": "https://housing.com/in/buy/resale/page/12655663-2-bhk-apartment-in-channi-himmat-for-rs-5500000-v3",
+    "title": "2 BHK Flat",
+    "type_of_property": "Apartment / Flat",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "₹55.0 L",
+      "price_value": 5500000,
+      "price_per_sqft": "₹5.67 K/sq.ft",
+      "price_per_marla": "₹12.76 L / Marla"
+    },
+    "area": {
+      "area_display": "970 sq.ft",
+      "area_sqft": 970.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "4.31 Marla"
+    },
+    "address": {
+      "full_address": "Channi Himmat, Jammu",
+      "locality": "Channi Himmat",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.692392",
+        "longitude": "74.894569"
+      }
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "balconies": "1",
+      "parking": "No Parking",
+      "summary": "2 BHK / Bedrooms, 2 Bathrooms, 1 Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": "3 of 3",
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Apartment / Flat",
+      "Ready to move",
+      "Unfurnished",
+      "Floor: 3 of 3",
+      "4.31 Marla (970 sq.ft)"
+    ],
+    "amenities": [
+      "Gated Community",
+      "Water Supply"
+    ],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "15366038",
+    "url": "https://housing.com/in/buy/resale/page/15366038-residential-plot-in-trikuta-nagar-for-rs-5500000-v2",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹55.0 L",
+      "price_value": 5500000,
+      "price_per_sqft": "₹4.04 K/sq.ft",
+      "price_per_marla": "₹9.11 L / Marla"
+    },
+    "area": {
+      "area_display": "1360 sq.ft",
+      "area_sqft": 1360.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "6.04 Marla"
+    },
+    "address": {
+      "full_address": "Trikuta Nagar, Jammu",
+      "locality": "Trikuta Nagar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.692952",
+        "longitude": "74.877051"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "20 Year Old",
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "6.04 Marla (1360 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "15671868",
+    "url": "https://housing.com/in/buy/resale/page/15671868-residential-plot-in-channi-himmat-for-rs-350000-v3",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹3.5 L",
+      "price_value": 350000,
+      "price_per_sqft": "₹583/sq.yd",
+      "price_per_marla": "₹1.31 L / Marla"
+    },
+    "area": {
+      "area_display": "600 sq.yd",
+      "area_sqft": 600.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "2.67 Marla"
+    },
+    "address": {
+      "full_address": "Channi Himmat, Jammu",
+      "locality": "Channi Himmat",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.692392",
+        "longitude": "74.894569"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "20 Year Old",
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "2.67 Marla (600 sq.yd)"
+    ],
+    "amenities": [
+      "Gym",
+      "Garden"
+    ],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "15725327",
+    "url": "https://housing.com/in/buy/resale/page/15725327-2-bhk-apartment-in-patta-bohri-for-rs-3000000-v3",
+    "title": "2 BHK Flat",
+    "type_of_property": "Apartment / Flat",
+    "furnished_status": "Semi Furnished",
+    "price": {
+      "display_price": "₹30.0 L",
+      "price_value": 3000000,
+      "price_per_sqft": "₹7.5 K/sq.ft",
+      "price_per_marla": "₹16.85 L / Marla"
+    },
+    "area": {
+      "area_display": "400 sq.ft",
+      "area_sqft": 400.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "1.78 Marla"
+    },
+    "address": {
+      "full_address": "Manorama Vihar, Patta Bohri",
+      "locality": "Manorama Vihar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.744662",
+        "longitude": "74.820738"
+      }
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "balconies": "1",
+      "parking": "No Parking",
+      "summary": "2 BHK / Bedrooms, 2 Bathrooms, 1 Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Apartment / Flat",
+      "1st Dec, 2024",
+      "Semi Furnished",
+      "1.78 Marla (400 sq.ft)"
+    ],
+    "amenities": [
+      "Parking"
+    ],
+    "furnished_components": [
+      "Semi Furnished (fixtures/woodwork included)"
+    ],
+    "status": "1st Dec, 2024"
+  },
+  {
+    "property_id": "15829841",
+    "url": "https://housing.com/in/buy/resale/page/15829841-7-bhk-independent-house-in-lower-shiv-nagar-for-rs-15000000",
+    "title": "7 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Fully Furnished",
+    "price": {
+      "display_price": "₹1.5 Cr",
+      "price_value": 15000000,
+      "price_per_sqft": "₹3.44 K/sq.ft",
+      "price_per_marla": "₹7.75 L / Marla"
+    },
+    "area": {
+      "area_display": "4356 sq.ft",
+      "area_sqft": 4356.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "19.36 Marla"
+    },
+    "address": {
+      "full_address": "Shakti Nagar, Lower Shiv Nagar",
+      "locality": "Shakti Nagar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.737358",
+        "longitude": "74.839747"
+      }
+    },
+    "configuration": {
+      "bedrooms": 7,
+      "bathrooms": 4,
+      "balconies": "2",
+      "parking": "No Parking",
+      "summary": "7 BHK / Bedrooms, 4 Bathrooms, 2 Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Fully Furnished",
+      "19.36 Marla (4356 sq.ft)"
+    ],
+    "amenities": [
+      "Power Backup",
+      "Pet Allowed",
+      "Garden",
+      "Water Supply",
+      "Servent Room",
+      "Gas Pipeline"
+    ],
+    "furnished_components": [
+      "Fully Furnished with essential fixtures & fittings"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "16303241",
+    "url": "https://housing.com/in/buy/resale/page/16303241-2.5-bhk-independent-house-in-gangayal-for-rs-12000000",
+    "title": "2.5 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Semi Furnished",
+    "price": {
+      "display_price": "₹1.2 Cr",
+      "price_value": 12000000,
+      "price_per_sqft": "₹4.64 K/sq.ft",
+      "price_per_marla": "₹10.44 L / Marla"
+    },
+    "area": {
+      "area_display": "2586 sq.ft",
+      "area_sqft": 2586.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "11.49 Marla"
+    },
+    "address": {
+      "full_address": "Sector 2, Gangayal",
+      "locality": "Sector 2",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.667362",
+        "longitude": "74.862044"
+      }
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 4,
+      "balconies": "1",
+      "parking": "No Parking",
+      "summary": "3 BHK / Bedrooms, 4 Bathrooms, 1 Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Semi Furnished",
+      "11.49 Marla (2586 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi Furnished (fixtures/woodwork included)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "17077604",
+    "url": "https://housing.com/in/buy/resale/page/17077604-5-bhk-independent-house-in-dharmal-for-rs-12500000",
+    "title": "5 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Semi Furnished",
+    "price": {
+      "display_price": "₹1.25 Cr",
+      "price_value": 12500000,
+      "price_per_sqft": "₹4.54 K/sq.ft",
+      "price_per_marla": "₹10.23 L / Marla"
+    },
+    "area": {
+      "area_display": "2750 sq.ft",
+      "area_sqft": 2750.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "12.22 Marla"
+    },
+    "address": {
+      "full_address": "Barnai, Dharmal",
+      "locality": "Barnai",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.768982",
+        "longitude": "74.811233"
+      }
+    },
+    "configuration": {
+      "bedrooms": 5,
+      "bathrooms": 5,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "5 BHK / Bedrooms, 5 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Semi Furnished",
+      "12.22 Marla (2750 sq.ft)"
+    ],
+    "amenities": [
+      "Garden"
+    ],
+    "furnished_components": [
+      "Semi Furnished (fixtures/woodwork included)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "17743667",
+    "url": "https://housing.com/in/buy/resale/page/17743667-residential-plot-in-talab-tillo-for-rs-8900000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹89.0 L",
+      "price_value": 8900000,
+      "price_per_sqft": "₹2.72 K/sq.ft",
+      "price_per_marla": "₹6.13 L / Marla"
+    },
+    "area": {
+      "area_display": "3267 sq.ft",
+      "area_sqft": 3267.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "14.52 Marla"
+    },
+    "address": {
+      "full_address": "Talab Tillo, Jammu",
+      "locality": "Talab Tillo",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.722613",
+        "longitude": "74.837554"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "14.52 Marla (3267 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "18215888",
+    "url": "https://housing.com/in/buy/resale/page/18215888-5-bhk-independent-house-in-trikuta-nagar-for-rs-28999999-v2",
+    "title": "5 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Semi Furnished",
+    "price": {
+      "display_price": "₹2.9 Cr",
+      "price_value": 28999999,
+      "price_per_sqft": "₹8.66 K/sq.ft",
+      "price_per_marla": "₹19.48 L / Marla"
+    },
+    "area": {
+      "area_display": "3350 sq.ft",
+      "area_sqft": 3350.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "14.89 Marla"
+    },
+    "address": {
+      "full_address": "Trikuta Nagar, Jammu",
+      "locality": "Trikuta Nagar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.695755",
+        "longitude": "74.877028"
+      }
+    },
+    "configuration": {
+      "bedrooms": 5,
+      "bathrooms": 5,
+      "balconies": "4",
+      "parking": "No Parking",
+      "summary": "5 BHK / Bedrooms, 5 Bathrooms, 4 Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "12 Year Old",
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Semi Furnished",
+      "14.89 Marla (3350 sq.ft)"
+    ],
+    "amenities": [
+      "Parking"
+    ],
+    "furnished_components": [
+      "Semi Furnished (fixtures/woodwork included)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "18502153",
+    "url": "https://housing.com/in/buy/resale/page/18502153-residential-plot-in-chowadhi-for-rs-4200000-v2",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹42.0 L",
+      "price_value": 4200000,
+      "price_per_sqft": "₹1.91 K/sq.ft",
+      "price_per_marla": "₹4.29 L / Marla"
+    },
+    "area": {
+      "area_display": "2200 sq.ft",
+      "area_sqft": 2200.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "9.78 Marla"
+    },
+    "address": {
+      "full_address": "Chowadhi, Jammu",
+      "locality": "Chowadhi",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.681338",
+        "longitude": "74.928184"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "9.78 Marla (2200 sq.ft)"
+    ],
+    "amenities": [
+      "Pool"
+    ],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "19002840",
+    "url": "https://housing.com/in/buy/resale/page/19002840-residential-plot-in-bari-brahmana-for-rs-410000-v2",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹4.1 L",
+      "price_value": 410000,
+      "price_per_sqft": "₹200/sq.ft",
+      "price_per_marla": "₹45,204 / Marla"
+    },
+    "area": {
+      "area_display": "2040 sq.ft",
+      "area_sqft": 2040.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "9.07 Marla"
+    },
+    "address": {
+      "full_address": "Anand Vihar, Bari Brahmana",
+      "locality": "Anand Vihar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.636953",
+        "longitude": "74.915031"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "9.07 Marla (2040 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "19209536",
+    "url": "https://housing.com/in/buy/resale/page/19209536-residential-plot-in-bishnah-for-rs-3600000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹36.0 L",
+      "price_value": 3600000,
+      "price_per_sqft": "₹2.57 K/sq.ft",
+      "price_per_marla": "₹5.79 L / Marla"
+    },
+    "area": {
+      "area_display": "1400 sq.ft",
+      "area_sqft": 1400.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "6.22 Marla"
+    },
+    "address": {
+      "full_address": "Bishnah, Jammu",
+      "locality": "Bishnah",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.610819",
+        "longitude": "74.859485"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "6.22 Marla (1400 sq.ft)"
+    ],
+    "amenities": [
+      "Gym"
+    ],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "19218650",
+    "url": "https://housing.com/in/buy/resale/page/19218650-2-bhk-independent-house-in-sanjay-nagar-for-rs-13000000",
+    "title": "2 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Fully Furnished",
+    "price": {
+      "display_price": "₹1.3 Cr",
+      "price_value": 13000000,
+      "price_per_sqft": "₹13 K/sq.ft",
+      "price_per_marla": "₹29.28 L / Marla"
+    },
+    "area": {
+      "area_display": "1000 sq.ft",
+      "area_sqft": 1000.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "4.44 Marla"
+    },
+    "address": {
+      "full_address": "Sanjay Nagar, Jammu",
+      "locality": "Sanjay Nagar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.687123",
+        "longitude": "74.857292"
+      }
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "2 BHK / Bedrooms, 2 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Fully Furnished",
+      "4.44 Marla (1000 sq.ft)"
+    ],
+    "amenities": [
+      "Power Backup",
+      "Water Supply"
+    ],
+    "furnished_components": [
+      "Fully Furnished with essential fixtures & fittings"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "19224562",
+    "url": "https://housing.com/in/buy/resale/page/19224562-2-bhk-independent-house-in-raipur-satwari-for-rs-2500000",
+    "title": "2 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "₹25.0 L",
+      "price_value": 2500000,
+      "price_per_sqft": "₹3.85 K/sq.ft",
+      "price_per_marla": "₹8.65 L / Marla"
+    },
+    "area": {
+      "area_display": "650 sq.ft",
+      "area_sqft": 650.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "2.89 Marla"
+    },
+    "address": {
+      "full_address": "Satwari, Raipur Satwari",
+      "locality": "Satwari",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.684724",
+        "longitude": "74.843403"
+      }
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "balconies": "No Balcony",
+      "parking": "No Parking",
+      "summary": "2 BHK / Bedrooms, 1 Bathrooms, No Balcony Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Unfurnished",
+      "2.89 Marla (650 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "19308829",
+    "url": "https://housing.com/in/buy/resale/page/19308829-residential-plot-in-vijaypur-for-rs-900000000-v2",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹90.0 Cr",
+      "price_value": 900000000,
+      "price_per_sqft": "₹2.73 K/sq.ft",
+      "price_per_marla": "₹6.14 L / Marla"
+    },
+    "area": {
+      "area_display": "330000 sq.ft",
+      "area_sqft": 330000.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "1466.67 Marla"
+    },
+    "address": {
+      "full_address": "Vijaypur, Jammu",
+      "locality": "Vijaypur",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.563342",
+        "longitude": "75.023057"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "5 Year Old",
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "1466.67 Marla (330000 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "19471994",
+    "url": "https://housing.com/in/buy/resale/page/19471994-3-bhk-independent-house-in-gandhi-nagar-for-rs-1990000",
+    "title": "3 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "₹19.9 L",
+      "price_value": 1990000,
+      "price_per_sqft": "₹3.62 K/sq.ft",
+      "price_per_marla": "₹8.16 L / Marla"
+    },
+    "area": {
+      "area_display": "550 sq.ft",
+      "area_sqft": 550.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "2.44 Marla"
+    },
+    "address": {
+      "full_address": "Gandhi Nagar, Jammu",
+      "locality": "Gandhi Nagar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.7050433",
+        "longitude": "74.860596"
+      }
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "balconies": "1",
+      "parking": "No Parking",
+      "summary": "3 BHK / Bedrooms, 2 Bathrooms, 1 Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "1 Years Old",
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Unfurnished",
+      "2.44 Marla (550 sq.ft)"
+    ],
+    "amenities": [
+      "Garden",
+      "Kids Area",
+      "Water Supply"
+    ],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "20859113",
+    "url": "https://housing.com/in/buy/resale/page/20859113-9-bhk-duplex-in-karan-nagar-for-rs-63500000",
+    "title": "9 BHK Duplex",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Fully Furnished",
+    "price": {
+      "display_price": "₹6.35 Cr",
+      "price_value": 63500000,
+      "price_per_sqft": "₹10.58 K/sq.ft",
+      "price_per_marla": "₹23.81 L / Marla"
+    },
+    "area": {
+      "area_display": "6000 sq.ft",
+      "area_sqft": 6000.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "26.67 Marla"
+    },
+    "address": {
+      "full_address": "Karan Nagar, Jammu",
+      "locality": "Karan Nagar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.745873",
+        "longitude": "74.869719"
+      }
+    },
+    "configuration": {
+      "bedrooms": 9,
+      "bathrooms": 8,
+      "balconies": "3",
+      "parking": "No Parking",
+      "summary": "9 BHK / Bedrooms, 8 Bathrooms, 3 Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "13 Year Old",
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Fully Furnished",
+      "26.67 Marla (6000 sq.ft)"
+    ],
+    "amenities": [
+      "Parking",
+      "Gated Community",
+      "Water Supply",
+      "Servent Room"
+    ],
+    "furnished_components": [
+      "Fully Furnished with essential fixtures & fittings"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "20898537",
+    "url": "https://housing.com/in/buy/resale/page/20898537-3-bhk-independent-house-in-raipur-satwari-for-rs-6000000",
+    "title": "3 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Semi Furnished",
+    "price": {
+      "display_price": "₹60.0 L",
+      "price_value": 6000000,
+      "price_per_sqft": "₹2.75 K/sq.ft",
+      "price_per_marla": "₹6.20 L / Marla"
+    },
+    "area": {
+      "area_display": "2178 sq.ft",
+      "area_sqft": 2178.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "9.68 Marla"
+    },
+    "address": {
+      "full_address": "Chatha, Raipur Satwari",
+      "locality": "Chatha",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.68929",
+        "longitude": "74.833106"
+      }
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "balconies": "No Balcony",
+      "parking": "No Parking",
+      "summary": "3 BHK / Bedrooms, 2 Bathrooms, No Balcony Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Semi Furnished",
+      "9.68 Marla (2178 sq.ft)"
+    ],
+    "amenities": [
+      "Parking"
+    ],
+    "furnished_components": [
+      "Semi Furnished (fixtures/woodwork included)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "20905142",
+    "url": "https://housing.com/in/buy/resale/page/20905142-3-bhk-independent-house-in-mishriwala-for-rs-8500000",
+    "title": "3 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "₹85.0 L",
+      "price_value": 8500000,
+      "price_per_sqft": "₹3.12 K/sq.ft",
+      "price_per_marla": "₹7.02 L / Marla"
+    },
+    "area": {
+      "area_display": "2722 sq.ft",
+      "area_sqft": 2722.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "12.1 Marla"
+    },
+    "address": {
+      "full_address": "Mishriwala, Jammu",
+      "locality": "Mishriwala",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.744053",
+        "longitude": "74.804652"
+      }
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "balconies": "No Balcony",
+      "parking": "No Parking",
+      "summary": "3 BHK / Bedrooms, 2 Bathrooms, No Balcony Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "8 Year Old",
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Unfurnished",
+      "12.1 Marla (2722 sq.ft)"
+    ],
+    "amenities": [
+      "Parking",
+      "Garden",
+      "Water Supply"
+    ],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "21137989",
+    "url": "https://housing.com/in/buy/resale/page/21137989-3-bhk-independent-house-in-sunjwan-for-rs-4800000",
+    "title": "3 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Semi Furnished",
+    "price": {
+      "display_price": "₹48.0 L",
+      "price_value": 4800000,
+      "price_per_sqft": "₹3.84 K/sq.ft",
+      "price_per_marla": "₹8.63 L / Marla"
+    },
+    "area": {
+      "area_display": "1250 sq.ft",
+      "area_sqft": 1250.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "5.56 Marla"
+    },
+    "address": {
+      "full_address": "Sunjwan, Jammu",
+      "locality": "Sunjwan",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.686085",
+        "longitude": "74.918884"
+      }
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "balconies": "1",
+      "parking": "No Parking",
+      "summary": "3 BHK / Bedrooms, 2 Bathrooms, 1 Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Semi Furnished",
+      "5.56 Marla (1250 sq.ft)"
+    ],
+    "amenities": [
+      "Parking"
+    ],
+    "furnished_components": [
+      "Semi Furnished (fixtures/woodwork included)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "21138422",
+    "url": "https://housing.com/in/buy/resale/page/21138422-3-bhk-independent-house-in-nagrota-for-rs-9500000",
+    "title": "3 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Semi Furnished",
+    "price": {
+      "display_price": "₹95.0 L",
+      "price_value": 9500000,
+      "price_per_sqft": "₹3.17 K/sq.ft",
+      "price_per_marla": "₹7.13 L / Marla"
+    },
+    "area": {
+      "area_display": "3000 sq.ft",
+      "area_sqft": 3000.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "13.33 Marla"
+    },
+    "address": {
+      "full_address": "Nagrota, Udhampur",
+      "locality": "Nagrota",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.8736455",
+        "longitude": "75.103454"
+      }
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "3 BHK / Bedrooms, 3 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Semi Furnished",
+      "13.33 Marla (3000 sq.ft)"
+    ],
+    "amenities": [
+      "Parking",
+      "Garden",
+      "Kids Area",
+      "Water Supply"
+    ],
+    "furnished_components": [
+      "Semi Furnished (fixtures/woodwork included)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "21150513",
+    "url": "https://housing.com/in/buy/resale/page/21150513-3-bhk-apartment-in-shastri-nagar-for-rs-13200000",
+    "title": "3 BHK Flat",
+    "type_of_property": "Apartment / Flat",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "₹1.32 Cr",
+      "price_value": 13200000,
+      "price_per_sqft": "₹9.04 K/sq.ft",
+      "price_per_marla": "₹20.34 L / Marla"
+    },
+    "area": {
+      "area_display": "1460 sq.ft",
+      "area_sqft": 1460.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "6.49 Marla"
+    },
+    "address": {
+      "full_address": "Shastri Nagar, Jammu",
+      "locality": "Shastri Nagar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.694439",
+        "longitude": "74.855099"
+      }
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "balconies": "1",
+      "parking": "No Parking",
+      "summary": "3 BHK / Bedrooms, 2 Bathrooms, 1 Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": "1 of 2",
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Apartment / Flat",
+      "Ready to move",
+      "Unfurnished",
+      "Floor: 1 of 2",
+      "6.49 Marla (1460 sq.ft)"
+    ],
+    "amenities": [
+      "Parking",
+      "Power Backup",
+      "Garden",
+      "Kids Area",
+      "Gated Community",
+      "Water Supply"
+    ],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "21158712",
+    "url": "https://housing.com/in/buy/resale/page/21158712-1-bhk-independent-floor-in-sidhra-for-rs-4000000",
+    "title": "1 BHK Independent Builder Floor",
+    "type_of_property": "Independent Builder Floor",
+    "furnished_status": "Fully Furnished",
+    "price": {
+      "display_price": "₹40.0 L",
+      "price_value": 4000000,
+      "price_per_sqft": "₹7.27 K/sq.ft",
+      "price_per_marla": "₹16.39 L / Marla"
+    },
+    "area": {
+      "area_display": "550 sq.ft",
+      "area_sqft": 550.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "2.44 Marla"
+    },
+    "address": {
+      "full_address": "Sidhra, Jammu",
+      "locality": "Sidhra",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.759863",
+        "longitude": "74.900032"
+      }
+    },
+    "configuration": {
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "balconies": "1",
+      "parking": "No Parking",
+      "summary": "1 BHK / Bedrooms, 1 Bathrooms, 1 Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": "1 of 3",
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent Builder Floor",
+      "Ready to move",
+      "Fully Furnished",
+      "Floor: 1 of 3",
+      "2.44 Marla (550 sq.ft)"
+    ],
+    "amenities": [
+      "Parking",
+      "Gated Community",
+      "Water Supply"
+    ],
+    "furnished_components": [
+      "Fully Furnished with essential fixtures & fittings"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "21162663",
+    "url": "https://housing.com/in/buy/resale/page/21162663-4-bhk-independent-house-in-channi-rama-for-rs-8700000",
+    "title": "4 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Fully Furnished",
+    "price": {
+      "display_price": "₹87.0 L",
+      "price_value": 8700000,
+      "price_per_sqft": "₹12.43 K/sq.ft",
+      "price_per_marla": "₹27.97 L / Marla"
+    },
+    "area": {
+      "area_display": "700 sq.ft",
+      "area_sqft": 700.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "3.11 Marla"
+    },
+    "address": {
+      "full_address": "Channi Rama, Jammu",
+      "locality": "Channi Rama",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.7014925",
+        "longitude": "74.9238001"
+      }
+    },
+    "configuration": {
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "balconies": "1",
+      "parking": "No Parking",
+      "summary": "4 BHK / Bedrooms, 3 Bathrooms, 1 Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Fully Furnished",
+      "3.11 Marla (700 sq.ft)"
+    ],
+    "amenities": [
+      "Parking"
+    ],
+    "furnished_components": [
+      "Fully Furnished with essential fixtures & fittings"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "21206148",
+    "url": "https://housing.com/in/buy/resale/page/21206148-residential-plot-in-trikuta-nagar-for-rs-27000000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹2.7 Cr",
+      "price_value": 27000000,
+      "price_per_sqft": "₹5.51 K/sq.ft",
+      "price_per_marla": "₹12.40 L / Marla"
+    },
+    "area": {
+      "area_display": "4900 sq.ft",
+      "area_sqft": 4900.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "21.78 Marla"
+    },
+    "address": {
+      "full_address": "Trikuta Nagar, Jammu",
+      "locality": "Trikuta Nagar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.69224415785688",
+        "longitude": "74.8758478090167"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "15 Year Old",
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "21.78 Marla (4900 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "21246785",
+    "url": "https://housing.com/in/buy/resale/page/21246785-residential-plot-in-mishriwala-for-rs-1900000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹42.0 L",
+      "price_value": 4200000,
+      "price_per_sqft": "₹1.54 K/sq.ft",
+      "price_per_marla": "₹3.47 L / Marla"
+    },
+    "area": {
+      "area_display": "2722 sq.ft",
+      "area_sqft": 2722.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "12.1 Marla"
+    },
+    "address": {
+      "full_address": "Mishriwala, Jammu",
+      "locality": "Mishriwala",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.744053",
+        "longitude": "74.804652"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "5th Oct, 2026",
+      "12.1 Marla (2722 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "5th Oct, 2026"
+  },
+  {
+    "property_id": "21254667",
+    "url": "https://housing.com/in/buy/resale/page/21254667-5-bhk-independent-house-in-janipur-for-rs-35000000",
+    "title": "5 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Fully Furnished",
+    "price": {
+      "display_price": "₹40.0 L",
+      "price_value": 4000000,
+      "price_per_sqft": "₹571/sq.ft",
+      "price_per_marla": "₹1.29 L / Marla"
+    },
+    "area": {
+      "area_display": "6997 sq.ft",
+      "area_sqft": 6997.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "31.1 Marla"
+    },
+    "address": {
+      "full_address": "Sarwal, Janipur",
+      "locality": "Sarwal",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.753064",
+        "longitude": "74.860947"
+      }
+    },
+    "configuration": {
+      "bedrooms": 5,
+      "bathrooms": 5,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "5 BHK / Bedrooms, 5 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Fully Furnished",
+      "31.1 Marla (6997 sq.ft)"
+    ],
+    "amenities": [
+      "Gym",
+      "Garden",
+      "Kids Area",
+      "Servent Room",
+      "Gas Pipeline"
+    ],
+    "furnished_components": [
+      "Fully Furnished with essential fixtures & fittings"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "21271701",
+    "url": "https://housing.com/in/buy/resale/page/21271701-4-bhk-independent-house-in-guru-nanak-nagar-for-rs-6500000",
+    "title": "4 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "₹65.0 L",
+      "price_value": 6500000,
+      "price_per_sqft": "₹3.98 K/sq.ft",
+      "price_per_marla": "₹8.95 L / Marla"
+    },
+    "area": {
+      "area_display": "1633 sq.ft",
+      "area_sqft": 1633.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "7.26 Marla"
+    },
+    "address": {
+      "full_address": "Guru Nanak Nagar, Jammu",
+      "locality": "Guru Nanak Nagar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.694451",
+        "longitude": "74.865495"
+      }
+    },
+    "configuration": {
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "balconies": "No Balcony",
+      "parking": "No Parking",
+      "summary": "4 BHK / Bedrooms, 3 Bathrooms, No Balcony Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "30 Year Old",
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Unfurnished",
+      "7.26 Marla (1633 sq.ft)"
+    ],
+    "amenities": [
+      "Parking",
+      "Water Supply"
+    ],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "21292523",
+    "url": "https://housing.com/in/buy/resale/page/21292523-3-bhk-independent-house-in-lower-muthi-for-rs-7500000",
+    "title": "3 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Semi Furnished",
+    "price": {
+      "display_price": "₹75.0 L",
+      "price_value": 7500000,
+      "price_per_sqft": "₹9.38 K/sq.ft",
+      "price_per_marla": "₹21.07 L / Marla"
+    },
+    "area": {
+      "area_display": "800 sq.ft",
+      "area_sqft": 800.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "3.56 Marla"
+    },
+    "address": {
+      "full_address": "Lower Muthi, Jammu",
+      "locality": "Lower Muthi",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.756874",
+        "longitude": "74.802458"
+      }
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "balconies": "1",
+      "parking": "No Parking",
+      "summary": "3 BHK / Bedrooms, 3 Bathrooms, 1 Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Semi Furnished",
+      "3.56 Marla (800 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi Furnished (fixtures/woodwork included)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "21422106",
+    "url": "https://housing.com/in/buy/resale/page/21422106-residential-plot-in-sunjwan-for-rs-4745000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹47.45 L",
+      "price_value": 4745000,
+      "price_per_sqft": "₹2.69 K/sq.ft",
+      "price_per_marla": "₹6.06 L / Marla"
+    },
+    "area": {
+      "area_display": "1762 sq.ft",
+      "area_sqft": 1762.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "7.83 Marla"
+    },
+    "address": {
+      "full_address": "Sunjwan, Jammu",
+      "locality": "Sunjwan",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.693826",
+        "longitude": "74.906262"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "2nd Nov, 2026",
+      "7.83 Marla (1762 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "2nd Nov, 2026"
+  },
+  {
+    "property_id": "5103675",
+    "url": "https://housing.com/in/buy/resale/page/5103675-residential-plot-in-mishriwala-for-rs-2500000-v2",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": "Semi Furnished",
+    "price": {
+      "display_price": "₹25.0 L",
+      "price_value": 2500000,
+      "price_per_sqft": "₹764/sq.ft",
+      "price_per_marla": "₹1.72 L / Marla"
+    },
+    "area": {
+      "area_display": "3270 sq.ft",
+      "area_sqft": 3270.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "14.53 Marla"
+    },
+    "address": {
+      "full_address": "Mishriwala, Jammu",
+      "locality": "Mishriwala",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.742382",
+        "longitude": "74.804277"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "Semi Furnished",
+      "14.53 Marla (3270 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi Furnished (fixtures/woodwork included)"
+    ],
+    "status": "Immediate"
+  },
+  {
+    "property_id": "7172540",
+    "url": "https://housing.com/in/buy/resale/page/7172540-3-bhk-independent-house-in-durga-nagar-for-rs-8900000-v2",
+    "title": "3 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "₹89.0 L",
+      "price_value": 8900000,
+      "price_per_sqft": "₹3.27 K/sq.ft",
+      "price_per_marla": "₹7.36 L / Marla"
+    },
+    "area": {
+      "area_display": "2722 sq.ft",
+      "area_sqft": 2722.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "12.1 Marla"
+    },
+    "address": {
+      "full_address": "Durga Nagar, Jammu",
+      "locality": "Durga Nagar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.770427",
+        "longitude": "74.822932"
+      }
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "balconies": "2",
+      "parking": "No Parking",
+      "summary": "3 BHK / Bedrooms, 2 Bathrooms, 2 Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "15 Year Old",
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Unfurnished",
+      "12.1 Marla (2722 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "12313057",
+    "url": "https://housing.com/in/buy/resale/page/12313057-2-bhk-independent-house-in-anuradhapuram-for-rs-5000000-v3",
+    "title": "2 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Semi Furnished",
+    "price": {
+      "display_price": "₹50.0 L",
+      "price_value": 5000000,
+      "price_per_sqft": "₹3.68 K/sq.ft",
+      "price_per_marla": "₹8.28 L / Marla"
+    },
+    "area": {
+      "area_display": "1360 sq.ft",
+      "area_sqft": 1360.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "6.04 Marla"
+    },
+    "address": {
+      "full_address": "Anuradhapuram, Jammu",
+      "locality": "Anuradhapuram",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.80505",
+        "longitude": "74.824394"
+      }
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "balconies": "2",
+      "parking": "No Parking",
+      "summary": "2 BHK / Bedrooms, 2 Bathrooms, 2 Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "2 Year Old",
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Semi Furnished",
+      "6.04 Marla (1360 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi Furnished (fixtures/woodwork included)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "14022860",
+    "url": "https://housing.com/in/buy/resale/page/14022860-residential-plot-in-purkhoo-for-rs-3000000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹30.0 L",
+      "price_value": 3000000,
+      "price_per_sqft": "₹1.12 K/sq.ft",
+      "price_per_marla": "₹2.53 L / Marla"
+    },
+    "area": {
+      "area_display": "2668 sq.ft",
+      "area_sqft": 2668.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "11.86 Marla"
+    },
+    "address": {
+      "full_address": "Purkhoo, Jammu",
+      "locality": "Purkhoo",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.789854",
+        "longitude": "74.78548"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "11.86 Marla (2668 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "17053331",
+    "url": "https://housing.com/in/buy/resale/page/17053331-4-bhk-independent-house-in-sainik-colony-for-rs-25000000-v2",
+    "title": "4 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Semi Furnished",
+    "price": {
+      "display_price": "₹2.5 Cr",
+      "price_value": 25000000,
+      "price_per_sqft": "₹9.18 K/sq.ft",
+      "price_per_marla": "₹20.66 L / Marla"
+    },
+    "area": {
+      "area_display": "2722 sq.ft",
+      "area_sqft": 2722.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "12.1 Marla"
+    },
+    "address": {
+      "full_address": "Sector E, Sainik Colony",
+      "locality": "Sector E",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.672471",
+        "longitude": "74.912108"
+      }
+    },
+    "configuration": {
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "balconies": "2",
+      "parking": "No Parking",
+      "summary": "4 BHK / Bedrooms, 4 Bathrooms, 2 Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Semi Furnished",
+      "12.1 Marla (2722 sq.ft)"
+    ],
+    "amenities": [
+      "Gym",
+      "Garden",
+      "Servent Room"
+    ],
+    "furnished_components": [
+      "Semi Furnished (fixtures/woodwork included)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "18738083",
+    "url": "https://housing.com/in/buy/resale/page/18738083-3-bhk-independent-house-in-sainik-colony-for-rs-15000000",
+    "title": "3 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Fully Furnished",
+    "price": {
+      "display_price": "₹1.5 Cr",
+      "price_value": 15000000,
+      "price_per_sqft": "₹4.69 K/sq.ft",
+      "price_per_marla": "₹10.55 L / Marla"
+    },
+    "area": {
+      "area_display": "3200 sq.ft",
+      "area_sqft": 3200.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "14.22 Marla"
+    },
+    "address": {
+      "full_address": "Sector E, Sainik Colony",
+      "locality": "Sector E",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.672471",
+        "longitude": "74.912108"
+      }
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "balconies": "No Balcony",
+      "parking": "No Parking",
+      "summary": "3 BHK / Bedrooms, 3 Bathrooms, No Balcony Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Fully Furnished",
+      "14.22 Marla (3200 sq.ft)"
+    ],
+    "amenities": [
+      "Power Backup"
+    ],
+    "furnished_components": [
+      "Fully Furnished with essential fixtures & fittings"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "19357864",
+    "url": "https://housing.com/in/buy/resale/page/19357864-4-rk-independent-house-in-guru-nanak-nagar-for-rs-5000000",
+    "title": "4 RK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Semi Furnished",
+    "price": {
+      "display_price": "₹50.0 L",
+      "price_value": 5000000,
+      "price_per_sqft": "₹3.06 K/sq.ft",
+      "price_per_marla": "₹6.89 L / Marla"
+    },
+    "area": {
+      "area_display": "1633 sq.ft",
+      "area_sqft": 1633.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "7.26 Marla"
+    },
+    "address": {
+      "full_address": "Guru Nanak Nagar, Jammu",
+      "locality": "Guru Nanak Nagar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.694451",
+        "longitude": "74.8654954"
+      }
+    },
+    "configuration": {
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "4 BHK / Bedrooms, 4 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Semi Furnished",
+      "7.26 Marla (1633 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi Furnished (fixtures/woodwork included)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "19359159",
+    "url": "https://housing.com/in/buy/resale/page/19359159-2-bhk-independent-house-in-colonels-colony-for-rs-9970000",
+    "title": "2 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Fully Furnished",
+    "price": {
+      "display_price": "₹99.7 L",
+      "price_value": 9970000,
+      "price_per_sqft": "₹5.66 K/sq.ft",
+      "price_per_marla": "₹12.75 L / Marla"
+    },
+    "area": {
+      "area_display": "1760 sq.ft",
+      "area_sqft": 1760.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "7.82 Marla"
+    },
+    "address": {
+      "full_address": "Colonels Colony, Jammu",
+      "locality": "Colonels Colony",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.734991",
+        "longitude": "74.81938"
+      }
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "balconies": "1",
+      "parking": "No Parking",
+      "summary": "2 BHK / Bedrooms, 2 Bathrooms, 1 Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "4 Year Old",
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Fully Furnished",
+      "7.82 Marla (1760 sq.ft)"
+    ],
+    "amenities": [
+      "Gym",
+      "Power Backup",
+      "Garden",
+      "Water Supply"
+    ],
+    "furnished_components": [
+      "Fully Furnished with essential fixtures & fittings"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "19365672",
+    "url": "https://housing.com/in/buy/resale/page/19365672-residential-plot-in-chinore-for-rs-2600000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹26.0 L",
+      "price_value": 2600000,
+      "price_per_sqft": "₹2.36 K/sq.ft",
+      "price_per_marla": "₹5.32 L / Marla"
+    },
+    "area": {
+      "area_display": "1100 sq.ft",
+      "area_sqft": 1100.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "4.89 Marla"
+    },
+    "address": {
+      "full_address": "Chinore, Jammu",
+      "locality": "Chinore",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.778941",
+        "longitude": "74.836092"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "4.89 Marla (1100 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "19372335",
+    "url": "https://housing.com/in/buy/resale/page/19372335-residential-plot-in-bakshi-nagar-for-rs-8000000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹80.0 L",
+      "price_value": 8000000,
+      "price_per_sqft": "₹1.48 K/sq.ft",
+      "price_per_marla": "₹3.33 L / Marla"
+    },
+    "area": {
+      "area_display": "5400 sq.ft",
+      "area_sqft": 5400.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "24 Marla"
+    },
+    "address": {
+      "full_address": "Shakti Nagar, Bakshi Nagar",
+      "locality": "Shakti Nagar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.734059",
+        "longitude": "74.840456"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "24 Marla (5400 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "20752050",
+    "url": "https://housing.com/in/buy/resale/page/20752050-4-bhk-independent-house-in-janipur-colony-for-rs-4500000",
+    "title": "4 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Fully Furnished",
+    "price": {
+      "display_price": "₹45.0 L",
+      "price_value": 4500000,
+      "price_per_sqft": "₹3.91 K/sq.ft",
+      "price_per_marla": "₹8.81 L / Marla"
+    },
+    "area": {
+      "area_display": "1150 sq.ft",
+      "area_sqft": 1150.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "5.11 Marla"
+    },
+    "address": {
+      "full_address": "Janipur Colony, Jammu",
+      "locality": "Janipur Colony",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.768522",
+        "longitude": "74.8521752"
+      }
+    },
+    "configuration": {
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "4 BHK / Bedrooms, 4 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Fully Furnished",
+      "5.11 Marla (1150 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Fully Furnished with essential fixtures & fittings"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "21007727",
+    "url": "https://housing.com/in/buy/resale/page/21007727-9-bhk-apartment-in-udhampur-for-rs-14000000",
+    "title": "9 BHK Flat",
+    "type_of_property": "Apartment / Flat",
+    "furnished_status": "Semi Furnished",
+    "price": {
+      "display_price": "₹1.4 Cr",
+      "price_value": 14000000,
+      "price_per_sqft": "₹3.5 K/sq.ft",
+      "price_per_marla": "₹7.87 L / Marla"
+    },
+    "area": {
+      "area_display": "4000 sq.ft",
+      "area_sqft": 4000.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "17.78 Marla"
+    },
+    "address": {
+      "full_address": "Udhampur Town, Udhampur",
+      "locality": "Udhampur Town",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.915756",
+        "longitude": "75.131029"
+      }
+    },
+    "configuration": {
+      "bedrooms": 9,
+      "bathrooms": 7,
+      "balconies": "4",
+      "parking": "No Parking",
+      "summary": "9 BHK / Bedrooms, 7 Bathrooms, 4 Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": "4 of 4",
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Apartment / Flat",
+      "Ready to move",
+      "Semi Furnished",
+      "Floor: 4 of 4",
+      "17.78 Marla (4000 sq.ft)"
+    ],
+    "amenities": [
+      "Power Backup",
+      "Water Supply",
+      "Servent Room",
+      "Gas Pipeline"
+    ],
+    "furnished_components": [
+      "Semi Furnished (fixtures/woodwork included)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "21279978",
+    "url": "https://housing.com/in/buy/resale/page/21279978-3.5-bhk-independent-house-in-janipur-for-rs-8000000",
+    "title": "3.5 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Fully Furnished",
+    "price": {
+      "display_price": "₹80.0 L",
+      "price_value": 8000000,
+      "price_per_sqft": "₹10 K/sq.ft",
+      "price_per_marla": "₹22.47 L / Marla"
+    },
+    "area": {
+      "area_display": "800 sq.ft",
+      "area_sqft": 800.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "3.56 Marla"
+    },
+    "address": {
+      "full_address": "Sarwal, Janipur",
+      "locality": "Sarwal",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.753064",
+        "longitude": "74.860947"
+      }
+    },
+    "configuration": {
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "4 BHK / Bedrooms, 2 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Fully Furnished",
+      "3.56 Marla (800 sq.ft)"
+    ],
+    "amenities": [
+      "Parking"
+    ],
+    "furnished_components": [
+      "Fully Furnished with essential fixtures & fittings"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "21350237",
+    "url": "https://housing.com/in/buy/resale/page/21350237-3-bhk-independent-house-in-sunjwan-for-rs-3800000",
+    "title": "3 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Semi Furnished",
+    "price": {
+      "display_price": "₹38.0 L",
+      "price_value": 3800000,
+      "price_per_sqft": "₹4.75 K/sq.ft",
+      "price_per_marla": "₹10.67 L / Marla"
+    },
+    "area": {
+      "area_display": "800 sq.ft",
+      "area_sqft": 800.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "3.56 Marla"
+    },
+    "address": {
+      "full_address": "Sunjwan, Jammu",
+      "locality": "Sunjwan",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.6938264",
+        "longitude": "74.9062622"
+      }
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "3 BHK / Bedrooms, 3 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Semi Furnished",
+      "3.56 Marla (800 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi Furnished (fixtures/woodwork included)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "21374336",
+    "url": "https://housing.com/in/buy/resale/page/21374336-residential-plot-in-majhin-for-rs-8600000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹86.0 L",
+      "price_value": 8600000,
+      "price_per_sqft": "₹4.78 K/sq.ft",
+      "price_per_marla": "₹10.75 L / Marla"
+    },
+    "area": {
+      "area_display": "1800 sq.ft",
+      "area_sqft": 1800.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "8 Marla"
+    },
+    "address": {
+      "full_address": "Majhin, Jammu",
+      "locality": "Majhin",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.72906",
+        "longitude": "74.85912"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "8 Marla (1800 sq.ft)"
+    ],
+    "amenities": [
+      "Garden"
+    ],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "21408814",
+    "url": "https://housing.com/in/buy/resale/page/21408814-2-bhk-independent-house-in-durga-nagar-for-rs-500000",
+    "title": "2 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Semi Furnished",
+    "price": {
+      "display_price": "₹5.0 L",
+      "price_value": 500000,
+      "price_per_sqft": "₹3.31 K/sq.ft",
+      "price_per_marla": "₹7.46 L / Marla"
+    },
+    "area": {
+      "area_display": "151 sq.ft",
+      "area_sqft": 151.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "0.67 Marla"
+    },
+    "address": {
+      "full_address": "Durga Nagar, Jammu",
+      "locality": "Durga Nagar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.770427",
+        "longitude": "74.822932"
+      }
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "2 BHK / Bedrooms, 2 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Semi Furnished",
+      "0.67 Marla (151 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi Furnished (fixtures/woodwork included)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "21411278",
+    "url": "https://housing.com/in/buy/resale/page/21411278-2-bhk-independent-house-in-gorkha-nagar-for-rs-2500000",
+    "title": "2 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Semi Furnished",
+    "price": {
+      "display_price": "₹25.0 L",
+      "price_value": 2500000,
+      "price_per_sqft": "₹4.59 K/sq.ft",
+      "price_per_marla": "₹10.33 L / Marla"
+    },
+    "area": {
+      "area_display": "544 sq.ft",
+      "area_sqft": 544.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "2.42 Marla"
+    },
+    "address": {
+      "full_address": "Gorkha Nagar, Jammu",
+      "locality": "Gorkha Nagar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.7206146",
+        "longitude": "74.8866729"
+      }
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "2 BHK / Bedrooms, 2 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Semi Furnished",
+      "2.42 Marla (544 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi Furnished (fixtures/woodwork included)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "21417847",
+    "url": "https://housing.com/in/buy/resale/page/21417847-6-bhk-independent-house-in-bathindi-for-rs-7500000",
+    "title": "6 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Fully Furnished",
+    "price": {
+      "display_price": "₹75.0 L",
+      "price_value": 7500000,
+      "price_per_sqft": "₹5.55 K/sq.ft",
+      "price_per_marla": "₹12.50 L / Marla"
+    },
+    "area": {
+      "area_display": "1350 sq.ft",
+      "area_sqft": 1350.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "6 Marla"
+    },
+    "address": {
+      "full_address": "Bathindi, Jammu",
+      "locality": "Bathindi",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.7103768",
+        "longitude": "74.9062622"
+      }
+    },
+    "configuration": {
+      "bedrooms": 6,
+      "bathrooms": 6,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "6 BHK / Bedrooms, 6 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Fully Furnished",
+      "6 Marla (1350 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Fully Furnished with essential fixtures & fittings"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "14677067",
+    "url": "https://housing.com/in/buy/resale/page/14677067-4-bhk-independent-house-in-channi-himmat-for-rs-105000000",
+    "title": "4 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Fully Furnished",
+    "price": {
+      "display_price": "₹10.5 Cr",
+      "price_value": 105000000,
+      "price_per_sqft": "₹21 K/sq.ft",
+      "price_per_marla": "₹47.25 L / Marla"
+    },
+    "area": {
+      "area_display": "5000 sq.ft",
+      "area_sqft": 5000.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "22.22 Marla"
+    },
+    "address": {
+      "full_address": "Channi Himmat, Jammu",
+      "locality": "Channi Himmat",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.692392",
+        "longitude": "74.894569"
+      }
+    },
+    "configuration": {
+      "bedrooms": 4,
+      "bathrooms": 5,
+      "balconies": "2",
+      "parking": "No Parking",
+      "summary": "4 BHK / Bedrooms, 5 Bathrooms, 2 Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "5 Year Old",
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Fully Furnished",
+      "22.22 Marla (5000 sq.ft)"
+    ],
+    "amenities": [
+      "Garden",
+      "Gas Pipeline"
+    ],
+    "furnished_components": [
+      "Fully Furnished with essential fixtures & fittings"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "17856606",
+    "url": "https://housing.com/in/buy/resale/page/17856606-2-bhk-independent-house-in-dharmal-for-rs-5000000",
+    "title": "2 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Semi Furnished",
+    "price": {
+      "display_price": "₹50.0 L",
+      "price_value": 5000000,
+      "price_per_sqft": "₹5 K/sq.ft",
+      "price_per_marla": "₹11.26 L / Marla"
+    },
+    "area": {
+      "area_display": "1000 sq.ft",
+      "area_sqft": 1000.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "4.44 Marla"
+    },
+    "address": {
+      "full_address": "Barnai, Dharmal",
+      "locality": "Barnai",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.7689824",
+        "longitude": "74.8112327"
+      }
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "2 BHK / Bedrooms, 2 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Semi Furnished",
+      "4.44 Marla (1000 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi Furnished (fixtures/woodwork included)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "18095051",
+    "url": "https://housing.com/in/buy/resale/page/18095051-residential-plot-in-muthi-for-rs-15000000-v2",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹1.5 Cr",
+      "price_value": 15000000,
+      "price_per_sqft": "₹787/sq.ft",
+      "price_per_marla": "₹1.77 L / Marla"
+    },
+    "area": {
+      "area_display": "19057 sq.ft",
+      "area_sqft": 19057.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "84.7 Marla"
+    },
+    "address": {
+      "full_address": "Muthi, Jammu",
+      "locality": "Muthi",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.758486379791655",
+        "longitude": "74.81258053332567"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "84.7 Marla (19057 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "18148316",
+    "url": "https://housing.com/in/buy/resale/page/18148316-3-bhk-independent-house-in-chinore-for-rs-12000000",
+    "title": "3 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Semi Furnished",
+    "price": {
+      "display_price": "₹1.2 Cr",
+      "price_value": 12000000,
+      "price_per_sqft": "₹4.69 K/sq.ft",
+      "price_per_marla": "₹10.54 L / Marla"
+    },
+    "area": {
+      "area_display": "2560 sq.ft",
+      "area_sqft": 2560.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "11.38 Marla"
+    },
+    "address": {
+      "full_address": "Chinore, Jammu",
+      "locality": "Chinore",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.778941",
+        "longitude": "74.836092"
+      }
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "3 BHK / Bedrooms, 3 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Semi Furnished",
+      "11.38 Marla (2560 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi Furnished (fixtures/woodwork included)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "18241655",
+    "url": "https://housing.com/in/buy/resale/page/18241655-10-bhk-independent-house-in-trikuta-nagar-for-rs-35000000",
+    "title": "10 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "₹3.5 Cr",
+      "price_value": 35000000,
+      "price_per_sqft": "₹12.96 K/sq.ft",
+      "price_per_marla": "₹29.17 L / Marla"
+    },
+    "area": {
+      "area_display": "2700 sq.ft",
+      "area_sqft": 2700.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "12 Marla"
+    },
+    "address": {
+      "full_address": "Trikuta Nagar, Jammu",
+      "locality": "Trikuta Nagar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.6957555",
+        "longitude": "74.8770282"
+      }
+    },
+    "configuration": {
+      "bedrooms": 10,
+      "bathrooms": 10,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "10 BHK / Bedrooms, 10 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Unfurnished",
+      "12 Marla (2700 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "18822986",
+    "url": "https://housing.com/in/buy/resale/page/18822986-residential-plot-in-bari-brahmana-for-rs-600000-v2",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹6.0 L",
+      "price_value": 600000,
+      "price_per_sqft": "₹722/sq.ft",
+      "price_per_marla": "₹1.63 L / Marla"
+    },
+    "area": {
+      "area_display": "830 sq.ft",
+      "area_sqft": 830.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "3.69 Marla"
+    },
+    "address": {
+      "full_address": "Lupin Factories, Bari Brahmana",
+      "locality": "Lupin Factories",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.652813",
+        "longitude": "74.875566"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "3.69 Marla (830 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "18985663",
+    "url": "https://housing.com/in/buy/resale/page/18985663-residential-plot-in-lower-shiv-nagar-for-rs-5500000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹55.0 L",
+      "price_value": 5500000,
+      "price_per_sqft": "₹4.09 K/sq.ft",
+      "price_per_marla": "₹9.21 L / Marla"
+    },
+    "area": {
+      "area_display": "1344 sq.ft",
+      "area_sqft": 1344.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "5.97 Marla"
+    },
+    "address": {
+      "full_address": "Shakti Nagar, Lower Shiv Nagar",
+      "locality": "Shakti Nagar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.7373579",
+        "longitude": "74.8397473"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "5.97 Marla (1344 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "19110237",
+    "url": "https://housing.com/in/buy/resale/page/19110237-residential-plot-in-sunjwan-for-rs-3900000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹39.0 L",
+      "price_value": 3900000,
+      "price_per_sqft": "₹975/sq.ft",
+      "price_per_marla": "₹2.19 L / Marla"
+    },
+    "area": {
+      "area_display": "4000 sq.ft",
+      "area_sqft": 4000.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "17.78 Marla"
+    },
+    "address": {
+      "full_address": "Sunjwan, Jammu",
+      "locality": "Sunjwan",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.686085",
+        "longitude": "74.918884"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "17.78 Marla (4000 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "19224350",
+    "url": "https://housing.com/in/buy/resale/page/19224350-3-bhk-independent-house-in-udhampur-for-rs-15000000",
+    "title": "3 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Semi Furnished",
+    "price": {
+      "display_price": "₹1.5 Cr",
+      "price_value": 15000000,
+      "price_per_sqft": "₹8.33 K/sq.ft",
+      "price_per_marla": "₹18.75 L / Marla"
+    },
+    "area": {
+      "area_display": "1800 sq.ft",
+      "area_sqft": 1800.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "8 Marla"
+    },
+    "address": {
+      "full_address": "Omala, Udhampur Town",
+      "locality": "Omala",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.915756",
+        "longitude": "75.131029"
+      }
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "3 BHK / Bedrooms, 1 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "30 Year Old",
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Semi Furnished",
+      "8 Marla (1800 sq.ft)"
+    ],
+    "amenities": [
+      "Garden",
+      "Water Supply"
+    ],
+    "furnished_components": [
+      "Semi Furnished (fixtures/woodwork included)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "19341859",
+    "url": "https://housing.com/in/buy/resale/page/19341859-2.5-bhk-independent-house-in-sunjwan-for-rs-8500000",
+    "title": "2.5 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Fully Furnished",
+    "price": {
+      "display_price": "₹85.0 L",
+      "price_value": 8500000,
+      "price_per_sqft": "₹5.43 K/sq.ft",
+      "price_per_marla": "₹12.21 L / Marla"
+    },
+    "area": {
+      "area_display": "1565 sq.ft",
+      "area_sqft": 1565.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "6.96 Marla"
+    },
+    "address": {
+      "full_address": "Sunjwan, Jammu",
+      "locality": "Sunjwan",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.693826",
+        "longitude": "74.906262"
+      }
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "3 BHK / Bedrooms, 3 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Fully Furnished",
+      "6.96 Marla (1565 sq.ft)"
+    ],
+    "amenities": [
+      "Kids Area"
+    ],
+    "furnished_components": [
+      "Fully Furnished with essential fixtures & fittings"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "19736768",
+    "url": "https://housing.com/in/buy/resale/page/19736768-residential-plot-in-bari-brahmana-for-rs-291000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹2.91 L",
+      "price_value": 291000,
+      "price_per_sqft": "₹29/sq.ft",
+      "price_per_marla": "₹6,548 / Marla"
+    },
+    "area": {
+      "area_display": "10000 sq.ft",
+      "area_sqft": 10000.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "44.44 Marla"
+    },
+    "address": {
+      "full_address": "Anand Vihar, Bari Brahmana",
+      "locality": "Anand Vihar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.636522",
+        "longitude": "74.914135"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "1 Years Old",
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "44.44 Marla (10000 sq.ft)"
+    ],
+    "amenities": [
+      "Gated Community"
+    ],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "20978670",
+    "url": "https://housing.com/in/buy/resale/page/20978670-4-bhk-independent-house-in-paloura-for-rs-15000000",
+    "title": "4 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Fully Furnished",
+    "price": {
+      "display_price": "₹1.5 Cr",
+      "price_value": 15000000,
+      "price_per_sqft": "₹6 K/sq.ft",
+      "price_per_marla": "₹13.50 L / Marla"
+    },
+    "area": {
+      "area_display": "2500 sq.ft",
+      "area_sqft": 2500.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "11.11 Marla"
+    },
+    "address": {
+      "full_address": "Sector 1, Paloura",
+      "locality": "Sector 1",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.76562881968549",
+        "longitude": "74.83060028403997"
+      }
+    },
+    "configuration": {
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "balconies": "1",
+      "parking": "No Parking",
+      "summary": "4 BHK / Bedrooms, 4 Bathrooms, 1 Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Fully Furnished",
+      "11.11 Marla (2500 sq.ft)"
+    ],
+    "amenities": [
+      "Parking"
+    ],
+    "furnished_components": [
+      "Fully Furnished with essential fixtures & fittings"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "21108170",
+    "url": "https://housing.com/in/buy/resale/page/21108170-residential-plot-in-talab-tillo-for-rs-5200000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹52.0 L",
+      "price_value": 5200000,
+      "price_per_sqft": "₹2.74 K/sq.ft",
+      "price_per_marla": "₹6.16 L / Marla"
+    },
+    "area": {
+      "area_display": "1900 sq.ft",
+      "area_sqft": 1900.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "8.44 Marla"
+    },
+    "address": {
+      "full_address": "Talab Tillo, Jammu",
+      "locality": "Talab Tillo",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.722613",
+        "longitude": "74.837554"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "8.44 Marla (1900 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "21155826",
+    "url": "https://housing.com/in/buy/resale/page/21155826-residential-plot-in-raipur-domana-for-rs-450000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹4.5 L",
+      "price_value": 450000,
+      "price_per_sqft": "₹137/sq.ft",
+      "price_per_marla": "₹30,992 / Marla"
+    },
+    "area": {
+      "area_display": "3267 sq.ft",
+      "area_sqft": 3267.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "14.52 Marla"
+    },
+    "address": {
+      "full_address": "Raipur Domana, Jammu",
+      "locality": "Raipur Domana",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.785124",
+        "longitude": "74.774668"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "14.52 Marla (3267 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "21187055",
+    "url": "https://housing.com/in/buy/resale/page/21187055-2-bhk-independent-house-in-durga-nagar-for-rs-7000000",
+    "title": "2 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "₹70.0 L",
+      "price_value": 7000000,
+      "price_per_sqft": "₹2.86 K/sq.ft",
+      "price_per_marla": "₹6.43 L / Marla"
+    },
+    "area": {
+      "area_display": "2450 sq.ft",
+      "area_sqft": 2450.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "10.89 Marla"
+    },
+    "address": {
+      "full_address": "Durga Nagar, Jammu",
+      "locality": "Durga Nagar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.7704273",
+        "longitude": "74.8229316"
+      }
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "2 BHK / Bedrooms, 2 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Unfurnished",
+      "10.89 Marla (2450 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "21258866",
+    "url": "https://housing.com/in/buy/resale/page/21258866-residential-plot-in-gadigarh-for-rs-8500000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹85.0 L",
+      "price_value": 8500000,
+      "price_per_sqft": "₹3.15 K/sq.ft",
+      "price_per_marla": "₹7.08 L / Marla"
+    },
+    "area": {
+      "area_display": "2700 sq.ft",
+      "area_sqft": 2700.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "12 Marla"
+    },
+    "address": {
+      "full_address": "Gadigarh, Jammu",
+      "locality": "Gadigarh",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.677529",
+        "longitude": "74.852175"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "12 Marla (2700 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "21261477",
+    "url": "https://housing.com/in/buy/resale/page/21261477-1-bhk-independent-house-in-sedhar-for-rs-3500000",
+    "title": "1 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Fully Furnished",
+    "price": {
+      "display_price": "₹35.0 L",
+      "price_value": 3500000,
+      "price_per_sqft": "₹7.78 K/sq.ft",
+      "price_per_marla": "₹17.50 L / Marla"
+    },
+    "area": {
+      "area_display": "450 sq.ft",
+      "area_sqft": 450.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "2 Marla"
+    },
+    "address": {
+      "full_address": "Sedhar, Jammu",
+      "locality": "Sedhar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.7378396",
+        "longitude": "74.849251"
+      }
+    },
+    "configuration": {
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "1 BHK / Bedrooms, 1 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Fully Furnished",
+      "2 Marla (450 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Fully Furnished with essential fixtures & fittings"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "21295363",
+    "url": "https://housing.com/in/buy/resale/page/21295363-residential-plot-in-majhin-for-rs-380000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹3.8 L",
+      "price_value": 380000,
+      "price_per_sqft": "₹126/sq.ft",
+      "price_per_marla": "₹28,507 / Marla"
+    },
+    "area": {
+      "area_display": "3000 sq.ft",
+      "area_sqft": 3000.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "13.33 Marla"
+    },
+    "address": {
+      "full_address": "Majhin, Jammu",
+      "locality": "Majhin",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.72906",
+        "longitude": "74.85912"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "13.33 Marla (3000 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "21302870",
+    "url": "https://housing.com/in/buy/resale/page/21302870-residential-plot-in-sidhra-for-rs-11400000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹1.14 Cr",
+      "price_value": 11400000,
+      "price_per_sqft": "₹1.4 K/sq.ft",
+      "price_per_marla": "₹3.14 L / Marla"
+    },
+    "area": {
+      "area_display": "8160 sq.ft",
+      "area_sqft": 8160.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "36.27 Marla"
+    },
+    "address": {
+      "full_address": "Sidhra, Jammu",
+      "locality": "Sidhra",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.7598632354587",
+        "longitude": "74.9000324588351"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "36.27 Marla (8160 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "21324151",
+    "url": "https://housing.com/in/buy/resale/page/21324151-2-bhk-independent-house-in-gangayal-for-rs-15500000",
+    "title": "2 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "₹1.55 Cr",
+      "price_value": 15500000,
+      "price_per_sqft": "₹5.69 K/sq.ft",
+      "price_per_marla": "₹12.81 L / Marla"
+    },
+    "area": {
+      "area_display": "2722 sq.ft",
+      "area_sqft": 2722.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "12.1 Marla"
+    },
+    "address": {
+      "full_address": "Gangayal, Jammu",
+      "locality": "Gangayal",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.6682911",
+        "longitude": "74.866795"
+      }
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "2 BHK / Bedrooms, 2 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Unfurnished",
+      "12.1 Marla (2722 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "21349899",
+    "url": "https://housing.com/in/buy/resale/page/21349899-residential-plot-in-chowadhi-for-rs-6800000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹68.0 L",
+      "price_value": 6800000,
+      "price_per_sqft": "₹3.11 K/sq.ft",
+      "price_per_marla": "₹7.00 L / Marla"
+    },
+    "area": {
+      "area_display": "2184 sq.ft",
+      "area_sqft": 2184.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "9.71 Marla"
+    },
+    "address": {
+      "full_address": "Chowadhi, Jammu",
+      "locality": "Chowadhi",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.6813378",
+        "longitude": "74.9281842"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "9.71 Marla (2184 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "21366264",
+    "url": "https://housing.com/in/buy/resale/page/21366264-residential-plot-in-channi-himmat-for-rs-1350000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹13.5 L",
+      "price_value": 1350000,
+      "price_per_sqft": "₹168/sq.ft",
+      "price_per_marla": "₹37,964 / Marla"
+    },
+    "area": {
+      "area_display": "8000 sq.ft",
+      "area_sqft": 8000.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "35.56 Marla"
+    },
+    "address": {
+      "full_address": "Channi Himmat, Jammu",
+      "locality": "Channi Himmat",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.692392",
+        "longitude": "74.894569"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "35.56 Marla (8000 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "21376609",
+    "url": "https://housing.com/in/buy/resale/page/21376609-residential-plot-in-upper-gadigarh-for-rs-8500000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹85.0 L",
+      "price_value": 8500000,
+      "price_per_sqft": "₹3.15 K/sq.ft",
+      "price_per_marla": "₹7.08 L / Marla"
+    },
+    "area": {
+      "area_display": "2700 sq.ft",
+      "area_sqft": 2700.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "12 Marla"
+    },
+    "address": {
+      "full_address": "Upper Gadigarh, Jammu",
+      "locality": "Upper Gadigarh",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.670152",
+        "longitude": "74.842672"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "20 Year Old",
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "12 Marla (2700 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "21377318",
+    "url": "https://housing.com/in/buy/resale/page/21377318-residential-plot-in-ajit-nagar-for-rs-8500000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹85.0 L",
+      "price_value": 8500000,
+      "price_per_sqft": "₹3.15 K/sq.ft",
+      "price_per_marla": "₹7.08 L / Marla"
+    },
+    "area": {
+      "area_display": "2700 sq.ft",
+      "area_sqft": 2700.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "12 Marla"
+    },
+    "address": {
+      "full_address": "Ajit Nagar, Jammu",
+      "locality": "Ajit Nagar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.67405",
+        "longitude": "74.846327"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "20 Year Old",
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "12 Marla (2700 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "21377446",
+    "url": "https://housing.com/in/buy/resale/page/21377446-2-bhk-duplex-in-sainik-colony-for-rs-12000000",
+    "title": "2 BHK Duplex",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "₹1.2 Cr",
+      "price_value": 12000000,
+      "price_per_sqft": "₹11.02 K/sq.ft",
+      "price_per_marla": "₹24.79 L / Marla"
+    },
+    "area": {
+      "area_display": "1089 sq.ft",
+      "area_sqft": 1089.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "4.84 Marla"
+    },
+    "address": {
+      "full_address": "Sector E, Sainik Colony",
+      "locality": "Sector E",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.672471",
+        "longitude": "74.912108"
+      }
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "balconies": "2",
+      "parking": "No Parking",
+      "summary": "2 BHK / Bedrooms, 2 Bathrooms, 2 Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": "2 of 2",
+    "property_age": "10 Year Old",
+    "highlights": [
+      "Natural Light"
+    ],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Unfurnished",
+      "Floor: 2 of 2",
+      "4.84 Marla (1089 sq.ft)"
+    ],
+    "amenities": [
+      "Parking"
+    ],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "21377595",
+    "url": "https://housing.com/in/buy/resale/page/21377595-3-bhk-independent-house-in-bishnah-for-rs-1100000",
+    "title": "3 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Fully Furnished",
+    "price": {
+      "display_price": "₹11.0 L",
+      "price_value": 1100000,
+      "price_per_sqft": "₹404/sq.ft",
+      "price_per_marla": "₹90,909 / Marla"
+    },
+    "area": {
+      "area_display": "2722 sq.ft",
+      "area_sqft": 2722.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "12.1 Marla"
+    },
+    "address": {
+      "full_address": "Bishnah, Jammu",
+      "locality": "Bishnah",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.610819",
+        "longitude": "74.859485"
+      }
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "3 BHK / Bedrooms, 3 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Fully Furnished",
+      "12.1 Marla (2722 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Fully Furnished with essential fixtures & fittings"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "21381888",
+    "url": "https://housing.com/in/buy/resale/page/21381888-3-bhk-duplex-in-sanjay-nagar-for-rs-7500000",
+    "title": "3 BHK Duplex",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "₹75.0 L",
+      "price_value": 7500000,
+      "price_per_sqft": "₹5.51 K/sq.ft",
+      "price_per_marla": "₹12.40 L / Marla"
+    },
+    "area": {
+      "area_display": "1361 sq.ft",
+      "area_sqft": 1361.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "6.05 Marla"
+    },
+    "address": {
+      "full_address": "Sanjay Nagar, Jammu",
+      "locality": "Sanjay Nagar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.687123",
+        "longitude": "74.857292"
+      }
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "balconies": "1",
+      "parking": "No Parking",
+      "summary": "3 BHK / Bedrooms, 2 Bathrooms, 1 Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": "2 of 2",
+    "property_age": "15 Year Old",
+    "highlights": [
+      "Close to Railway Station",
+      "Close to Jammu Airport",
+      "Close to Grocery Store",
+      "False Ceiling"
+    ],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Unfurnished",
+      "Floor: 2 of 2",
+      "6.05 Marla (1361 sq.ft)"
+    ],
+    "amenities": [
+      "Parking"
+    ],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "21388753",
+    "url": "https://housing.com/in/buy/resale/page/21388753-residential-plot-in-mishriwala-for-rs-2500000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹25.0 L",
+      "price_value": 2500000,
+      "price_per_sqft": "₹1.85 K/sq.ft",
+      "price_per_marla": "₹4.17 L / Marla"
+    },
+    "area": {
+      "area_display": "1350 sq.ft",
+      "area_sqft": 1350.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "6 Marla"
+    },
+    "address": {
+      "full_address": "Mishriwala, Jammu",
+      "locality": "Mishriwala",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.744053",
+        "longitude": "74.804652"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "1 Years Old",
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "6 Marla (1350 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "5135185",
+    "url": "https://housing.com/in/buy/resale/page/5135185-2-bhk-independent-house-in-sunjwan-for-rs-8000000",
+    "title": "2 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "₹80.0 L",
+      "price_value": 8000000,
+      "price_per_sqft": "₹10 K/sq.ft",
+      "price_per_marla": "₹22.47 L / Marla"
+    },
+    "area": {
+      "area_display": "800 sq.ft",
+      "area_sqft": 800.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "3.56 Marla"
+    },
+    "address": {
+      "full_address": "Sunjwan, Jammu",
+      "locality": "Sunjwan",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.692943",
+        "longitude": "74.90942"
+      }
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "2 BHK / Bedrooms, 2 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Unfurnished",
+      "3.56 Marla (800 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "9334967",
+    "url": "https://housing.com/in/buy/resale/page/9334967-6-bhk-independent-house-in-anuradhapuram-for-rs-7500000-v3",
+    "title": "6 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Fully Furnished",
+    "price": {
+      "display_price": "₹75.0 L",
+      "price_value": 7500000,
+      "price_per_sqft": "₹3 K/sq.ft",
+      "price_per_marla": "₹6.75 L / Marla"
+    },
+    "area": {
+      "area_display": "2500 sq.ft",
+      "area_sqft": 2500.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "11.11 Marla"
+    },
+    "address": {
+      "full_address": "Anuradhapuram, Jammu",
+      "locality": "Anuradhapuram",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.80505",
+        "longitude": "74.824394"
+      }
+    },
+    "configuration": {
+      "bedrooms": 6,
+      "bathrooms": 2,
+      "balconies": "1",
+      "parking": "No Parking",
+      "summary": "6 BHK / Bedrooms, 2 Bathrooms, 1 Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "1 Years Old",
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Fully Furnished",
+      "11.11 Marla (2500 sq.ft)"
+    ],
+    "amenities": [
+      "Parking"
+    ],
+    "furnished_components": [
+      "Fully Furnished with essential fixtures & fittings"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "9880077",
+    "url": "https://housing.com/in/buy/resale/page/9880077-residential-plot-in-sidhra-for-rs-9000000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹90.0 L",
+      "price_value": 9000000,
+      "price_per_sqft": "₹3.31 K/sq.ft",
+      "price_per_marla": "₹7.44 L / Marla"
+    },
+    "area": {
+      "area_display": "2723 sq.ft",
+      "area_sqft": 2723.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "12.1 Marla"
+    },
+    "address": {
+      "full_address": "Sidhra, Jammu",
+      "locality": "Sidhra",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.760042",
+        "longitude": "74.899876"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "15 Year Old",
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "12.1 Marla (2723 sq.ft)"
+    ],
+    "amenities": [
+      "Gym",
+      "Garden",
+      "Gated Community"
+    ],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "18306389",
+    "url": "https://housing.com/in/buy/resale/page/18306389-3-bhk-independent-house-in-rehari-colony-for-rs-12000000-v2",
+    "title": "3 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "₹1.2 Cr",
+      "price_value": 12000000,
+      "price_per_sqft": "₹4.9 K/sq.ft",
+      "price_per_marla": "₹11.02 L / Marla"
+    },
+    "area": {
+      "area_display": "2450 sq.ft",
+      "area_sqft": 2450.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "10.89 Marla"
+    },
+    "address": {
+      "full_address": "Rehari Colony, Jammu",
+      "locality": "Rehari Colony",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.746889",
+        "longitude": "74.849982"
+      }
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "3 BHK / Bedrooms, 3 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Unfurnished",
+      "10.89 Marla (2450 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "18371972",
+    "url": "https://housing.com/in/buy/resale/page/18371972-residential-plot-in-gangyal-industrial-area-for-rs-10000000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹1.0 Cr",
+      "price_value": 10000000,
+      "price_per_sqft": "₹5.25 K/sq.ft",
+      "price_per_marla": "₹11.81 L / Marla"
+    },
+    "area": {
+      "area_display": "1905 sq.ft",
+      "area_sqft": 1905.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "8.47 Marla"
+    },
+    "address": {
+      "full_address": "Gangyal Industrial Area, Jammu",
+      "locality": "Gangyal Industrial Area",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.674886",
+        "longitude": "74.875566"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "8.47 Marla (1905 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "18446325",
+    "url": "https://housing.com/in/buy/resale/page/18446325-residential-plot-in-vijaypur-for-rs-8000000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹80.0 L",
+      "price_value": 8000000,
+      "price_per_sqft": "₹734/sq.ft",
+      "price_per_marla": "₹1.65 L / Marla"
+    },
+    "area": {
+      "area_display": "10890 sq.ft",
+      "area_sqft": 10890.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "48.4 Marla"
+    },
+    "address": {
+      "full_address": "Vijaypur, Jammu",
+      "locality": "Vijaypur",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.5633415384054",
+        "longitude": "75.0230570180302"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "48.4 Marla (10890 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "18954615",
+    "url": "https://housing.com/in/buy/resale/page/18954615-5-bhk-independent-house-in-sunjwan-for-rs-8000000",
+    "title": "5 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "₹80.0 L",
+      "price_value": 8000000,
+      "price_per_sqft": "₹5.33 K/sq.ft",
+      "price_per_marla": "₹11.99 L / Marla"
+    },
+    "area": {
+      "area_display": "1500 sq.ft",
+      "area_sqft": 1500.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "6.67 Marla"
+    },
+    "address": {
+      "full_address": "Sunjwan, Jammu",
+      "locality": "Sunjwan",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.69913",
+        "longitude": "74.900193"
+      }
+    },
+    "configuration": {
+      "bedrooms": 5,
+      "bathrooms": 5,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "5 BHK / Bedrooms, 5 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Unfurnished",
+      "6.67 Marla (1500 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "18955058",
+    "url": "https://housing.com/in/buy/resale/page/18955058-residential-plot-in-canal-road-for-rs-3700000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹37.0 L",
+      "price_value": 3700000,
+      "price_per_sqft": "₹1.94 K/sq.ft",
+      "price_per_marla": "₹4.36 L / Marla"
+    },
+    "area": {
+      "area_display": "1910 sq.ft",
+      "area_sqft": 1910.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "8.49 Marla"
+    },
+    "address": {
+      "full_address": "Canal Road, Jammu",
+      "locality": "Canal Road",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.728577",
+        "longitude": "74.847083"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "5 Year Old",
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "8.49 Marla (1910 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "19030174",
+    "url": "https://housing.com/in/buy/resale/page/19030174-3-bhk-independent-house-in-sidhra-for-rs-4700000",
+    "title": "3 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "₹47.0 L",
+      "price_value": 4700000,
+      "price_per_sqft": "₹3.92 K/sq.ft",
+      "price_per_marla": "₹8.82 L / Marla"
+    },
+    "area": {
+      "area_display": "1200 sq.ft",
+      "area_sqft": 1200.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "5.33 Marla"
+    },
+    "address": {
+      "full_address": "Sidhra, Jammu",
+      "locality": "Sidhra",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.7600421129297",
+        "longitude": "74.8998755969083"
+      }
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "3 BHK / Bedrooms, 3 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Unfurnished",
+      "5.33 Marla (1200 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "19066177",
+    "url": "https://housing.com/in/buy/resale/page/19066177-3-bhk-independent-house-in-greater-kailash-for-rs-18000000",
+    "title": "3 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "₹1.8 Cr",
+      "price_value": 18000000,
+      "price_per_sqft": "₹9 K/sq.ft",
+      "price_per_marla": "₹20.25 L / Marla"
+    },
+    "area": {
+      "area_display": "2000 sq.ft",
+      "area_sqft": 2000.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "8.89 Marla"
+    },
+    "address": {
+      "full_address": "Greater Kailash, Jammu",
+      "locality": "Greater Kailash",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.664803",
+        "longitude": "74.894569"
+      }
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "3 BHK / Bedrooms, 2 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "30 Year Old",
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Unfurnished",
+      "8.89 Marla (2000 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "19108155",
+    "url": "https://housing.com/in/buy/resale/page/19108155-6-bhk-duplex-in-bathindi-for-rs-13500000",
+    "title": "6 BHK Duplex",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Semi Furnished",
+    "price": {
+      "display_price": "₹1.35 Cr",
+      "price_value": 13500000,
+      "price_per_sqft": "₹6.75 K/sq.ft",
+      "price_per_marla": "₹15.19 L / Marla"
+    },
+    "area": {
+      "area_display": "2000 sq.ft",
+      "area_sqft": 2000.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "8.89 Marla"
+    },
+    "address": {
+      "full_address": "Bathindi, Jammu",
+      "locality": "Bathindi",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.7103768",
+        "longitude": "74.9062622"
+      }
+    },
+    "configuration": {
+      "bedrooms": 6,
+      "bathrooms": 6,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "6 BHK / Bedrooms, 6 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Semi Furnished",
+      "8.89 Marla (2000 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi Furnished (fixtures/woodwork included)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "19110013",
+    "url": "https://housing.com/in/buy/resale/page/19110013-5-bhk-independent-house-in-meen-sarkar-for-rs-14000000",
+    "title": "5 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Semi Furnished",
+    "price": {
+      "display_price": "₹1.4 Cr",
+      "price_value": 14000000,
+      "price_per_sqft": "₹25.93 K/sq.ft",
+      "price_per_marla": "₹58.33 L / Marla"
+    },
+    "area": {
+      "area_display": "540 sq.ft",
+      "area_sqft": 540.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "2.4 Marla"
+    },
+    "address": {
+      "full_address": "Meen Sarkar, Jammu",
+      "locality": "Meen Sarkar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.6388376",
+        "longitude": "74.9530257"
+      }
+    },
+    "configuration": {
+      "bedrooms": 5,
+      "bathrooms": 5,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "5 BHK / Bedrooms, 5 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Semi Furnished",
+      "2.4 Marla (540 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi Furnished (fixtures/woodwork included)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "19113661",
+    "url": "https://housing.com/in/buy/resale/page/19113661-residential-plot-in-nardani-bajwan-for-rs-3000000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹30.0 L",
+      "price_value": 3000000,
+      "price_per_sqft": "₹275/sq.ft",
+      "price_per_marla": "₹61,983 / Marla"
+    },
+    "area": {
+      "area_display": "10890 sq.ft",
+      "area_sqft": 10890.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "48.4 Marla"
+    },
+    "address": {
+      "full_address": "Nardani Bajwan, Jammu",
+      "locality": "Nardani Bajwan",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.7923579",
+        "longitude": "74.8331674"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "48.4 Marla (10890 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "19377029",
+    "url": "https://housing.com/in/buy/resale/page/19377029-3-bhk-independent-house-in-trikuta-nagar-for-rs-33300033",
+    "title": "3 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Semi Furnished",
+    "price": {
+      "display_price": "₹3.33 Cr",
+      "price_value": 33300033,
+      "price_per_sqft": "₹6.01 K/sq.ft",
+      "price_per_marla": "₹13.54 L / Marla"
+    },
+    "area": {
+      "area_display": "5536 sq.ft",
+      "area_sqft": 5536.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "24.6 Marla"
+    },
+    "address": {
+      "full_address": "Trikuta Nagar, Jammu",
+      "locality": "Trikuta Nagar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.695755",
+        "longitude": "74.877028"
+      }
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 4,
+      "balconies": "3",
+      "parking": "No Parking",
+      "summary": "3 BHK / Bedrooms, 4 Bathrooms, 3 Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Semi Furnished",
+      "24.6 Marla (5536 sq.ft)"
+    ],
+    "amenities": [
+      "Parking",
+      "Power Backup",
+      "Garden",
+      "Water Supply",
+      "Servent Room"
+    ],
+    "furnished_components": [
+      "Semi Furnished (fixtures/woodwork included)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "20677763",
+    "url": "https://housing.com/in/buy/resale/page/20677763-residential-plot-in-chinore-for-rs-5875000-v2",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹58.75 L",
+      "price_value": 5875000,
+      "price_per_sqft": "₹2.29 K/sq.ft",
+      "price_per_marla": "₹5.15 L / Marla"
+    },
+    "area": {
+      "area_display": "2565 sq.ft",
+      "area_sqft": 2565.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "11.4 Marla"
+    },
+    "address": {
+      "full_address": "Chinore, Jammu",
+      "locality": "Chinore",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.778941",
+        "longitude": "74.836092"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "12 Year Old",
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "11.4 Marla (2565 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "20790550",
+    "url": "https://housing.com/in/buy/resale/page/20790550-residential-plot-in-marh-for-rs-5000000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹50.0 L",
+      "price_value": 5000000,
+      "price_per_sqft": "₹1.84 K/sq.ft",
+      "price_per_marla": "₹4.13 L / Marla"
+    },
+    "area": {
+      "area_display": "2722 sq.ft",
+      "area_sqft": 2722.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "12.1 Marla"
+    },
+    "address": {
+      "full_address": "Marh, Jammu",
+      "locality": "Marh",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.894617",
+        "longitude": "74.836092"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "12.1 Marla (2722 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "20851583",
+    "url": "https://housing.com/in/buy/resale/page/20851583-residential-plot-in-mishriwala-for-rs-2400000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹24.0 L",
+      "price_value": 2400000,
+      "price_per_sqft": "₹1.1 K/sq.ft",
+      "price_per_marla": "₹2.48 L / Marla"
+    },
+    "area": {
+      "area_display": "2178 sq.ft",
+      "area_sqft": 2178.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "9.68 Marla"
+    },
+    "address": {
+      "full_address": "Mishriwala, Jammu",
+      "locality": "Mishriwala",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.7440534",
+        "longitude": "74.8046517"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "9.68 Marla (2178 sq.ft)"
+    ],
+    "amenities": [
+      "Gym",
+      "Gated Community"
+    ],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "20957510",
+    "url": "https://housing.com/in/buy/resale/page/20957510-residential-plot-in-mishriwala-for-rs-9000000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹90.0 L",
+      "price_value": 9000000,
+      "price_per_sqft": "₹1.1 K/sq.ft",
+      "price_per_marla": "₹2.48 L / Marla"
+    },
+    "area": {
+      "area_display": "8167 sq.ft",
+      "area_sqft": 8167.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "36.3 Marla"
+    },
+    "address": {
+      "full_address": "Mishriwala, Jammu",
+      "locality": "Mishriwala",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.7440534",
+        "longitude": "74.8046517"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "36.3 Marla (8167 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "20974891",
+    "url": "https://housing.com/in/buy/resale/page/20974891-2-bhk-independent-house-in-bakshi-nagar-for-rs-9000000",
+    "title": "2 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Semi Furnished",
+    "price": {
+      "display_price": "₹90.0 L",
+      "price_value": 9000000,
+      "price_per_sqft": "₹8.26 K/sq.ft",
+      "price_per_marla": "₹18.60 L / Marla"
+    },
+    "area": {
+      "area_display": "1090 sq.ft",
+      "area_sqft": 1090.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "4.84 Marla"
+    },
+    "address": {
+      "full_address": "Bakshi Nagar, Jammu",
+      "locality": "Bakshi Nagar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.73784",
+        "longitude": "74.849251"
+      }
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "balconies": "No Balcony",
+      "parking": "No Parking",
+      "summary": "2 BHK / Bedrooms, 2 Bathrooms, No Balcony Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Semi Furnished",
+      "4.84 Marla (1090 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi Furnished (fixtures/woodwork included)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "21034961",
+    "url": "https://housing.com/in/buy/resale/page/21034961-8-bhk-independent-house-in-digiana-colony-for-rs-35000000",
+    "title": "8 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "₹3.5 Cr",
+      "price_value": 35000000,
+      "price_per_sqft": "₹7 K/sq.ft",
+      "price_per_marla": "₹15.75 L / Marla"
+    },
+    "area": {
+      "area_display": "5000 sq.ft",
+      "area_sqft": 5000.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "22.22 Marla"
+    },
+    "address": {
+      "full_address": "Digiana Colony, Jammu",
+      "locality": "Digiana Colony",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.683765",
+        "longitude": "74.858023"
+      }
+    },
+    "configuration": {
+      "bedrooms": 8,
+      "bathrooms": 8,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "8 BHK / Bedrooms, 8 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Unfurnished",
+      "22.22 Marla (5000 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "21034987",
+    "url": "https://housing.com/in/buy/resale/page/21034987-4-bhk-independent-house-in-digiana-for-rs-11000000",
+    "title": "4 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Semi Furnished",
+    "price": {
+      "display_price": "₹1.1 Cr",
+      "price_value": 11000000,
+      "price_per_sqft": "₹6.22 K/sq.ft",
+      "price_per_marla": "₹13.99 L / Marla"
+    },
+    "area": {
+      "area_display": "1769 sq.ft",
+      "area_sqft": 1769.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "7.86 Marla"
+    },
+    "address": {
+      "full_address": "Digiana, Jammu",
+      "locality": "Digiana",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.683765",
+        "longitude": "74.8580233"
+      }
+    },
+    "configuration": {
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "4 BHK / Bedrooms, 4 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Semi Furnished",
+      "7.86 Marla (1769 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi Furnished (fixtures/woodwork included)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "21067171",
+    "url": "https://housing.com/in/buy/resale/page/21067171-3-bhk-duplex-in-bhalwal-for-rs-9000000",
+    "title": "3 BHK Duplex",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Fully Furnished",
+    "price": {
+      "display_price": "₹90.0 L",
+      "price_value": 9000000,
+      "price_per_sqft": "₹6.62 K/sq.ft",
+      "price_per_marla": "₹14.90 L / Marla"
+    },
+    "area": {
+      "area_display": "1360 sq.ft",
+      "area_sqft": 1360.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "6.04 Marla"
+    },
+    "address": {
+      "full_address": "Bhalwal, Jammu",
+      "locality": "Bhalwal",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.807572",
+        "longitude": "74.758521"
+      }
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "balconies": "1",
+      "parking": "No Parking",
+      "summary": "3 BHK / Bedrooms, 3 Bathrooms, 1 Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "13th Oct, 2026",
+      "Fully Furnished",
+      "6.04 Marla (1360 sq.ft)"
+    ],
+    "amenities": [
+      "Parking"
+    ],
+    "furnished_components": [
+      "Fully Furnished with essential fixtures & fittings"
+    ],
+    "status": "13th Oct, 2026"
+  },
+  {
+    "property_id": "21070797",
+    "url": "https://housing.com/in/buy/resale/page/21070797-residential-plot-in-chowadhi-for-rs-8250000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹82.5 L",
+      "price_value": 8250000,
+      "price_per_sqft": "₹3.92 K/sq.ft",
+      "price_per_marla": "₹8.81 L / Marla"
+    },
+    "area": {
+      "area_display": "2106 sq.ft",
+      "area_sqft": 2106.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "9.36 Marla"
+    },
+    "address": {
+      "full_address": "Chowadhi, Jammu",
+      "locality": "Chowadhi",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.682447",
+        "longitude": "74.921874"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "6 Year Old",
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "9.36 Marla (2106 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "21086100",
+    "url": "https://housing.com/in/buy/resale/page/21086100-8-bhk-independent-house-in-kheri-for-rs-12000000",
+    "title": "8 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Semi Furnished",
+    "price": {
+      "display_price": "₹1.2 Cr",
+      "price_value": 12000000,
+      "price_per_sqft": "₹3.69 K/sq.ft",
+      "price_per_marla": "₹8.29 L / Marla"
+    },
+    "area": {
+      "area_display": "3256 sq.ft",
+      "area_sqft": 3256.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "14.47 Marla"
+    },
+    "address": {
+      "full_address": "Kheri, Jammu",
+      "locality": "Kheri",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.788325",
+        "longitude": "74.822602"
+      }
+    },
+    "configuration": {
+      "bedrooms": 8,
+      "bathrooms": 8,
+      "balconies": "No Balcony",
+      "parking": "No Parking",
+      "summary": "8 BHK / Bedrooms, 8 Bathrooms, No Balcony Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Semi Furnished",
+      "14.47 Marla (3256 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi Furnished (fixtures/woodwork included)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "21178818",
+    "url": "https://housing.com/in/buy/resale/page/21178818-8-bhk-independent-house-in-resham-ghar-colony-for-rs-10200000",
+    "title": "8 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Fully Furnished",
+    "price": {
+      "display_price": "₹1.02 Cr",
+      "price_value": 10200000,
+      "price_per_sqft": "₹10.74 K/sq.ft",
+      "price_per_marla": "₹24.17 L / Marla"
+    },
+    "area": {
+      "area_display": "950 sq.ft",
+      "area_sqft": 950.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "4.22 Marla"
+    },
+    "address": {
+      "full_address": "Resham Ghar Colony, Jammu",
+      "locality": "Resham Ghar Colony",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.729515",
+        "longitude": "74.854042"
+      }
+    },
+    "configuration": {
+      "bedrooms": 8,
+      "bathrooms": 8,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "8 BHK / Bedrooms, 8 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Fully Furnished",
+      "4.22 Marla (950 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Fully Furnished with essential fixtures & fittings"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "21199600",
+    "url": "https://housing.com/in/buy/resale/page/21199600-residential-plot-in-raipur-domana-for-rs-2400000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹24.0 L",
+      "price_value": 2400000,
+      "price_per_sqft": "₹1.76 K/sq.ft",
+      "price_per_marla": "₹3.97 L / Marla"
+    },
+    "area": {
+      "area_display": "1360 sq.ft",
+      "area_sqft": 1360.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "6.04 Marla"
+    },
+    "address": {
+      "full_address": "Raipur Domana, Jammu",
+      "locality": "Raipur Domana",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.7899265",
+        "longitude": "74.7856385"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "6.04 Marla (1360 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "21238694",
+    "url": "https://housing.com/in/buy/resale/page/21238694-residential-plot-in-vijaypur-for-rs-28000000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹2.8 Cr",
+      "price_value": 28000000,
+      "price_per_sqft": "₹1.92 K/sq.ft",
+      "price_per_marla": "₹4.31 L / Marla"
+    },
+    "area": {
+      "area_display": "14615 sq.ft",
+      "area_sqft": 14615.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "64.96 Marla"
+    },
+    "address": {
+      "full_address": "Vijaypur, Jammu",
+      "locality": "Vijaypur",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.5633415384054",
+        "longitude": "75.0230570180302"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "64.96 Marla (14615 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "21274545",
+    "url": "https://housing.com/in/buy/resale/page/21274545-residential-plot-in-bari-brahmana-for-rs-500000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹5.0 L",
+      "price_value": 500000,
+      "price_per_sqft": "₹1.84 K/sq.ft",
+      "price_per_marla": "₹4.13 L / Marla"
+    },
+    "area": {
+      "area_display": "272 sq.ft",
+      "area_sqft": 272.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "1.21 Marla"
+    },
+    "address": {
+      "full_address": "Anand Vihar, Bari Brahmana",
+      "locality": "Anand Vihar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.636953",
+        "longitude": "74.915031"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "1.21 Marla (272 sq.ft)"
+    ],
+    "amenities": [
+      "Garden"
+    ],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "21294141",
+    "url": "https://housing.com/in/buy/resale/page/21294141-3-bhk-independent-house-in-sainik-colony-extension-for-rs-20000000",
+    "title": "3 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "₹2.0 Cr",
+      "price_value": 20000000,
+      "price_per_sqft": "₹4.44 K/sq.ft",
+      "price_per_marla": "₹10.00 L / Marla"
+    },
+    "area": {
+      "area_display": "4500 sq.ft",
+      "area_sqft": 4500.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "20 Marla"
+    },
+    "address": {
+      "full_address": "Sainik Colony Extension, Jammu",
+      "locality": "Sainik Colony Extension",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.6580613",
+        "longitude": "74.9296456"
+      }
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "3 BHK / Bedrooms, 3 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Unfurnished",
+      "20 Marla (4500 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "21294292",
+    "url": "https://housing.com/in/buy/resale/page/21294292-residential-plot-in-udhampur-for-rs-6000000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹60.0 L",
+      "price_value": 6000000,
+      "price_per_sqft": "₹36/sq.ft",
+      "price_per_marla": "₹8,271 / Marla"
+    },
+    "area": {
+      "area_display": "163216 sq.ft",
+      "area_sqft": 163216.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "725.4 Marla"
+    },
+    "address": {
+      "full_address": "Kaller Himmat, Udhampur Town",
+      "locality": "Kaller Himmat",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.9076298",
+        "longitude": "75.12243"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "725.4 Marla (163216 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate"
+  },
+  {
+    "property_id": "19985",
+    "url": "https://housing.com/in/buy/projects/page/19985-horizon-concept-river-castle-by-horizon-concept-group-in-raipur-satwari",
+    "title": "Horizon Concept River Castle",
+    "type_of_property": "Project",
+    "furnished_status": null,
+    "price": {
+      "display_price": "Price on Request",
+      "price_value": null,
+      "price_per_sqft": "Price on request",
+      "price_per_marla": null
+    },
+    "area": {
+      "area_display": "1200 sq.ft.",
+      "area_sqft": 1200.0,
+      "area_type": "Size",
+      "area_in_marla": "5.33 Marla"
+    },
+    "address": {
+      "full_address": "Raipur Satwari, Jammu",
+      "locality": "Raipur Satwari",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.686985",
+        "longitude": "74.844048"
+      }
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "2 BHK / Bedrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Project",
+      "Ready to Move",
+      "5.33 Marla (1200 sq.ft.)"
+    ],
+    "amenities": [
+      "Pool",
+      "Lift",
+      "Parking"
+    ],
+    "furnished_components": null,
+    "status": "Ready to Move"
+  },
+  {
+    "property_id": "20002",
+    "url": "https://housing.com/in/buy/projects/page/20002-parsvnath-passion-by-parsvnath-developers-ltd-in-kheri",
+    "title": "Parsvnath Passion",
+    "type_of_property": "Project",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹35.81 L",
+      "price_value": 3580500,
+      "price_per_sqft": "₹3.1 K/sq.ft",
+      "price_per_marla": "₹6.98 L / Marla"
+    },
+    "area": {
+      "area_display": "1155 sq.ft.",
+      "area_sqft": 1155.0,
+      "area_type": "Size",
+      "area_in_marla": "5.13 Marla"
+    },
+    "address": {
+      "full_address": "Kheri, Jammu",
+      "locality": "Kheri",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.786426",
+        "longitude": "74.813415"
+      }
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "balconies": null,
+      "parking": null,
+      "summary": "2 BHK / Bedrooms, 2 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Project",
+      "Ready to Move",
+      "5.13 Marla (1155 sq.ft.)"
+    ],
+    "amenities": [
+      "Lift",
+      "Gated Community",
+      "Gas Pipeline"
+    ],
+    "furnished_components": null,
+    "status": "Ready to Move"
+  },
+  {
+    "property_id": "20425",
+    "url": "https://housing.com/in/buy/projects/page/20425-ansal-grace-by-ansal-housing-in-sunjwan",
+    "title": "Ansal Grace",
+    "type_of_property": "Project",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹70.01 L - 1.27 Cr",
+      "price_value": 7000997,
+      "price_per_sqft": "₹6.86 K/sq.ft",
+      "price_per_marla": "₹15.42 L / Marla"
+    },
+    "area": {
+      "area_display": "1021 - 1848 sq.ft.",
+      "area_sqft": 1021.0,
+      "area_type": "Sizes",
+      "area_in_marla": "4.54 Marla"
+    },
+    "address": {
+      "full_address": "Sunjwan, Jammu",
+      "locality": "Sunjwan",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.686085",
+        "longitude": "74.918884"
+      }
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "2 BHK / Bedrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Project",
+      "Ready to Move",
+      "4.54 Marla (1021 - 1848 sq.ft.)"
+    ],
+    "amenities": [
+      "Lift",
+      "Parking"
+    ],
+    "furnished_components": null,
+    "status": "Ready to Move"
+  },
+  {
+    "property_id": "24041",
+    "url": "https://housing.com/in/buy/projects/page/24041-adarsh-royal-palms-by-adarsh-buildestate-limited-in-rajpura-chungi",
+    "title": "Adarsh Royal Palms",
+    "type_of_property": "Project",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹56.08 L - 72.2 L",
+      "price_value": 5608000,
+      "price_per_sqft": "₹4 K/sq.ft",
+      "price_per_marla": "₹9.00 L / Marla"
+    },
+    "area": {
+      "area_display": "1402 - 1805 sq.ft.",
+      "area_sqft": 1402.0,
+      "area_type": "Sizes",
+      "area_in_marla": "6.23 Marla"
+    },
+    "address": {
+      "full_address": "Rajpura Chungi, Jammu",
+      "locality": "Rajpura Chungi",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.743294",
+        "longitude": "74.825935"
+      }
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "3 BHK / Bedrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Project",
+      "Ready to Move",
+      "6.23 Marla (1402 - 1805 sq.ft.)"
+    ],
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Parking",
+      "Gated Community"
+    ],
+    "furnished_components": null,
+    "status": "Ready to Move"
+  },
+  {
+    "property_id": "25944",
+    "url": "https://housing.com/in/buy/projects/page/25944-simula-paradise-avenue-by-simula-infa-development-in-bathindi",
+    "title": "Simula Paradise Avenue",
+    "type_of_property": "Project",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹57.5 L - 66.7 L",
+      "price_value": 5750000,
+      "price_per_sqft": "₹4.6 K/sq.ft",
+      "price_per_marla": "₹10.34 L / Marla"
+    },
+    "area": {
+      "area_display": "1250 - 1450 sq.ft.",
+      "area_sqft": 1250.0,
+      "area_type": "Sizes",
+      "area_in_marla": "5.56 Marla"
+    },
+    "address": {
+      "full_address": "Bathindi, Jammu",
+      "locality": "Bathindi",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.714087",
+        "longitude": "74.897863"
+      }
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "balconies": null,
+      "parking": null,
+      "summary": "2 BHK / Bedrooms, 2 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Project",
+      "Ready to Move",
+      "5.56 Marla (1250 - 1450 sq.ft.)"
+    ],
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Lift",
+      "Gated Community",
+      "Gas Pipeline"
+    ],
+    "furnished_components": null,
+    "status": "Ready to Move"
+  },
+  {
+    "property_id": "28403",
+    "url": "https://housing.com/in/buy/projects/page/28403-gallon-pretty-day-by-gallon-builders-in-sainik-colony",
+    "title": "Gallon Pretty Day",
+    "type_of_property": "Project",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹58.9 L",
+      "price_value": 5890000,
+      "price_per_sqft": "₹3.8 K/sq.ft",
+      "price_per_marla": "₹8.55 L / Marla"
+    },
+    "area": {
+      "area_display": "1550 sq.ft.",
+      "area_sqft": 1550.0,
+      "area_type": "Size",
+      "area_in_marla": "6.89 Marla"
+    },
+    "address": {
+      "full_address": "Sainik Colony, Jammu",
+      "locality": "Sainik Colony",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.678558",
+        "longitude": "74.919064"
+      }
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "balconies": null,
+      "parking": null,
+      "summary": "3 BHK / Bedrooms, 3 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Project",
+      "Ready to Move",
+      "6.89 Marla (1550 sq.ft.)"
+    ],
+    "amenities": [
+      "Gym",
+      "Lift",
+      "Gated Community",
+      "Gas Pipeline"
+    ],
+    "furnished_components": null,
+    "status": "Ready to Move"
+  },
+  {
+    "property_id": "30534",
+    "url": "https://housing.com/in/buy/projects/page/30534-ansal-ansals-grace-by-ansal-housing-in-sainik-colony",
+    "title": "Ansal Ansals Grace",
+    "type_of_property": "Project",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹70.01 L - 1.27 Cr",
+      "price_value": 7000997,
+      "price_per_sqft": "₹6.86 K/sq.ft",
+      "price_per_marla": "₹15.42 L / Marla"
+    },
+    "area": {
+      "area_display": "1021 - 1848 sq.ft.",
+      "area_sqft": 1021.0,
+      "area_type": "Sizes",
+      "area_in_marla": "4.54 Marla"
+    },
+    "address": {
+      "full_address": "Sainik Colony, Jammu",
+      "locality": "Sainik Colony",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.675838",
+        "longitude": "74.911781"
+      }
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "2 BHK / Bedrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Project",
+      "4.54 Marla (1021 - 1848 sq.ft.)"
+    ],
+    "amenities": [
+      "Lift",
+      "Parking"
+    ],
+    "furnished_components": null,
+    "status": null
+  },
+  {
+    "property_id": "33445",
+    "url": "https://housing.com/in/buy/projects/page/33445-adarsh-palm-riviera-by-adarsh-buildestate-limited-in-sidhra",
+    "title": "Adarsh Palm Riviera",
+    "type_of_property": "Project",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹24.98 L - 74.41 L",
+      "price_value": 2497662,
+      "price_per_sqft": "₹4.02 K/sq.ft",
+      "price_per_marla": "₹9.05 L / Marla"
+    },
+    "area": {
+      "area_display": "621 - 1850 sq.ft.",
+      "area_sqft": 621.0,
+      "area_type": "Sizes",
+      "area_in_marla": "2.76 Marla"
+    },
+    "address": {
+      "full_address": "Sidhra, Jammu",
+      "locality": "Sidhra",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.762072",
+        "longitude": "74.899157"
+      }
+    },
+    "configuration": {
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "balconies": null,
+      "parking": null,
+      "summary": "1 BHK / Bedrooms, 1 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Project",
+      "Ready to Move",
+      "2.76 Marla (621 - 1850 sq.ft.)"
+    ],
+    "amenities": [
+      "Pool",
+      "Lift"
+    ],
+    "furnished_components": null,
+    "status": "Ready to Move"
+  },
+  {
+    "property_id": "59734",
+    "url": "https://housing.com/in/buy/projects/page/59734-nidesh-enclave-by-swaraj-homes-builders-developer-in-channi-rama",
+    "title": " Nidesh Enclave",
+    "type_of_property": "Project",
+    "furnished_status": null,
+    "price": {
+      "display_price": "Price on Request",
+      "price_value": null,
+      "price_per_sqft": "Price on request",
+      "price_per_marla": null
+    },
+    "area": {
+      "area_display": null,
+      "area_sqft": null,
+      "area_type": null,
+      "area_in_marla": null
+    },
+    "address": {
+      "full_address": "Channi Rama, Jammu",
+      "locality": "Channi Rama",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.702679",
+        "longitude": "74.926178"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": null
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Project",
+      "Completed"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Completed"
+  },
+  {
+    "property_id": "59740",
+    "url": "https://housing.com/in/buy/projects/page/59740-horizon-concept-aerobera-luxury-apartments-by-horizon-concept-group-in-channi-himmat",
+    "title": "Horizon Concept Aerobera Luxury Apartments",
+    "type_of_property": "Apartment / Flat",
+    "furnished_status": null,
+    "price": {
+      "display_price": "Price on Request",
+      "price_value": null,
+      "price_per_sqft": "Price on request",
+      "price_per_marla": null
+    },
+    "area": {
+      "area_display": "1998 sq.ft.",
+      "area_sqft": 1998.0,
+      "area_type": "Size",
+      "area_in_marla": "8.88 Marla"
+    },
+    "address": {
+      "full_address": "Channi Himmat, Jammu",
+      "locality": "Channi Himmat",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.676895",
+        "longitude": "74.896767"
+      }
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "3 BHK / Bedrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Apartment / Flat",
+      "Completed",
+      "8.88 Marla (1998 sq.ft.)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Completed"
+  },
+  {
+    "property_id": "64419",
+    "url": "https://housing.com/in/buy/projects/page/64419-adarsh-abl-royal-palms-by-adarsh-buildestate-limited-in-rajpura-chungi",
+    "title": "Adarsh ABL Royal Palms",
+    "type_of_property": "Project",
+    "furnished_status": null,
+    "price": {
+      "display_price": "Price on Request",
+      "price_value": null,
+      "price_per_sqft": "Price on request",
+      "price_per_marla": null
+    },
+    "area": {
+      "area_display": "1402 - 1805 sq.ft.",
+      "area_sqft": 1402.0,
+      "area_type": "Sizes",
+      "area_in_marla": "6.23 Marla"
+    },
+    "address": {
+      "full_address": "Rajpura Chungi, Jammu",
+      "locality": "Rajpura Chungi",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.742882",
+        "longitude": "74.828575"
+      }
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "3 BHK / Bedrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Project",
+      "Completed",
+      "6.23 Marla (1402 - 1805 sq.ft.)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Completed"
+  },
+  {
+    "property_id": "65813",
+    "url": "https://housing.com/in/buy/projects/page/65813-omkar-royal-nest-lotus-by-omkar-realtors-developers-in-greater-kailash",
+    "title": "Omkar Royal Nest Lotus",
+    "type_of_property": "Project",
+    "furnished_status": null,
+    "price": {
+      "display_price": "Price on Request",
+      "price_value": null,
+      "price_per_sqft": "Price on request",
+      "price_per_marla": null
+    },
+    "area": {
+      "area_display": null,
+      "area_sqft": null,
+      "area_type": null,
+      "area_in_marla": null
+    },
+    "address": {
+      "full_address": "Greater Kailash, Jammu",
+      "locality": "Greater Kailash",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.668560",
+        "longitude": "74.890450"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": null
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Project",
+      "Completed"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Completed"
+  },
+  {
+    "property_id": "18891720",
+    "url": "https://housing.com/in/buy/resale/page/18891720-3-bhk-independent-house-in-bakshi-nagar-for-rs-17000000-v2",
+    "title": "3 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Fully Furnished",
+    "price": {
+      "display_price": "₹1.7 Cr",
+      "price_value": 17000000,
+      "price_per_sqft": "₹13.08 K/sq.ft",
+      "price_per_marla": "₹29.41 L / Marla"
+    },
+    "area": {
+      "area_display": "1300 sq.ft",
+      "area_sqft": 1300.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "5.78 Marla"
+    },
+    "address": {
+      "full_address": "Bakshi Nagar, Jammu",
+      "locality": "Bakshi Nagar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.73784",
+        "longitude": "74.849251"
+      }
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "3 BHK / Bedrooms, 3 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Fully Furnished",
+      "5.78 Marla (1300 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Fully Furnished with essential fixtures & fittings"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "20848763",
+    "url": "https://housing.com/in/buy/resale/page/20848763-4-bhk-independent-house-in-rohi-for-rs-8500000",
+    "title": "4 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Fully Furnished",
+    "price": {
+      "display_price": "₹85.0 L",
+      "price_value": 8500000,
+      "price_per_sqft": "₹4.36 K/sq.ft",
+      "price_per_marla": "₹9.82 L / Marla"
+    },
+    "area": {
+      "area_display": "1949 sq.ft",
+      "area_sqft": 1949.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "8.66 Marla"
+    },
+    "address": {
+      "full_address": "Rohi, Jammu",
+      "locality": "Rohi",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.662997",
+        "longitude": "74.851268"
+      }
+    },
+    "configuration": {
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "4 BHK / Bedrooms, 4 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Fully Furnished",
+      "8.66 Marla (1949 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Fully Furnished with essential fixtures & fittings"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "20895755",
+    "url": "https://housing.com/in/buy/resale/page/20895755-4-bhk-independent-house-in-udhampur-for-rs-8500000",
+    "title": "4 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "₹85.0 L",
+      "price_value": 8500000,
+      "price_per_sqft": "₹4.25 K/sq.ft",
+      "price_per_marla": "₹9.56 L / Marla"
+    },
+    "area": {
+      "area_display": "2000 sq.ft",
+      "area_sqft": 2000.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "8.89 Marla"
+    },
+    "address": {
+      "full_address": "Udhampur Town, Udhampur",
+      "locality": "Udhampur Town",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.9157557741479",
+        "longitude": "75.1310288141748"
+      }
+    },
+    "configuration": {
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "4 BHK / Bedrooms, 4 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Unfurnished",
+      "8.89 Marla (2000 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": "Ready to move"
+  },
+  {
+    "property_id": "20898360",
+    "url": "https://housing.com/in/buy/resale/page/20898360-4-bhk-independent-house-in-preet-nagar-for-rs-10000000",
+    "title": "4 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Fully Furnished",
+    "price": {
+      "display_price": "₹1.0 Cr",
+      "price_value": 10000000,
+      "price_per_sqft": "₹12.5 K/sq.ft",
+      "price_per_marla": "₹28.09 L / Marla"
+    },
+    "area": {
+      "area_display": "800 sq.ft",
+      "area_sqft": 800.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "3.56 Marla"
+    },
+    "address": {
+      "full_address": "Roop Nagar, Preet Nagar",
+      "locality": "Roop Nagar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.683944",
+        "longitude": "74.867891"
+      }
+    },
+    "configuration": {
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "4 BHK / Bedrooms, 4 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Fully Furnished",
+      "3.56 Marla (800 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Fully Furnished with essential fixtures & fittings"
+    ],
+    "status": "Ready to move"
+  }
+]

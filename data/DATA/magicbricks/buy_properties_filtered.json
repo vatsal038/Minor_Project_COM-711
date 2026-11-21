@@ -6,10 +6,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹3.30 Cr",
+      "display_price": "\u20b93.30 Cr",
       "price_value": 33000000,
       "price_per_sqft": null,
-      "price_per_marla": "₹16.87 L / Marla"
+      "price_per_marla": "\u20b916.87 L / Marla"
     },
     "area": {
       "area_display": "4400 sqft",
@@ -48,7 +48,9 @@
       "19.56 Marla (4400 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -58,10 +60,10 @@
     "type_of_property": "Builder Floor Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹1.25 Cr",
+      "display_price": "\u20b91.25 Cr",
       "price_value": 12500000,
       "price_per_sqft": 8562,
-      "price_per_marla": "₹20.10 L / Marla"
+      "price_per_marla": "\u20b920.10 L / Marla"
     },
     "area": {
       "area_display": "1400 sqft",
@@ -100,8 +102,15 @@
       "1 out of 2",
       "6.22 Marla (1400 sqft)"
     ],
-    "amenities": ["Air Conditioned", "Power Back Up", "Park", "Parking"],
-    "furnished_components": ["Television"],
+    "amenities": [
+      "Air Conditioned",
+      "Power Back Up",
+      "Park",
+      "Parking"
+    ],
+    "furnished_components": [
+      "Television"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -111,10 +120,10 @@
     "type_of_property": "Villa",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹1.50 Cr",
+      "display_price": "\u20b91.50 Cr",
       "price_value": 15000000,
       "price_per_sqft": 3333,
-      "price_per_marla": "₹8.66 L / Marla"
+      "price_per_marla": "\u20b98.66 L / Marla"
     },
     "area": {
       "area_display": "3900 sqft",
@@ -150,7 +159,9 @@
       "17.33 Marla (3900 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -160,10 +171,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹88 Lac",
+      "display_price": "\u20b988 Lac",
       "price_value": 8800000,
       "price_per_sqft": 4889,
-      "price_per_marla": "₹11.00 L / Marla"
+      "price_per_marla": "\u20b911.00 L / Marla"
     },
     "area": {
       "area_display": "1800 sqft",
@@ -201,7 +212,9 @@
       "8 Marla (1800 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -211,10 +224,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹3.25 Cr",
+      "display_price": "\u20b93.25 Cr",
       "price_value": 32500000,
       "price_per_sqft": 10852,
-      "price_per_marla": "₹65.00 Cr / Marla"
+      "price_per_marla": "\u20b965.00 Cr / Marla"
     },
     "area": {
       "area_display": "11 sqft",
@@ -249,8 +262,14 @@
       "Furnished",
       "0.05 Marla (11 sqft)"
     ],
-    "amenities": ["Air Conditioned", "RO Water System", "Parking"],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "amenities": [
+      "Air Conditioned",
+      "RO Water System",
+      "Parking"
+    ],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -260,10 +279,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹1.35 Cr",
+      "display_price": "\u20b91.35 Cr",
       "price_value": 13500000,
       "price_per_sqft": 8021,
-      "price_per_marla": "₹18.05 L / Marla"
+      "price_per_marla": "\u20b918.05 L / Marla"
     },
     "area": {
       "area_display": "1683 sqft",
@@ -309,7 +328,9 @@
       "Service/Goods Lift",
       "Visitor Parking"
     ],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -319,10 +340,10 @@
     "type_of_property": "Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹1.60 Cr",
+      "display_price": "\u20b91.60 Cr",
       "price_value": 16000000,
       "price_per_sqft": 10492,
-      "price_per_marla": "₹23.60 L / Marla"
+      "price_per_marla": "\u20b923.60 L / Marla"
     },
     "area": {
       "area_display": "1525 sqft",
@@ -358,7 +379,9 @@
       "6.78 Marla (1525 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -368,10 +391,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹3.33 Cr",
+      "display_price": "\u20b93.33 Cr",
       "price_value": 33300235,
       "price_per_sqft": 6015,
-      "price_per_marla": "₹26.77 L / Marla"
+      "price_per_marla": "\u20b926.77 L / Marla"
     },
     "area": {
       "area_display": "2800 sqft",
@@ -415,7 +438,9 @@
       "Internet/Wi-Fi Connectivity",
       "RO Water System"
     ],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -425,10 +450,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹70 Lac",
+      "display_price": "\u20b970 Lac",
       "price_value": 7000000,
       "price_per_sqft": 13006,
-      "price_per_marla": "₹3.33 Cr / Marla"
+      "price_per_marla": "\u20b93.33 Cr / Marla"
     },
     "area": {
       "area_display": "47 sqft",
@@ -463,7 +488,9 @@
       "0.21 Marla (47 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -473,10 +500,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹1.45 Cr",
+      "display_price": "\u20b91.45 Cr",
       "price_value": 14500000,
       "price_per_sqft": 4833,
-      "price_per_marla": "₹13.05 L / Marla"
+      "price_per_marla": "\u20b913.05 L / Marla"
     },
     "area": {
       "area_display": "2500 sqft",
@@ -517,7 +544,9 @@
       "Water Storage",
       "Vaastu Compliant"
     ],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -527,10 +556,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹70 Lac",
+      "display_price": "\u20b970 Lac",
       "price_value": 7000000,
       "price_per_sqft": 2188,
-      "price_per_marla": "₹4.92 L / Marla"
+      "price_per_marla": "\u20b94.92 L / Marla"
     },
     "area": {
       "area_display": "3200 sqft",
@@ -566,7 +595,9 @@
       "14.22 Marla (3200 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -576,10 +607,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹1.50 Cr",
+      "display_price": "\u20b91.50 Cr",
       "price_value": 15000000,
       "price_per_sqft": 6818,
-      "price_per_marla": "₹16.87 L / Marla"
+      "price_per_marla": "\u20b916.87 L / Marla"
     },
     "area": {
       "area_display": "2000 sqft",
@@ -618,7 +649,9 @@
       "8.89 Marla (2000 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -628,10 +661,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹2.95 Cr",
+      "display_price": "\u20b92.95 Cr",
       "price_value": 29500000,
       "price_per_sqft": 11800,
-      "price_per_marla": "₹26.55 L / Marla"
+      "price_per_marla": "\u20b926.55 L / Marla"
     },
     "area": {
       "area_display": "2500 sqft",
@@ -666,7 +699,9 @@
       "11.11 Marla (2500 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -676,10 +711,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹3 Cr",
+      "display_price": "\u20b93 Cr",
       "price_value": 30000000,
       "price_per_sqft": 11019,
-      "price_per_marla": "₹75.00 Cr / Marla"
+      "price_per_marla": "\u20b975.00 Cr / Marla"
     },
     "area": {
       "area_display": "10 sqft",
@@ -714,7 +749,9 @@
       "0.04 Marla (10 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -724,10 +761,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹95 Lac",
+      "display_price": "\u20b995 Lac",
       "price_value": 9500000,
       "price_per_sqft": 7308,
-      "price_per_marla": "₹19.79 L / Marla"
+      "price_per_marla": "\u20b919.79 L / Marla"
     },
     "area": {
       "area_display": "1080 sqft",
@@ -772,7 +809,9 @@
       "Conference Room",
       "Power Back Up"
     ],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -782,10 +821,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹52 Lac",
+      "display_price": "\u20b952 Lac",
       "price_value": 5200000,
       "price_per_sqft": 3542,
-      "price_per_marla": "₹7.98 L / Marla"
+      "price_per_marla": "\u20b97.98 L / Marla"
     },
     "area": {
       "area_display": "1468 sqft",
@@ -827,55 +866,9 @@
       "Visitor Parking",
       "Lift"
     ],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
-    "status": "Ready to Move"
-  },
-  {
-    "property_id": "83592467",
-    "url": "https://www.magicbricks.com/propertyDetails/4-BHK-1900-Sq-ft-Residential-House-FOR-Sale-Bari-Brahmana-in-Jammu&id=4d423833353932343637",
-    "title": "4BHK Residential House for Resale in Bari Brahmana",
-    "type_of_property": "Residential House",
-    "furnished_status": "Furnished",
-    "price": {
-      "display_price": "₹2 Cr",
-      "price_value": 20000000,
-      "price_per_sqft": 10526,
-      "price_per_marla": "₹23.70 L / Marla"
-    },
-    "area": {
-      "area_display": "1900 sqft",
-      "area_sqft": 1900.0,
-      "area_type": "Covered Area",
-      "area_in_marla": "8.44 Marla"
-    },
-    "address": {
-      "full_address": "Bari Brahmana, Jammu, Jammu & Kashmir",
-      "locality": "Bari Brahmana",
-      "city": "Jammu",
-      "coordinates": null
-    },
-    "configuration": {
-      "bedrooms": 4,
-      "bathrooms": 4,
-      "balconies": null,
-      "additional_rooms": null,
-      "summary": "4 BHK / Bedrooms, 4 Bathrooms"
-    },
-    "property_ownership": null,
-    "floors": null,
-    "property_age": null,
-    "highlights": [
-      "Tenant Preference: Bachelors/Family",
-      "Transaction: Resale"
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
     ],
-    "key_highlights": [
-      "Residential House",
-      "Ready to Move",
-      "Furnished",
-      "8.44 Marla (1900 sqft)"
-    ],
-    "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
     "status": "Ready to Move"
   },
   {
@@ -885,10 +878,10 @@
     "type_of_property": "Builder Floor Apartment",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹26 Cr",
+      "display_price": "\u20b926 Cr",
       "price_value": 260000000,
       "price_per_sqft": 77612,
-      "price_per_marla": "₹1.75 Cr / Marla"
+      "price_per_marla": "\u20b91.75 Cr / Marla"
     },
     "area": {
       "area_display": "3350 sqft",
@@ -928,7 +921,9 @@
       "14.89 Marla (3350 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -938,10 +933,10 @@
     "type_of_property": "Residential House",
     "furnished_status": null,
     "price": {
-      "display_price": "₹7.50 Cr",
+      "display_price": "\u20b97.50 Cr",
       "price_value": 75000000,
       "price_per_sqft": 18750,
-      "price_per_marla": "₹42.18 L / Marla"
+      "price_per_marla": "\u20b942.18 L / Marla"
     },
     "area": {
       "area_display": "4000 sqft",
@@ -985,10 +980,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹1.50 Cr",
+      "display_price": "\u20b91.50 Cr",
       "price_value": 15000000,
       "price_per_sqft": 16667,
-      "price_per_marla": "₹37.50 L / Marla"
+      "price_per_marla": "\u20b937.50 L / Marla"
     },
     "area": {
       "area_display": "900 sqft",
@@ -1023,7 +1018,9 @@
       "4 Marla (900 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -1033,10 +1030,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹3.25 Cr",
+      "display_price": "\u20b93.25 Cr",
       "price_value": 32500000,
       "price_per_sqft": 16250,
-      "price_per_marla": "₹36.56 L / Marla"
+      "price_per_marla": "\u20b936.56 L / Marla"
     },
     "area": {
       "area_display": "2000 sqft",
@@ -1071,7 +1068,9 @@
       "8.89 Marla (2000 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -1081,10 +1080,10 @@
     "type_of_property": "Villa",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹76 Lac",
+      "display_price": "\u20b976 Lac",
       "price_value": 7600000,
       "price_per_sqft": 4750,
-      "price_per_marla": "₹10.69 L / Marla"
+      "price_per_marla": "\u20b910.69 L / Marla"
     },
     "area": {
       "area_display": "1600 sqft",
@@ -1112,9 +1111,15 @@
       "Tenant Preference: Bachelors/Family",
       "Transaction: Resale"
     ],
-    "key_highlights": ["Villa", "Semi-Furnished", "7.11 Marla (1600 sqft)"],
+    "key_highlights": [
+      "Villa",
+      "Semi-Furnished",
+      "7.11 Marla (1600 sqft)"
+    ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": null
   },
   {
@@ -1124,7 +1129,7 @@
     "type_of_property": "Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹75 Lac",
+      "display_price": "\u20b975 Lac",
       "price_value": 7500000,
       "price_per_sqft": null,
       "price_per_marla": null
@@ -1155,9 +1160,14 @@
       "Tenant Preference: Bachelors/Family",
       "Transaction: Resale"
     ],
-    "key_highlights": ["Apartment", "Semi-Furnished"],
+    "key_highlights": [
+      "Apartment",
+      "Semi-Furnished"
+    ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": null
   },
   {
@@ -1167,10 +1177,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹1 Cr",
+      "display_price": "\u20b91 Cr",
       "price_value": 10000000,
       "price_per_sqft": 18382,
-      "price_per_marla": "₹41.32 L / Marla"
+      "price_per_marla": "\u20b941.32 L / Marla"
     },
     "area": {
       "area_display": "544 sqft",
@@ -1205,7 +1215,9 @@
       "2.42 Marla (544 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -1215,10 +1227,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹1.70 Cr",
+      "display_price": "\u20b91.70 Cr",
       "price_value": 17000000,
       "price_per_sqft": 8500,
-      "price_per_marla": "₹45.82 L / Marla"
+      "price_per_marla": "\u20b945.82 L / Marla"
     },
     "area": {
       "area_display": "835 sqft",
@@ -1252,7 +1264,9 @@
       "3.71 Marla (835 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": null
   },
   {
@@ -1262,7 +1276,7 @@
     "type_of_property": "Apartment",
     "furnished_status": null,
     "price": {
-      "display_price": "₹85 Lac",
+      "display_price": "\u20b985 Lac",
       "price_value": 8500000,
       "price_per_sqft": null,
       "price_per_marla": null
@@ -1289,8 +1303,12 @@
     "property_ownership": null,
     "floors": null,
     "property_age": null,
-    "highlights": ["Tenant Preference: Bachelors/Family"],
-    "key_highlights": ["Apartment"],
+    "highlights": [
+      "Tenant Preference: Bachelors/Family"
+    ],
+    "key_highlights": [
+      "Apartment"
+    ],
     "amenities": [],
     "furnished_components": null,
     "status": null
@@ -1302,10 +1320,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹1.50 Cr",
+      "display_price": "\u20b91.50 Cr",
       "price_value": 15000000,
       "price_per_sqft": 16667,
-      "price_per_marla": "₹37.50 L / Marla"
+      "price_per_marla": "\u20b937.50 L / Marla"
     },
     "area": {
       "area_display": "900 sqft",
@@ -1340,7 +1358,9 @@
       "4 Marla (900 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -1350,10 +1370,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹9 Cr",
+      "display_price": "\u20b99 Cr",
       "price_value": 90000000,
       "price_per_sqft": 15000,
-      "price_per_marla": "₹33.75 L / Marla"
+      "price_per_marla": "\u20b933.75 L / Marla"
     },
     "area": {
       "area_display": "6000 sqft",
@@ -1388,7 +1408,9 @@
       "26.67 Marla (6000 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -1398,10 +1420,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹2.40 Cr",
+      "display_price": "\u20b92.40 Cr",
       "price_value": 24000000,
       "price_per_sqft": 10909,
-      "price_per_marla": "₹25.72 L / Marla"
+      "price_per_marla": "\u20b925.72 L / Marla"
     },
     "area": {
       "area_display": "2100 sqft",
@@ -1436,7 +1458,9 @@
       "9.33 Marla (2100 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -1446,10 +1470,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹5 Cr",
+      "display_price": "\u20b95 Cr",
       "price_value": 50000000,
       "price_per_sqft": 18382,
-      "price_per_marla": "₹41.36 L / Marla"
+      "price_per_marla": "\u20b941.36 L / Marla"
     },
     "area": {
       "area_display": "2720 sqft",
@@ -1487,7 +1511,9 @@
       "12.09 Marla (2720 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -1497,10 +1523,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹1.40 Cr",
+      "display_price": "\u20b91.40 Cr",
       "price_value": 14000000,
       "price_per_sqft": 8750,
-      "price_per_marla": "₹19.69 L / Marla"
+      "price_per_marla": "\u20b919.69 L / Marla"
     },
     "area": {
       "area_display": "1600 sqft",
@@ -1536,7 +1562,9 @@
       "7.11 Marla (1600 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -1546,10 +1574,10 @@
     "type_of_property": "Builder Floor Apartment",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹40 Lac",
+      "display_price": "\u20b940 Lac",
       "price_value": 4000000,
       "price_per_sqft": 6667,
-      "price_per_marla": "₹16.39 L / Marla"
+      "price_per_marla": "\u20b916.39 L / Marla"
     },
     "area": {
       "area_display": "550 sqft",
@@ -1589,7 +1617,9 @@
       "2.44 Marla (550 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -1599,10 +1629,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹90 Lac",
+      "display_price": "\u20b990 Lac",
       "price_value": 9000000,
       "price_per_sqft": 4132,
-      "price_per_marla": "₹22.50 Cr / Marla"
+      "price_per_marla": "\u20b922.50 Cr / Marla"
     },
     "area": {
       "area_display": "8 sqft",
@@ -1637,7 +1667,9 @@
       "0.04 Marla (8 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -1647,10 +1679,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹3.60 Cr",
+      "display_price": "\u20b93.60 Cr",
       "price_value": 36000000,
       "price_per_sqft": 13235,
-      "price_per_marla": "₹29.78 L / Marla"
+      "price_per_marla": "\u20b929.78 L / Marla"
     },
     "area": {
       "area_display": "2720 sqft",
@@ -1688,7 +1720,9 @@
       "12.09 Marla (2720 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -1698,10 +1732,10 @@
     "type_of_property": "Residential House",
     "furnished_status": null,
     "price": {
-      "display_price": "₹70 Lac",
+      "display_price": "\u20b970 Lac",
       "price_value": 7000000,
       "price_per_sqft": 5185,
-      "price_per_marla": "₹11.67 L / Marla"
+      "price_per_marla": "\u20b911.67 L / Marla"
     },
     "area": {
       "area_display": "1350 sqft",
@@ -1745,10 +1779,10 @@
     "type_of_property": "Villa",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹5.75 Cr",
+      "display_price": "\u20b95.75 Cr",
       "price_value": 57500000,
       "price_per_sqft": 14743,
-      "price_per_marla": "₹33.18 L / Marla"
+      "price_per_marla": "\u20b933.18 L / Marla"
     },
     "area": {
       "area_display": "3900 sqft",
@@ -1786,8 +1820,13 @@
       "Furnished",
       "17.33 Marla (3900 sqft)"
     ],
-    "amenities": ["Air Conditioned", "Parking"],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "amenities": [
+      "Air Conditioned",
+      "Parking"
+    ],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -1797,10 +1836,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹3 Cr",
+      "display_price": "\u20b93 Cr",
       "price_value": 30000000,
       "price_per_sqft": 8571,
-      "price_per_marla": "₹75.00 Cr / Marla"
+      "price_per_marla": "\u20b975.00 Cr / Marla"
     },
     "area": {
       "area_display": "10 sqft",
@@ -1835,8 +1874,13 @@
       "Semi-Furnished",
       "0.04 Marla (10 sqft)"
     ],
-    "amenities": ["RO Water System", "Parking"],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "amenities": [
+      "RO Water System",
+      "Parking"
+    ],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -1846,10 +1890,10 @@
     "type_of_property": "Residential House",
     "furnished_status": null,
     "price": {
-      "display_price": "₹7.50 Cr",
+      "display_price": "\u20b97.50 Cr",
       "price_value": 75000000,
       "price_per_sqft": 13889,
-      "price_per_marla": "₹31.25 L / Marla"
+      "price_per_marla": "\u20b931.25 L / Marla"
     },
     "area": {
       "area_display": "5400 sqft",
@@ -1896,10 +1940,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹1.40 Cr",
+      "display_price": "\u20b91.40 Cr",
       "price_value": 14000000,
       "price_per_sqft": null,
-      "price_per_marla": "₹12.18 L / Marla"
+      "price_per_marla": "\u20b912.18 L / Marla"
     },
     "area": {
       "area_display": "2586 sqft",
@@ -1939,7 +1983,9 @@
       "11.49 Marla (2586 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -1949,10 +1995,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹75 Lac",
+      "display_price": "\u20b975 Lac",
       "price_value": 7500000,
       "price_per_sqft": 5000,
-      "price_per_marla": "₹11.24 L / Marla"
+      "price_per_marla": "\u20b911.24 L / Marla"
     },
     "area": {
       "area_display": "1500 sqft",
@@ -1988,7 +2034,9 @@
       "6.67 Marla (1500 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -1998,10 +2046,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹2.60 Cr",
+      "display_price": "\u20b92.60 Cr",
       "price_value": 26000000,
       "price_per_sqft": 9550,
-      "price_per_marla": "₹65.00 Cr / Marla"
+      "price_per_marla": "\u20b965.00 Cr / Marla"
     },
     "area": {
       "area_display": "10 sqft",
@@ -2038,7 +2086,9 @@
       "0.04 Marla (10 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -2048,10 +2098,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹2.20 Cr",
+      "display_price": "\u20b92.20 Cr",
       "price_value": 22000000,
       "price_per_sqft": 6111,
-      "price_per_marla": "₹15.47 L / Marla"
+      "price_per_marla": "\u20b915.47 L / Marla"
     },
     "area": {
       "area_display": "3200 sqft",
@@ -2087,7 +2137,9 @@
       "14.22 Marla (3200 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -2097,10 +2149,10 @@
     "type_of_property": "Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹8 Cr",
+      "display_price": "\u20b98 Cr",
       "price_value": 80000000,
       "price_per_sqft": null,
-      "price_per_marla": "₹33.33 L / Marla"
+      "price_per_marla": "\u20b933.33 L / Marla"
     },
     "area": {
       "area_display": "5400 sqft",
@@ -2135,7 +2187,9 @@
       "24 Marla (5400 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -2145,10 +2199,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹2.45 Cr",
+      "display_price": "\u20b92.45 Cr",
       "price_value": 24500000,
       "price_per_sqft": 10652,
-      "price_per_marla": "₹23.97 L / Marla"
+      "price_per_marla": "\u20b923.97 L / Marla"
     },
     "area": {
       "area_display": "2300 sqft",
@@ -2188,7 +2242,9 @@
       "10.22 Marla (2300 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -2198,10 +2254,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹85 Lac",
+      "display_price": "\u20b985 Lac",
       "price_value": 8500000,
       "price_per_sqft": 8500,
-      "price_per_marla": "₹19.32 L / Marla"
+      "price_per_marla": "\u20b919.32 L / Marla"
     },
     "area": {
       "area_display": "990 sqft",
@@ -2241,7 +2297,9 @@
       "4.4 Marla (990 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -2251,10 +2309,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹1.50 Cr",
+      "display_price": "\u20b91.50 Cr",
       "price_value": 15000000,
       "price_per_sqft": 5556,
-      "price_per_marla": "₹1.13 Cr / Marla"
+      "price_per_marla": "\u20b91.13 Cr / Marla"
     },
     "area": {
       "area_display": "300 sqft",
@@ -2290,7 +2348,9 @@
       "1.33 Marla (300 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -2300,10 +2360,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹2 Cr",
+      "display_price": "\u20b92 Cr",
       "price_value": 20000000,
       "price_per_sqft": 10390,
-      "price_per_marla": "₹23.36 L / Marla"
+      "price_per_marla": "\u20b923.36 L / Marla"
     },
     "area": {
       "area_display": "1925 sqft",
@@ -2339,7 +2399,9 @@
       "8.56 Marla (1925 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -2349,10 +2411,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹80 Lac",
+      "display_price": "\u20b980 Lac",
       "price_value": 8000000,
       "price_per_sqft": 6667,
-      "price_per_marla": "₹15.01 L / Marla"
+      "price_per_marla": "\u20b915.01 L / Marla"
     },
     "area": {
       "area_display": "1200 sqft",
@@ -2394,7 +2456,9 @@
       "Visitor Parking",
       "Intercom Facility"
     ],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -2404,10 +2468,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹1.10 Cr",
+      "display_price": "\u20b91.10 Cr",
       "price_value": 11000000,
       "price_per_sqft": null,
-      "price_per_marla": "₹19.78 L / Marla"
+      "price_per_marla": "\u20b919.78 L / Marla"
     },
     "area": {
       "area_display": "1250 sqft",
@@ -2444,7 +2508,9 @@
       "5.56 Marla (1250 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -2454,10 +2520,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹90 Lac",
+      "display_price": "\u20b990 Lac",
       "price_value": 9000000,
       "price_per_sqft": 6000,
-      "price_per_marla": "₹18.40 L / Marla"
+      "price_per_marla": "\u20b918.40 L / Marla"
     },
     "area": {
       "area_display": "1100 sqft",
@@ -2492,7 +2558,9 @@
       "4.89 Marla (1100 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -2502,10 +2570,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹1.25 Cr",
+      "display_price": "\u20b91.25 Cr",
       "price_value": 12500000,
       "price_per_sqft": 2604,
-      "price_per_marla": "₹6.86 L / Marla"
+      "price_per_marla": "\u20b96.86 L / Marla"
     },
     "area": {
       "area_display": "4100 sqft",
@@ -2540,7 +2608,9 @@
       "18.22 Marla (4100 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -2550,10 +2620,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹3 Cr",
+      "display_price": "\u20b93 Cr",
       "price_value": 30000000,
       "price_per_sqft": 5455,
-      "price_per_marla": "₹12.27 L / Marla"
+      "price_per_marla": "\u20b912.27 L / Marla"
     },
     "area": {
       "area_display": "5500 sqft",
@@ -2587,7 +2657,9 @@
       "24.44 Marla (5500 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": null
   },
   {
@@ -2597,10 +2669,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹4 Cr",
+      "display_price": "\u20b94 Cr",
       "price_value": 40000000,
       "price_per_sqft": 12500,
-      "price_per_marla": "₹37.49 L / Marla"
+      "price_per_marla": "\u20b937.49 L / Marla"
     },
     "area": {
       "area_display": "2400 sqft",
@@ -2642,7 +2714,9 @@
       "Power Back Up",
       "Park"
     ],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -2652,10 +2726,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹75 Lac",
+      "display_price": "\u20b975 Lac",
       "price_value": 7500000,
       "price_per_sqft": 5515,
-      "price_per_marla": "₹12.42 L / Marla"
+      "price_per_marla": "\u20b912.42 L / Marla"
     },
     "area": {
       "area_display": "1360 sqft",
@@ -2693,7 +2767,9 @@
       "6.04 Marla (1360 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Under Construction"
   },
   {
@@ -2703,10 +2779,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹1.38 Cr",
+      "display_price": "\u20b91.38 Cr",
       "price_value": 13800000,
       "price_per_sqft": 8446,
-      "price_per_marla": "₹20.69 L / Marla"
+      "price_per_marla": "\u20b920.69 L / Marla"
     },
     "area": {
       "area_display": "1500 sqft",
@@ -2741,7 +2817,9 @@
       "6.67 Marla (1500 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -2751,10 +2829,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹2.15 Cr",
+      "display_price": "\u20b92.15 Cr",
       "price_value": 21500000,
       "price_per_sqft": 7897,
-      "price_per_marla": "₹53.75 Cr / Marla"
+      "price_per_marla": "\u20b953.75 Cr / Marla"
     },
     "area": {
       "area_display": "10 sqft",
@@ -2795,7 +2873,9 @@
       "Power Back Up",
       "Park"
     ],
-    "furnished_components": ["Television"],
+    "furnished_components": [
+      "Television"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -2805,10 +2885,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹9.99 Cr",
+      "display_price": "\u20b99.99 Cr",
       "price_value": 99999990,
       "price_per_sqft": 26235,
-      "price_per_marla": "₹166.67 Cr / Marla"
+      "price_per_marla": "\u20b9166.67 Cr / Marla"
     },
     "area": {
       "area_display": "14 sqft",
@@ -2843,7 +2923,9 @@
       "0.06 Marla (14 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -2853,10 +2935,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹1.10 Cr",
+      "display_price": "\u20b91.10 Cr",
       "price_value": 11000000,
       "price_per_sqft": 7857,
-      "price_per_marla": "₹17.68 L / Marla"
+      "price_per_marla": "\u20b917.68 L / Marla"
     },
     "area": {
       "area_display": "1400 sqft",
@@ -2891,7 +2973,9 @@
       "6.22 Marla (1400 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -2901,10 +2985,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹1.30 Cr",
+      "display_price": "\u20b91.30 Cr",
       "price_value": 13000000,
       "price_per_sqft": 10000,
-      "price_per_marla": "₹24.39 L / Marla"
+      "price_per_marla": "\u20b924.39 L / Marla"
     },
     "area": {
       "area_display": "1200 sqft",
@@ -2940,7 +3024,9 @@
       "5.33 Marla (1200 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -2950,10 +3036,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹99.6 Lac",
+      "display_price": "\u20b999.6 Lac",
       "price_value": 9960000,
       "price_per_sqft": 5596,
-      "price_per_marla": "₹13.59 L / Marla"
+      "price_per_marla": "\u20b913.59 L / Marla"
     },
     "area": {
       "area_display": "1650 sqft",
@@ -3012,10 +3098,10 @@
     "type_of_property": "Builder Floor Apartment",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹80 Lac",
+      "display_price": "\u20b980 Lac",
       "price_value": 8000000,
       "price_per_sqft": 25000,
-      "price_per_marla": "₹56.34 L / Marla"
+      "price_per_marla": "\u20b956.34 L / Marla"
     },
     "area": {
       "area_display": "320 sqft",
@@ -3050,7 +3136,9 @@
       "1.42 Marla (320 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": null
   },
   {
@@ -3060,10 +3148,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹18 Cr",
+      "display_price": "\u20b918 Cr",
       "price_value": 180000000,
       "price_per_sqft": 60103,
-      "price_per_marla": "₹360.00 Cr / Marla"
+      "price_per_marla": "\u20b9360.00 Cr / Marla"
     },
     "area": {
       "area_display": "11 sqft",
@@ -3102,7 +3190,9 @@
       "0.05 Marla (11 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -3112,10 +3202,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹3 Cr",
+      "display_price": "\u20b93 Cr",
       "price_value": 30000000,
       "price_per_sqft": 11111,
-      "price_per_marla": "₹25.00 L / Marla"
+      "price_per_marla": "\u20b925.00 L / Marla"
     },
     "area": {
       "area_display": "2700 sqft",
@@ -3150,7 +3240,9 @@
       "12 Marla (2700 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -3160,10 +3252,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹1 Cr",
+      "display_price": "\u20b91 Cr",
       "price_value": 10000000,
       "price_per_sqft": 5000,
-      "price_per_marla": "₹14.99 L / Marla"
+      "price_per_marla": "\u20b914.99 L / Marla"
     },
     "area": {
       "area_display": "1500 sqft",
@@ -3202,7 +3294,9 @@
       "6.67 Marla (1500 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -3212,10 +3306,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹60 Lac",
+      "display_price": "\u20b960 Lac",
       "price_value": 6000000,
       "price_per_sqft": 4409,
-      "price_per_marla": "₹10.38 L / Marla"
+      "price_per_marla": "\u20b910.38 L / Marla"
     },
     "area": {
       "area_display": "1300 sqft",
@@ -3251,7 +3345,9 @@
       "5.78 Marla (1300 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -3261,10 +3357,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹58 Lac",
+      "display_price": "\u20b958 Lac",
       "price_value": 5800000,
       "price_per_sqft": 2974,
-      "price_per_marla": "₹7.25 L / Marla"
+      "price_per_marla": "\u20b97.25 L / Marla"
     },
     "area": {
       "area_display": "1800 sqft",
@@ -3299,7 +3395,9 @@
       "8 Marla (1800 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -3309,10 +3407,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹1.75 Cr",
+      "display_price": "\u20b91.75 Cr",
       "price_value": 17500000,
       "price_per_sqft": 6428,
-      "price_per_marla": "₹43.75 Cr / Marla"
+      "price_per_marla": "\u20b943.75 Cr / Marla"
     },
     "area": {
       "area_display": "10 sqft",
@@ -3347,7 +3445,9 @@
       "0.04 Marla (10 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -3357,10 +3457,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹1.90 Cr",
+      "display_price": "\u20b91.90 Cr",
       "price_value": 19000000,
       "price_per_sqft": null,
-      "price_per_marla": "₹15.27 L / Marla"
+      "price_per_marla": "\u20b915.27 L / Marla"
     },
     "area": {
       "area_display": "2800 sqft",
@@ -3406,7 +3506,10 @@
       "Internet/Wi-Fi Connectivity",
       "RO Water System"
     ],
-    "furnished_components": ["Modular Kitchen", "Television"],
+    "furnished_components": [
+      "Modular Kitchen",
+      "Television"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -3416,10 +3519,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹1.60 Cr",
+      "display_price": "\u20b91.60 Cr",
       "price_value": 16000000,
       "price_per_sqft": 10323,
-      "price_per_marla": "₹23.22 L / Marla"
+      "price_per_marla": "\u20b923.22 L / Marla"
     },
     "area": {
       "area_display": "1550 sqft",
@@ -3459,7 +3562,9 @@
       "6.89 Marla (1550 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -3469,10 +3574,10 @@
     "type_of_property": "Villa",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹1.70 Cr",
+      "display_price": "\u20b91.70 Cr",
       "price_value": 17000000,
       "price_per_sqft": 153153,
-      "price_per_marla": "₹3.47 Cr / Marla"
+      "price_per_marla": "\u20b93.47 Cr / Marla"
     },
     "area": {
       "area_display": "111 sqft",
@@ -3513,7 +3618,9 @@
       "Rain Water Harvesting",
       "Park"
     ],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -3523,10 +3630,10 @@
     "type_of_property": "Villa",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹83 Lac",
+      "display_price": "\u20b983 Lac",
       "price_value": 8300000,
       "price_per_sqft": 4357,
-      "price_per_marla": "₹9.80 L / Marla"
+      "price_per_marla": "\u20b99.80 L / Marla"
     },
     "area": {
       "area_display": "1905 sqft",
@@ -3561,7 +3668,9 @@
       "8.47 Marla (1905 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -3571,10 +3680,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹1.70 Cr",
+      "display_price": "\u20b91.70 Cr",
       "price_value": 17000000,
       "price_per_sqft": 4250,
-      "price_per_marla": "₹9.56 L / Marla"
+      "price_per_marla": "\u20b99.56 L / Marla"
     },
     "area": {
       "area_display": "4000 sqft",
@@ -3610,7 +3719,9 @@
       "17.78 Marla (4000 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -3620,10 +3731,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹2.30 Cr",
+      "display_price": "\u20b92.30 Cr",
       "price_value": 23000000,
       "price_per_sqft": 10560,
-      "price_per_marla": "₹23.76 L / Marla"
+      "price_per_marla": "\u20b923.76 L / Marla"
     },
     "area": {
       "area_display": "2178 sqft",
@@ -3658,7 +3769,9 @@
       "9.68 Marla (2178 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -3668,10 +3781,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹1.50 Cr",
+      "display_price": "\u20b91.50 Cr",
       "price_value": 15000000,
       "price_per_sqft": 13204,
-      "price_per_marla": "₹29.70 L / Marla"
+      "price_per_marla": "\u20b929.70 L / Marla"
     },
     "area": {
       "area_display": "1136 sqft",
@@ -3713,7 +3826,9 @@
       "Visitor Parking",
       "Power Back Up"
     ],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -3723,10 +3838,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹3.50 Cr",
+      "display_price": "\u20b93.50 Cr",
       "price_value": 35000000,
       "price_per_sqft": 10713,
-      "price_per_marla": "₹87.50 Cr / Marla"
+      "price_per_marla": "\u20b987.50 Cr / Marla"
     },
     "area": {
       "area_display": "10 sqft",
@@ -3768,7 +3883,9 @@
       "Power Back Up",
       "Park"
     ],
-    "furnished_components": ["Television"],
+    "furnished_components": [
+      "Television"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -3778,10 +3895,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹63 Lac",
+      "display_price": "\u20b963 Lac",
       "price_value": 6300000,
       "price_per_sqft": null,
-      "price_per_marla": "₹17.50 L / Marla"
+      "price_per_marla": "\u20b917.50 L / Marla"
     },
     "area": {
       "area_display": "810 sqft",
@@ -3817,7 +3934,9 @@
       "3.6 Marla (810 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -3827,10 +3946,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹4.40 Cr",
+      "display_price": "\u20b94.40 Cr",
       "price_value": 44000000,
       "price_per_sqft": 8148,
-      "price_per_marla": "₹18.33 L / Marla"
+      "price_per_marla": "\u20b918.33 L / Marla"
     },
     "area": {
       "area_display": "5400 sqft",
@@ -3865,7 +3984,9 @@
       "24 Marla (5400 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -3875,10 +3996,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹2.95 Cr",
+      "display_price": "\u20b92.95 Cr",
       "price_value": 29500000,
       "price_per_sqft": 8194,
-      "price_per_marla": "₹18.44 L / Marla"
+      "price_per_marla": "\u20b918.44 L / Marla"
     },
     "area": {
       "area_display": "3600 sqft",
@@ -3914,7 +4035,9 @@
       "16 Marla (3600 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -3924,10 +4047,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹1.70 Cr",
+      "display_price": "\u20b91.70 Cr",
       "price_value": 17000000,
       "price_per_sqft": 10429,
-      "price_per_marla": "₹30.58 L / Marla"
+      "price_per_marla": "\u20b930.58 L / Marla"
     },
     "area": {
       "area_display": "1250 sqft",
@@ -3963,7 +4086,9 @@
       "5.56 Marla (1250 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -3973,10 +4098,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹65 Lac",
+      "display_price": "\u20b965 Lac",
       "price_value": 6500000,
       "price_per_sqft": null,
-      "price_per_marla": "₹12.20 L / Marla"
+      "price_per_marla": "\u20b912.20 L / Marla"
     },
     "area": {
       "area_display": "1200 sqft",
@@ -4011,55 +4136,9 @@
       "5.33 Marla (1200 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
-    "status": "Ready to Move"
-  },
-  {
-    "property_id": "83765829",
-    "url": "https://www.magicbricks.com/propertyDetails/4-BHK-12-Marla-Residential-House-FOR-Sale-Bari-Brahmana-in-Jammu&id=4d423833373635383239",
-    "title": "4BHK Residential House for Resale in Bari Brahmana",
-    "type_of_property": "Residential House",
-    "furnished_status": "Semi-Furnished",
-    "price": {
-      "display_price": "₹1.20 Cr",
-      "price_value": 12000000,
-      "price_per_sqft": 3673,
-      "price_per_marla": "₹24.00 Cr / Marla"
-    },
-    "area": {
-      "area_display": "12 sqft",
-      "area_sqft": 12.0,
-      "area_type": "Carpet Area",
-      "area_in_marla": "0.05 Marla"
-    },
-    "address": {
-      "full_address": "kothi morh, Bari Brahmana, Jammu, Jammu & Kashmir",
-      "locality": "Bari Brahmana",
-      "city": "Jammu",
-      "coordinates": null
-    },
-    "configuration": {
-      "bedrooms": 4,
-      "bathrooms": 4,
-      "balconies": null,
-      "additional_rooms": null,
-      "summary": "4 BHK / Bedrooms, 4 Bathrooms"
-    },
-    "property_ownership": null,
-    "floors": null,
-    "property_age": "New Construction",
-    "highlights": [
-      "Tenant Preference: Bachelors/Family",
-      "Transaction: Resale"
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
     ],
-    "key_highlights": [
-      "Residential House",
-      "Ready to Move",
-      "Semi-Furnished",
-      "0.05 Marla (12 sqft)"
-    ],
-    "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
     "status": "Ready to Move"
   },
   {
@@ -4069,10 +4148,10 @@
     "type_of_property": "Villa",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹10 Cr",
+      "display_price": "\u20b910 Cr",
       "price_value": 100000000,
       "price_per_sqft": 13617,
-      "price_per_marla": "₹37.50 L / Marla"
+      "price_per_marla": "\u20b937.50 L / Marla"
     },
     "area": {
       "area_display": "6000 sqft",
@@ -4107,56 +4186,9 @@
       "26.67 Marla (6000 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
-    "status": "Ready to Move"
-  },
-  {
-    "property_id": "82941355",
-    "url": "https://www.magicbricks.com/propertyDetails/9-BHK-1400-Sq-ft-Residential-House-FOR-Sale-Udheywala-in-Jammu&id=4d423832393431333535",
-    "title": "9BHK Residential House for Resale in Udheywala",
-    "type_of_property": "Residential House",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹60 Lac",
-      "price_value": 6000000,
-      "price_per_sqft": 4286,
-      "price_per_marla": "₹9.65 L / Marla"
-    },
-    "area": {
-      "area_display": "1400 sqft",
-      "area_sqft": 1400.0,
-      "area_type": "Covered Area",
-      "area_in_marla": "6.22 Marla"
-    },
-    "address": {
-      "full_address": "Udheywala, Jammu, Jammu & Kashmir",
-      "locality": "Udheywala",
-      "city": "Jammu",
-      "coordinates": null
-    },
-    "configuration": {
-      "bedrooms": 9,
-      "bathrooms": 3,
-      "balconies": null,
-      "additional_rooms": null,
-      "summary": "9 BHK / Bedrooms, 3 Bathrooms"
-    },
-    "property_ownership": null,
-    "floors": null,
-    "property_age": "Less than 5 years",
-    "highlights": [
-      "Facing: Main Road",
-      "Tenant Preference: Bachelors/Family",
-      "Transaction: Resale"
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
     ],
-    "key_highlights": [
-      "Residential House",
-      "Ready to Move",
-      "Unfurnished",
-      "6.22 Marla (1400 sqft)"
-    ],
-    "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
     "status": "Ready to Move"
   },
   {
@@ -4166,7 +4198,7 @@
     "type_of_property": "Villa",
     "furnished_status": null,
     "price": {
-      "display_price": "₹2 Cr",
+      "display_price": "\u20b92 Cr",
       "price_value": 20000000,
       "price_per_sqft": null,
       "price_per_marla": null
@@ -4197,7 +4229,9 @@
       "Tenant Preference: Bachelors/Family",
       "Transaction: Resale"
     ],
-    "key_highlights": ["Villa"],
+    "key_highlights": [
+      "Villa"
+    ],
     "amenities": [],
     "furnished_components": null,
     "status": null
@@ -4209,10 +4243,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹75 Lac",
+      "display_price": "\u20b975 Lac",
       "price_value": 7500000,
       "price_per_sqft": 2755,
-      "price_per_marla": "₹18.75 Cr / Marla"
+      "price_per_marla": "\u20b918.75 Cr / Marla"
     },
     "area": {
       "area_display": "10 sqft",
@@ -4248,7 +4282,9 @@
       "0.04 Marla (10 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -4258,10 +4294,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹1.30 Cr",
+      "display_price": "\u20b91.30 Cr",
       "price_value": 13000000,
       "price_per_sqft": 5200,
-      "price_per_marla": "₹11.70 L / Marla"
+      "price_per_marla": "\u20b911.70 L / Marla"
     },
     "area": {
       "area_display": "2500 sqft",
@@ -4297,7 +4333,9 @@
       "11.11 Marla (2500 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -4307,10 +4345,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹90 Lac",
+      "display_price": "\u20b990 Lac",
       "price_value": 9000000,
       "price_per_sqft": 5000,
-      "price_per_marla": "₹16.89 L / Marla"
+      "price_per_marla": "\u20b916.89 L / Marla"
     },
     "area": {
       "area_display": "1200 sqft",
@@ -4351,7 +4389,9 @@
       "Water Storage",
       "Vaastu Compliant"
     ],
-    "furnished_components": ["Television"],
+    "furnished_components": [
+      "Television"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -4361,10 +4401,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹86 Lac",
+      "display_price": "\u20b986 Lac",
       "price_value": 8600000,
       "price_per_sqft": 4649,
-      "price_per_marla": "₹10.46 L / Marla"
+      "price_per_marla": "\u20b910.46 L / Marla"
     },
     "area": {
       "area_display": "1850 sqft",
@@ -4400,7 +4440,9 @@
       "8.22 Marla (1850 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -4410,10 +4452,10 @@
     "type_of_property": "Residential House",
     "furnished_status": null,
     "price": {
-      "display_price": "₹4.50 Cr",
+      "display_price": "\u20b94.50 Cr",
       "price_value": 45000000,
       "price_per_sqft": 5000,
-      "price_per_marla": "₹18.75 L / Marla"
+      "price_per_marla": "\u20b918.75 L / Marla"
     },
     "area": {
       "area_display": "5400 sqft",
@@ -4441,7 +4483,10 @@
       "Tenant Preference: Bachelors/Family",
       "Transaction: Resale"
     ],
-    "key_highlights": ["Residential House", "24 Marla (5400 sqft)"],
+    "key_highlights": [
+      "Residential House",
+      "24 Marla (5400 sqft)"
+    ],
     "amenities": [],
     "furnished_components": null,
     "status": null
@@ -4453,10 +4498,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹1.25 Cr",
+      "display_price": "\u20b91.25 Cr",
       "price_value": 12500000,
       "price_per_sqft": 9427,
-      "price_per_marla": "₹21.22 L / Marla"
+      "price_per_marla": "\u20b921.22 L / Marla"
     },
     "area": {
       "area_display": "1326 sqft",
@@ -4492,7 +4537,9 @@
       "5.89 Marla (1326 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -4502,10 +4549,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹85 Lac",
+      "display_price": "\u20b985 Lac",
       "price_value": 8500000,
       "price_per_sqft": 6296,
-      "price_per_marla": "₹15.95 L / Marla"
+      "price_per_marla": "\u20b915.95 L / Marla"
     },
     "area": {
       "area_display": "1200 sqft",
@@ -4552,7 +4599,10 @@
       "Visitor Parking",
       "Conference Room"
     ],
-    "furnished_components": ["Modular Kitchen", "Chimney"],
+    "furnished_components": [
+      "Modular Kitchen",
+      "Chimney"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -4562,10 +4612,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹2.25 Cr",
+      "display_price": "\u20b92.25 Cr",
       "price_value": 22500000,
       "price_per_sqft": 6127,
-      "price_per_marla": "₹13.79 L / Marla"
+      "price_per_marla": "\u20b913.79 L / Marla"
     },
     "area": {
       "area_display": "3672 sqft",
@@ -4603,7 +4653,9 @@
       "16.32 Marla (3672 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -4613,10 +4665,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹68 Lac",
+      "display_price": "\u20b968 Lac",
       "price_value": 6800000,
       "price_per_sqft": 3579,
-      "price_per_marla": "₹8.06 L / Marla"
+      "price_per_marla": "\u20b98.06 L / Marla"
     },
     "area": {
       "area_display": "1900 sqft",
@@ -4651,7 +4703,9 @@
       "8.44 Marla (1900 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -4661,10 +4715,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹9.50 Cr",
+      "display_price": "\u20b99.50 Cr",
       "price_value": 95000000,
       "price_per_sqft": 43616,
-      "price_per_marla": "₹237.50 Cr / Marla"
+      "price_per_marla": "\u20b9237.50 Cr / Marla"
     },
     "area": {
       "area_display": "8 sqft",
@@ -4699,7 +4753,9 @@
       "0.04 Marla (8 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -4709,10 +4765,10 @@
     "type_of_property": "Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹1.60 Cr",
+      "display_price": "\u20b91.60 Cr",
       "price_value": 16000000,
       "price_per_sqft": 5877,
-      "price_per_marla": "₹30.02 L / Marla"
+      "price_per_marla": "\u20b930.02 L / Marla"
     },
     "area": {
       "area_display": "1200 sqft",
@@ -4753,7 +4809,9 @@
       "Power Back Up",
       "Park"
     ],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -4763,10 +4821,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹2.50 Cr",
+      "display_price": "\u20b92.50 Cr",
       "price_value": 25000000,
       "price_per_sqft": 11364,
-      "price_per_marla": "₹25.56 L / Marla"
+      "price_per_marla": "\u20b925.56 L / Marla"
     },
     "area": {
       "area_display": "2200 sqft",
@@ -4802,7 +4860,9 @@
       "9.78 Marla (2200 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -4812,10 +4872,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹2.20 Cr",
+      "display_price": "\u20b92.20 Cr",
       "price_value": 22000000,
       "price_per_sqft": 12222,
-      "price_per_marla": "₹27.50 L / Marla"
+      "price_per_marla": "\u20b927.50 L / Marla"
     },
     "area": {
       "area_display": "1800 sqft",
@@ -4851,7 +4911,9 @@
       "8 Marla (1800 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -4861,10 +4923,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹90 Lac",
+      "display_price": "\u20b990 Lac",
       "price_value": 9000000,
       "price_per_sqft": 7500,
-      "price_per_marla": "₹16.89 L / Marla"
+      "price_per_marla": "\u20b916.89 L / Marla"
     },
     "area": {
       "area_display": "1200 sqft",
@@ -4900,7 +4962,9 @@
       "5.33 Marla (1200 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -4910,10 +4974,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹1.60 Cr",
+      "display_price": "\u20b91.60 Cr",
       "price_value": 16000000,
       "price_per_sqft": 5714,
-      "price_per_marla": "₹16.36 L / Marla"
+      "price_per_marla": "\u20b916.36 L / Marla"
     },
     "area": {
       "area_display": "2200 sqft",
@@ -4951,7 +5015,9 @@
       "9.78 Marla (2200 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -4961,10 +5027,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹2.15 Cr",
+      "display_price": "\u20b92.15 Cr",
       "price_value": 21500000,
       "price_per_sqft": 4574,
-      "price_per_marla": "₹12.09 L / Marla"
+      "price_per_marla": "\u20b912.09 L / Marla"
     },
     "area": {
       "area_display": "4000 sqft",
@@ -4999,7 +5065,9 @@
       "17.78 Marla (4000 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -5009,10 +5077,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹69 Lac",
+      "display_price": "\u20b969 Lac",
       "price_value": 6900000,
       "price_per_sqft": 2556,
-      "price_per_marla": "₹12.41 L / Marla"
+      "price_per_marla": "\u20b912.41 L / Marla"
     },
     "area": {
       "area_display": "1250 sqft",
@@ -5048,7 +5116,9 @@
       "5.56 Marla (1250 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -5058,10 +5128,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹1.80 Cr",
+      "display_price": "\u20b91.80 Cr",
       "price_value": 18000000,
       "price_per_sqft": 7200,
-      "price_per_marla": "₹16.87 L / Marla"
+      "price_per_marla": "\u20b916.87 L / Marla"
     },
     "area": {
       "area_display": "2400 sqft",
@@ -5097,7 +5167,9 @@
       "10.67 Marla (2400 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -5107,10 +5179,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹1.10 Cr",
+      "display_price": "\u20b91.10 Cr",
       "price_value": 11000000,
       "price_per_sqft": 8080,
-      "price_per_marla": "₹55.00 Cr / Marla"
+      "price_per_marla": "\u20b955.00 Cr / Marla"
     },
     "area": {
       "area_display": "5 sqft",
@@ -5145,7 +5217,9 @@
       "0.02 Marla (5 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -5155,10 +5229,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹4.60 Cr",
+      "display_price": "\u20b94.60 Cr",
       "price_value": 46000000,
       "price_per_sqft": null,
-      "price_per_marla": "₹47.03 L / Marla"
+      "price_per_marla": "\u20b947.03 L / Marla"
     },
     "area": {
       "area_display": "2200 sqft",
@@ -5197,7 +5271,9 @@
       "9.78 Marla (2200 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -5207,10 +5283,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹82 Lac",
+      "display_price": "\u20b982 Lac",
       "price_value": 8200000,
       "price_per_sqft": 3727,
-      "price_per_marla": "₹8.38 L / Marla"
+      "price_per_marla": "\u20b98.38 L / Marla"
     },
     "area": {
       "area_display": "2200 sqft",
@@ -5255,7 +5331,9 @@
       "Security",
       "Water Storage"
     ],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -5265,10 +5343,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹1.35 Cr",
+      "display_price": "\u20b91.35 Cr",
       "price_value": 13500000,
       "price_per_sqft": 4500,
-      "price_per_marla": "₹10.85 L / Marla"
+      "price_per_marla": "\u20b910.85 L / Marla"
     },
     "area": {
       "area_display": "2800 sqft",
@@ -5310,7 +5388,9 @@
       "Water Storage",
       "Waste Disposal"
     ],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -5320,10 +5400,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹75 Lac",
+      "display_price": "\u20b975 Lac",
       "price_value": 7500000,
       "price_per_sqft": 9375,
-      "price_per_marla": "₹21.07 L / Marla"
+      "price_per_marla": "\u20b921.07 L / Marla"
     },
     "area": {
       "area_display": "800 sqft",
@@ -5361,7 +5441,9 @@
       "3.56 Marla (800 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -5371,10 +5453,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹4.50 Cr",
+      "display_price": "\u20b94.50 Cr",
       "price_value": 45000000,
       "price_per_sqft": 4500,
-      "price_per_marla": "₹10.13 L / Marla"
+      "price_per_marla": "\u20b910.13 L / Marla"
     },
     "area": {
       "area_display": "10000 sqft",
@@ -5409,7 +5491,9 @@
       "44.44 Marla (10000 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -5419,10 +5503,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹85 Lac",
+      "display_price": "\u20b985 Lac",
       "price_value": 8500000,
       "price_per_sqft": 5312,
-      "price_per_marla": "₹11.95 L / Marla"
+      "price_per_marla": "\u20b911.95 L / Marla"
     },
     "area": {
       "area_display": "1600 sqft",
@@ -5457,7 +5541,9 @@
       "7.11 Marla (1600 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -5467,10 +5553,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹30 Lac",
+      "display_price": "\u20b930 Lac",
       "price_value": 3000000,
       "price_per_sqft": 10000,
-      "price_per_marla": "₹22.56 L / Marla"
+      "price_per_marla": "\u20b922.56 L / Marla"
     },
     "area": {
       "area_display": "300 sqft",
@@ -5505,7 +5591,9 @@
       "1.33 Marla (300 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Under Construction"
   },
   {
@@ -5515,10 +5603,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹2.15 Cr",
+      "display_price": "\u20b92.15 Cr",
       "price_value": 21500000,
       "price_per_sqft": 3909,
-      "price_per_marla": "₹9.68 L / Marla"
+      "price_per_marla": "\u20b99.68 L / Marla"
     },
     "area": {
       "area_display": "5000 sqft",
@@ -5557,7 +5645,9 @@
       "22.22 Marla (5000 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -5567,10 +5657,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹3.75 Cr",
+      "display_price": "\u20b93.75 Cr",
       "price_value": 37500000,
       "price_per_sqft": 11364,
-      "price_per_marla": "₹25.56 L / Marla"
+      "price_per_marla": "\u20b925.56 L / Marla"
     },
     "area": {
       "area_display": "3300 sqft",
@@ -5606,7 +5696,9 @@
       "14.67 Marla (3300 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -5616,10 +5708,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹1.85 Cr",
+      "display_price": "\u20b91.85 Cr",
       "price_value": 18500000,
       "price_per_sqft": 6167,
-      "price_per_marla": "₹13.88 L / Marla"
+      "price_per_marla": "\u20b913.88 L / Marla"
     },
     "area": {
       "area_display": "3000 sqft",
@@ -5655,7 +5747,9 @@
       "13.33 Marla (3000 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -5665,10 +5759,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹4.20 Cr",
+      "display_price": "\u20b94.20 Cr",
       "price_value": 42000000,
       "price_per_sqft": 10287,
-      "price_per_marla": "₹31.51 L / Marla"
+      "price_per_marla": "\u20b931.51 L / Marla"
     },
     "area": {
       "area_display": "3000 sqft",
@@ -5709,7 +5803,9 @@
       "RO Water System",
       "Parking"
     ],
-    "furnished_components": ["Television"],
+    "furnished_components": [
+      "Television"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -5719,10 +5815,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹2 Cr",
+      "display_price": "\u20b92 Cr",
       "price_value": 20000000,
       "price_per_sqft": 7143,
-      "price_per_marla": "₹13.79 L / Marla"
+      "price_per_marla": "\u20b913.79 L / Marla"
     },
     "area": {
       "area_display": "3263 sqft",
@@ -5761,8 +5857,15 @@
       "Ground out of 3",
       "14.5 Marla (3263 sqft)"
     ],
-    "amenities": ["Bar/Lounge", "Power Back Up", "Lift", "Swimming Pool"],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "amenities": [
+      "Bar/Lounge",
+      "Power Back Up",
+      "Lift",
+      "Swimming Pool"
+    ],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -5772,10 +5875,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹27 Lac",
+      "display_price": "\u20b927 Lac",
       "price_value": 2700000,
       "price_per_sqft": 3000,
-      "price_per_marla": "₹13.50 Cr / Marla"
+      "price_per_marla": "\u20b913.50 Cr / Marla"
     },
     "area": {
       "area_display": "5 sqft",
@@ -5809,7 +5912,9 @@
       "0.02 Marla (5 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": null
   },
   {
@@ -5819,10 +5924,10 @@
     "type_of_property": "Villa",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹5 Cr",
+      "display_price": "\u20b95 Cr",
       "price_value": 50000000,
       "price_per_sqft": 4373,
-      "price_per_marla": "₹26.32 Cr / Marla"
+      "price_per_marla": "\u20b926.32 Cr / Marla"
     },
     "area": {
       "area_display": "42 sqft",
@@ -5850,9 +5955,15 @@
       "Tenant Preference: Bachelors/Family",
       "Transaction: Resale"
     ],
-    "key_highlights": ["Villa", "Furnished", "0.19 Marla (42 sqft)"],
+    "key_highlights": [
+      "Villa",
+      "Furnished",
+      "0.19 Marla (42 sqft)"
+    ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": null
   },
   {
@@ -5862,10 +5973,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹36 Lac",
+      "display_price": "\u20b936 Lac",
       "price_value": 3600000,
       "price_per_sqft": 2769,
-      "price_per_marla": "₹6.23 L / Marla"
+      "price_per_marla": "\u20b96.23 L / Marla"
     },
     "area": {
       "area_display": "1300 sqft",
@@ -5899,54 +6010,9 @@
       "5.78 Marla (1300 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
-    "status": null
-  },
-  {
-    "property_id": "67768919",
-    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1800-Sq-ft-Residential-House-FOR-Sale-Kunjwani-in-Jammu&id=4d423637373638393139",
-    "title": "2BHK Residential House for Resale in Kunjwani",
-    "type_of_property": "Residential House",
-    "furnished_status": "Semi-Furnished",
-    "price": {
-      "display_price": "₹1.40 Cr",
-      "price_value": 14000000,
-      "price_per_sqft": 7778,
-      "price_per_marla": "₹17.50 L / Marla"
-    },
-    "area": {
-      "area_display": "1800 sqft",
-      "area_sqft": 1800.0,
-      "area_type": "Covered Area",
-      "area_in_marla": "8 Marla"
-    },
-    "address": {
-      "full_address": "Kunjwani, Jammu, Jammu & Kashmir",
-      "locality": "Kunjwani",
-      "city": "Jammu",
-      "coordinates": null
-    },
-    "configuration": {
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "balconies": null,
-      "additional_rooms": null,
-      "summary": "2 BHK / Bedrooms, 2 Bathrooms"
-    },
-    "property_ownership": null,
-    "floors": null,
-    "property_age": null,
-    "highlights": [
-      "Tenant Preference: Bachelors/Family",
-      "Transaction: Resale"
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
     ],
-    "key_highlights": [
-      "Residential House",
-      "Semi-Furnished",
-      "8 Marla (1800 sqft)"
-    ],
-    "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
     "status": null
   },
   {
@@ -5956,10 +6022,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹60 Lac",
+      "display_price": "\u20b960 Lac",
       "price_value": 6000000,
       "price_per_sqft": 4615,
-      "price_per_marla": "₹12.27 L / Marla"
+      "price_per_marla": "\u20b912.27 L / Marla"
     },
     "area": {
       "area_display": "1100 sqft",
@@ -5994,7 +6060,9 @@
       "4.89 Marla (1100 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -6004,10 +6072,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹55 Lac",
+      "display_price": "\u20b955 Lac",
       "price_value": 5500000,
       "price_per_sqft": 9167,
-      "price_per_marla": "₹20.60 L / Marla"
+      "price_per_marla": "\u20b920.60 L / Marla"
     },
     "area": {
       "area_display": "600 sqft",
@@ -6048,7 +6116,9 @@
       "RO Water System",
       "Parking"
     ],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -6058,10 +6128,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹28 Lac",
+      "display_price": "\u20b928 Lac",
       "price_value": 2800000,
       "price_per_sqft": 2905,
-      "price_per_marla": "₹10.49 L / Marla"
+      "price_per_marla": "\u20b910.49 L / Marla"
     },
     "area": {
       "area_display": "600 sqft",
@@ -6097,7 +6167,9 @@
       "2.67 Marla (600 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -6107,10 +6179,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹28 Lac",
+      "display_price": "\u20b928 Lac",
       "price_value": 2800000,
       "price_per_sqft": 935,
-      "price_per_marla": "₹5.60 Cr / Marla"
+      "price_per_marla": "\u20b95.60 Cr / Marla"
     },
     "area": {
       "area_display": "11 sqft",
@@ -6145,7 +6217,9 @@
       "0.05 Marla (11 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Under Construction"
   },
   {
@@ -6155,10 +6229,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹2.25 Cr",
+      "display_price": "\u20b92.25 Cr",
       "price_value": 22500000,
       "price_per_sqft": 10714,
-      "price_per_marla": "₹26.66 L / Marla"
+      "price_per_marla": "\u20b926.66 L / Marla"
     },
     "area": {
       "area_display": "1900 sqft",
@@ -6201,7 +6275,9 @@
       "Water Storage",
       "Waste Disposal"
     ],
-    "furnished_components": ["Television"],
+    "furnished_components": [
+      "Television"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -6211,10 +6287,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹42 Lac",
+      "display_price": "\u20b942 Lac",
       "price_value": 4200000,
       "price_per_sqft": 3231,
-      "price_per_marla": "₹7.88 L / Marla"
+      "price_per_marla": "\u20b97.88 L / Marla"
     },
     "area": {
       "area_display": "1200 sqft",
@@ -6252,7 +6328,9 @@
       "5.33 Marla (1200 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -6262,10 +6340,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹75 Lac",
+      "display_price": "\u20b975 Lac",
       "price_value": 7500000,
       "price_per_sqft": 4839,
-      "price_per_marla": "₹13.61 L / Marla"
+      "price_per_marla": "\u20b913.61 L / Marla"
     },
     "area": {
       "area_display": "1240 sqft",
@@ -6301,7 +6379,9 @@
       "5.51 Marla (1240 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -6311,10 +6391,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹48 Lac",
+      "display_price": "\u20b948 Lac",
       "price_value": 4800000,
       "price_per_sqft": 5877,
-      "price_per_marla": "₹48.00 Cr / Marla"
+      "price_per_marla": "\u20b948.00 Cr / Marla"
     },
     "area": {
       "area_display": "3 sqft",
@@ -6349,7 +6429,9 @@
       "0.01 Marla (3 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -6359,10 +6441,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹2 Cr",
+      "display_price": "\u20b92 Cr",
       "price_value": 20000000,
       "price_per_sqft": 13333,
-      "price_per_marla": "₹29.99 L / Marla"
+      "price_per_marla": "\u20b929.99 L / Marla"
     },
     "area": {
       "area_display": "1500 sqft",
@@ -6396,7 +6478,9 @@
       "6.67 Marla (1500 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": null
   },
   {
@@ -6406,10 +6490,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹1.35 Cr",
+      "display_price": "\u20b91.35 Cr",
       "price_value": 13500000,
       "price_per_sqft": 4500,
-      "price_per_marla": "₹10.13 L / Marla"
+      "price_per_marla": "\u20b910.13 L / Marla"
     },
     "area": {
       "area_display": "3000 sqft",
@@ -6443,7 +6527,9 @@
       "13.33 Marla (3000 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": null
   },
   {
@@ -6453,10 +6539,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹63 Lac",
+      "display_price": "\u20b963 Lac",
       "price_value": 6300000,
       "price_per_sqft": 6300,
-      "price_per_marla": "₹14.19 L / Marla"
+      "price_per_marla": "\u20b914.19 L / Marla"
     },
     "area": {
       "area_display": "1000 sqft",
@@ -6490,151 +6576,10 @@
       "4.44 Marla (1000 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": null
-  },
-  {
-    "property_id": "67768927",
-    "url": "https://www.magicbricks.com/propertyDetails/7-BHK-3240-Sq-ft-Residential-House-FOR-Sale-Kunjwani-in-Jammu&id=4d423637373638393237",
-    "title": "7BHK Residential House for Resale in Kunjwani",
-    "type_of_property": "Residential House",
-    "furnished_status": "Furnished",
-    "price": {
-      "display_price": "₹90 Lac",
-      "price_value": 9000000,
-      "price_per_sqft": 2778,
-      "price_per_marla": "₹6.25 L / Marla"
-    },
-    "area": {
-      "area_display": "3240 sqft",
-      "area_sqft": 3240.0,
-      "area_type": "Covered Area",
-      "area_in_marla": "14.4 Marla"
-    },
-    "address": {
-      "full_address": "Kunjwani, Jammu, Jammu & Kashmir",
-      "locality": "Kunjwani",
-      "city": "Jammu",
-      "coordinates": null
-    },
-    "configuration": {
-      "bedrooms": 7,
-      "bathrooms": 4,
-      "balconies": null,
-      "additional_rooms": null,
-      "summary": "7 BHK / Bedrooms, 4 Bathrooms"
-    },
-    "property_ownership": null,
-    "floors": null,
-    "property_age": null,
-    "highlights": [
-      "Tenant Preference: Bachelors/Family",
-      "Transaction: Resale"
-    ],
-    "key_highlights": [
-      "Residential House",
-      "Furnished",
-      "14.4 Marla (3240 sqft)"
-    ],
-    "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
-    "status": null
-  },
-  {
-    "property_id": "67768923",
-    "url": "https://www.magicbricks.com/propertyDetails/4-BHK-9000-Sq-ft-Residential-House-FOR-Sale-Kunjwani-in-Jammu&id=4d423637373638393233",
-    "title": "4BHK Residential House for Resale in Kunjwani",
-    "type_of_property": "Residential House",
-    "furnished_status": "Semi-Furnished",
-    "price": {
-      "display_price": "₹1.35 Cr",
-      "price_value": 13500000,
-      "price_per_sqft": 1500,
-      "price_per_marla": "₹3.38 L / Marla"
-    },
-    "area": {
-      "area_display": "9000 sqft",
-      "area_sqft": 9000.0,
-      "area_type": "Covered Area",
-      "area_in_marla": "40 Marla"
-    },
-    "address": {
-      "full_address": "Kunjwani, Jammu, Jammu & Kashmir",
-      "locality": "Kunjwani",
-      "city": "Jammu",
-      "coordinates": null
-    },
-    "configuration": {
-      "bedrooms": 4,
-      "bathrooms": 2,
-      "balconies": null,
-      "additional_rooms": null,
-      "summary": "4 BHK / Bedrooms, 2 Bathrooms"
-    },
-    "property_ownership": null,
-    "floors": null,
-    "property_age": null,
-    "highlights": [
-      "Tenant Preference: Bachelors/Family",
-      "Transaction: Resale"
-    ],
-    "key_highlights": [
-      "Residential House",
-      "Semi-Furnished",
-      "40 Marla (9000 sqft)"
-    ],
-    "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
-    "status": null
-  },
-  {
-    "property_id": "78582897",
-    "url": "https://www.magicbricks.com/propertyDetails/5-BHK-3000-Sq-ft-Residential-House-FOR-Sale-Kunjwani-in-Jammu&id=4d423738353832383937",
-    "title": "5BHK Residential House for Resale in Kunjwani",
-    "type_of_property": "Residential House",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹2.50 Cr",
-      "price_value": 25000000,
-      "price_per_sqft": 8333,
-      "price_per_marla": "₹18.75 L / Marla"
-    },
-    "area": {
-      "area_display": "3000 sqft",
-      "area_sqft": 3000.0,
-      "area_type": "Covered Area",
-      "area_in_marla": "13.33 Marla"
-    },
-    "address": {
-      "full_address": "Kunjwani, Jammu, Jammu & Kashmir",
-      "locality": "Kunjwani",
-      "city": "Jammu",
-      "coordinates": null
-    },
-    "configuration": {
-      "bedrooms": 5,
-      "bathrooms": 6,
-      "balconies": null,
-      "additional_rooms": null,
-      "summary": "5 BHK / Bedrooms, 6 Bathrooms"
-    },
-    "property_ownership": null,
-    "floors": "1 out of 2",
-    "property_age": null,
-    "highlights": [
-      "Tenant Preference: Bachelors/Family",
-      "Transaction: Resale"
-    ],
-    "key_highlights": [
-      "Residential House",
-      "Ready to Move",
-      "Unfurnished",
-      "1 out of 2",
-      "13.33 Marla (3000 sqft)"
-    ],
-    "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
-    "status": "Ready to Move"
   },
   {
     "property_id": "86921935",
@@ -6643,10 +6588,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹45 Lac",
+      "display_price": "\u20b945 Lac",
       "price_value": 4500000,
       "price_per_sqft": 4500,
-      "price_per_marla": "₹10.14 L / Marla"
+      "price_per_marla": "\u20b910.14 L / Marla"
     },
     "area": {
       "area_display": "1000 sqft",
@@ -6684,7 +6629,9 @@
       "4.44 Marla (1000 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -6694,10 +6641,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹1.75 Cr",
+      "display_price": "\u20b91.75 Cr",
       "price_value": 17500000,
       "price_per_sqft": 6250,
-      "price_per_marla": "₹15.75 L / Marla"
+      "price_per_marla": "\u20b915.75 L / Marla"
     },
     "area": {
       "area_display": "2500 sqft",
@@ -6731,8 +6678,12 @@
       "Furnished",
       "11.11 Marla (2500 sqft)"
     ],
-    "amenities": ["Air Conditioned"],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "amenities": [
+      "Air Conditioned"
+    ],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -6742,10 +6693,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹55 Lac",
+      "display_price": "\u20b955 Lac",
       "price_value": 5500000,
       "price_per_sqft": 4044,
-      "price_per_marla": "₹9.11 L / Marla"
+      "price_per_marla": "\u20b99.11 L / Marla"
     },
     "area": {
       "area_display": "1360 sqft",
@@ -6780,7 +6731,9 @@
       "6.04 Marla (1360 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -6790,10 +6743,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹1 Cr",
+      "display_price": "\u20b91 Cr",
       "price_value": 10000000,
       "price_per_sqft": 4348,
-      "price_per_marla": "₹9.78 L / Marla"
+      "price_per_marla": "\u20b99.78 L / Marla"
     },
     "area": {
       "area_display": "2300 sqft",
@@ -6828,67 +6781,10 @@
       "10.22 Marla (2300 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
     "status": "Ready to Move"
-  },
-  {
-    "property_id": "85285627",
-    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1800-Sq-ft-Villa-FOR-Sale-Katra-in-Jammu&id=4d423835323835363237",
-    "title": "3BHK Villa for Resale in Katra",
-    "type_of_property": "Villa",
-    "furnished_status": "Furnished",
-    "price": {
-      "display_price": "₹75 Lac",
-      "price_value": 7500000,
-      "price_per_sqft": 4166,
-      "price_per_marla": "₹9.38 L / Marla"
-    },
-    "area": {
-      "area_display": "1800 sqft",
-      "area_sqft": 1800.0,
-      "area_type": "Covered Area",
-      "area_in_marla": "8 Marla"
-    },
-    "address": {
-      "full_address": "Shri Mata Vaishno Devi, Katra Village Serli, Udhampur Road, Katra JK ,182301, Katra, Jammu, Jammu & Kashmir",
-      "locality": "Katra",
-      "city": "Jammu",
-      "coordinates": {
-        "latitude": 32.98406982421875,
-        "longitude": 74.92784881591797
-      }
-    },
-    "configuration": {
-      "bedrooms": 3,
-      "bathrooms": 3,
-      "balconies": 2,
-      "additional_rooms": "None of these",
-      "summary": "3 BHK / Bedrooms, 3 Bathrooms, 2 Balconies, Additional: None of these"
-    },
-    "property_ownership": "Freehold",
-    "floors": null,
-    "property_age": null,
-    "highlights": [
-      "Tenant Preference: Bachelors/Family",
-      "Transaction: Resale"
-    ],
-    "key_highlights": [
-      "Villa",
-      "Under Construction",
-      "Furnished",
-      "8 Marla (1800 sqft)"
-    ],
-    "amenities": [
-      "Smart Home",
-      "Fireplace",
-      "House help accommodation",
-      "Air Conditioned",
-      "Jogging and Strolling Track",
-      "RO Water System",
-      "Visitor Parking"
-    ],
-    "furnished_components": ["Furnished with essential fixtures & furniture"],
-    "status": "Under Construction"
   },
   {
     "property_id": "78864637",
@@ -6897,7 +6793,7 @@
     "type_of_property": "Residential House",
     "furnished_status": null,
     "price": {
-      "display_price": "₹50 Lac",
+      "display_price": "\u20b950 Lac",
       "price_value": 5000000,
       "price_per_sqft": null,
       "price_per_marla": null
@@ -6928,7 +6824,9 @@
       "Tenant Preference: Bachelors/Family",
       "Transaction: Resale"
     ],
-    "key_highlights": ["Residential House"],
+    "key_highlights": [
+      "Residential House"
+    ],
     "amenities": [],
     "furnished_components": null,
     "status": null
@@ -6940,10 +6838,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹80 Lac",
+      "display_price": "\u20b980 Lac",
       "price_value": 8000000,
       "price_per_sqft": 5882,
-      "price_per_marla": "₹13.25 L / Marla"
+      "price_per_marla": "\u20b913.25 L / Marla"
     },
     "area": {
       "area_display": "1360 sqft",
@@ -6978,7 +6876,9 @@
       "6.04 Marla (1360 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -6988,7 +6888,7 @@
     "type_of_property": "Villa",
     "furnished_status": null,
     "price": {
-      "display_price": "₹Call for Price",
+      "display_price": "\u20b9Call for Price",
       "price_value": null,
       "price_per_sqft": null,
       "price_per_marla": null
@@ -7019,47 +6919,9 @@
       "Tenant Preference: Bachelors/Family",
       "Transaction: Resale"
     ],
-    "key_highlights": ["Villa"],
-    "amenities": [],
-    "furnished_components": null,
-    "status": null
-  },
-  {
-    "property_id": "85366115",
-    "url": "https://www.magicbricks.com/propertyDetails/4-BHK-2000-Sq-ft-Residential-House-FOR-Sale-Vijaypur-in-Jammu&id=4d423835333636313135",
-    "title": "4BHK Residential House in Vijaypur",
-    "type_of_property": "Residential House",
-    "furnished_status": null,
-    "price": {
-      "display_price": "₹Call for Price",
-      "price_value": null,
-      "price_per_sqft": null,
-      "price_per_marla": null
-    },
-    "area": {
-      "area_display": "2000 sqft",
-      "area_sqft": 2000.0,
-      "area_type": "Covered Area",
-      "area_in_marla": "8.89 Marla"
-    },
-    "address": {
-      "full_address": "Vijaypur, Jammu, Jammu & Kashmir",
-      "locality": "Vijaypur",
-      "city": "Jammu",
-      "coordinates": null
-    },
-    "configuration": {
-      "bedrooms": 4,
-      "bathrooms": null,
-      "balconies": null,
-      "additional_rooms": null,
-      "summary": "4 BHK / Bedrooms"
-    },
-    "property_ownership": null,
-    "floors": null,
-    "property_age": null,
-    "highlights": ["Tenant Preference: Bachelors/Family"],
-    "key_highlights": ["Residential House", "8.89 Marla (2000 sqft)"],
+    "key_highlights": [
+      "Villa"
+    ],
     "amenities": [],
     "furnished_components": null,
     "status": null
@@ -7071,7 +6933,7 @@
     "type_of_property": "Residential House",
     "furnished_status": null,
     "price": {
-      "display_price": "₹Call for Price",
+      "display_price": "\u20b9Call for Price",
       "price_value": null,
       "price_per_sqft": null,
       "price_per_marla": null
@@ -7102,7 +6964,9 @@
       "Tenant Preference: Bachelors/Family",
       "Transaction: Resale"
     ],
-    "key_highlights": ["Residential House"],
+    "key_highlights": [
+      "Residential House"
+    ],
     "amenities": [],
     "furnished_components": null,
     "status": null
@@ -7114,7 +6978,7 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹Call for Price",
+      "display_price": "\u20b9Call for Price",
       "price_value": null,
       "price_per_sqft": null,
       "price_per_marla": null
@@ -7151,7 +7015,9 @@
       "0.02 Marla (5 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": null
   },
   {
@@ -7161,7 +7027,7 @@
     "type_of_property": "Residential House",
     "furnished_status": null,
     "price": {
-      "display_price": "₹Call for Price",
+      "display_price": "\u20b9Call for Price",
       "price_value": null,
       "price_per_sqft": null,
       "price_per_marla": null
@@ -7192,7 +7058,10 @@
       "Tenant Preference: Bachelors/Family",
       "Transaction: Resale"
     ],
-    "key_highlights": ["Residential House", "8.89 Marla (2000 sqft)"],
+    "key_highlights": [
+      "Residential House",
+      "8.89 Marla (2000 sqft)"
+    ],
     "amenities": [],
     "furnished_components": null,
     "status": null
@@ -7204,7 +7073,7 @@
     "type_of_property": "Residential House",
     "furnished_status": null,
     "price": {
-      "display_price": "₹Call for Price",
+      "display_price": "\u20b9Call for Price",
       "price_value": null,
       "price_per_sqft": null,
       "price_per_marla": null
@@ -7231,8 +7100,12 @@
     "property_ownership": null,
     "floors": null,
     "property_age": null,
-    "highlights": ["Tenant Preference: Bachelors/Family"],
-    "key_highlights": ["Residential House"],
+    "highlights": [
+      "Tenant Preference: Bachelors/Family"
+    ],
+    "key_highlights": [
+      "Residential House"
+    ],
     "amenities": [],
     "furnished_components": null,
     "status": null
@@ -7244,7 +7117,7 @@
     "type_of_property": "Residential House",
     "furnished_status": null,
     "price": {
-      "display_price": "₹Call for Price",
+      "display_price": "\u20b9Call for Price",
       "price_value": null,
       "price_per_sqft": null,
       "price_per_marla": null
@@ -7271,8 +7144,13 @@
     "property_ownership": null,
     "floors": null,
     "property_age": null,
-    "highlights": ["Tenant Preference: Bachelors/Family"],
-    "key_highlights": ["Residential House", "6.67 Marla (1500 sqft)"],
+    "highlights": [
+      "Tenant Preference: Bachelors/Family"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "6.67 Marla (1500 sqft)"
+    ],
     "amenities": [],
     "furnished_components": null,
     "status": null
@@ -7284,7 +7162,7 @@
     "type_of_property": "Apartment",
     "furnished_status": null,
     "price": {
-      "display_price": "₹Call for Price",
+      "display_price": "\u20b9Call for Price",
       "price_value": null,
       "price_per_sqft": null,
       "price_per_marla": null
@@ -7315,7 +7193,9 @@
       "Tenant Preference: Bachelors/Family",
       "Transaction: Resale"
     ],
-    "key_highlights": ["Apartment"],
+    "key_highlights": [
+      "Apartment"
+    ],
     "amenities": [],
     "furnished_components": null,
     "status": null
@@ -7358,7 +7238,9 @@
       "Tenant Preference: Bachelors/Family",
       "Transaction: Resale"
     ],
-    "key_highlights": ["Apartment"],
+    "key_highlights": [
+      "Apartment"
+    ],
     "amenities": [],
     "furnished_components": null,
     "status": null
@@ -7370,7 +7252,7 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹Call for Price",
+      "display_price": "\u20b9Call for Price",
       "price_value": null,
       "price_per_sqft": null,
       "price_per_marla": null
@@ -7409,48 +7291,10 @@
       "7.11 Marla (1600 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
-  },
-  {
-    "property_id": "86348045",
-    "url": "https://www.magicbricks.com/propertyDetails/5-BHK-Residential-House-FOR-Sale-Kunjwani-in-Jammu&id=4d423836333438303435",
-    "title": "5BHK Residential House in Kunjwani",
-    "type_of_property": "Residential House",
-    "furnished_status": null,
-    "price": {
-      "display_price": "₹Call for Price",
-      "price_value": null,
-      "price_per_sqft": null,
-      "price_per_marla": null
-    },
-    "area": {
-      "area_display": null,
-      "area_sqft": null,
-      "area_type": null,
-      "area_in_marla": null
-    },
-    "address": {
-      "full_address": "Kunjwani, Jammu, Jammu & Kashmir",
-      "locality": "Kunjwani",
-      "city": "Jammu",
-      "coordinates": null
-    },
-    "configuration": {
-      "bedrooms": 5,
-      "bathrooms": null,
-      "balconies": null,
-      "additional_rooms": null,
-      "summary": "5 BHK / Bedrooms"
-    },
-    "property_ownership": null,
-    "floors": null,
-    "property_age": null,
-    "highlights": ["Tenant Preference: Bachelors/Family"],
-    "key_highlights": ["Residential House"],
-    "amenities": [],
-    "furnished_components": null,
-    "status": null
   },
   {
     "property_id": "76568269",
@@ -7459,7 +7303,7 @@
     "type_of_property": "Residential House",
     "furnished_status": null,
     "price": {
-      "display_price": "₹Call for Price",
+      "display_price": "\u20b9Call for Price",
       "price_value": null,
       "price_per_sqft": null,
       "price_per_marla": null
@@ -7490,7 +7334,10 @@
       "Tenant Preference: Bachelors/Family",
       "Transaction: Resale"
     ],
-    "key_highlights": ["Residential House", "5.24 Marla (1180 sqft)"],
+    "key_highlights": [
+      "Residential House",
+      "5.24 Marla (1180 sqft)"
+    ],
     "amenities": [],
     "furnished_components": null,
     "status": null
@@ -7502,7 +7349,7 @@
     "type_of_property": "Residential House",
     "furnished_status": null,
     "price": {
-      "display_price": "₹Call for Price",
+      "display_price": "\u20b9Call for Price",
       "price_value": null,
       "price_per_sqft": null,
       "price_per_marla": null
@@ -7529,8 +7376,13 @@
     "property_ownership": null,
     "floors": null,
     "property_age": null,
-    "highlights": ["Tenant Preference: Bachelors/Family"],
-    "key_highlights": ["Residential House", "4.44 Marla (1000 sqft)"],
+    "highlights": [
+      "Tenant Preference: Bachelors/Family"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "4.44 Marla (1000 sqft)"
+    ],
     "amenities": [],
     "furnished_components": null,
     "status": null
@@ -7542,7 +7394,7 @@
     "type_of_property": "Builder Floor Apartment",
     "furnished_status": null,
     "price": {
-      "display_price": "₹Call for Price",
+      "display_price": "\u20b9Call for Price",
       "price_value": null,
       "price_per_sqft": null,
       "price_per_marla": null
@@ -7573,7 +7425,10 @@
       "Tenant Preference: Bachelors/Family",
       "Transaction: Resale"
     ],
-    "key_highlights": ["Builder Floor Apartment", "888.89 Marla (200000 sqft)"],
+    "key_highlights": [
+      "Builder Floor Apartment",
+      "888.89 Marla (200000 sqft)"
+    ],
     "amenities": [],
     "furnished_components": null,
     "status": null
@@ -7585,10 +7440,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹3.50 Cr",
+      "display_price": "\u20b93.50 Cr",
       "price_value": 35000000,
       "price_per_sqft": 7143,
-      "price_per_marla": "₹16.07 L / Marla"
+      "price_per_marla": "\u20b916.07 L / Marla"
     },
     "area": {
       "area_display": "4900 sqft",
@@ -7624,7 +7479,9 @@
       "21.78 Marla (4900 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -7634,7 +7491,7 @@
     "type_of_property": "Apartment",
     "furnished_status": null,
     "price": {
-      "display_price": "₹Call for Price",
+      "display_price": "\u20b9Call for Price",
       "price_value": null,
       "price_per_sqft": null,
       "price_per_marla": null
@@ -7665,7 +7522,9 @@
       "Tenant Preference: Bachelors/Family",
       "Transaction: Resale"
     ],
-    "key_highlights": ["Apartment"],
+    "key_highlights": [
+      "Apartment"
+    ],
     "amenities": [],
     "furnished_components": null,
     "status": null
@@ -7677,10 +7536,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹52 Lac",
+      "display_price": "\u20b952 Lac",
       "price_value": 5200000,
       "price_per_sqft": 3355,
-      "price_per_marla": "₹7.55 L / Marla"
+      "price_per_marla": "\u20b97.55 L / Marla"
     },
     "area": {
       "area_display": "1550 sqft",
@@ -7715,7 +7574,9 @@
       "6.89 Marla (1550 sqft)"
     ],
     "amenities": [],
-    "furnished_components": ["Semi-Furnished (fixtures / woodwork included)"],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
     "status": "Ready to Move"
   },
   {
@@ -7725,10 +7586,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹1.40 Cr",
+      "display_price": "\u20b91.40 Cr",
       "price_value": 14000000,
       "price_per_sqft": 4667,
-      "price_per_marla": "₹20.99 L / Marla"
+      "price_per_marla": "\u20b920.99 L / Marla"
     },
     "area": {
       "area_display": "1500 sqft",
@@ -7769,7 +7630,302 @@
       "Visitor Parking",
       "Parking"
     ],
-    "furnished_components": ["Unfurnished (no furniture/appliances provided)"],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
     "status": "Ready to Move"
+  },
+  {
+    "property_id": "82941355",
+    "url": "https://www.magicbricks.com/propertyDetails/9-BHK-1400-Sq-ft-Residential-House-FOR-Sale-Udheywala-in-Jammu&id=4d423832393431333535",
+    "title": "9BHK Residential House for Resale in Udheywala",
+    "type_of_property": "Residential House",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "\u20b960 Lac",
+      "price_value": 6000000,
+      "price_per_sqft": 4286,
+      "price_per_marla": "\u20b99.65 L / Marla"
+    },
+    "area": {
+      "area_display": "1400 sqft",
+      "area_sqft": 1400.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "6.22 Marla"
+    },
+    "address": {
+      "full_address": "Udheywala, Jammu, Jammu & Kashmir",
+      "locality": "Udheywala",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 9,
+      "bathrooms": 3,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "9 BHK / Bedrooms, 3 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "Less than 5 years",
+    "highlights": [
+      "Facing: Main Road",
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "Ready to Move",
+      "Unfurnished",
+      "6.22 Marla (1400 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": "Ready to Move"
+  },
+  {
+    "property_id": "67768919",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1800-Sq-ft-Residential-House-FOR-Sale-Kunjwani-in-Jammu&id=4d423637373638393139",
+    "title": "2BHK Residential House for Resale in Kunjwani",
+    "type_of_property": "Residential House",
+    "furnished_status": "Semi-Furnished",
+    "price": {
+      "display_price": "\u20b91.40 Cr",
+      "price_value": 14000000,
+      "price_per_sqft": 7778,
+      "price_per_marla": "\u20b917.50 L / Marla"
+    },
+    "area": {
+      "area_display": "1800 sqft",
+      "area_sqft": 1800.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "8 Marla"
+    },
+    "address": {
+      "full_address": "Kunjwani, Jammu, Jammu & Kashmir",
+      "locality": "Kunjwani",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "2 BHK / Bedrooms, 2 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "Semi-Furnished",
+      "8 Marla (1800 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
+    "status": null
+  },
+  {
+    "property_id": "67768927",
+    "url": "https://www.magicbricks.com/propertyDetails/7-BHK-3240-Sq-ft-Residential-House-FOR-Sale-Kunjwani-in-Jammu&id=4d423637373638393237",
+    "title": "7BHK Residential House for Resale in Kunjwani",
+    "type_of_property": "Residential House",
+    "furnished_status": "Furnished",
+    "price": {
+      "display_price": "\u20b990 Lac",
+      "price_value": 9000000,
+      "price_per_sqft": 2778,
+      "price_per_marla": "\u20b96.25 L / Marla"
+    },
+    "area": {
+      "area_display": "3240 sqft",
+      "area_sqft": 3240.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "14.4 Marla"
+    },
+    "address": {
+      "full_address": "Kunjwani, Jammu, Jammu & Kashmir",
+      "locality": "Kunjwani",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 7,
+      "bathrooms": 4,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "7 BHK / Bedrooms, 4 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "Furnished",
+      "14.4 Marla (3240 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
+    "status": null
+  },
+  {
+    "property_id": "67768923",
+    "url": "https://www.magicbricks.com/propertyDetails/4-BHK-9000-Sq-ft-Residential-House-FOR-Sale-Kunjwani-in-Jammu&id=4d423637373638393233",
+    "title": "4BHK Residential House for Resale in Kunjwani",
+    "type_of_property": "Residential House",
+    "furnished_status": "Semi-Furnished",
+    "price": {
+      "display_price": "\u20b91.35 Cr",
+      "price_value": 13500000,
+      "price_per_sqft": 1500,
+      "price_per_marla": "\u20b93.38 L / Marla"
+    },
+    "area": {
+      "area_display": "9000 sqft",
+      "area_sqft": 9000.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "40 Marla"
+    },
+    "address": {
+      "full_address": "Kunjwani, Jammu, Jammu & Kashmir",
+      "locality": "Kunjwani",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "4 BHK / Bedrooms, 2 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "Semi-Furnished",
+      "40 Marla (9000 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
+    "status": null
+  },
+  {
+    "property_id": "78582897",
+    "url": "https://www.magicbricks.com/propertyDetails/5-BHK-3000-Sq-ft-Residential-House-FOR-Sale-Kunjwani-in-Jammu&id=4d423738353832383937",
+    "title": "5BHK Residential House for Resale in Kunjwani",
+    "type_of_property": "Residential House",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "\u20b92.50 Cr",
+      "price_value": 25000000,
+      "price_per_sqft": 8333,
+      "price_per_marla": "\u20b918.75 L / Marla"
+    },
+    "area": {
+      "area_display": "3000 sqft",
+      "area_sqft": 3000.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "13.33 Marla"
+    },
+    "address": {
+      "full_address": "Kunjwani, Jammu, Jammu & Kashmir",
+      "locality": "Kunjwani",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 5,
+      "bathrooms": 6,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "5 BHK / Bedrooms, 6 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": "1 out of 2",
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "Ready to Move",
+      "Unfurnished",
+      "1 out of 2",
+      "13.33 Marla (3000 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": "Ready to Move"
+  },
+  {
+    "property_id": "86348045",
+    "url": "https://www.magicbricks.com/propertyDetails/5-BHK-Residential-House-FOR-Sale-Kunjwani-in-Jammu&id=4d423836333438303435",
+    "title": "5BHK Residential House in Kunjwani",
+    "type_of_property": "Residential House",
+    "furnished_status": null,
+    "price": {
+      "display_price": "\u20b9Call for Price",
+      "price_value": null,
+      "price_per_sqft": null,
+      "price_per_marla": null
+    },
+    "area": {
+      "area_display": null,
+      "area_sqft": null,
+      "area_type": null,
+      "area_in_marla": null
+    },
+    "address": {
+      "full_address": "Kunjwani, Jammu, Jammu & Kashmir",
+      "locality": "Kunjwani",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 5,
+      "bathrooms": null,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "5 BHK / Bedrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family"
+    ],
+    "key_highlights": [
+      "Residential House"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": null
   }
 ]

@@ -6,10 +6,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹2.6 L",
+      "display_price": "\u20b92.6 L",
       "price_value": 260000,
-      "price_per_sqft": "₹46.76/sq.ft",
-      "price_per_marla": "₹10,522 / Marla"
+      "price_per_sqft": "\u20b946.76/sq.ft",
+      "price_per_marla": "\u20b910,522 / Marla"
     },
     "area": {
       "area_display": "5560 sq.ft",
@@ -52,10 +52,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹2.65 L",
+      "display_price": "\u20b92.65 L",
       "price_value": 265000,
-      "price_per_sqft": "₹47.41/sq.ft",
-      "price_per_marla": "₹10,668 / Marla"
+      "price_per_sqft": "\u20b947.41/sq.ft",
+      "price_per_marla": "\u20b910,668 / Marla"
     },
     "area": {
       "area_display": "5589 sq.ft",
@@ -92,64 +92,16 @@
     "status": null
   },
   {
-    "property_id": "100548627",
-    "url": "https://housing.com/commercial/buy/resale/100548627-showroom-for-sale-in-udhampur-2-jammu-jammu-and-kashmir-1-for-rs-20000000",
-    "title": "Showroom",
-    "type_of_property": "Commercial Showroom",
-    "furnished_status": null,
-    "price": {
-      "display_price": "₹2.0 Cr",
-      "price_value": 20000000,
-      "price_per_sqft": "₹11.11K/sq.ft",
-      "price_per_marla": "₹25.00 L / Marla"
-    },
-    "area": {
-      "area_display": "1800 sq.ft",
-      "area_sqft": 1800.0,
-      "area_type": "Built Up Area",
-      "area_in_marla": "8 Marla"
-    },
-    "address": {
-      "full_address": "Omala, Jammu",
-      "locality": "Omala",
-      "city": "Jammu",
-      "coordinates": {
-        "latitude": "32.915756",
-        "longitude": "75.131029"
-      }
-    },
-    "configuration": {
-      "bedrooms": null,
-      "bathrooms": null,
-      "balconies": null,
-      "parking": null,
-      "summary": "Commercial Space"
-    },
-    "property_ownership": "Freehold",
-    "floors": "GF,1st/ 2 floors",
-    "property_age": "1 Years",
-    "highlights": [],
-    "key_highlights": [
-      "Commercial Showroom",
-      "Ready to move",
-      "Floor: GF,1st/ 2 floors",
-      "8 Marla (1800 sq.ft)"
-    ],
-    "amenities": [],
-    "furnished_components": null,
-    "status": "Ready to move"
-  },
-  {
     "property_id": "100552075",
     "url": "https://housing.com/commercial/buy/resale/100552075-shop-for-sale-in-sainik-colony-jammu-jammu-jammu-and-kashmir-1-for-rs-5000000",
     "title": "Shop",
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹50.0 L",
+      "display_price": "\u20b950.0 L",
       "price_value": 5000000,
-      "price_per_sqft": "₹13.89K/sq.ft",
-      "price_per_marla": "₹31.25 L / Marla"
+      "price_per_sqft": "\u20b913.89K/sq.ft",
+      "price_per_marla": "\u20b931.25 L / Marla"
     },
     "area": {
       "area_display": "360 sq.ft",
@@ -194,10 +146,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹20.0 L",
+      "display_price": "\u20b920.0 L",
       "price_value": 2000000,
-      "price_per_sqft": "₹25.0K/sq.ft",
-      "price_per_marla": "₹55.56 L / Marla"
+      "price_per_sqft": "\u20b925.0K/sq.ft",
+      "price_per_marla": "\u20b955.56 L / Marla"
     },
     "area": {
       "area_display": "80 sq.ft",
@@ -242,10 +194,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹35.0 L",
+      "display_price": "\u20b935.0 L",
       "price_value": 3500000,
-      "price_per_sqft": "₹17.5K/sq.ft",
-      "price_per_marla": "₹39.33 L / Marla"
+      "price_per_sqft": "\u20b917.5K/sq.ft",
+      "price_per_marla": "\u20b939.33 L / Marla"
     },
     "area": {
       "area_display": "200 sq.ft",
@@ -290,10 +242,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹17.0 L",
+      "display_price": "\u20b917.0 L",
       "price_value": 1699999,
-      "price_per_sqft": "₹3.09K/sq.ft",
-      "price_per_marla": "₹6.97 L / Marla"
+      "price_per_sqft": "\u20b93.09K/sq.ft",
+      "price_per_marla": "\u20b96.97 L / Marla"
     },
     "area": {
       "area_display": "550 sq.ft",
@@ -338,10 +290,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": null,
     "price": {
-      "display_price": "₹10.0 Cr",
+      "display_price": "\u20b910.0 Cr",
       "price_value": 100000000,
-      "price_per_sqft": "₹28.57K/sq.ft",
-      "price_per_marla": "₹64.27 L / Marla"
+      "price_per_sqft": "\u20b928.57K/sq.ft",
+      "price_per_marla": "\u20b964.27 L / Marla"
     },
     "area": {
       "area_display": "3500 sq.ft",
@@ -386,10 +338,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹30.0 L",
+      "display_price": "\u20b930.0 L",
       "price_value": 3000000,
-      "price_per_sqft": "₹15.0/sq.ft",
-      "price_per_marla": "₹3,375 / Marla"
+      "price_per_sqft": "\u20b915.0/sq.ft",
+      "price_per_marla": "\u20b93,375 / Marla"
     },
     "area": {
       "area_display": "200000 sq.ft",
@@ -426,108 +378,16 @@
     "status": null
   },
   {
-    "property_id": "100629886",
-    "url": "https://housing.com/commercial/buy/resale/100629886-commercial-plot-for-sale-in-vijaypur-jammu-jammu-and-kashmir-1-for-rs-2500000",
-    "title": "Commercial Plot",
-    "type_of_property": "Commercial Plot / Land",
-    "furnished_status": null,
-    "price": {
-      "display_price": "₹25.0 L",
-      "price_value": 2500000,
-      "price_per_sqft": "₹8.33K/sq.ft",
-      "price_per_marla": "₹18.80 L / Marla"
-    },
-    "area": {
-      "area_display": "300 sq.ft",
-      "area_sqft": 300.0,
-      "area_type": "Plot Area",
-      "area_in_marla": "1.33 Marla"
-    },
-    "address": {
-      "full_address": "Vijaypur, Jammu",
-      "locality": "Vijaypur",
-      "city": "Jammu",
-      "coordinates": {
-        "latitude": "32.5633415384054",
-        "longitude": "75.0230570180302"
-      }
-    },
-    "configuration": {
-      "bedrooms": null,
-      "bathrooms": null,
-      "balconies": null,
-      "parking": null,
-      "summary": "Plot / Land (No rooms)"
-    },
-    "property_ownership": "Freehold",
-    "floors": null,
-    "property_age": null,
-    "highlights": [],
-    "key_highlights": [
-      "Commercial Plot / Land",
-      "1.33 Marla (300 sq.ft)"
-    ],
-    "amenities": [],
-    "furnished_components": null,
-    "status": null
-  },
-  {
-    "property_id": "100629887",
-    "url": "https://housing.com/commercial/buy/resale/100629887-commercial-plot-for-sale-in-vijaypur-jammu-jammu-and-kashmir-1-for-rs-2500000",
-    "title": "Commercial Plot",
-    "type_of_property": "Commercial Plot / Land",
-    "furnished_status": null,
-    "price": {
-      "display_price": "₹25.0 L",
-      "price_value": 2500000,
-      "price_per_sqft": "₹8.33K/sq.ft",
-      "price_per_marla": "₹18.80 L / Marla"
-    },
-    "area": {
-      "area_display": "300 sq.ft",
-      "area_sqft": 300.0,
-      "area_type": "Plot Area",
-      "area_in_marla": "1.33 Marla"
-    },
-    "address": {
-      "full_address": "Vijaypur, Jammu",
-      "locality": "Vijaypur",
-      "city": "Jammu",
-      "coordinates": {
-        "latitude": "32.5633415384054",
-        "longitude": "75.0230570180302"
-      }
-    },
-    "configuration": {
-      "bedrooms": null,
-      "bathrooms": null,
-      "balconies": null,
-      "parking": null,
-      "summary": "Plot / Land (No rooms)"
-    },
-    "property_ownership": "Freehold",
-    "floors": null,
-    "property_age": null,
-    "highlights": [],
-    "key_highlights": [
-      "Commercial Plot / Land",
-      "1.33 Marla (300 sq.ft)"
-    ],
-    "amenities": [],
-    "furnished_components": null,
-    "status": null
-  },
-  {
     "property_id": "100631653",
     "url": "https://housing.com/commercial/buy/resale/100631653-commercial-plot-for-sale-in-patoli-jammu-jammu-jammu-and-kashmir-1-for-rs-4400000",
     "title": "Commercial Plot",
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹44.0 L",
+      "display_price": "\u20b944.0 L",
       "price_value": 4400000,
-      "price_per_sqft": "₹1.47K/sq.ft",
-      "price_per_marla": "₹3.31 L / Marla"
+      "price_per_sqft": "\u20b91.47K/sq.ft",
+      "price_per_marla": "\u20b93.31 L / Marla"
     },
     "area": {
       "area_display": "2994 sq.ft",
@@ -570,10 +430,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹44.0 L",
+      "display_price": "\u20b944.0 L",
       "price_value": 4400000,
-      "price_per_sqft": "₹1.47K/sq.ft",
-      "price_per_marla": "₹3.31 L / Marla"
+      "price_per_sqft": "\u20b91.47K/sq.ft",
+      "price_per_marla": "\u20b93.31 L / Marla"
     },
     "area": {
       "area_display": "2994 sq.ft",
@@ -616,10 +476,10 @@
     "type_of_property": "Commercial Property",
     "furnished_status": null,
     "price": {
-      "display_price": "₹10.0 Cr",
+      "display_price": "\u20b910.0 Cr",
       "price_value": 100000000,
-      "price_per_sqft": "₹18.52K/sq.ft",
-      "price_per_marla": "₹41.67 L / Marla"
+      "price_per_sqft": "\u20b918.52K/sq.ft",
+      "price_per_marla": "\u20b941.67 L / Marla"
     },
     "area": {
       "area_display": "5400 sq.ft",
@@ -664,10 +524,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.2 Cr",
+      "display_price": "\u20b91.2 Cr",
       "price_value": 12000000,
-      "price_per_sqft": "₹110.19/sq.ft",
-      "price_per_marla": "₹24,793 / Marla"
+      "price_per_sqft": "\u20b9110.19/sq.ft",
+      "price_per_marla": "\u20b924,793 / Marla"
     },
     "area": {
       "area_display": "108900 sq.ft",
@@ -710,10 +570,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.2 Cr",
+      "display_price": "\u20b91.2 Cr",
       "price_value": 12000000,
-      "price_per_sqft": "₹110.19/sq.ft",
-      "price_per_marla": "₹24,793 / Marla"
+      "price_per_sqft": "\u20b9110.19/sq.ft",
+      "price_per_marla": "\u20b924,793 / Marla"
     },
     "area": {
       "area_display": "108900 sq.ft",
@@ -756,10 +616,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹25.0 L",
+      "display_price": "\u20b925.0 L",
       "price_value": 2500000,
-      "price_per_sqft": "₹4.25K/sq.ft",
-      "price_per_marla": "₹9.58 L / Marla"
+      "price_per_sqft": "\u20b94.25K/sq.ft",
+      "price_per_marla": "\u20b99.58 L / Marla"
     },
     "area": {
       "area_display": "588 sq.ft",
@@ -802,10 +662,10 @@
     "type_of_property": "Commercial Property",
     "furnished_status": null,
     "price": {
-      "display_price": "₹75.0 L",
+      "display_price": "\u20b975.0 L",
       "price_value": 7500000,
-      "price_per_sqft": "₹5.56K/sq.ft",
-      "price_per_marla": "₹12.50 L / Marla"
+      "price_per_sqft": "\u20b95.56K/sq.ft",
+      "price_per_marla": "\u20b912.50 L / Marla"
     },
     "area": {
       "area_display": "1350 sq.ft",
@@ -850,10 +710,10 @@
     "type_of_property": "Commercial Office Space",
     "furnished_status": null,
     "price": {
-      "display_price": "₹30.0 L",
+      "display_price": "\u20b930.0 L",
       "price_value": 3000000,
-      "price_per_sqft": "₹7.14K/sq.ft",
-      "price_per_marla": "₹16.04 L / Marla"
+      "price_per_sqft": "\u20b97.14K/sq.ft",
+      "price_per_marla": "\u20b916.04 L / Marla"
     },
     "area": {
       "area_display": "420 sq.ft",
@@ -898,10 +758,10 @@
     "type_of_property": "Commercial Office Space",
     "furnished_status": null,
     "price": {
-      "display_price": "₹30.0 L",
+      "display_price": "\u20b930.0 L",
       "price_value": 3000000,
-      "price_per_sqft": "₹7.14K/sq.ft",
-      "price_per_marla": "₹16.04 L / Marla"
+      "price_per_sqft": "\u20b97.14K/sq.ft",
+      "price_per_marla": "\u20b916.04 L / Marla"
     },
     "area": {
       "area_display": "420 sq.ft",
@@ -946,10 +806,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.0 Cr",
+      "display_price": "\u20b91.0 Cr",
       "price_value": 10000000,
-      "price_per_sqft": "₹18.18K/sq.ft",
-      "price_per_marla": "₹40.98 L / Marla"
+      "price_per_sqft": "\u20b918.18K/sq.ft",
+      "price_per_marla": "\u20b940.98 L / Marla"
     },
     "area": {
       "area_display": "550 sq.ft",
@@ -994,10 +854,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.25 Cr",
+      "display_price": "\u20b91.25 Cr",
       "price_value": 12500000,
-      "price_per_sqft": "₹22.73K/sq.ft",
-      "price_per_marla": "₹51.23 L / Marla"
+      "price_per_sqft": "\u20b922.73K/sq.ft",
+      "price_per_marla": "\u20b951.23 L / Marla"
     },
     "area": {
       "area_display": "550 sq.ft",
@@ -1042,10 +902,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.25 Cr",
+      "display_price": "\u20b91.25 Cr",
       "price_value": 12500000,
-      "price_per_sqft": "₹22.73K/sq.ft",
-      "price_per_marla": "₹51.23 L / Marla"
+      "price_per_sqft": "\u20b922.73K/sq.ft",
+      "price_per_marla": "\u20b951.23 L / Marla"
     },
     "area": {
       "area_display": "550 sq.ft",
@@ -1090,10 +950,10 @@
     "type_of_property": "Warehouse / Godown",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.6 Cr",
+      "display_price": "\u20b91.6 Cr",
       "price_value": 15999999,
-      "price_per_sqft": "₹2.96K/sq.ft",
-      "price_per_marla": "₹6.67 L / Marla"
+      "price_per_sqft": "\u20b92.96K/sq.ft",
+      "price_per_marla": "\u20b96.67 L / Marla"
     },
     "area": {
       "area_display": "5400 sq.ft",
@@ -1138,10 +998,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.6 Cr",
+      "display_price": "\u20b91.6 Cr",
       "price_value": 15999999,
-      "price_per_sqft": "₹64.0K/sq.ft",
-      "price_per_marla": "₹1.44 Cr / Marla"
+      "price_per_sqft": "\u20b964.0K/sq.ft",
+      "price_per_marla": "\u20b91.44 Cr / Marla"
     },
     "area": {
       "area_display": "250 sq.ft",
@@ -1186,10 +1046,10 @@
     "type_of_property": "Warehouse / Godown",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.6 Cr",
+      "display_price": "\u20b91.6 Cr",
       "price_value": 15999999,
-      "price_per_sqft": "₹2.88K/sq.ft",
-      "price_per_marla": "₹6.49 L / Marla"
+      "price_per_sqft": "\u20b92.88K/sq.ft",
+      "price_per_marla": "\u20b96.49 L / Marla"
     },
     "area": {
       "area_display": "5550 sq.ft",
@@ -1234,10 +1094,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.7 Cr",
+      "display_price": "\u20b91.7 Cr",
       "price_value": 16999999,
-      "price_per_sqft": "₹16.67K/sq.ft",
-      "price_per_marla": "₹37.53 L / Marla"
+      "price_per_sqft": "\u20b916.67K/sq.ft",
+      "price_per_marla": "\u20b937.53 L / Marla"
     },
     "area": {
       "area_display": "1020 sq.ft",
@@ -1282,10 +1142,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹4.25 Cr",
+      "display_price": "\u20b94.25 Cr",
       "price_value": 42500000,
-      "price_per_sqft": "₹23.61K/sq.ft",
-      "price_per_marla": "₹53.12 L / Marla"
+      "price_per_sqft": "\u20b923.61K/sq.ft",
+      "price_per_marla": "\u20b953.12 L / Marla"
     },
     "area": {
       "area_display": "1800 sq.ft",
@@ -1328,10 +1188,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.8 Cr",
+      "display_price": "\u20b91.8 Cr",
       "price_value": 18000000,
-      "price_per_sqft": "₹69.23K/sq.ft",
-      "price_per_marla": "₹1.55 Cr / Marla"
+      "price_per_sqft": "\u20b969.23K/sq.ft",
+      "price_per_marla": "\u20b91.55 Cr / Marla"
     },
     "area": {
       "area_display": "260 sq.ft",
@@ -1376,10 +1236,10 @@
     "type_of_property": "Commercial Property",
     "furnished_status": null,
     "price": {
-      "display_price": "₹6.5 Cr",
+      "display_price": "\u20b96.5 Cr",
       "price_value": 65000000,
-      "price_per_sqft": "₹1.63K/sq.ft",
-      "price_per_marla": "₹3.66 L / Marla"
+      "price_per_sqft": "\u20b91.63K/sq.ft",
+      "price_per_marla": "\u20b93.66 L / Marla"
     },
     "area": {
       "area_display": "40000 sq.ft",
@@ -1424,10 +1284,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹4.3 L",
+      "display_price": "\u20b94.3 L",
       "price_value": 429999,
-      "price_per_sqft": "₹65.59/sq.ft",
-      "price_per_marla": "₹14,756 / Marla"
+      "price_per_sqft": "\u20b965.59/sq.ft",
+      "price_per_marla": "\u20b914,756 / Marla"
     },
     "area": {
       "area_display": "6556 sq.ft",
@@ -1470,10 +1330,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.8 Cr",
+      "display_price": "\u20b91.8 Cr",
       "price_value": 18000000,
-      "price_per_sqft": "₹18.0K/sq.ft",
-      "price_per_marla": "₹40.54 L / Marla"
+      "price_per_sqft": "\u20b918.0K/sq.ft",
+      "price_per_marla": "\u20b940.54 L / Marla"
     },
     "area": {
       "area_display": "1000 sq.ft",
@@ -1518,10 +1378,10 @@
     "type_of_property": "Warehouse / Godown",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.8 Cr",
+      "display_price": "\u20b91.8 Cr",
       "price_value": 18000000,
-      "price_per_sqft": "₹3.16K/sq.ft",
-      "price_per_marla": "₹7.11 L / Marla"
+      "price_per_sqft": "\u20b93.16K/sq.ft",
+      "price_per_marla": "\u20b97.11 L / Marla"
     },
     "area": {
       "area_display": "5700 sq.ft",
@@ -1566,10 +1426,10 @@
     "type_of_property": "Commercial Property",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.8 Cr",
+      "display_price": "\u20b91.8 Cr",
       "price_value": 18000000,
-      "price_per_sqft": "₹10.71K/sq.ft",
-      "price_per_marla": "₹24.10 L / Marla"
+      "price_per_sqft": "\u20b910.71K/sq.ft",
+      "price_per_marla": "\u20b924.10 L / Marla"
     },
     "area": {
       "area_display": "1680 sq.ft",
@@ -1614,10 +1474,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.15 Cr",
+      "display_price": "\u20b91.15 Cr",
       "price_value": 11500000,
-      "price_per_sqft": "₹5.75K/sq.ft",
-      "price_per_marla": "₹12.94 L / Marla"
+      "price_per_sqft": "\u20b95.75K/sq.ft",
+      "price_per_marla": "\u20b912.94 L / Marla"
     },
     "area": {
       "area_display": "2000 sq.ft",
@@ -1662,10 +1522,10 @@
     "type_of_property": "Commercial Property",
     "furnished_status": null,
     "price": {
-      "display_price": "₹2.5 Cr",
+      "display_price": "\u20b92.5 Cr",
       "price_value": 25000000,
-      "price_per_sqft": "₹16.67K/sq.ft",
-      "price_per_marla": "₹37.48 L / Marla"
+      "price_per_sqft": "\u20b916.67K/sq.ft",
+      "price_per_marla": "\u20b937.48 L / Marla"
     },
     "area": {
       "area_display": "1500 sq.ft",
@@ -1710,10 +1570,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.15 Cr",
+      "display_price": "\u20b91.15 Cr",
       "price_value": 11500000,
-      "price_per_sqft": "₹5.48K/sq.ft",
-      "price_per_marla": "₹12.33 L / Marla"
+      "price_per_sqft": "\u20b95.48K/sq.ft",
+      "price_per_marla": "\u20b912.33 L / Marla"
     },
     "area": {
       "area_display": "2100 sq.ft",
@@ -1758,10 +1618,10 @@
     "type_of_property": "Commercial Property",
     "furnished_status": null,
     "price": {
-      "display_price": "₹90.0 L",
+      "display_price": "\u20b990.0 L",
       "price_value": 9000000,
-      "price_per_sqft": "₹9.0K/sq.ft",
-      "price_per_marla": "₹20.27 L / Marla"
+      "price_per_sqft": "\u20b99.0K/sq.ft",
+      "price_per_marla": "\u20b920.27 L / Marla"
     },
     "area": {
       "area_display": "1000 sq.ft",
@@ -1806,10 +1666,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹70.0 L",
+      "display_price": "\u20b970.0 L",
       "price_value": 7000000,
-      "price_per_sqft": "₹35.0K/sq.ft",
-      "price_per_marla": "₹78.65 L / Marla"
+      "price_per_sqft": "\u20b935.0K/sq.ft",
+      "price_per_marla": "\u20b978.65 L / Marla"
     },
     "area": {
       "area_display": "200 sq.ft",
@@ -1854,10 +1714,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": null,
     "price": {
-      "display_price": "₹95.0 L",
+      "display_price": "\u20b995.0 L",
       "price_value": 9500000,
-      "price_per_sqft": "₹7.32K/sq.ft",
-      "price_per_marla": "₹16.46 L / Marla"
+      "price_per_sqft": "\u20b97.32K/sq.ft",
+      "price_per_marla": "\u20b916.46 L / Marla"
     },
     "area": {
       "area_display": "1298 sq.ft",
@@ -1902,10 +1762,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.0 Cr",
+      "display_price": "\u20b91.0 Cr",
       "price_value": 10000000,
-      "price_per_sqft": "₹7.7K/sq.ft",
-      "price_per_marla": "₹17.33 L / Marla"
+      "price_per_sqft": "\u20b97.7K/sq.ft",
+      "price_per_marla": "\u20b917.33 L / Marla"
     },
     "area": {
       "area_display": "1298 sq.ft",
@@ -1950,10 +1810,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹12.0 L",
+      "display_price": "\u20b912.0 L",
       "price_value": 1200000,
-      "price_per_sqft": "₹600.0/sq.ft",
-      "price_per_marla": "₹1.35 L / Marla"
+      "price_per_sqft": "\u20b9600.0/sq.ft",
+      "price_per_marla": "\u20b91.35 L / Marla"
     },
     "area": {
       "area_display": "2000 sq.ft",
@@ -1998,10 +1858,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹42.0 L",
+      "display_price": "\u20b942.0 L",
       "price_value": 4199999,
-      "price_per_sqft": "₹14.0K/sq.ft",
-      "price_per_marla": "₹31.58 L / Marla"
+      "price_per_sqft": "\u20b914.0K/sq.ft",
+      "price_per_marla": "\u20b931.58 L / Marla"
     },
     "area": {
       "area_display": "300 sq.ft",
@@ -2044,10 +1904,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.15 Cr",
+      "display_price": "\u20b91.15 Cr",
       "price_value": 11500000,
-      "price_per_sqft": "₹6.05K/sq.ft",
-      "price_per_marla": "₹13.63 L / Marla"
+      "price_per_sqft": "\u20b96.05K/sq.ft",
+      "price_per_marla": "\u20b913.63 L / Marla"
     },
     "area": {
       "area_display": "1900 sq.ft",
@@ -2092,10 +1952,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": null,
     "price": {
-      "display_price": "₹3.5 Cr",
+      "display_price": "\u20b93.5 Cr",
       "price_value": 35000000,
-      "price_per_sqft": "₹12.5K/sq.ft",
-      "price_per_marla": "₹28.14 L / Marla"
+      "price_per_sqft": "\u20b912.5K/sq.ft",
+      "price_per_marla": "\u20b928.14 L / Marla"
     },
     "area": {
       "area_display": "2800 sq.ft",
@@ -2140,10 +2000,10 @@
     "type_of_property": "Warehouse / Godown",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.15 Cr",
+      "display_price": "\u20b91.15 Cr",
       "price_value": 11500000,
-      "price_per_sqft": "₹6.39K/sq.ft",
-      "price_per_marla": "₹14.38 L / Marla"
+      "price_per_sqft": "\u20b96.39K/sq.ft",
+      "price_per_marla": "\u20b914.38 L / Marla"
     },
     "area": {
       "area_display": "1800 sq.ft",
@@ -2188,10 +2048,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.6 Cr",
+      "display_price": "\u20b91.6 Cr",
       "price_value": 16000000,
-      "price_per_sqft": "₹2.45K/sq.ft",
-      "price_per_marla": "₹5.51 L / Marla"
+      "price_per_sqft": "\u20b92.45K/sq.ft",
+      "price_per_marla": "\u20b95.51 L / Marla"
     },
     "area": {
       "area_display": "6534 sq.ft",
@@ -2234,10 +2094,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹80.0 L",
+      "display_price": "\u20b980.0 L",
       "price_value": 8000000,
-      "price_per_sqft": "₹16.0K/sq.ft",
-      "price_per_marla": "₹36.04 L / Marla"
+      "price_per_sqft": "\u20b916.0K/sq.ft",
+      "price_per_marla": "\u20b936.04 L / Marla"
     },
     "area": {
       "area_display": "500 sq.ft",
@@ -2282,10 +2142,10 @@
     "type_of_property": "Warehouse / Godown",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.1 Cr",
+      "display_price": "\u20b91.1 Cr",
       "price_value": 11000000,
-      "price_per_sqft": "₹5.5K/sq.ft",
-      "price_per_marla": "₹12.37 L / Marla"
+      "price_per_sqft": "\u20b95.5K/sq.ft",
+      "price_per_marla": "\u20b912.37 L / Marla"
     },
     "area": {
       "area_display": "2000 sq.ft",
@@ -2330,10 +2190,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹40.0 L",
+      "display_price": "\u20b940.0 L",
       "price_value": 4000000,
-      "price_per_sqft": "₹15.38K/sq.ft",
-      "price_per_marla": "₹34.48 L / Marla"
+      "price_per_sqft": "\u20b915.38K/sq.ft",
+      "price_per_marla": "\u20b934.48 L / Marla"
     },
     "area": {
       "area_display": "260 sq.ft",
@@ -2378,10 +2238,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹2.0 Cr",
+      "display_price": "\u20b92.0 Cr",
       "price_value": 20000000,
-      "price_per_sqft": "₹36.36K/sq.ft",
-      "price_per_marla": "₹81.97 L / Marla"
+      "price_per_sqft": "\u20b936.36K/sq.ft",
+      "price_per_marla": "\u20b981.97 L / Marla"
     },
     "area": {
       "area_display": "550 sq.ft",
@@ -2426,10 +2286,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹3.8 L",
+      "display_price": "\u20b93.8 L",
       "price_value": 380000,
-      "price_per_sqft": "₹380.0/sq.ft",
-      "price_per_marla": "₹85,586 / Marla"
+      "price_per_sqft": "\u20b9380.0/sq.ft",
+      "price_per_marla": "\u20b985,586 / Marla"
     },
     "area": {
       "area_display": "1000 sq.ft",
@@ -2472,10 +2332,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹3.8 L",
+      "display_price": "\u20b93.8 L",
       "price_value": 380000,
-      "price_per_sqft": "₹380.0/sq.ft",
-      "price_per_marla": "₹85,586 / Marla"
+      "price_per_sqft": "\u20b9380.0/sq.ft",
+      "price_per_marla": "\u20b985,586 / Marla"
     },
     "area": {
       "area_display": "1000 sq.ft",
@@ -2518,10 +2378,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹24.75 L",
+      "display_price": "\u20b924.75 L",
       "price_value": 2475000,
-      "price_per_sqft": "₹1.65K/sq.ft",
-      "price_per_marla": "₹3.71 L / Marla"
+      "price_per_sqft": "\u20b91.65K/sq.ft",
+      "price_per_marla": "\u20b93.71 L / Marla"
     },
     "area": {
       "area_display": "1500 sq.ft",
@@ -2564,10 +2424,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹42.0 L",
+      "display_price": "\u20b942.0 L",
       "price_value": 4200000,
-      "price_per_sqft": "₹2.21K/sq.ft",
-      "price_per_marla": "₹4.96 L / Marla"
+      "price_per_sqft": "\u20b92.21K/sq.ft",
+      "price_per_marla": "\u20b94.96 L / Marla"
     },
     "area": {
       "area_display": "1904 sq.ft",
@@ -2610,10 +2470,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹26.0 L",
+      "display_price": "\u20b926.0 L",
       "price_value": 2600000,
-      "price_per_sqft": "₹10.83K/sq.ft",
-      "price_per_marla": "₹24.30 L / Marla"
+      "price_per_sqft": "\u20b910.83K/sq.ft",
+      "price_per_marla": "\u20b924.30 L / Marla"
     },
     "area": {
       "area_display": "240 sq.ft",
@@ -2658,10 +2518,10 @@
     "type_of_property": "Commercial Property",
     "furnished_status": null,
     "price": {
-      "display_price": "₹85.0 L",
+      "display_price": "\u20b985.0 L",
       "price_value": 8500000,
-      "price_per_sqft": "₹17.0K/sq.ft",
-      "price_per_marla": "₹38.29 L / Marla"
+      "price_per_sqft": "\u20b917.0K/sq.ft",
+      "price_per_marla": "\u20b938.29 L / Marla"
     },
     "area": {
       "area_display": "500 sq.ft",
@@ -2706,10 +2566,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹9.0 L",
+      "display_price": "\u20b99.0 L",
       "price_value": 899999,
-      "price_per_sqft": "₹1.29K/sq.ft",
-      "price_per_marla": "₹2.89 L / Marla"
+      "price_per_sqft": "\u20b91.29K/sq.ft",
+      "price_per_marla": "\u20b92.89 L / Marla"
     },
     "area": {
       "area_display": "700 sq.ft",
@@ -2754,10 +2614,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.5 Cr",
+      "display_price": "\u20b91.5 Cr",
       "price_value": 15000000,
-      "price_per_sqft": "₹13.64K/sq.ft",
-      "price_per_marla": "₹30.67 L / Marla"
+      "price_per_sqft": "\u20b913.64K/sq.ft",
+      "price_per_marla": "\u20b930.67 L / Marla"
     },
     "area": {
       "area_display": "1100 sq.ft",
@@ -2802,10 +2662,10 @@
     "type_of_property": "Commercial Property",
     "furnished_status": null,
     "price": {
-      "display_price": "₹8.0 Cr",
+      "display_price": "\u20b98.0 Cr",
       "price_value": 80000000,
-      "price_per_sqft": "₹16.0K/sq.ft",
-      "price_per_marla": "₹36.00 L / Marla"
+      "price_per_sqft": "\u20b916.0K/sq.ft",
+      "price_per_marla": "\u20b936.00 L / Marla"
     },
     "area": {
       "area_display": "5000 sq.ft",
@@ -2850,10 +2710,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.0 Cr",
+      "display_price": "\u20b91.0 Cr",
       "price_value": 10000000,
-      "price_per_sqft": "₹5.88K/sq.ft",
-      "price_per_marla": "₹13.23 L / Marla"
+      "price_per_sqft": "\u20b95.88K/sq.ft",
+      "price_per_marla": "\u20b913.23 L / Marla"
     },
     "area": {
       "area_display": "1700 sq.ft",
@@ -2898,10 +2758,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹45.0 L",
+      "display_price": "\u20b945.0 L",
       "price_value": 4500000,
-      "price_per_sqft": "₹8.15K/sq.ft",
-      "price_per_marla": "₹18.37 L / Marla"
+      "price_per_sqft": "\u20b98.15K/sq.ft",
+      "price_per_marla": "\u20b918.37 L / Marla"
     },
     "area": {
       "area_display": "552 sq.ft",
@@ -2944,10 +2804,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.5 Cr",
+      "display_price": "\u20b91.5 Cr",
       "price_value": 15000000,
-      "price_per_sqft": "₹16.39K/sq.ft",
-      "price_per_marla": "₹36.86 L / Marla"
+      "price_per_sqft": "\u20b916.39K/sq.ft",
+      "price_per_marla": "\u20b936.86 L / Marla"
     },
     "area": {
       "area_display": "915 sq.ft",
@@ -2992,10 +2852,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹35.0 L",
+      "display_price": "\u20b935.0 L",
       "price_value": 3500000,
-      "price_per_sqft": "₹26.45/sq.ft",
-      "price_per_marla": "₹5,951 / Marla"
+      "price_per_sqft": "\u20b926.45/sq.ft",
+      "price_per_marla": "\u20b95,951 / Marla"
     },
     "area": {
       "area_display": "132320 sq.ft",
@@ -3038,10 +2898,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹30.0 L",
+      "display_price": "\u20b930.0 L",
       "price_value": 3000000,
-      "price_per_sqft": "₹27.57/sq.ft",
-      "price_per_marla": "₹6,204 / Marla"
+      "price_per_sqft": "\u20b927.57/sq.ft",
+      "price_per_marla": "\u20b96,204 / Marla"
     },
     "area": {
       "area_display": "108800 sq.ft",
@@ -3084,10 +2944,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹4.5 L",
+      "display_price": "\u20b94.5 L",
       "price_value": 450000,
-      "price_per_sqft": "₹83.33/sq.ft",
-      "price_per_marla": "₹18,750 / Marla"
+      "price_per_sqft": "\u20b983.33/sq.ft",
+      "price_per_marla": "\u20b918,750 / Marla"
     },
     "area": {
       "area_display": "5400 sq.ft",
@@ -3130,10 +2990,10 @@
     "type_of_property": "Commercial Office Space",
     "furnished_status": null,
     "price": {
-      "display_price": "₹70.0 L",
+      "display_price": "\u20b970.0 L",
       "price_value": 7000000,
-      "price_per_sqft": "₹12.84K/sq.ft",
-      "price_per_marla": "₹28.93 L / Marla"
+      "price_per_sqft": "\u20b912.84K/sq.ft",
+      "price_per_marla": "\u20b928.93 L / Marla"
     },
     "area": {
       "area_display": "545 sq.ft",
@@ -3178,10 +3038,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.1 Cr",
+      "display_price": "\u20b91.1 Cr",
       "price_value": 11000000,
-      "price_per_sqft": "₹2.85K/sq.ft",
-      "price_per_marla": "₹6.40 L / Marla"
+      "price_per_sqft": "\u20b92.85K/sq.ft",
+      "price_per_marla": "\u20b96.40 L / Marla"
     },
     "area": {
       "area_display": "3866 sq.ft",
@@ -3224,10 +3084,10 @@
     "type_of_property": "Warehouse / Godown",
     "furnished_status": null,
     "price": {
-      "display_price": "₹40.0 L",
+      "display_price": "\u20b940.0 L",
       "price_value": 4000000,
-      "price_per_sqft": "₹1.82K/sq.ft",
-      "price_per_marla": "₹4.09 L / Marla"
+      "price_per_sqft": "\u20b91.82K/sq.ft",
+      "price_per_marla": "\u20b94.09 L / Marla"
     },
     "area": {
       "area_display": "2200 sq.ft",
@@ -3272,10 +3132,10 @@
     "type_of_property": "Warehouse / Godown",
     "furnished_status": null,
     "price": {
-      "display_price": "₹5.25 Cr",
+      "display_price": "\u20b95.25 Cr",
       "price_value": 52500000,
-      "price_per_sqft": "₹3.32K/sq.ft",
-      "price_per_marla": "₹7.48 L / Marla"
+      "price_per_sqft": "\u20b93.32K/sq.ft",
+      "price_per_marla": "\u20b97.48 L / Marla"
     },
     "area": {
       "area_display": "15790 sq.ft",
@@ -3320,10 +3180,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹5.0 Cr",
+      "display_price": "\u20b95.0 Cr",
       "price_value": 50000000,
-      "price_per_sqft": "₹1.25K/sq.ft",
-      "price_per_marla": "₹2.81 L / Marla"
+      "price_per_sqft": "\u20b91.25K/sq.ft",
+      "price_per_marla": "\u20b92.81 L / Marla"
     },
     "area": {
       "area_display": "40000 sq.ft",
@@ -3366,10 +3226,10 @@
     "type_of_property": "Commercial Property",
     "furnished_status": null,
     "price": {
-      "display_price": "₹2.75 Cr",
+      "display_price": "\u20b92.75 Cr",
       "price_value": 27500000,
-      "price_per_sqft": "₹3.44 L/sq.ft",
-      "price_per_marla": "₹7.64 Cr / Marla"
+      "price_per_sqft": "\u20b93.44 L/sq.ft",
+      "price_per_marla": "\u20b97.64 Cr / Marla"
     },
     "area": {
       "area_display": "80 sq.ft",
@@ -3414,10 +3274,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹2.75 L",
+      "display_price": "\u20b92.75 L",
       "price_value": 275000,
-      "price_per_sqft": "₹3.44K/sq.ft",
-      "price_per_marla": "₹7.64 L / Marla"
+      "price_per_sqft": "\u20b93.44K/sq.ft",
+      "price_per_marla": "\u20b97.64 L / Marla"
     },
     "area": {
       "area_display": "80 sq.ft",
@@ -3460,10 +3320,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹62.0 L",
+      "display_price": "\u20b962.0 L",
       "price_value": 6200000,
-      "price_per_sqft": "₹17.22K/sq.ft",
-      "price_per_marla": "₹38.75 L / Marla"
+      "price_per_sqft": "\u20b917.22K/sq.ft",
+      "price_per_marla": "\u20b938.75 L / Marla"
     },
     "area": {
       "area_display": "360 sq.ft",
@@ -3508,10 +3368,10 @@
     "type_of_property": "Commercial Property",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.2 Cr",
+      "display_price": "\u20b91.2 Cr",
       "price_value": 12000000,
-      "price_per_sqft": "₹12.59K/sq.ft",
-      "price_per_marla": "₹28.30 L / Marla"
+      "price_per_sqft": "\u20b912.59K/sq.ft",
+      "price_per_marla": "\u20b928.30 L / Marla"
     },
     "area": {
       "area_display": "953 sq.ft",
@@ -3556,10 +3416,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": null,
     "price": {
-      "display_price": "₹2.25 Cr",
+      "display_price": "\u20b92.25 Cr",
       "price_value": 22500000,
-      "price_per_sqft": "₹62.5K/sq.ft",
-      "price_per_marla": "₹1.41 Cr / Marla"
+      "price_per_sqft": "\u20b962.5K/sq.ft",
+      "price_per_marla": "\u20b91.41 Cr / Marla"
     },
     "area": {
       "area_display": "360 sq.ft",
@@ -3604,10 +3464,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹50.0 L",
+      "display_price": "\u20b950.0 L",
       "price_value": 5000000,
-      "price_per_sqft": "₹34.72K/sq.ft",
-      "price_per_marla": "₹78.12 L / Marla"
+      "price_per_sqft": "\u20b934.72K/sq.ft",
+      "price_per_marla": "\u20b978.12 L / Marla"
     },
     "area": {
       "area_display": "144 sq.ft",
@@ -3652,10 +3512,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹6.5 Cr",
+      "display_price": "\u20b96.5 Cr",
       "price_value": 65000000,
-      "price_per_sqft": "₹21.67K/sq.ft",
-      "price_per_marla": "₹48.76 L / Marla"
+      "price_per_sqft": "\u20b921.67K/sq.ft",
+      "price_per_marla": "\u20b948.76 L / Marla"
     },
     "area": {
       "area_display": "3000 sq.ft",
@@ -3700,10 +3560,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": null,
     "price": {
-      "display_price": "₹6.5 Cr",
+      "display_price": "\u20b96.5 Cr",
       "price_value": 65000000,
-      "price_per_sqft": "₹21.67K/sq.ft",
-      "price_per_marla": "₹48.76 L / Marla"
+      "price_per_sqft": "\u20b921.67K/sq.ft",
+      "price_per_marla": "\u20b948.76 L / Marla"
     },
     "area": {
       "area_display": "3000 sq.ft",
@@ -3748,10 +3608,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": null,
     "price": {
-      "display_price": "₹75.0 L",
+      "display_price": "\u20b975.0 L",
       "price_value": 7500000,
-      "price_per_sqft": "₹3.0K/sq.ft",
-      "price_per_marla": "₹6.75 L / Marla"
+      "price_per_sqft": "\u20b93.0K/sq.ft",
+      "price_per_marla": "\u20b96.75 L / Marla"
     },
     "area": {
       "area_display": "2500 sq.ft",
@@ -3796,10 +3656,10 @@
     "type_of_property": "Commercial Property",
     "furnished_status": null,
     "price": {
-      "display_price": "₹2.9 Cr",
+      "display_price": "\u20b92.9 Cr",
       "price_value": 29000000,
-      "price_per_sqft": "₹16.11K/sq.ft",
-      "price_per_marla": "₹36.25 L / Marla"
+      "price_per_sqft": "\u20b916.11K/sq.ft",
+      "price_per_marla": "\u20b936.25 L / Marla"
     },
     "area": {
       "area_display": "1800 sq.ft",
@@ -3844,10 +3704,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹2.0 Cr",
+      "display_price": "\u20b92.0 Cr",
       "price_value": 20000000,
-      "price_per_sqft": "₹36.36K/sq.ft",
-      "price_per_marla": "₹81.97 L / Marla"
+      "price_per_sqft": "\u20b936.36K/sq.ft",
+      "price_per_marla": "\u20b981.97 L / Marla"
     },
     "area": {
       "area_display": "550 sq.ft",
@@ -3890,10 +3750,10 @@
     "type_of_property": "Commercial Office Space",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.25 Cr",
+      "display_price": "\u20b91.25 Cr",
       "price_value": 12500000,
-      "price_per_sqft": "₹8.33K/sq.ft",
-      "price_per_marla": "₹18.74 L / Marla"
+      "price_per_sqft": "\u20b98.33K/sq.ft",
+      "price_per_marla": "\u20b918.74 L / Marla"
     },
     "area": {
       "area_display": "1500 sq.ft",
@@ -3938,10 +3798,10 @@
     "type_of_property": "Warehouse / Godown",
     "furnished_status": null,
     "price": {
-      "display_price": "₹2.9 Cr",
+      "display_price": "\u20b92.9 Cr",
       "price_value": 29000000,
-      "price_per_sqft": "₹2.13K/sq.ft",
-      "price_per_marla": "₹4.80 L / Marla"
+      "price_per_sqft": "\u20b92.13K/sq.ft",
+      "price_per_marla": "\u20b94.80 L / Marla"
     },
     "area": {
       "area_display": "13600 sq.ft",
@@ -3986,10 +3846,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹2.55 Cr",
+      "display_price": "\u20b92.55 Cr",
       "price_value": 25500000,
-      "price_per_sqft": "₹93.41K/sq.ft",
-      "price_per_marla": "₹2.11 Cr / Marla"
+      "price_per_sqft": "\u20b993.41K/sq.ft",
+      "price_per_marla": "\u20b92.11 Cr / Marla"
     },
     "area": {
       "area_display": "273 sq.ft",
@@ -4034,10 +3894,10 @@
     "type_of_property": "Warehouse / Godown",
     "furnished_status": null,
     "price": {
-      "display_price": "₹3.6 Cr",
+      "display_price": "\u20b93.6 Cr",
       "price_value": 36000000,
-      "price_per_sqft": "₹2.65K/sq.ft",
-      "price_per_marla": "₹5.96 L / Marla"
+      "price_per_sqft": "\u20b92.65K/sq.ft",
+      "price_per_marla": "\u20b95.96 L / Marla"
     },
     "area": {
       "area_display": "13600 sq.ft",
@@ -4082,10 +3942,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.3 Cr",
+      "display_price": "\u20b91.3 Cr",
       "price_value": 12999786,
-      "price_per_sqft": "₹6.84K/sq.ft",
-      "price_per_marla": "₹15.40 L / Marla"
+      "price_per_sqft": "\u20b96.84K/sq.ft",
+      "price_per_marla": "\u20b915.40 L / Marla"
     },
     "area": {
       "area_display": "1900 sq.ft",
@@ -4130,10 +3990,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹3.5 L",
+      "display_price": "\u20b93.5 L",
       "price_value": 350000,
-      "price_per_sqft": "₹185.77/sq.ft",
-      "price_per_marla": "₹41,816 / Marla"
+      "price_per_sqft": "\u20b9185.77/sq.ft",
+      "price_per_marla": "\u20b941,816 / Marla"
     },
     "area": {
       "area_display": "1884 sq.ft",
@@ -4176,10 +4036,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": null,
     "price": {
-      "display_price": "₹6.0 Cr",
+      "display_price": "\u20b96.0 Cr",
       "price_value": 60000000,
-      "price_per_sqft": "₹30.0K/sq.ft",
-      "price_per_marla": "₹67.49 L / Marla"
+      "price_per_sqft": "\u20b930.0K/sq.ft",
+      "price_per_marla": "\u20b967.49 L / Marla"
     },
     "area": {
       "area_display": "2000 sq.ft",
@@ -4224,10 +4084,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": null,
     "price": {
-      "display_price": "₹6.0 Cr",
+      "display_price": "\u20b96.0 Cr",
       "price_value": 60000000,
-      "price_per_sqft": "₹30.0K/sq.ft",
-      "price_per_marla": "₹67.49 L / Marla"
+      "price_per_sqft": "\u20b930.0K/sq.ft",
+      "price_per_marla": "\u20b967.49 L / Marla"
     },
     "area": {
       "area_display": "2000 sq.ft",
@@ -4272,10 +4132,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": null,
     "price": {
-      "display_price": "₹6.0 Cr",
+      "display_price": "\u20b96.0 Cr",
       "price_value": 60000000,
-      "price_per_sqft": "₹30.0K/sq.ft",
-      "price_per_marla": "₹67.49 L / Marla"
+      "price_per_sqft": "\u20b930.0K/sq.ft",
+      "price_per_marla": "\u20b967.49 L / Marla"
     },
     "area": {
       "area_display": "2000 sq.ft",
@@ -4320,10 +4180,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹6.0 L",
+      "display_price": "\u20b96.0 L",
       "price_value": 600000,
-      "price_per_sqft": "₹12.0/sq.ft",
-      "price_per_marla": "₹2,700 / Marla"
+      "price_per_sqft": "\u20b912.0/sq.ft",
+      "price_per_marla": "\u20b92,700 / Marla"
     },
     "area": {
       "area_display": "50000 sq.ft",
@@ -4366,10 +4226,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹4.0 Cr",
+      "display_price": "\u20b94.0 Cr",
       "price_value": 40000000,
-      "price_per_sqft": "₹12.5K/sq.ft",
-      "price_per_marla": "₹28.13 L / Marla"
+      "price_per_sqft": "\u20b912.5K/sq.ft",
+      "price_per_marla": "\u20b928.13 L / Marla"
     },
     "area": {
       "area_display": "3200 sq.ft",
@@ -4412,10 +4272,10 @@
     "type_of_property": "Commercial Office Space",
     "furnished_status": null,
     "price": {
-      "display_price": "₹3.6 L",
+      "display_price": "\u20b93.6 L",
       "price_value": 360000,
-      "price_per_sqft": "₹720.0/sq.ft",
-      "price_per_marla": "₹1.62 L / Marla"
+      "price_per_sqft": "\u20b9720.0/sq.ft",
+      "price_per_marla": "\u20b91.62 L / Marla"
     },
     "area": {
       "area_display": "500 sq.ft",
@@ -4460,10 +4320,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹60.0 L",
+      "display_price": "\u20b960.0 L",
       "price_value": 6000000,
-      "price_per_sqft": "₹120.0/sq.ft",
-      "price_per_marla": "₹27,000 / Marla"
+      "price_per_sqft": "\u20b9120.0/sq.ft",
+      "price_per_marla": "\u20b927,000 / Marla"
     },
     "area": {
       "area_display": "50000 sq.ft",
@@ -4507,10 +4367,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.9 Cr",
+      "display_price": "\u20b91.9 Cr",
       "price_value": 19000000,
-      "price_per_sqft": "₹43.98K/sq.ft",
-      "price_per_marla": "₹98.96 L / Marla"
+      "price_per_sqft": "\u20b943.98K/sq.ft",
+      "price_per_marla": "\u20b998.96 L / Marla"
     },
     "area": {
       "area_display": "432 sq.ft",
@@ -4555,10 +4415,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": null,
     "price": {
-      "display_price": "₹22.0 Cr",
+      "display_price": "\u20b922.0 Cr",
       "price_value": 220000000,
-      "price_per_sqft": "₹23.41K/sq.ft",
-      "price_per_marla": "₹52.68 L / Marla"
+      "price_per_sqft": "\u20b923.41K/sq.ft",
+      "price_per_marla": "\u20b952.68 L / Marla"
     },
     "area": {
       "area_display": "9397 sq.ft",
@@ -4603,10 +4463,10 @@
     "type_of_property": "Commercial Office Space",
     "furnished_status": null,
     "price": {
-      "display_price": "₹9.0 L",
+      "display_price": "\u20b99.0 L",
       "price_value": 900000,
-      "price_per_sqft": "₹750.0/sq.ft",
-      "price_per_marla": "₹1.69 L / Marla"
+      "price_per_sqft": "\u20b9750.0/sq.ft",
+      "price_per_marla": "\u20b91.69 L / Marla"
     },
     "area": {
       "area_display": "1200 sq.ft",
@@ -4651,10 +4511,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": null,
     "price": {
-      "display_price": "₹5.0 Cr",
+      "display_price": "\u20b95.0 Cr",
       "price_value": 50000000,
-      "price_per_sqft": "₹12.5K/sq.ft",
-      "price_per_marla": "₹28.12 L / Marla"
+      "price_per_sqft": "\u20b912.5K/sq.ft",
+      "price_per_marla": "\u20b928.12 L / Marla"
     },
     "area": {
       "area_display": "4000 sq.ft",
@@ -4699,10 +4559,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.0 L",
+      "display_price": "\u20b91.0 L",
       "price_value": 100000,
-      "price_per_sqft": "₹238.1/sq.ft",
-      "price_per_marla": "₹53,476 / Marla"
+      "price_per_sqft": "\u20b9238.1/sq.ft",
+      "price_per_marla": "\u20b953,476 / Marla"
     },
     "area": {
       "area_display": "420 sq.ft",
@@ -4747,10 +4607,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹65.0 L",
+      "display_price": "\u20b965.0 L",
       "price_value": 6500000,
-      "price_per_sqft": "₹21.67K/sq.ft",
-      "price_per_marla": "₹48.87 L / Marla"
+      "price_per_sqft": "\u20b921.67K/sq.ft",
+      "price_per_marla": "\u20b948.87 L / Marla"
     },
     "area": {
       "area_display": "300 sq.ft",
@@ -4795,10 +4655,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹16.0 L",
+      "display_price": "\u20b916.0 L",
       "price_value": 1600000,
-      "price_per_sqft": "₹10.67K/sq.ft",
-      "price_per_marla": "₹23.88 L / Marla"
+      "price_per_sqft": "\u20b910.67K/sq.ft",
+      "price_per_marla": "\u20b923.88 L / Marla"
     },
     "area": {
       "area_display": "150 sq.ft",
@@ -4843,10 +4703,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹20.0 L",
+      "display_price": "\u20b920.0 L",
       "price_value": 2000000,
-      "price_per_sqft": "₹400.0/sq.ft",
-      "price_per_marla": "₹90,009 / Marla"
+      "price_per_sqft": "\u20b9400.0/sq.ft",
+      "price_per_marla": "\u20b990,009 / Marla"
     },
     "area": {
       "area_display": "5000 sq.ft",
@@ -4890,10 +4750,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹17.5 L",
+      "display_price": "\u20b917.5 L",
       "price_value": 1750000,
-      "price_per_sqft": "₹7.92K/sq.ft",
-      "price_per_marla": "₹17.86 L / Marla"
+      "price_per_sqft": "\u20b97.92K/sq.ft",
+      "price_per_marla": "\u20b917.86 L / Marla"
     },
     "area": {
       "area_display": "221 sq.ft",
@@ -4938,10 +4798,10 @@
     "type_of_property": "Commercial Property",
     "furnished_status": null,
     "price": {
-      "display_price": "₹75.0 L",
+      "display_price": "\u20b975.0 L",
       "price_value": 7500000,
-      "price_per_sqft": "₹4.59K/sq.ft",
-      "price_per_marla": "₹10.33 L / Marla"
+      "price_per_sqft": "\u20b94.59K/sq.ft",
+      "price_per_marla": "\u20b910.33 L / Marla"
     },
     "area": {
       "area_display": "1633 sq.ft",
@@ -4986,10 +4846,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": null,
     "price": {
-      "display_price": "₹4.0 Cr",
+      "display_price": "\u20b94.0 Cr",
       "price_value": 40000000,
-      "price_per_sqft": "₹3.33K/sq.ft",
-      "price_per_marla": "₹7.50 L / Marla"
+      "price_per_sqft": "\u20b93.33K/sq.ft",
+      "price_per_marla": "\u20b97.50 L / Marla"
     },
     "area": {
       "area_display": "12000 sq.ft",
@@ -5034,10 +4894,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.5 Cr",
+      "display_price": "\u20b91.5 Cr",
       "price_value": 15000000,
-      "price_per_sqft": "₹18.75K/sq.ft",
-      "price_per_marla": "₹42.13 L / Marla"
+      "price_per_sqft": "\u20b918.75K/sq.ft",
+      "price_per_marla": "\u20b942.13 L / Marla"
     },
     "area": {
       "area_display": "800 sq.ft",
@@ -5082,10 +4942,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": null,
     "price": {
-      "display_price": "₹2.85 Cr",
+      "display_price": "\u20b92.85 Cr",
       "price_value": 28500000,
-      "price_per_sqft": "₹40.71K/sq.ft",
-      "price_per_marla": "₹91.64 L / Marla"
+      "price_per_sqft": "\u20b940.71K/sq.ft",
+      "price_per_marla": "\u20b991.64 L / Marla"
     },
     "area": {
       "area_display": "700 sq.ft",
@@ -5130,10 +4990,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹25.0 L",
+      "display_price": "\u20b925.0 L",
       "price_value": 2500000,
-      "price_per_sqft": "₹1.84K/sq.ft",
-      "price_per_marla": "₹4.13 L / Marla"
+      "price_per_sqft": "\u20b91.84K/sq.ft",
+      "price_per_marla": "\u20b94.13 L / Marla"
     },
     "area": {
       "area_display": "1361.25 sq.ft",
@@ -5178,10 +5038,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.0 Cr",
+      "display_price": "\u20b91.0 Cr",
       "price_value": 10000000,
-      "price_per_sqft": "₹30.3K/sq.ft",
-      "price_per_marla": "₹68.03 L / Marla"
+      "price_per_sqft": "\u20b930.3K/sq.ft",
+      "price_per_marla": "\u20b968.03 L / Marla"
     },
     "area": {
       "area_display": "330 sq.ft",
@@ -5226,10 +5086,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹60.0 L",
+      "display_price": "\u20b960.0 L",
       "price_value": 6000000,
-      "price_per_sqft": "₹7.5K/sq.ft",
-      "price_per_marla": "₹16.85 L / Marla"
+      "price_per_sqft": "\u20b97.5K/sq.ft",
+      "price_per_marla": "\u20b916.85 L / Marla"
     },
     "area": {
       "area_display": "800 sq.ft",
@@ -5274,10 +5134,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹38.0 L",
+      "display_price": "\u20b938.0 L",
       "price_value": 3800000,
-      "price_per_sqft": "₹12.67K/sq.ft",
-      "price_per_marla": "₹28.57 L / Marla"
+      "price_per_sqft": "\u20b912.67K/sq.ft",
+      "price_per_marla": "\u20b928.57 L / Marla"
     },
     "area": {
       "area_display": "300 sq.ft",
@@ -5320,10 +5180,10 @@
     "type_of_property": "Commercial Property",
     "furnished_status": null,
     "price": {
-      "display_price": "₹15.5 L",
+      "display_price": "\u20b915.5 L",
       "price_value": 1550000,
-      "price_per_sqft": "₹5.7K/sq.ft",
-      "price_per_marla": "₹12.81 L / Marla"
+      "price_per_sqft": "\u20b95.7K/sq.ft",
+      "price_per_marla": "\u20b912.81 L / Marla"
     },
     "area": {
       "area_display": "272 sq.ft",
@@ -5362,62 +5222,16 @@
     "status": "Ready to move"
   },
   {
-    "property_id": "100622758",
-    "url": "https://housing.com/commercial/buy/resale/100622758-commercial-plot-for-sale-in-jakh-jammu-jammu-and-kashmir-1-for-rs-1800000",
-    "title": "Commercial Plot",
-    "type_of_property": "Commercial Plot / Land",
-    "furnished_status": null,
-    "price": {
-      "display_price": "₹18.0 L",
-      "price_value": 1800000,
-      "price_per_sqft": "₹6.0/sq.ft",
-      "price_per_marla": "₹1,350 / Marla"
-    },
-    "area": {
-      "area_display": "300000 sq.ft",
-      "area_sqft": 300000.0,
-      "area_type": "Plot Area",
-      "area_in_marla": "1333.33 Marla"
-    },
-    "address": {
-      "full_address": "Jakh, Samba, Jammu",
-      "locality": "Jakh",
-      "city": "Jammu",
-      "coordinates": {
-        "latitude": "32.592122",
-        "longitude": "74.966176"
-      }
-    },
-    "configuration": {
-      "bedrooms": null,
-      "bathrooms": null,
-      "balconies": null,
-      "parking": null,
-      "summary": "Plot / Land (No rooms)"
-    },
-    "property_ownership": "Freehold",
-    "floors": null,
-    "property_age": null,
-    "highlights": [],
-    "key_highlights": [
-      "Commercial Plot / Land",
-      "1333.33 Marla (300000 sq.ft)"
-    ],
-    "amenities": [],
-    "furnished_components": null,
-    "status": null
-  },
-  {
     "property_id": "100613609",
     "url": "https://housing.com/commercial/buy/resale/100613609-commercial-plot-for-sale-in-kathar-jammu-jammu-and-kashmir-1-for-rs-1200000000",
     "title": "Commercial Plot",
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹120.0 Cr",
+      "display_price": "\u20b9120.0 Cr",
       "price_value": 1200000000,
-      "price_per_sqft": "₹15.0K/sq.ft",
-      "price_per_marla": "₹33.75 L / Marla"
+      "price_per_sqft": "\u20b915.0K/sq.ft",
+      "price_per_marla": "\u20b933.75 L / Marla"
     },
     "area": {
       "area_display": "80000 sq.ft",
@@ -5454,108 +5268,16 @@
     "status": null
   },
   {
-    "property_id": "100608060",
-    "url": "https://housing.com/commercial/buy/resale/100608060-commercial-plot-for-sale-in-omala-jammu-jammu-and-kashmir-1-for-rs-20000000",
-    "title": "Commercial Plot",
-    "type_of_property": "Commercial Plot / Land",
-    "furnished_status": null,
-    "price": {
-      "display_price": "₹2.0 Cr",
-      "price_value": 20000000,
-      "price_per_sqft": "₹734.62/sq.ft",
-      "price_per_marla": "₹1.65 L / Marla"
-    },
-    "area": {
-      "area_display": "27225 sq.ft",
-      "area_sqft": 27225.0,
-      "area_type": "Plot Area",
-      "area_in_marla": "121 Marla"
-    },
-    "address": {
-      "full_address": "Omala, Jammu",
-      "locality": "Omala",
-      "city": "Jammu",
-      "coordinates": {
-        "latitude": "32.9157557741479",
-        "longitude": "75.1310288141748"
-      }
-    },
-    "configuration": {
-      "bedrooms": null,
-      "bathrooms": null,
-      "balconies": null,
-      "parking": null,
-      "summary": "Plot / Land (No rooms)"
-    },
-    "property_ownership": "Freehold",
-    "floors": null,
-    "property_age": null,
-    "highlights": [],
-    "key_highlights": [
-      "Commercial Plot / Land",
-      "121 Marla (27225 sq.ft)"
-    ],
-    "amenities": [],
-    "furnished_components": null,
-    "status": null
-  },
-  {
-    "property_id": "100608061",
-    "url": "https://housing.com/commercial/buy/resale/100608061-commercial-plot-for-sale-in-omala-jammu-jammu-and-kashmir-1-for-rs-20000000",
-    "title": "Commercial Plot",
-    "type_of_property": "Commercial Plot / Land",
-    "furnished_status": null,
-    "price": {
-      "display_price": "₹2.0 Cr",
-      "price_value": 20000000,
-      "price_per_sqft": "₹734.62/sq.ft",
-      "price_per_marla": "₹1.65 L / Marla"
-    },
-    "area": {
-      "area_display": "27225 sq.ft",
-      "area_sqft": 27225.0,
-      "area_type": "Plot Area",
-      "area_in_marla": "121 Marla"
-    },
-    "address": {
-      "full_address": "Omala, Jammu",
-      "locality": "Omala",
-      "city": "Jammu",
-      "coordinates": {
-        "latitude": "32.9157557741479",
-        "longitude": "75.1310288141748"
-      }
-    },
-    "configuration": {
-      "bedrooms": null,
-      "bathrooms": null,
-      "balconies": null,
-      "parking": null,
-      "summary": "Plot / Land (No rooms)"
-    },
-    "property_ownership": "Freehold",
-    "floors": null,
-    "property_age": null,
-    "highlights": [],
-    "key_highlights": [
-      "Commercial Plot / Land",
-      "121 Marla (27225 sq.ft)"
-    ],
-    "amenities": [],
-    "furnished_components": null,
-    "status": null
-  },
-  {
     "property_id": "100604037",
     "url": "https://housing.com/commercial/buy/resale/100604037-shop-for-sale-in-sedhar-jammu-jammu-and-kashmir-1-for-rs-2000000",
     "title": "Shop",
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹20.0 L",
+      "display_price": "\u20b920.0 L",
       "price_value": 2000000,
-      "price_per_sqft": "₹4.0K/sq.ft",
-      "price_per_marla": "₹9.01 L / Marla"
+      "price_per_sqft": "\u20b94.0K/sq.ft",
+      "price_per_marla": "\u20b99.01 L / Marla"
     },
     "area": {
       "area_display": "500 sq.ft",
@@ -5600,10 +5322,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹20.0 L",
+      "display_price": "\u20b920.0 L",
       "price_value": 2000000,
-      "price_per_sqft": "₹4.0K/sq.ft",
-      "price_per_marla": "₹9.01 L / Marla"
+      "price_per_sqft": "\u20b94.0K/sq.ft",
+      "price_per_marla": "\u20b99.01 L / Marla"
     },
     "area": {
       "area_display": "500 sq.ft",
@@ -5648,10 +5370,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.5 Cr",
+      "display_price": "\u20b91.5 Cr",
       "price_value": 15000000,
-      "price_per_sqft": "₹5.0K/sq.ft",
-      "price_per_marla": "₹11.25 L / Marla"
+      "price_per_sqft": "\u20b95.0K/sq.ft",
+      "price_per_marla": "\u20b911.25 L / Marla"
     },
     "area": {
       "area_display": "3000 sq.ft",
@@ -5694,10 +5416,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": null,
     "price": {
-      "display_price": "₹10.0 Cr",
+      "display_price": "\u20b910.0 Cr",
       "price_value": 100000000,
-      "price_per_sqft": "₹28.57K/sq.ft",
-      "price_per_marla": "₹64.27 L / Marla"
+      "price_per_sqft": "\u20b928.57K/sq.ft",
+      "price_per_marla": "\u20b964.27 L / Marla"
     },
     "area": {
       "area_display": "3500 sq.ft",
@@ -5742,10 +5464,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": null,
     "price": {
-      "display_price": "₹3.0 Cr",
+      "display_price": "\u20b93.0 Cr",
       "price_value": 30000000,
-      "price_per_sqft": "₹14.29K/sq.ft",
-      "price_per_marla": "₹32.15 L / Marla"
+      "price_per_sqft": "\u20b914.29K/sq.ft",
+      "price_per_marla": "\u20b932.15 L / Marla"
     },
     "area": {
       "area_display": "2100 sq.ft",
@@ -5790,10 +5512,10 @@
     "type_of_property": "Warehouse / Godown",
     "furnished_status": null,
     "price": {
-      "display_price": "₹55.0 L",
+      "display_price": "\u20b955.0 L",
       "price_value": 5500000,
-      "price_per_sqft": "₹2.75K/sq.ft",
-      "price_per_marla": "₹6.19 L / Marla"
+      "price_per_sqft": "\u20b92.75K/sq.ft",
+      "price_per_marla": "\u20b96.19 L / Marla"
     },
     "area": {
       "area_display": "2000 sq.ft",
@@ -5838,10 +5560,10 @@
     "type_of_property": "Warehouse / Godown",
     "furnished_status": null,
     "price": {
-      "display_price": "₹55.0 L",
+      "display_price": "\u20b955.0 L",
       "price_value": 5500000,
-      "price_per_sqft": "₹2.75K/sq.ft",
-      "price_per_marla": "₹6.19 L / Marla"
+      "price_per_sqft": "\u20b92.75K/sq.ft",
+      "price_per_marla": "\u20b96.19 L / Marla"
     },
     "area": {
       "area_display": "2000 sq.ft",
@@ -5886,10 +5608,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹10.0 L",
+      "display_price": "\u20b910.0 L",
       "price_value": 1000000,
-      "price_per_sqft": "₹61.22/sq.ft",
-      "price_per_marla": "₹13,774 / Marla"
+      "price_per_sqft": "\u20b961.22/sq.ft",
+      "price_per_marla": "\u20b913,774 / Marla"
     },
     "area": {
       "area_display": "16335 sq.ft",
@@ -5932,10 +5654,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹10.0 L",
+      "display_price": "\u20b910.0 L",
       "price_value": 1000000,
-      "price_per_sqft": "₹61.22/sq.ft",
-      "price_per_marla": "₹13,774 / Marla"
+      "price_per_sqft": "\u20b961.22/sq.ft",
+      "price_per_marla": "\u20b913,774 / Marla"
     },
     "area": {
       "area_display": "16335 sq.ft",
@@ -5978,10 +5700,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹75.0 L",
+      "display_price": "\u20b975.0 L",
       "price_value": 7500000,
-      "price_per_sqft": "₹917.32/sq.ft",
-      "price_per_marla": "₹2.06 L / Marla"
+      "price_per_sqft": "\u20b9917.32/sq.ft",
+      "price_per_marla": "\u20b92.06 L / Marla"
     },
     "area": {
       "area_display": "8176 sq.ft",
@@ -6024,10 +5746,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹90.0 Cr",
+      "display_price": "\u20b990.0 Cr",
       "price_value": 900000000,
-      "price_per_sqft": "₹5.51K/sq.ft",
-      "price_per_marla": "₹12.40 L / Marla"
+      "price_per_sqft": "\u20b95.51K/sq.ft",
+      "price_per_marla": "\u20b912.40 L / Marla"
     },
     "area": {
       "area_display": "163350 sq.ft",
@@ -6070,10 +5792,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹90.0 Cr",
+      "display_price": "\u20b990.0 Cr",
       "price_value": 900000000,
-      "price_per_sqft": "₹5.51K/sq.ft",
-      "price_per_marla": "₹12.40 L / Marla"
+      "price_per_sqft": "\u20b95.51K/sq.ft",
+      "price_per_marla": "\u20b912.40 L / Marla"
     },
     "area": {
       "area_display": "163350 sq.ft",
@@ -6116,10 +5838,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹5.0 L",
+      "display_price": "\u20b95.0 L",
       "price_value": 500000,
-      "price_per_sqft": "₹405.84/sq.ft",
-      "price_per_marla": "₹91,241 / Marla"
+      "price_per_sqft": "\u20b9405.84/sq.ft",
+      "price_per_marla": "\u20b991,241 / Marla"
     },
     "area": {
       "area_display": "1232 sq.ft",
@@ -6162,10 +5884,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹5.0 L",
+      "display_price": "\u20b95.0 L",
       "price_value": 500000,
-      "price_per_sqft": "₹405.84/sq.ft",
-      "price_per_marla": "₹91,241 / Marla"
+      "price_per_sqft": "\u20b9405.84/sq.ft",
+      "price_per_marla": "\u20b991,241 / Marla"
     },
     "area": {
       "area_display": "1232 sq.ft",
@@ -6208,10 +5930,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹2.5 Cr",
+      "display_price": "\u20b92.5 Cr",
       "price_value": 25000000,
-      "price_per_sqft": "₹4.6K/sq.ft",
-      "price_per_marla": "₹10.34 L / Marla"
+      "price_per_sqft": "\u20b94.6K/sq.ft",
+      "price_per_marla": "\u20b910.34 L / Marla"
     },
     "area": {
       "area_display": "5440 sq.ft",
@@ -6254,10 +5976,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹15.0 Cr",
+      "display_price": "\u20b915.0 Cr",
       "price_value": 150000000,
-      "price_per_sqft": "₹2.3K/sq.ft",
-      "price_per_marla": "₹5.17 L / Marla"
+      "price_per_sqft": "\u20b92.3K/sq.ft",
+      "price_per_marla": "\u20b95.17 L / Marla"
     },
     "area": {
       "area_display": "65340 sq.ft",
@@ -6300,10 +6022,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": null,
     "price": {
-      "display_price": "₹8.5 Cr",
+      "display_price": "\u20b98.5 Cr",
       "price_value": 85000000,
-      "price_per_sqft": "₹17.71K/sq.ft",
-      "price_per_marla": "₹39.85 L / Marla"
+      "price_per_sqft": "\u20b917.71K/sq.ft",
+      "price_per_marla": "\u20b939.85 L / Marla"
     },
     "area": {
       "area_display": "4800 sq.ft",
@@ -6348,10 +6070,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": null,
     "price": {
-      "display_price": "₹8.5 Cr",
+      "display_price": "\u20b98.5 Cr",
       "price_value": 85000000,
-      "price_per_sqft": "₹17.71K/sq.ft",
-      "price_per_marla": "₹39.85 L / Marla"
+      "price_per_sqft": "\u20b917.71K/sq.ft",
+      "price_per_marla": "\u20b939.85 L / Marla"
     },
     "area": {
       "area_display": "4800 sq.ft",
@@ -6396,10 +6118,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹5.0 L",
+      "display_price": "\u20b95.0 L",
       "price_value": 500000,
-      "price_per_sqft": "₹367.11/sq.ft",
-      "price_per_marla": "₹82,645 / Marla"
+      "price_per_sqft": "\u20b9367.11/sq.ft",
+      "price_per_marla": "\u20b982,645 / Marla"
     },
     "area": {
       "area_display": "1362 sq.ft",
@@ -6444,10 +6166,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹5.0 L",
+      "display_price": "\u20b95.0 L",
       "price_value": 500000,
-      "price_per_sqft": "₹367.11/sq.ft",
-      "price_per_marla": "₹82,645 / Marla"
+      "price_per_sqft": "\u20b9367.11/sq.ft",
+      "price_per_marla": "\u20b982,645 / Marla"
     },
     "area": {
       "area_display": "1362 sq.ft",
@@ -6492,10 +6214,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹2.3 Cr",
+      "display_price": "\u20b92.3 Cr",
       "price_value": 23000000,
-      "price_per_sqft": "₹38.33K/sq.ft",
-      "price_per_marla": "₹86.14 L / Marla"
+      "price_per_sqft": "\u20b938.33K/sq.ft",
+      "price_per_marla": "\u20b986.14 L / Marla"
     },
     "area": {
       "area_display": "600 sq.ft",
@@ -6538,10 +6260,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": null,
     "price": {
-      "display_price": "₹2.25 Cr",
+      "display_price": "\u20b92.25 Cr",
       "price_value": 22500000,
-      "price_per_sqft": "₹37.5K/sq.ft",
-      "price_per_marla": "₹84.27 L / Marla"
+      "price_per_sqft": "\u20b937.5K/sq.ft",
+      "price_per_marla": "\u20b984.27 L / Marla"
     },
     "area": {
       "area_display": "600 sq.ft",
@@ -6586,10 +6308,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": null,
     "price": {
-      "display_price": "₹7.0 Cr",
+      "display_price": "\u20b97.0 Cr",
       "price_value": 70000000,
-      "price_per_sqft": "₹50.0K/sq.ft",
-      "price_per_marla": "₹1.13 Cr / Marla"
+      "price_per_sqft": "\u20b950.0K/sq.ft",
+      "price_per_marla": "\u20b91.13 Cr / Marla"
     },
     "area": {
       "area_display": "1400 sq.ft",
@@ -6634,10 +6356,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹2.56 Cr",
+      "display_price": "\u20b92.56 Cr",
       "price_value": 25600000,
-      "price_per_sqft": "₹5.88K/sq.ft",
-      "price_per_marla": "₹13.22 L / Marla"
+      "price_per_sqft": "\u20b95.88K/sq.ft",
+      "price_per_marla": "\u20b913.22 L / Marla"
     },
     "area": {
       "area_display": "4356 sq.ft",
@@ -6680,10 +6402,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹2.56 Cr",
+      "display_price": "\u20b92.56 Cr",
       "price_value": 25600000,
-      "price_per_sqft": "₹5.88K/sq.ft",
-      "price_per_marla": "₹13.22 L / Marla"
+      "price_per_sqft": "\u20b95.88K/sq.ft",
+      "price_per_marla": "\u20b913.22 L / Marla"
     },
     "area": {
       "area_display": "4356 sq.ft",
@@ -6726,10 +6448,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹85.0 L",
+      "display_price": "\u20b985.0 L",
       "price_value": 8500000,
-      "price_per_sqft": "₹6.54K/sq.ft",
-      "price_per_marla": "₹14.71 L / Marla"
+      "price_per_sqft": "\u20b96.54K/sq.ft",
+      "price_per_marla": "\u20b914.71 L / Marla"
     },
     "area": {
       "area_display": "1300 sq.ft",
@@ -6772,10 +6494,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": null,
     "price": {
-      "display_price": "₹85.0 L",
+      "display_price": "\u20b985.0 L",
       "price_value": 8500000,
-      "price_per_sqft": "₹16.87K/sq.ft",
-      "price_per_marla": "₹37.95 L / Marla"
+      "price_per_sqft": "\u20b916.87K/sq.ft",
+      "price_per_marla": "\u20b937.95 L / Marla"
     },
     "area": {
       "area_display": "504 sq.ft",
@@ -6820,10 +6542,10 @@
     "type_of_property": "Warehouse / Godown",
     "furnished_status": null,
     "price": {
-      "display_price": "₹4.2 L",
+      "display_price": "\u20b94.2 L",
       "price_value": 420000,
-      "price_per_sqft": "₹168.0/sq.ft",
-      "price_per_marla": "₹37,804 / Marla"
+      "price_per_sqft": "\u20b9168.0/sq.ft",
+      "price_per_marla": "\u20b937,804 / Marla"
     },
     "area": {
       "area_display": "2500 sq.ft",
@@ -6868,10 +6590,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹55.0 L",
+      "display_price": "\u20b955.0 L",
       "price_value": 5500000,
-      "price_per_sqft": "₹12.22K/sq.ft",
-      "price_per_marla": "₹27.50 L / Marla"
+      "price_per_sqft": "\u20b912.22K/sq.ft",
+      "price_per_marla": "\u20b927.50 L / Marla"
     },
     "area": {
       "area_display": "450 sq.ft",
@@ -6916,10 +6638,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹55.0 L",
+      "display_price": "\u20b955.0 L",
       "price_value": 5500000,
-      "price_per_sqft": "₹12.22K/sq.ft",
-      "price_per_marla": "₹27.50 L / Marla"
+      "price_per_sqft": "\u20b912.22K/sq.ft",
+      "price_per_marla": "\u20b927.50 L / Marla"
     },
     "area": {
       "area_display": "450 sq.ft",
@@ -6958,108 +6680,16 @@
     "status": "Ready to move"
   },
   {
-    "property_id": "100500206",
-    "url": "https://housing.com/commercial/buy/resale/100500206-commercial-plot-for-sale-in-vijaypur-jammu-jammu-and-kashmir-1-for-rs-6000000",
-    "title": "Commercial Plot",
-    "type_of_property": "Commercial Plot / Land",
-    "furnished_status": null,
-    "price": {
-      "display_price": "₹60.0 L",
-      "price_value": 6000000,
-      "price_per_sqft": "₹440.79/sq.ft",
-      "price_per_marla": "₹99,174 / Marla"
-    },
-    "area": {
-      "area_display": "13612 sq.ft",
-      "area_sqft": 13612.0,
-      "area_type": "Plot Area",
-      "area_in_marla": "60.5 Marla"
-    },
-    "address": {
-      "full_address": "Vijaypur, Jammu",
-      "locality": "Vijaypur",
-      "city": "Jammu",
-      "coordinates": {
-        "latitude": "32.5633415384054",
-        "longitude": "75.0230570180302"
-      }
-    },
-    "configuration": {
-      "bedrooms": null,
-      "bathrooms": null,
-      "balconies": null,
-      "parking": null,
-      "summary": "Plot / Land (No rooms)"
-    },
-    "property_ownership": "Freehold",
-    "floors": null,
-    "property_age": null,
-    "highlights": [],
-    "key_highlights": [
-      "Commercial Plot / Land",
-      "60.5 Marla (13612 sq.ft)"
-    ],
-    "amenities": [],
-    "furnished_components": null,
-    "status": null
-  },
-  {
-    "property_id": "100500207",
-    "url": "https://housing.com/commercial/buy/resale/100500207-commercial-plot-for-sale-in-vijaypur-jammu-jammu-and-kashmir-1-for-rs-6000000",
-    "title": "Commercial Plot",
-    "type_of_property": "Commercial Plot / Land",
-    "furnished_status": null,
-    "price": {
-      "display_price": "₹60.0 L",
-      "price_value": 6000000,
-      "price_per_sqft": "₹440.79/sq.ft",
-      "price_per_marla": "₹99,174 / Marla"
-    },
-    "area": {
-      "area_display": "13612 sq.ft",
-      "area_sqft": 13612.0,
-      "area_type": "Plot Area",
-      "area_in_marla": "60.5 Marla"
-    },
-    "address": {
-      "full_address": "Vijaypur, Jammu",
-      "locality": "Vijaypur",
-      "city": "Jammu",
-      "coordinates": {
-        "latitude": "32.5633415384054",
-        "longitude": "75.0230570180302"
-      }
-    },
-    "configuration": {
-      "bedrooms": null,
-      "bathrooms": null,
-      "balconies": null,
-      "parking": null,
-      "summary": "Plot / Land (No rooms)"
-    },
-    "property_ownership": "Freehold",
-    "floors": null,
-    "property_age": null,
-    "highlights": [],
-    "key_highlights": [
-      "Commercial Plot / Land",
-      "60.5 Marla (13612 sq.ft)"
-    ],
-    "amenities": [],
-    "furnished_components": null,
-    "status": null
-  },
-  {
     "property_id": "100493780",
     "url": "https://housing.com/commercial/buy/resale/100493780-commercial-property-for-sale-in-bari-brahmana-jammu-jammu-and-kashmir-1-for-rs-38000000",
     "title": "Commercial Property",
     "type_of_property": "Commercial Property",
     "furnished_status": null,
     "price": {
-      "display_price": "₹3.8 Cr",
+      "display_price": "\u20b93.8 Cr",
       "price_value": 38000000,
-      "price_per_sqft": "₹1.74K/sq.ft",
-      "price_per_marla": "₹3.93 L / Marla"
+      "price_per_sqft": "\u20b91.74K/sq.ft",
+      "price_per_marla": "\u20b93.93 L / Marla"
     },
     "area": {
       "area_display": "21780 sq.ft",
@@ -7104,10 +6734,10 @@
     "type_of_property": "Commercial Office Space",
     "furnished_status": null,
     "price": {
-      "display_price": "₹7.0 Cr",
+      "display_price": "\u20b97.0 Cr",
       "price_value": 70000000,
-      "price_per_sqft": "₹3.18K/sq.ft",
-      "price_per_marla": "₹7.16 L / Marla"
+      "price_per_sqft": "\u20b93.18K/sq.ft",
+      "price_per_marla": "\u20b97.16 L / Marla"
     },
     "area": {
       "area_display": "22000 sq.ft",
@@ -7152,10 +6782,10 @@
     "type_of_property": "Commercial Office Space",
     "furnished_status": null,
     "price": {
-      "display_price": "₹7.0 Cr",
+      "display_price": "\u20b97.0 Cr",
       "price_value": 70000000,
-      "price_per_sqft": "₹3.18K/sq.ft",
-      "price_per_marla": "₹7.16 L / Marla"
+      "price_per_sqft": "\u20b93.18K/sq.ft",
+      "price_per_marla": "\u20b97.16 L / Marla"
     },
     "area": {
       "area_display": "22000 sq.ft",
@@ -7200,10 +6830,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹25.0 L",
+      "display_price": "\u20b925.0 L",
       "price_value": 2500000,
-      "price_per_sqft": "₹250.0/sq.ft",
-      "price_per_marla": "₹56,256 / Marla"
+      "price_per_sqft": "\u20b9250.0/sq.ft",
+      "price_per_marla": "\u20b956,256 / Marla"
     },
     "area": {
       "area_display": "10000 sq.ft",
@@ -7248,10 +6878,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹35.0 L",
+      "display_price": "\u20b935.0 L",
       "price_value": 3500000,
-      "price_per_sqft": "₹218.15/sq.ft",
-      "price_per_marla": "₹49,081 / Marla"
+      "price_per_sqft": "\u20b9218.15/sq.ft",
+      "price_per_marla": "\u20b949,081 / Marla"
     },
     "area": {
       "area_display": "16044 sq.ft",
@@ -7294,10 +6924,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹35.0 L",
+      "display_price": "\u20b935.0 L",
       "price_value": 3500000,
-      "price_per_sqft": "₹218.15/sq.ft",
-      "price_per_marla": "₹49,081 / Marla"
+      "price_per_sqft": "\u20b9218.15/sq.ft",
+      "price_per_marla": "\u20b949,081 / Marla"
     },
     "area": {
       "area_display": "16044 sq.ft",
@@ -7340,10 +6970,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹50.0 L",
+      "display_price": "\u20b950.0 L",
       "price_value": 5000000,
-      "price_per_sqft": "₹18.32K/sq.ft",
-      "price_per_marla": "₹41.32 L / Marla"
+      "price_per_sqft": "\u20b918.32K/sq.ft",
+      "price_per_marla": "\u20b941.32 L / Marla"
     },
     "area": {
       "area_display": "273 sq.ft",
@@ -7388,10 +7018,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹50.0 L",
+      "display_price": "\u20b950.0 L",
       "price_value": 5000000,
-      "price_per_sqft": "₹18.32K/sq.ft",
-      "price_per_marla": "₹41.32 L / Marla"
+      "price_per_sqft": "\u20b918.32K/sq.ft",
+      "price_per_marla": "\u20b941.32 L / Marla"
     },
     "area": {
       "area_display": "273 sq.ft",
@@ -7436,10 +7066,10 @@
     "type_of_property": "Warehouse / Godown",
     "furnished_status": null,
     "price": {
-      "display_price": "₹5.0 Cr",
+      "display_price": "\u20b95.0 Cr",
       "price_value": 50000000,
-      "price_per_sqft": "₹1.67K/sq.ft",
-      "price_per_marla": "₹3.75 L / Marla"
+      "price_per_sqft": "\u20b91.67K/sq.ft",
+      "price_per_marla": "\u20b93.75 L / Marla"
     },
     "area": {
       "area_display": "30000 sq.ft",
@@ -7484,10 +7114,10 @@
     "type_of_property": "Warehouse / Godown",
     "furnished_status": null,
     "price": {
-      "display_price": "₹5.0 Cr",
+      "display_price": "\u20b95.0 Cr",
       "price_value": 50000000,
-      "price_per_sqft": "₹1.67K/sq.ft",
-      "price_per_marla": "₹3.75 L / Marla"
+      "price_per_sqft": "\u20b91.67K/sq.ft",
+      "price_per_marla": "\u20b93.75 L / Marla"
     },
     "area": {
       "area_display": "30000 sq.ft",
@@ -7532,10 +7162,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹50.0 L",
+      "display_price": "\u20b950.0 L",
       "price_value": 5000000,
-      "price_per_sqft": "₹16.13K/sq.ft",
-      "price_per_marla": "₹36.23 L / Marla"
+      "price_per_sqft": "\u20b916.13K/sq.ft",
+      "price_per_marla": "\u20b936.23 L / Marla"
     },
     "area": {
       "area_display": "310 sq.ft",
@@ -7580,10 +7210,10 @@
     "type_of_property": "Commercial Office Space",
     "furnished_status": null,
     "price": {
-      "display_price": "₹4.5 Cr",
+      "display_price": "\u20b94.5 Cr",
       "price_value": 45000000,
-      "price_per_sqft": "₹81.82K/sq.ft",
-      "price_per_marla": "₹1.84 Cr / Marla"
+      "price_per_sqft": "\u20b981.82K/sq.ft",
+      "price_per_marla": "\u20b91.84 Cr / Marla"
     },
     "area": {
       "area_display": "550 sq.ft",
@@ -7628,10 +7258,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹65.0 L",
+      "display_price": "\u20b965.0 L",
       "price_value": 6500000,
-      "price_per_sqft": "₹37.14K/sq.ft",
-      "price_per_marla": "₹83.33 L / Marla"
+      "price_per_sqft": "\u20b937.14K/sq.ft",
+      "price_per_marla": "\u20b983.33 L / Marla"
     },
     "area": {
       "area_display": "175 sq.ft",
@@ -7676,10 +7306,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹70.0 L",
+      "display_price": "\u20b970.0 L",
       "price_value": 7000000,
-      "price_per_sqft": "₹5.83K/sq.ft",
-      "price_per_marla": "₹13.13 L / Marla"
+      "price_per_sqft": "\u20b95.83K/sq.ft",
+      "price_per_marla": "\u20b913.13 L / Marla"
     },
     "area": {
       "area_display": "1200 sq.ft",
@@ -7724,10 +7354,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": null,
     "price": {
-      "display_price": "₹70.0 L",
+      "display_price": "\u20b970.0 L",
       "price_value": 7000000,
-      "price_per_sqft": "₹5.83K/sq.ft",
-      "price_per_marla": "₹13.13 L / Marla"
+      "price_per_sqft": "\u20b95.83K/sq.ft",
+      "price_per_marla": "\u20b913.13 L / Marla"
     },
     "area": {
       "area_display": "1200 sq.ft",
@@ -7772,10 +7402,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.15 Cr",
+      "display_price": "\u20b91.15 Cr",
       "price_value": 11500000,
-      "price_per_sqft": "₹5.64K/sq.ft",
-      "price_per_marla": "₹12.68 L / Marla"
+      "price_per_sqft": "\u20b95.64K/sq.ft",
+      "price_per_marla": "\u20b912.68 L / Marla"
     },
     "area": {
       "area_display": "2040 sq.ft",
@@ -7818,10 +7448,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹20.0 L",
+      "display_price": "\u20b920.0 L",
       "price_value": 2000000,
-      "price_per_sqft": "₹10.1K/sq.ft",
-      "price_per_marla": "₹22.73 L / Marla"
+      "price_per_sqft": "\u20b910.1K/sq.ft",
+      "price_per_marla": "\u20b922.73 L / Marla"
     },
     "area": {
       "area_display": "198 sq.ft",
@@ -7864,10 +7494,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹20.0 L",
+      "display_price": "\u20b920.0 L",
       "price_value": 2000000,
-      "price_per_sqft": "₹10.1K/sq.ft",
-      "price_per_marla": "₹22.73 L / Marla"
+      "price_per_sqft": "\u20b910.1K/sq.ft",
+      "price_per_marla": "\u20b922.73 L / Marla"
     },
     "area": {
       "area_display": "198 sq.ft",
@@ -7910,10 +7540,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.8 Cr",
+      "display_price": "\u20b91.8 Cr",
       "price_value": 18000000,
-      "price_per_sqft": "₹550.46/sq.ft",
-      "price_per_marla": "₹1.24 L / Marla"
+      "price_per_sqft": "\u20b9550.46/sq.ft",
+      "price_per_marla": "\u20b91.24 L / Marla"
     },
     "area": {
       "area_display": "32700 sq.ft",
@@ -7956,10 +7586,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹40.0 L",
+      "display_price": "\u20b940.0 L",
       "price_value": 4000000,
-      "price_per_sqft": "₹44.44K/sq.ft",
-      "price_per_marla": "₹1.00 Cr / Marla"
+      "price_per_sqft": "\u20b944.44K/sq.ft",
+      "price_per_marla": "\u20b91.00 Cr / Marla"
     },
     "area": {
       "area_display": "90 sq.ft",
@@ -8002,10 +7632,10 @@
     "type_of_property": "Commercial Property",
     "furnished_status": null,
     "price": {
-      "display_price": "₹4.5 Cr",
+      "display_price": "\u20b94.5 Cr",
       "price_value": 45000000,
-      "price_per_sqft": "₹9.0K/sq.ft",
-      "price_per_marla": "₹20.25 L / Marla"
+      "price_per_sqft": "\u20b99.0K/sq.ft",
+      "price_per_marla": "\u20b920.25 L / Marla"
     },
     "area": {
       "area_display": "5000 sq.ft",
@@ -8050,10 +7680,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹5.0 Cr",
+      "display_price": "\u20b95.0 Cr",
       "price_value": 50000000,
-      "price_per_sqft": "₹12.5K/sq.ft",
-      "price_per_marla": "₹28.12 L / Marla"
+      "price_per_sqft": "\u20b912.5K/sq.ft",
+      "price_per_marla": "\u20b928.12 L / Marla"
     },
     "area": {
       "area_display": "4000 sq.ft",
@@ -8096,10 +7726,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹85.0 L",
+      "display_price": "\u20b985.0 L",
       "price_value": 8500000,
-      "price_per_sqft": "₹566.67/sq.ft",
-      "price_per_marla": "₹1.27 L / Marla"
+      "price_per_sqft": "\u20b9566.67/sq.ft",
+      "price_per_marla": "\u20b91.27 L / Marla"
     },
     "area": {
       "area_display": "15000 sq.ft",
@@ -8142,10 +7772,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹45.0 L",
+      "display_price": "\u20b945.0 L",
       "price_value": 4500000,
-      "price_per_sqft": "₹69.23K/sq.ft",
-      "price_per_marla": "₹1.55 Cr / Marla"
+      "price_per_sqft": "\u20b969.23K/sq.ft",
+      "price_per_marla": "\u20b91.55 Cr / Marla"
     },
     "area": {
       "area_display": "65 sq.ft",
@@ -8190,10 +7820,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.5 Cr",
+      "display_price": "\u20b91.5 Cr",
       "price_value": 15000000,
-      "price_per_sqft": "₹13.64K/sq.ft",
-      "price_per_marla": "₹30.67 L / Marla"
+      "price_per_sqft": "\u20b913.64K/sq.ft",
+      "price_per_marla": "\u20b930.67 L / Marla"
     },
     "area": {
       "area_display": "1100 sq.ft",
@@ -8238,10 +7868,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.5 Cr",
+      "display_price": "\u20b91.5 Cr",
       "price_value": 15000000,
-      "price_per_sqft": "₹13.64K/sq.ft",
-      "price_per_marla": "₹30.67 L / Marla"
+      "price_per_sqft": "\u20b913.64K/sq.ft",
+      "price_per_marla": "\u20b930.67 L / Marla"
     },
     "area": {
       "area_display": "1100 sq.ft",
@@ -8286,10 +7916,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹90.0 Cr",
+      "display_price": "\u20b990.0 Cr",
       "price_value": 900000000,
-      "price_per_sqft": "₹13.79K/sq.ft",
-      "price_per_marla": "₹31.02 L / Marla"
+      "price_per_sqft": "\u20b913.79K/sq.ft",
+      "price_per_marla": "\u20b931.02 L / Marla"
     },
     "area": {
       "area_display": "65280 sq.ft",
@@ -8332,10 +7962,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹60.0 L",
+      "display_price": "\u20b960.0 L",
       "price_value": 6000000,
-      "price_per_sqft": "₹30.0K/sq.ft",
-      "price_per_marla": "₹67.42 L / Marla"
+      "price_per_sqft": "\u20b930.0K/sq.ft",
+      "price_per_marla": "\u20b967.42 L / Marla"
     },
     "area": {
       "area_display": "200 sq.ft",
@@ -8380,10 +8010,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹3.5 Cr",
+      "display_price": "\u20b93.5 Cr",
       "price_value": 35000000,
-      "price_per_sqft": "₹50.0K/sq.ft",
-      "price_per_marla": "₹1.13 Cr / Marla"
+      "price_per_sqft": "\u20b950.0K/sq.ft",
+      "price_per_marla": "\u20b91.13 Cr / Marla"
     },
     "area": {
       "area_display": "700 sq.ft",
@@ -8428,10 +8058,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹3.5 Cr",
+      "display_price": "\u20b93.5 Cr",
       "price_value": 35000000,
-      "price_per_sqft": "₹50.0K/sq.ft",
-      "price_per_marla": "₹1.13 Cr / Marla"
+      "price_per_sqft": "\u20b950.0K/sq.ft",
+      "price_per_marla": "\u20b91.13 Cr / Marla"
     },
     "area": {
       "area_display": "700 sq.ft",
@@ -8476,10 +8106,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹45.0 L",
+      "display_price": "\u20b945.0 L",
       "price_value": 4500000,
-      "price_per_sqft": "₹1.38K/sq.ft",
-      "price_per_marla": "₹3.10 L / Marla"
+      "price_per_sqft": "\u20b91.38K/sq.ft",
+      "price_per_marla": "\u20b93.10 L / Marla"
     },
     "area": {
       "area_display": "3267 sq.ft",
@@ -8522,10 +8152,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹12.0 L",
+      "display_price": "\u20b912.0 L",
       "price_value": 1200000,
-      "price_per_sqft": "₹400.0/sq.ft",
-      "price_per_marla": "₹90,023 / Marla"
+      "price_per_sqft": "\u20b9400.0/sq.ft",
+      "price_per_marla": "\u20b990,023 / Marla"
     },
     "area": {
       "area_display": "3000 sq.ft",
@@ -8568,10 +8198,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": null,
     "price": {
-      "display_price": "₹6.0 Cr",
+      "display_price": "\u20b96.0 Cr",
       "price_value": 60000000,
-      "price_per_sqft": "₹36.08K/sq.ft",
-      "price_per_marla": "₹81.19 L / Marla"
+      "price_per_sqft": "\u20b936.08K/sq.ft",
+      "price_per_marla": "\u20b981.19 L / Marla"
     },
     "area": {
       "area_display": "1663 sq.ft",
@@ -8616,10 +8246,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.6 Cr",
+      "display_price": "\u20b91.6 Cr",
       "price_value": 16000000,
-      "price_per_sqft": "₹16.0K/sq.ft",
-      "price_per_marla": "₹36.04 L / Marla"
+      "price_per_sqft": "\u20b916.0K/sq.ft",
+      "price_per_marla": "\u20b936.04 L / Marla"
     },
     "area": {
       "area_display": "1000 sq.ft",
@@ -8662,10 +8292,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹30.0 L",
+      "display_price": "\u20b930.0 L",
       "price_value": 3000000,
-      "price_per_sqft": "₹3.33K/sq.ft",
-      "price_per_marla": "₹7.50 L / Marla"
+      "price_per_sqft": "\u20b93.33K/sq.ft",
+      "price_per_marla": "\u20b97.50 L / Marla"
     },
     "area": {
       "area_display": "900 sq.ft",
@@ -8708,10 +8338,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.25 Cr",
+      "display_price": "\u20b91.25 Cr",
       "price_value": 12500000,
-      "price_per_sqft": "₹9.09K/sq.ft",
-      "price_per_marla": "₹20.46 L / Marla"
+      "price_per_sqft": "\u20b99.09K/sq.ft",
+      "price_per_marla": "\u20b920.46 L / Marla"
     },
     "area": {
       "area_display": "1375 sq.ft",
@@ -8754,10 +8384,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.25 Cr",
+      "display_price": "\u20b91.25 Cr",
       "price_value": 12500000,
-      "price_per_sqft": "₹9.09K/sq.ft",
-      "price_per_marla": "₹20.46 L / Marla"
+      "price_per_sqft": "\u20b99.09K/sq.ft",
+      "price_per_marla": "\u20b920.46 L / Marla"
     },
     "area": {
       "area_display": "1375 sq.ft",
@@ -8800,10 +8430,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹6.5 L",
+      "display_price": "\u20b96.5 L",
       "price_value": 650000,
-      "price_per_sqft": "₹1.08K/sq.ft",
-      "price_per_marla": "₹2.43 L / Marla"
+      "price_per_sqft": "\u20b91.08K/sq.ft",
+      "price_per_marla": "\u20b92.43 L / Marla"
     },
     "area": {
       "area_display": "600 sq.ft",
@@ -8848,10 +8478,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹30.0 L",
+      "display_price": "\u20b930.0 L",
       "price_value": 3000000,
-      "price_per_sqft": "₹20.0K/sq.ft",
-      "price_per_marla": "₹44.78 L / Marla"
+      "price_per_sqft": "\u20b920.0K/sq.ft",
+      "price_per_marla": "\u20b944.78 L / Marla"
     },
     "area": {
       "area_display": "150 sq.ft",
@@ -8896,10 +8526,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.5 Cr",
+      "display_price": "\u20b91.5 Cr",
       "price_value": 15000000,
-      "price_per_sqft": "₹3.06K/sq.ft",
-      "price_per_marla": "₹6.89 L / Marla"
+      "price_per_sqft": "\u20b93.06K/sq.ft",
+      "price_per_marla": "\u20b96.89 L / Marla"
     },
     "area": {
       "area_display": "4900 sq.ft",
@@ -8942,10 +8572,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹4.0 Cr",
+      "display_price": "\u20b94.0 Cr",
       "price_value": 40000000,
-      "price_per_sqft": "₹12.24K/sq.ft",
-      "price_per_marla": "₹27.55 L / Marla"
+      "price_per_sqft": "\u20b912.24K/sq.ft",
+      "price_per_marla": "\u20b927.55 L / Marla"
     },
     "area": {
       "area_display": "3267 sq.ft",
@@ -8982,64 +8612,16 @@
     "status": null
   },
   {
-    "property_id": "100253657",
-    "url": "https://housing.com/commercial/buy/resale/100253657-commercial-property-for-sale-in-bari-brahmana-jammu-jammu-and-kashmir-1-for-rs-20000000",
-    "title": "Commercial Property",
-    "type_of_property": "Commercial Property",
-    "furnished_status": null,
-    "price": {
-      "display_price": "₹2.0 Cr",
-      "price_value": 20000000,
-      "price_per_sqft": "₹9.52K/sq.ft",
-      "price_per_marla": "₹21.44 L / Marla"
-    },
-    "area": {
-      "area_display": "2100 sq.ft",
-      "area_sqft": 2100.0,
-      "area_type": "Built Up Area",
-      "area_in_marla": "9.33 Marla"
-    },
-    "address": {
-      "full_address": "SIDCO Factories, Bari Brahmana, Jammu",
-      "locality": "SIDCO Factories",
-      "city": "Jammu",
-      "coordinates": {
-        "latitude": "32.64812",
-        "longitude": "74.904801"
-      }
-    },
-    "configuration": {
-      "bedrooms": null,
-      "bathrooms": null,
-      "balconies": null,
-      "parking": null,
-      "summary": "Commercial Space"
-    },
-    "property_ownership": "Power Of Attorney",
-    "floors": "GF,1st,B2/ 3 floors",
-    "property_age": "2 Years",
-    "highlights": [],
-    "key_highlights": [
-      "Commercial Property",
-      "Ready to move",
-      "Floor: GF,1st,B2/ 3 floors",
-      "9.33 Marla (2100 sq.ft)"
-    ],
-    "amenities": [],
-    "furnished_components": null,
-    "status": "Ready to move"
-  },
-  {
     "property_id": "100251983",
     "url": "https://housing.com/commercial/buy/resale/100251983-commercial-plot-for-sale-in-channi-himmat-jammu-jammu-and-kashmir-1-for-rs-14400000",
     "title": "Commercial Plot",
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.44 Cr",
+      "display_price": "\u20b91.44 Cr",
       "price_value": 14400000,
-      "price_per_sqft": "₹4.36K/sq.ft",
-      "price_per_marla": "₹9.82 L / Marla"
+      "price_per_sqft": "\u20b94.36K/sq.ft",
+      "price_per_marla": "\u20b99.82 L / Marla"
     },
     "area": {
       "area_display": "3300 sq.ft",
@@ -9082,10 +8664,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.6 Cr",
+      "display_price": "\u20b91.6 Cr",
       "price_value": 16000000,
-      "price_per_sqft": "₹16.0K/sq.ft",
-      "price_per_marla": "₹36.04 L / Marla"
+      "price_per_sqft": "\u20b916.0K/sq.ft",
+      "price_per_marla": "\u20b936.04 L / Marla"
     },
     "area": {
       "area_display": "1000 sq.ft",
@@ -9130,10 +8712,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.3 Cr",
+      "display_price": "\u20b91.3 Cr",
       "price_value": 13000000,
-      "price_per_sqft": "₹32.5K/sq.ft",
-      "price_per_marla": "₹73.03 L / Marla"
+      "price_per_sqft": "\u20b932.5K/sq.ft",
+      "price_per_marla": "\u20b973.03 L / Marla"
     },
     "area": {
       "area_display": "400 sq.ft",
@@ -9172,62 +8754,16 @@
     "status": "Ready to move"
   },
   {
-    "property_id": "100239986",
-    "url": "https://housing.com/commercial/buy/resale/100239986-commercial-plot-for-sale-in-udhampur-2-jammu-jammu-and-kashmir-1-for-rs-5000000",
-    "title": "Commercial Plot",
-    "type_of_property": "Commercial Plot / Land",
-    "furnished_status": null,
-    "price": {
-      "display_price": "₹50.0 L",
-      "price_value": 5000000,
-      "price_per_sqft": "₹2.0K/sq.ft",
-      "price_per_marla": "₹4.50 L / Marla"
-    },
-    "area": {
-      "area_display": "2500 sq.ft",
-      "area_sqft": 2500.0,
-      "area_type": "Plot Area",
-      "area_in_marla": "11.11 Marla"
-    },
-    "address": {
-      "full_address": "Omala, Jammu",
-      "locality": "Omala",
-      "city": "Jammu",
-      "coordinates": {
-        "latitude": "32.915756",
-        "longitude": "75.131029"
-      }
-    },
-    "configuration": {
-      "bedrooms": null,
-      "bathrooms": null,
-      "balconies": null,
-      "parking": null,
-      "summary": "Plot / Land (No rooms)"
-    },
-    "property_ownership": "Freehold",
-    "floors": null,
-    "property_age": null,
-    "highlights": [],
-    "key_highlights": [
-      "Commercial Plot / Land",
-      "11.11 Marla (2500 sq.ft)"
-    ],
-    "amenities": [],
-    "furnished_components": null,
-    "status": null
-  },
-  {
     "property_id": "100236121",
     "url": "https://housing.com/commercial/buy/resale/100236121-shop-for-sale-in-resham-ghar-colony-jammu-jammu-and-kashmir-1-for-rs-23000000",
     "title": "Shop",
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹2.3 Cr",
+      "display_price": "\u20b92.3 Cr",
       "price_value": 23000000,
-      "price_per_sqft": "₹41.82K/sq.ft",
-      "price_per_marla": "₹94.26 L / Marla"
+      "price_per_sqft": "\u20b941.82K/sq.ft",
+      "price_per_marla": "\u20b994.26 L / Marla"
     },
     "area": {
       "area_display": "550 sq.ft",
@@ -9272,10 +8808,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹3.9 Cr",
+      "display_price": "\u20b93.9 Cr",
       "price_value": 39000000,
-      "price_per_sqft": "₹12.19K/sq.ft",
-      "price_per_marla": "₹27.43 L / Marla"
+      "price_per_sqft": "\u20b912.19K/sq.ft",
+      "price_per_marla": "\u20b927.43 L / Marla"
     },
     "area": {
       "area_display": "3200 sq.ft",
@@ -9318,10 +8854,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹14.0 Cr",
+      "display_price": "\u20b914.0 Cr",
       "price_value": 140000000,
-      "price_per_sqft": "₹12.96K/sq.ft",
-      "price_per_marla": "₹29.17 L / Marla"
+      "price_per_sqft": "\u20b912.96K/sq.ft",
+      "price_per_marla": "\u20b929.17 L / Marla"
     },
     "area": {
       "area_display": "10800 sq.ft",
@@ -9364,10 +8900,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹9.0 Cr",
+      "display_price": "\u20b99.0 Cr",
       "price_value": 90000000,
-      "price_per_sqft": "₹11.11K/sq.ft",
-      "price_per_marla": "₹25.00 L / Marla"
+      "price_per_sqft": "\u20b911.11K/sq.ft",
+      "price_per_marla": "\u20b925.00 L / Marla"
     },
     "area": {
       "area_display": "8100 sq.ft",
@@ -9410,10 +8946,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹80.0 L",
+      "display_price": "\u20b980.0 L",
       "price_value": 8000000,
-      "price_per_sqft": "₹17.78K/sq.ft",
-      "price_per_marla": "₹40.00 L / Marla"
+      "price_per_sqft": "\u20b917.78K/sq.ft",
+      "price_per_marla": "\u20b940.00 L / Marla"
     },
     "area": {
       "area_display": "450 sq.ft",
@@ -9456,10 +8992,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹14.0 L",
+      "display_price": "\u20b914.0 L",
       "price_value": 1400000,
-      "price_per_sqft": "₹128.68/sq.ft",
-      "price_per_marla": "₹28,950 / Marla"
+      "price_per_sqft": "\u20b9128.68/sq.ft",
+      "price_per_marla": "\u20b928,950 / Marla"
     },
     "area": {
       "area_display": "10880 sq.ft",
@@ -9503,10 +9039,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹5.5 Cr",
+      "display_price": "\u20b95.5 Cr",
       "price_value": 55000000,
-      "price_per_sqft": "₹25.0K/sq.ft",
-      "price_per_marla": "₹56.24 L / Marla"
+      "price_per_sqft": "\u20b925.0K/sq.ft",
+      "price_per_marla": "\u20b956.24 L / Marla"
     },
     "area": {
       "area_display": "2200 sq.ft",
@@ -9550,10 +9086,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹10.0 L",
+      "display_price": "\u20b910.0 L",
       "price_value": 1000000,
-      "price_per_sqft": "₹20.0/sq.ft",
-      "price_per_marla": "₹4,500 / Marla"
+      "price_per_sqft": "\u20b920.0/sq.ft",
+      "price_per_marla": "\u20b94,500 / Marla"
     },
     "area": {
       "area_display": "50000 sq.ft",
@@ -9597,10 +9133,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹50.0 L",
+      "display_price": "\u20b950.0 L",
       "price_value": 5000000,
-      "price_per_sqft": "₹100.0/sq.ft",
-      "price_per_marla": "₹22,500 / Marla"
+      "price_per_sqft": "\u20b9100.0/sq.ft",
+      "price_per_marla": "\u20b922,500 / Marla"
     },
     "area": {
       "area_display": "50000 sq.ft",
@@ -9644,10 +9180,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹50.0 L",
+      "display_price": "\u20b950.0 L",
       "price_value": 5000000,
-      "price_per_sqft": "₹7.14K/sq.ft",
-      "price_per_marla": "₹16.08 L / Marla"
+      "price_per_sqft": "\u20b97.14K/sq.ft",
+      "price_per_marla": "\u20b916.08 L / Marla"
     },
     "area": {
       "area_display": "700 sq.ft",
@@ -9691,10 +9227,10 @@
     "type_of_property": "Commercial Property",
     "furnished_status": null,
     "price": {
-      "display_price": "₹2.0 Cr",
+      "display_price": "\u20b92.0 Cr",
       "price_value": 20000000,
-      "price_per_sqft": "₹20.0K/sq.ft",
-      "price_per_marla": "₹45.05 L / Marla"
+      "price_per_sqft": "\u20b920.0K/sq.ft",
+      "price_per_marla": "\u20b945.05 L / Marla"
     },
     "area": {
       "area_display": "1000 sq.ft",
@@ -9739,10 +9275,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": null,
     "price": {
-      "display_price": "₹2.4 Cr",
+      "display_price": "\u20b92.4 Cr",
       "price_value": 24000000,
-      "price_per_sqft": "₹7.5K/sq.ft",
-      "price_per_marla": "₹16.88 L / Marla"
+      "price_per_sqft": "\u20b97.5K/sq.ft",
+      "price_per_marla": "\u20b916.88 L / Marla"
     },
     "area": {
       "area_display": "3200 sq.ft",
@@ -9787,10 +9323,10 @@
     "type_of_property": "Commercial Office Space",
     "furnished_status": null,
     "price": {
-      "display_price": "₹2.3 Cr",
+      "display_price": "\u20b92.3 Cr",
       "price_value": 23000000,
-      "price_per_sqft": "₹3.83K/sq.ft",
-      "price_per_marla": "₹8.62 L / Marla"
+      "price_per_sqft": "\u20b93.83K/sq.ft",
+      "price_per_marla": "\u20b98.62 L / Marla"
     },
     "area": {
       "area_display": "6000 sq.ft",
@@ -9835,10 +9371,10 @@
     "type_of_property": "Commercial Property",
     "furnished_status": null,
     "price": {
-      "display_price": "₹3.5 Cr",
+      "display_price": "\u20b93.5 Cr",
       "price_value": 35000000,
-      "price_per_sqft": "₹5.83K/sq.ft",
-      "price_per_marla": "₹13.12 L / Marla"
+      "price_per_sqft": "\u20b95.83K/sq.ft",
+      "price_per_marla": "\u20b913.12 L / Marla"
     },
     "area": {
       "area_display": "6000 sq.ft",
@@ -9883,10 +9419,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.25 Cr",
+      "display_price": "\u20b91.25 Cr",
       "price_value": 12500000,
-      "price_per_sqft": "₹41.67K/sq.ft",
-      "price_per_marla": "₹93.98 L / Marla"
+      "price_per_sqft": "\u20b941.67K/sq.ft",
+      "price_per_marla": "\u20b993.98 L / Marla"
     },
     "area": {
       "area_display": "300 sq.ft",
@@ -9931,10 +9467,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹3.5 Cr",
+      "display_price": "\u20b93.5 Cr",
       "price_value": 35000000,
-      "price_per_sqft": "₹1.08K/sq.ft",
-      "price_per_marla": "₹2.43 L / Marla"
+      "price_per_sqft": "\u20b91.08K/sq.ft",
+      "price_per_marla": "\u20b92.43 L / Marla"
     },
     "area": {
       "area_display": "32400 sq.ft",
@@ -9978,10 +9514,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹22.0 Cr",
+      "display_price": "\u20b922.0 Cr",
       "price_value": 220000000,
-      "price_per_sqft": "₹4.53K/sq.ft",
-      "price_per_marla": "₹10.19 L / Marla"
+      "price_per_sqft": "\u20b94.53K/sq.ft",
+      "price_per_marla": "\u20b910.19 L / Marla"
     },
     "area": {
       "area_display": "48600 sq.ft",
@@ -10025,10 +9561,10 @@
     "type_of_property": "Commercial Plot / Land",
     "furnished_status": null,
     "price": {
-      "display_price": "₹20.0 L",
+      "display_price": "\u20b920.0 L",
       "price_value": 2000000,
-      "price_per_sqft": "₹40.0/sq.ft",
-      "price_per_marla": "₹9,000 / Marla"
+      "price_per_sqft": "\u20b940.0/sq.ft",
+      "price_per_marla": "\u20b99,000 / Marla"
     },
     "area": {
       "area_display": "50000 sq.ft",
@@ -10072,10 +9608,10 @@
     "type_of_property": "Commercial Shop / Retail",
     "furnished_status": null,
     "price": {
-      "display_price": "₹52.0 L",
+      "display_price": "\u20b952.0 L",
       "price_value": 5200000,
-      "price_per_sqft": "₹15.48K/sq.ft",
-      "price_per_marla": "₹34.90 L / Marla"
+      "price_per_sqft": "\u20b915.48K/sq.ft",
+      "price_per_marla": "\u20b934.90 L / Marla"
     },
     "area": {
       "area_display": "336 sq.ft",
@@ -10120,10 +9656,10 @@
     "type_of_property": "Commercial Office Space",
     "furnished_status": null,
     "price": {
-      "display_price": "₹50.0 L",
+      "display_price": "\u20b950.0 L",
       "price_value": 5000000,
-      "price_per_sqft": "₹454.55/sq.ft",
-      "price_per_marla": "₹1.02 L / Marla"
+      "price_per_sqft": "\u20b9454.55/sq.ft",
+      "price_per_marla": "\u20b91.02 L / Marla"
     },
     "area": {
       "area_display": "11000 sq.ft",
@@ -10168,10 +9704,10 @@
     "type_of_property": "Commercial Office Space",
     "furnished_status": null,
     "price": {
-      "display_price": "₹25.0 L",
+      "display_price": "\u20b925.0 L",
       "price_value": 2500000,
-      "price_per_sqft": "₹138.89/sq.ft",
-      "price_per_marla": "₹31,250 / Marla"
+      "price_per_sqft": "\u20b9138.89/sq.ft",
+      "price_per_marla": "\u20b931,250 / Marla"
     },
     "area": {
       "area_display": "18000 sq.ft",

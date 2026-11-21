@@ -6,10 +6,10 @@
     "type_of_property": "Builder Floor Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹12,000",
+      "display_price": "\u20b912,000",
       "price_value": 12000,
       "price_per_sqft": 8,
-      "price_per_marla": "₹2,703 / Marla",
+      "price_per_marla": "\u20b92,703 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -62,10 +62,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹35,000",
+      "display_price": "\u20b935,000",
       "price_value": 35000,
       "price_per_sqft": 44,
-      "price_per_marla": "₹9,831 / Marla",
+      "price_per_marla": "\u20b99,831 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -121,10 +121,10 @@
     "type_of_property": "Builder Floor Apartment",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹27,500",
+      "display_price": "\u20b927,500",
       "price_value": 27500,
       "price_per_sqft": 16,
-      "price_per_marla": "₹3,991 / Marla",
+      "price_per_marla": "\u20b93,991 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -182,10 +182,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹1.2 Lac",
+      "display_price": "\u20b91.2 Lac",
       "price_value": 120000,
       "price_per_sqft": 40,
-      "price_per_marla": "₹9,002 / Marla",
+      "price_per_marla": "\u20b99,002 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -240,10 +240,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹35,000",
+      "display_price": "\u20b935,000",
       "price_value": 35000,
       "price_per_sqft": 10,
-      "price_per_marla": "₹3,579 / Marla",
+      "price_per_marla": "\u20b93,579 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -296,10 +296,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
       "price_per_sqft": 12,
-      "price_per_marla": "₹2,814 / Marla",
+      "price_per_marla": "\u20b92,814 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -354,10 +354,10 @@
     "type_of_property": "Villa",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹60,000",
+      "display_price": "\u20b960,000",
       "price_value": 60000,
       "price_per_sqft": 46,
-      "price_per_marla": "₹10,381 / Marla",
+      "price_per_marla": "\u20b910,381 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -410,10 +410,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹27,000",
+      "display_price": "\u20b927,000",
       "price_value": 27000,
       "price_per_sqft": 14,
-      "price_per_marla": "₹3,037 / Marla",
+      "price_per_marla": "\u20b93,037 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -467,10 +467,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹18,000",
+      "display_price": "\u20b918,000",
       "price_value": 18000,
       "price_per_sqft": 11,
-      "price_per_marla": "₹2,532 / Marla",
+      "price_per_marla": "\u20b92,532 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -520,10 +520,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
       "price_per_sqft": 12,
-      "price_per_marla": "₹2,500 / Marla",
+      "price_per_marla": "\u20b92,500 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -572,10 +572,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹10,000",
+      "display_price": "\u20b910,000",
       "price_value": 10000,
       "price_per_sqft": 33,
-      "price_per_marla": "₹14,925 / Marla",
+      "price_per_marla": "\u20b914,925 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -624,10 +624,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹7,000",
+      "display_price": "\u20b97,000",
       "price_value": 7000,
       "price_per_sqft": 23,
-      "price_per_marla": "₹5,263 / Marla",
+      "price_per_marla": "\u20b95,263 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -677,10 +677,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹16,000",
+      "display_price": "\u20b916,000",
       "price_value": 16000,
       "price_per_sqft": null,
-      "price_per_marla": "₹3,002 / Marla",
+      "price_per_marla": "\u20b93,002 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Quarterly"
     },
@@ -732,10 +732,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹40,000",
+      "display_price": "\u20b940,000",
       "price_value": 40000,
       "price_per_sqft": 22,
-      "price_per_marla": "₹5,000 / Marla",
+      "price_per_marla": "\u20b95,000 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -787,10 +787,10 @@
     "type_of_property": "Builder Floor Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹20,000",
+      "display_price": "\u20b920,000",
       "price_value": 20000,
       "price_per_sqft": 10,
-      "price_per_marla": "₹2,250 / Marla",
+      "price_per_marla": "\u20b92,250 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -846,10 +846,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹12,000",
+      "display_price": "\u20b912,000",
       "price_value": 12000,
       "price_per_sqft": 7,
-      "price_per_marla": "₹1,799 / Marla",
+      "price_per_marla": "\u20b91,799 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -899,10 +899,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹13,000",
+      "display_price": "\u20b913,000",
       "price_value": 13000,
       "price_per_sqft": null,
-      "price_per_marla": "₹2,928 / Marla",
+      "price_per_marla": "\u20b92,928 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -951,10 +951,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹10,900",
+      "display_price": "\u20b910,900",
       "price_value": 10900,
       "price_per_sqft": 22,
-      "price_per_marla": "₹6,124 / Marla",
+      "price_per_marla": "\u20b96,124 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -1008,10 +1008,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
       "price_per_sqft": 39,
-      "price_per_marla": "₹8,876 / Marla",
+      "price_per_marla": "\u20b98,876 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -1060,10 +1060,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹17,000",
+      "display_price": "\u20b917,000",
       "price_value": 17000,
       "price_per_sqft": 14,
-      "price_per_marla": "₹3,189 / Marla",
+      "price_per_marla": "\u20b93,189 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -1112,10 +1112,10 @@
     "type_of_property": "Builder Floor Apartment",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹14,000",
+      "display_price": "\u20b914,000",
       "price_value": 14000,
       "price_per_sqft": 25,
-      "price_per_marla": "₹6,306 / Marla",
+      "price_per_marla": "\u20b96,306 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -1174,10 +1174,10 @@
     "type_of_property": "Builder Floor Apartment",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹32,000",
+      "display_price": "\u20b932,000",
       "price_value": 32000,
       "price_per_sqft": 14,
-      "price_per_marla": "₹4,501 / Marla",
+      "price_per_marla": "\u20b94,501 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -1230,10 +1230,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹10,000",
+      "display_price": "\u20b910,000",
       "price_value": 10000,
       "price_per_sqft": 22,
-      "price_per_marla": "₹5,348 / Marla",
+      "price_per_marla": "\u20b95,348 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -1286,10 +1286,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹19,500",
+      "display_price": "\u20b919,500",
       "price_value": 19500,
       "price_per_sqft": null,
-      "price_per_marla": "₹3,809 / Marla",
+      "price_per_marla": "\u20b93,809 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -1344,10 +1344,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹25,000",
+      "display_price": "\u20b925,000",
       "price_value": 25000,
       "price_per_sqft": 10,
-      "price_per_marla": "₹1,758 / Marla",
+      "price_per_marla": "\u20b91,758 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -1400,10 +1400,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹30,000",
+      "display_price": "\u20b930,000",
       "price_value": 30000,
       "price_per_sqft": 18,
-      "price_per_marla": "₹4,093 / Marla",
+      "price_per_marla": "\u20b94,093 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -1453,10 +1453,10 @@
     "type_of_property": "Builder Floor Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹60,000",
+      "display_price": "\u20b960,000",
       "price_value": 60000,
       "price_per_sqft": 20,
-      "price_per_marla": "₹4,501 / Marla",
+      "price_per_marla": "\u20b94,501 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -1510,10 +1510,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹12,000",
+      "display_price": "\u20b912,000",
       "price_value": 12000,
       "price_per_sqft": 0,
-      "price_per_marla": "₹22,642 / Marla",
+      "price_per_marla": "\u20b922,642 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -1562,10 +1562,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹60,000",
+      "display_price": "\u20b960,000",
       "price_value": 60000,
       "price_per_sqft": null,
-      "price_per_marla": "₹5,401 / Marla",
+      "price_per_marla": "\u20b95,401 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -1614,10 +1614,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹50,000",
+      "display_price": "\u20b950,000",
       "price_value": 50000,
       "price_per_sqft": 42,
-      "price_per_marla": "₹9,381 / Marla",
+      "price_per_marla": "\u20b99,381 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -1667,10 +1667,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹12,000",
+      "display_price": "\u20b912,000",
       "price_value": 12000,
       "price_per_sqft": 13,
-      "price_per_marla": "₹3,371 / Marla",
+      "price_per_marla": "\u20b93,371 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -1720,10 +1720,10 @@
     "type_of_property": "Builder Floor Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹11,000",
+      "display_price": "\u20b911,000",
       "price_value": 11000,
       "price_per_sqft": 10,
-      "price_per_marla": "₹5.50 L / Marla",
+      "price_per_marla": "\u20b95.50 L / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -1781,10 +1781,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹35,000",
+      "display_price": "\u20b935,000",
       "price_value": 35000,
       "price_per_sqft": 19,
-      "price_per_marla": "₹4,499 / Marla",
+      "price_per_marla": "\u20b94,499 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -1839,10 +1839,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
       "price_per_sqft": 0,
-      "price_per_marla": "₹1,250 / Marla",
+      "price_per_marla": "\u20b91,250 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -1891,10 +1891,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹45,000",
+      "display_price": "\u20b945,000",
       "price_value": 45000,
       "price_per_sqft": 12,
-      "price_per_marla": "₹2,812 / Marla",
+      "price_per_marla": "\u20b92,812 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -1944,10 +1944,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹25,000",
+      "display_price": "\u20b925,000",
       "price_value": 25000,
       "price_per_sqft": 19,
-      "price_per_marla": "₹4,690 / Marla",
+      "price_per_marla": "\u20b94,690 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -2000,10 +2000,10 @@
     "type_of_property": "Villa",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
       "price_per_sqft": 15,
-      "price_per_marla": "₹3,378 / Marla",
+      "price_per_marla": "\u20b93,378 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -2056,10 +2056,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹12,000",
+      "display_price": "\u20b912,000",
       "price_value": 12000,
       "price_per_sqft": 11,
-      "price_per_marla": "₹2,454 / Marla",
+      "price_per_marla": "\u20b92,454 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -2108,10 +2108,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹14,000",
+      "display_price": "\u20b914,000",
       "price_value": 14000,
       "price_per_sqft": 9,
-      "price_per_marla": "₹1,969 / Marla",
+      "price_per_marla": "\u20b91,969 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -2160,10 +2160,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹7,500",
+      "display_price": "\u20b97,500",
       "price_value": 7500,
       "price_per_sqft": 19,
-      "price_per_marla": "₹4,213 / Marla",
+      "price_per_marla": "\u20b94,213 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -2206,69 +2206,16 @@
     "status": "Immediately"
   },
   {
-    "property_id": "85738833",
-    "url": "https://www.magicbricks.com/propertyDetails/5-BHK-5800-Sq-ft-Villa-FOR-Rent-Vijaypur-in-Jammu&id=4d423835373338383333",
-    "title": "5BHK Villa for Rent in Vijaypur",
-    "type_of_property": "Villa",
-    "furnished_status": "Furnished",
-    "price": {
-      "display_price": "₹80,000",
-      "price_value": 80000,
-      "price_per_sqft": 14,
-      "price_per_marla": "₹3,673 / Marla",
-      "security_deposit": null,
-      "maintenance_charges": "Monthly"
-    },
-    "area": {
-      "area_display": "4900 sqft",
-      "area_sqft": 4900.0,
-      "area_type": "Carpet Area",
-      "area_in_marla": "21.78 Marla"
-    },
-    "address": {
-      "full_address": "Barian near aiims jammu., Vijaypur, Jammu, Jammu & Kashmir",
-      "locality": "Vijaypur",
-      "city": "Jammu",
-      "coordinates": null
-    },
-    "configuration": {
-      "bedrooms": 5,
-      "bathrooms": 4,
-      "balconies": 1,
-      "additional_rooms": "Puja Room,Store",
-      "summary": "5 BHK / Bedrooms, 4 Bathrooms, 1 Balconies, Additional: Puja Room,Store"
-    },
-    "property_ownership": null,
-    "floors": null,
-    "property_age": "Less than 5 years",
-    "highlights": [
-      "Facing: Garden/Park",
-      "Tenant Preference: Bachelors/Family",
-      "Transaction: Rent"
-    ],
-    "key_highlights": [
-      "Villa",
-      "Immediately",
-      "Furnished",
-      "21.78 Marla (4900 sqft)"
-    ],
-    "amenities": [],
-    "furnished_components": [
-      "Furnished with essential fixtures & furniture"
-    ],
-    "status": "Immediately"
-  },
-  {
     "property_id": "86791881",
     "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1300-Sq-ft-Multistorey-Apartment-FOR-Rent-Sanjwan-Road-in-Jammu&id=4d423836373931383831",
     "title": "2BHK Multistorey Apartment for Rent in Sanjwan Road",
     "type_of_property": "Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹25,000",
+      "display_price": "\u20b925,000",
       "price_value": 25000,
       "price_per_sqft": 19,
-      "price_per_marla": "₹4,690 / Marla",
+      "price_per_marla": "\u20b94,690 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -2319,10 +2266,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹30,000",
+      "display_price": "\u20b930,000",
       "price_value": 30000,
       "price_per_sqft": 11,
-      "price_per_marla": "₹4,219 / Marla",
+      "price_per_marla": "\u20b94,219 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Yearly"
     },
@@ -2371,10 +2318,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
       "price_per_sqft": 50,
-      "price_per_marla": "₹11,278 / Marla",
+      "price_per_marla": "\u20b911,278 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -2431,10 +2378,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹30,000",
+      "display_price": "\u20b930,000",
       "price_value": 30000,
       "price_per_sqft": 21,
-      "price_per_marla": "₹5,629 / Marla",
+      "price_per_marla": "\u20b95,629 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -2484,10 +2431,10 @@
     "type_of_property": "Builder Floor Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹25,000",
+      "display_price": "\u20b925,000",
       "price_value": 25000,
       "price_per_sqft": 15,
-      "price_per_marla": "₹3,307 / Marla",
+      "price_per_marla": "\u20b93,307 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -2540,10 +2487,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹30,000",
+      "display_price": "\u20b930,000",
       "price_value": 30000,
       "price_per_sqft": 30,
-      "price_per_marla": "₹6,757 / Marla",
+      "price_per_marla": "\u20b96,757 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -2593,10 +2540,10 @@
     "type_of_property": "Builder Floor Apartment",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹35,000",
+      "display_price": "\u20b935,000",
       "price_value": 35000,
       "price_per_sqft": 19,
-      "price_per_marla": "₹4,375 / Marla",
+      "price_per_marla": "\u20b94,375 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -2646,10 +2593,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹7,000",
+      "display_price": "\u20b97,000",
       "price_value": 7000,
       "price_per_sqft": 12,
-      "price_per_marla": "₹5,263 / Marla",
+      "price_per_marla": "\u20b95,263 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -2698,10 +2645,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹8,000",
+      "display_price": "\u20b98,000",
       "price_value": 8000,
       "price_per_sqft": 16,
-      "price_per_marla": "₹4,494 / Marla",
+      "price_per_marla": "\u20b94,494 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -2755,10 +2702,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹18,000",
+      "display_price": "\u20b918,000",
       "price_value": 18000,
       "price_per_sqft": 9,
-      "price_per_marla": "₹2,025 / Marla",
+      "price_per_marla": "\u20b92,025 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -2808,10 +2755,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹40,000",
+      "display_price": "\u20b940,000",
       "price_value": 40000,
       "price_per_sqft": 23,
-      "price_per_marla": "₹5,141 / Marla",
+      "price_per_marla": "\u20b95,141 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -2861,10 +2808,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹12,000",
+      "display_price": "\u20b912,000",
       "price_value": 12000,
       "price_per_sqft": 6,
-      "price_per_marla": "₹1,350 / Marla",
+      "price_per_marla": "\u20b91,350 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -2913,10 +2860,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹9,500",
+      "display_price": "\u20b99,500",
       "price_value": 9500,
       "price_per_sqft": 32,
-      "price_per_marla": "₹7,143 / Marla",
+      "price_per_marla": "\u20b97,143 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -2965,10 +2912,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹18,000",
+      "display_price": "\u20b918,000",
       "price_value": 18000,
       "price_per_sqft": 22,
-      "price_per_marla": "₹5,056 / Marla",
+      "price_per_marla": "\u20b95,056 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -3019,10 +2966,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹8,000",
+      "display_price": "\u20b98,000",
       "price_value": 8000,
       "price_per_sqft": 4,
-      "price_per_marla": "₹900 / Marla",
+      "price_per_marla": "\u20b9900 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -3075,10 +3022,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹70,000",
+      "display_price": "\u20b970,000",
       "price_value": 70000,
       "price_per_sqft": null,
-      "price_per_marla": "₹5,251 / Marla",
+      "price_per_marla": "\u20b95,251 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Yearly"
     },
@@ -3127,10 +3074,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹10,999",
+      "display_price": "\u20b910,999",
       "price_value": 10999,
       "price_per_sqft": 9,
-      "price_per_marla": "₹2,064 / Marla",
+      "price_per_marla": "\u20b92,064 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -3184,10 +3131,10 @@
     "type_of_property": "Villa",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹24,000",
+      "display_price": "\u20b924,000",
       "price_value": 24000,
       "price_per_sqft": 8,
-      "price_per_marla": "₹2,700 / Marla",
+      "price_per_marla": "\u20b92,700 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -3242,10 +3189,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹12,000",
+      "display_price": "\u20b912,000",
       "price_value": 12000,
       "price_per_sqft": 7,
-      "price_per_marla": "₹1,688 / Marla",
+      "price_per_marla": "\u20b91,688 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -3295,10 +3242,10 @@
     "type_of_property": "Builder Floor Apartment",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹9,000",
+      "display_price": "\u20b99,000",
       "price_value": 9000,
       "price_per_sqft": 9,
-      "price_per_marla": "₹3,371 / Marla",
+      "price_per_marla": "\u20b93,371 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -3349,10 +3296,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹1.2 Lac",
+      "display_price": "\u20b91.2 Lac",
       "price_value": 120000,
       "price_per_sqft": 120,
-      "price_per_marla": "₹27,027 / Marla",
+      "price_per_marla": "\u20b927,027 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -3396,70 +3343,16 @@
     "status": "Immediately"
   },
   {
-    "property_id": "86302905",
-    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-3-Marla-Multistorey-Apartment-FOR-Rent-Vijaypur-in-Jammu&id=4d423836333032393035",
-    "title": "2BHK Multistorey Apartment for Rent in Vijaypur",
-    "type_of_property": "Apartment",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹10,500",
-      "price_value": 10500,
-      "price_per_sqft": 13,
-      "price_per_marla": "₹10.50 L / Marla",
-      "security_deposit": null,
-      "maintenance_charges": null
-    },
-    "area": {
-      "area_display": "3 sqft",
-      "area_sqft": 3.0,
-      "area_type": "Covered Area",
-      "area_in_marla": "0.01 Marla"
-    },
-    "address": {
-      "full_address": "Vijaypur, Jammu, Vijaypur, Jammu, Jammu & Kashmir",
-      "locality": "Vijaypur",
-      "city": "Jammu",
-      "coordinates": null
-    },
-    "configuration": {
-      "bedrooms": 2,
-      "bathrooms": 1,
-      "balconies": 2,
-      "additional_rooms": "Store",
-      "summary": "2 BHK / Bedrooms, 1 Bathrooms, 2 Balconies, Additional: Store"
-    },
-    "property_ownership": null,
-    "floors": "1 out of 1",
-    "property_age": "New Construction",
-    "highlights": [
-      "Facing: Main Road, Garden/Park",
-      "Tenant Preference: Bachelors/Family",
-      "Transaction: Rent"
-    ],
-    "key_highlights": [
-      "Apartment",
-      "Immediately",
-      "Unfurnished",
-      "1 out of 1",
-      "0.01 Marla (3 sqft)"
-    ],
-    "amenities": [],
-    "furnished_components": [
-      "Unfurnished (no furniture/appliances provided)"
-    ],
-    "status": "Immediately"
-  },
-  {
     "property_id": "84229059",
     "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1300-Sq-ft-Residential-House-FOR-Rent-Bantalab-Road-in-Jammu&id=4d423834323239303539",
     "title": "3BHK Residential House for Rent in Bantalab Road",
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹13,000",
+      "display_price": "\u20b913,000",
       "price_value": 13000,
       "price_per_sqft": null,
-      "price_per_marla": "₹2,249 / Marla",
+      "price_per_marla": "\u20b92,249 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -3502,69 +3395,16 @@
     "status": "Immediately"
   },
   {
-    "property_id": "81428911",
-    "url": "https://www.magicbricks.com/propertyDetails/1-BHK-824-Sq-ft-Builder-Floor-Apartment-FOR-Rent-Kunjwani-in-Jammu&id=4d423831343238393131",
-    "title": "1BHK Builder Floor Apartment for Rent in Kunjwani",
-    "type_of_property": "Builder Floor Apartment",
-    "furnished_status": "Semi-Furnished",
-    "price": {
-      "display_price": "₹8,000",
-      "price_value": 8000,
-      "price_per_sqft": 10,
-      "price_per_marla": "₹8,989 / Marla",
-      "security_deposit": null,
-      "maintenance_charges": "Quarterly"
-    },
-    "area": {
-      "area_display": "200 sqft",
-      "area_sqft": 200.0,
-      "area_type": "Carpet Area",
-      "area_in_marla": "0.89 Marla"
-    },
-    "address": {
-      "full_address": "Baba farid nagar ,Lupin Factories, Bari Brahmana, Jammu, 181132, Kunjwani, Jammu, Jammu & Kashmir",
-      "locality": "Kunjwani",
-      "city": "Jammu",
-      "coordinates": null
-    },
-    "configuration": {
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "balconies": null,
-      "additional_rooms": null,
-      "summary": "1 BHK / Bedrooms, 1 Bathrooms"
-    },
-    "property_ownership": null,
-    "floors": "1 out of 1",
-    "property_age": "Less than 5 years",
-    "highlights": [
-      "Tenant Preference: Bachelors/Family",
-      "Transaction: Rent"
-    ],
-    "key_highlights": [
-      "Builder Floor Apartment",
-      "Immediately",
-      "Semi-Furnished",
-      "1 out of 1",
-      "0.89 Marla (200 sqft)"
-    ],
-    "amenities": [],
-    "furnished_components": [
-      "Semi-Furnished (fixtures / woodwork included)"
-    ],
-    "status": "Immediately"
-  },
-  {
     "property_id": "61953305",
     "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1200-Sq-ft-Residential-House-FOR-Rent-Lower-Shiv-Nagar-in-Jammu&id=4d423631393533333035",
     "title": "3BHK Residential House for Rent in Lower Shiv Nagar",
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹16,000",
+      "display_price": "\u20b916,000",
       "price_value": 16000,
       "price_per_sqft": 13,
-      "price_per_marla": "₹3,002 / Marla",
+      "price_per_marla": "\u20b93,002 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -3614,10 +3454,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹10,000",
+      "display_price": "\u20b910,000",
       "price_value": 10000,
       "price_per_sqft": null,
-      "price_per_marla": "₹18,868 / Marla",
+      "price_per_marla": "\u20b918,868 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -3669,10 +3509,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹12,000",
+      "display_price": "\u20b912,000",
       "price_value": 12000,
       "price_per_sqft": 15,
-      "price_per_marla": "₹3,371 / Marla",
+      "price_per_marla": "\u20b93,371 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -3721,10 +3561,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹14,000",
+      "display_price": "\u20b914,000",
       "price_value": 14000,
       "price_per_sqft": 7,
-      "price_per_marla": "₹1,969 / Marla",
+      "price_per_marla": "\u20b91,969 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -3773,10 +3613,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹40,000",
+      "display_price": "\u20b940,000",
       "price_value": 40000,
       "price_per_sqft": 20,
-      "price_per_marla": "₹4,499 / Marla",
+      "price_per_marla": "\u20b94,499 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -3826,10 +3666,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹10,000",
+      "display_price": "\u20b910,000",
       "price_value": 10000,
       "price_per_sqft": 20,
-      "price_per_marla": "₹4,505 / Marla",
+      "price_per_marla": "\u20b94,505 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -3882,10 +3722,10 @@
     "type_of_property": "Builder Floor Apartment",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹35,000",
+      "display_price": "\u20b935,000",
       "price_value": 35000,
       "price_per_sqft": 18,
-      "price_per_marla": "₹3,937 / Marla",
+      "price_per_marla": "\u20b93,937 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -3936,10 +3776,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹45,000",
+      "display_price": "\u20b945,000",
       "price_value": 45000,
       "price_per_sqft": 11,
-      "price_per_marla": "₹2,531 / Marla",
+      "price_per_marla": "\u20b92,531 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -3989,10 +3829,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
       "price_per_sqft": 12,
-      "price_per_marla": "₹2,814 / Marla",
+      "price_per_marla": "\u20b92,814 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -4041,10 +3881,10 @@
     "type_of_property": "Builder Floor Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹70,000",
+      "display_price": "\u20b970,000",
       "price_value": 70000,
       "price_per_sqft": 20,
-      "price_per_marla": "₹4,499 / Marla",
+      "price_per_marla": "\u20b94,499 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -4097,10 +3937,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹19,000",
+      "display_price": "\u20b919,000",
       "price_value": 19000,
       "price_per_sqft": 9,
-      "price_per_marla": "₹4.75 L / Marla",
+      "price_per_marla": "\u20b94.75 L / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -4150,10 +3990,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
       "price_per_sqft": 10,
-      "price_per_marla": "₹2,249 / Marla",
+      "price_per_marla": "\u20b92,249 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -4202,10 +4042,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
       "price_per_sqft": null,
-      "price_per_marla": "₹2,249 / Marla",
+      "price_per_marla": "\u20b92,249 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -4261,10 +4101,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹10,000",
+      "display_price": "\u20b910,000",
       "price_value": 10000,
       "price_per_sqft": 12,
-      "price_per_marla": "₹2,809 / Marla",
+      "price_per_marla": "\u20b92,809 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -4314,10 +4154,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹30,000",
+      "display_price": "\u20b930,000",
       "price_value": 30000,
       "price_per_sqft": 19,
-      "price_per_marla": "₹4,219 / Marla",
+      "price_per_marla": "\u20b94,219 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -4367,10 +4207,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹31,999",
+      "display_price": "\u20b931,999",
       "price_value": 31999,
       "price_per_sqft": 17,
-      "price_per_marla": "₹4,045 / Marla",
+      "price_per_marla": "\u20b94,045 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -4436,10 +4276,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹25,000",
+      "display_price": "\u20b925,000",
       "price_value": 25000,
       "price_per_sqft": 14,
-      "price_per_marla": "₹3,307 / Marla",
+      "price_per_marla": "\u20b93,307 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -4493,10 +4333,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹23,000",
+      "display_price": "\u20b923,000",
       "price_value": 23000,
       "price_per_sqft": 13,
-      "price_per_marla": "₹2,875 / Marla",
+      "price_per_marla": "\u20b92,875 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -4545,10 +4385,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹12,000",
+      "display_price": "\u20b912,000",
       "price_value": 12000,
       "price_per_sqft": 6,
-      "price_per_marla": "₹1,350 / Marla",
+      "price_per_marla": "\u20b91,350 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -4600,10 +4440,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹50,000",
+      "display_price": "\u20b950,000",
       "price_value": 50000,
       "price_per_sqft": 12,
-      "price_per_marla": "₹2,812 / Marla",
+      "price_per_marla": "\u20b92,812 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -4653,10 +4493,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹25,000",
+      "display_price": "\u20b925,000",
       "price_value": 25000,
       "price_per_sqft": null,
-      "price_per_marla": "₹2,812 / Marla",
+      "price_per_marla": "\u20b92,812 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -4706,10 +4546,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹25,000",
+      "display_price": "\u20b925,000",
       "price_value": 25000,
       "price_per_sqft": 17,
-      "price_per_marla": "₹3,748 / Marla",
+      "price_per_marla": "\u20b93,748 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -4761,10 +4601,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹19,000",
+      "display_price": "\u20b919,000",
       "price_value": 19000,
       "price_per_sqft": 21,
-      "price_per_marla": "₹4,750 / Marla",
+      "price_per_marla": "\u20b94,750 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -4813,10 +4653,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹18,000",
+      "display_price": "\u20b918,000",
       "price_value": 18000,
       "price_per_sqft": null,
-      "price_per_marla": "₹2,894 / Marla",
+      "price_per_marla": "\u20b92,894 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -4868,10 +4708,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹33,000",
+      "display_price": "\u20b933,000",
       "price_value": 33000,
       "price_per_sqft": 13,
-      "price_per_marla": "₹2,970 / Marla",
+      "price_per_marla": "\u20b92,970 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -4923,10 +4763,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹7,500",
+      "display_price": "\u20b97,500",
       "price_value": 7500,
       "price_per_sqft": 34,
-      "price_per_marla": "₹9,375 / Marla",
+      "price_per_marla": "\u20b99,375 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -4976,10 +4816,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹5,500",
+      "display_price": "\u20b95,500",
       "price_value": 5500,
       "price_per_sqft": null,
-      "price_per_marla": "₹5,612 / Marla",
+      "price_per_marla": "\u20b95,612 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -5028,10 +4868,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹9,000",
+      "display_price": "\u20b99,000",
       "price_value": 9000,
       "price_per_sqft": 12,
-      "price_per_marla": "₹2,703 / Marla",
+      "price_per_marla": "\u20b92,703 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -5081,10 +4921,10 @@
     "type_of_property": "Villa",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹45,000",
+      "display_price": "\u20b945,000",
       "price_value": 45000,
       "price_per_sqft": 22,
-      "price_per_marla": "₹5,062 / Marla",
+      "price_per_marla": "\u20b95,062 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -5136,10 +4976,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹16,000",
+      "display_price": "\u20b916,000",
       "price_value": 16000,
       "price_per_sqft": 8,
-      "price_per_marla": "₹2,000 / Marla",
+      "price_per_marla": "\u20b92,000 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -5195,10 +5035,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹5,500",
+      "display_price": "\u20b95,500",
       "price_value": 5500,
       "price_per_sqft": 10,
-      "price_per_marla": "₹2,254 / Marla",
+      "price_per_marla": "\u20b92,254 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -5248,10 +5088,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹10,000",
+      "display_price": "\u20b910,000",
       "price_value": 10000,
       "price_per_sqft": 250,
-      "price_per_marla": "₹55,556 / Marla",
+      "price_per_marla": "\u20b955,556 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -5305,10 +5145,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
       "price_per_sqft": 15,
-      "price_per_marla": "₹3,378 / Marla",
+      "price_per_marla": "\u20b93,378 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -5358,10 +5198,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹12,500",
+      "display_price": "\u20b912,500",
       "price_value": 12500,
       "price_per_sqft": 18,
-      "price_per_marla": "₹4,019 / Marla",
+      "price_per_marla": "\u20b94,019 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -5411,10 +5251,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹30,000",
+      "display_price": "\u20b930,000",
       "price_value": 30000,
       "price_per_sqft": 20,
-      "price_per_marla": "₹4,498 / Marla",
+      "price_per_marla": "\u20b94,498 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -5463,10 +5303,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹22,000",
+      "display_price": "\u20b922,000",
       "price_value": 22000,
       "price_per_sqft": 22,
-      "price_per_marla": "₹4,955 / Marla",
+      "price_per_marla": "\u20b94,955 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -5520,10 +5360,10 @@
     "type_of_property": "Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹25,000",
+      "display_price": "\u20b925,000",
       "price_value": 25000,
       "price_per_sqft": 17,
-      "price_per_marla": "₹3,748 / Marla",
+      "price_per_marla": "\u20b93,748 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -5572,10 +5412,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹21,000",
+      "display_price": "\u20b921,000",
       "price_value": 21000,
       "price_per_sqft": 11,
-      "price_per_marla": "₹7.00 L / Marla",
+      "price_per_marla": "\u20b97.00 L / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -5625,10 +5465,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹21,000",
+      "display_price": "\u20b921,000",
       "price_value": 21000,
       "price_per_sqft": 12,
-      "price_per_marla": "₹3,940 / Marla",
+      "price_per_marla": "\u20b93,940 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -5687,10 +5527,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹5,000",
+      "display_price": "\u20b95,000",
       "price_value": 5000,
       "price_per_sqft": 20,
-      "price_per_marla": "₹4,505 / Marla",
+      "price_per_marla": "\u20b94,505 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -5742,10 +5582,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹10,000",
+      "display_price": "\u20b910,000",
       "price_value": 10000,
       "price_per_sqft": 33,
-      "price_per_marla": "₹7,519 / Marla",
+      "price_per_marla": "\u20b97,519 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -5797,10 +5637,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹10,000",
+      "display_price": "\u20b910,000",
       "price_value": 10000,
       "price_per_sqft": 26,
-      "price_per_marla": "₹6,410 / Marla",
+      "price_per_marla": "\u20b96,410 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -5849,10 +5689,10 @@
     "type_of_property": "Builder Floor Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
       "price_per_sqft": 21,
-      "price_per_marla": "₹4,823 / Marla",
+      "price_per_marla": "\u20b94,823 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -5902,10 +5742,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹5,500",
+      "display_price": "\u20b95,500",
       "price_value": 5500,
       "price_per_sqft": 10,
-      "price_per_marla": "₹2,254 / Marla",
+      "price_per_marla": "\u20b92,254 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -5954,10 +5794,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹8,500",
+      "display_price": "\u20b98,500",
       "price_value": 8500,
       "price_per_sqft": 8,
-      "price_per_marla": "₹1,950 / Marla",
+      "price_per_marla": "\u20b91,950 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -6006,10 +5846,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹17,000",
+      "display_price": "\u20b917,000",
       "price_value": 17000,
       "price_per_sqft": 19,
-      "price_per_marla": "₹4,250 / Marla",
+      "price_per_marla": "\u20b94,250 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -6061,10 +5901,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹9,500",
+      "display_price": "\u20b99,500",
       "price_value": 9500,
       "price_per_sqft": null,
-      "price_per_marla": "₹594 / Marla",
+      "price_per_marla": "\u20b9594 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -6113,10 +5953,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹18,000",
+      "display_price": "\u20b918,000",
       "price_value": 18000,
       "price_per_sqft": 9,
-      "price_per_marla": "₹2,532 / Marla",
+      "price_per_marla": "\u20b92,532 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -6166,10 +6006,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹6,000",
+      "display_price": "\u20b96,000",
       "price_value": 6000,
       "price_per_sqft": 17,
-      "price_per_marla": "₹1,929 / Marla",
+      "price_per_marla": "\u20b91,929 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -6218,10 +6058,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹8,000",
+      "display_price": "\u20b98,000",
       "price_value": 8000,
       "price_per_sqft": 6,
-      "price_per_marla": "₹1,264 / Marla",
+      "price_per_marla": "\u20b91,264 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -6273,10 +6113,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹14,000",
+      "display_price": "\u20b914,000",
       "price_value": 14000,
       "price_per_sqft": 6,
-      "price_per_marla": "₹2,251 / Marla",
+      "price_per_marla": "\u20b92,251 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -6328,10 +6168,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹10,000",
+      "display_price": "\u20b910,000",
       "price_value": 10000,
       "price_per_sqft": 6,
-      "price_per_marla": "₹1,250 / Marla",
+      "price_per_marla": "\u20b91,250 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -6386,10 +6226,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
       "price_per_sqft": 8,
-      "price_per_marla": "₹2,110 / Marla",
+      "price_per_marla": "\u20b92,110 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Quarterly"
     },
@@ -6444,10 +6284,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹16,000",
+      "display_price": "\u20b916,000",
       "price_value": 16000,
       "price_per_sqft": 12,
-      "price_per_marla": "₹2,768 / Marla",
+      "price_per_marla": "\u20b92,768 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -6496,10 +6336,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹20,000",
+      "display_price": "\u20b920,000",
       "price_value": 20000,
       "price_per_sqft": 13,
-      "price_per_marla": "₹2,999 / Marla",
+      "price_per_marla": "\u20b92,999 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -6551,10 +6391,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
       "price_per_sqft": 21,
-      "price_per_marla": "₹6,148 / Marla",
+      "price_per_marla": "\u20b96,148 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -6606,10 +6446,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹25,000",
+      "display_price": "\u20b925,000",
       "price_value": 25000,
       "price_per_sqft": 17,
-      "price_per_marla": "₹6.25 L / Marla",
+      "price_per_marla": "\u20b96.25 L / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -6665,10 +6505,10 @@
     "type_of_property": "Builder Floor Apartment",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹8,000",
+      "display_price": "\u20b98,000",
       "price_value": 8000,
       "price_per_sqft": 8,
-      "price_per_marla": "₹1,802 / Marla",
+      "price_per_marla": "\u20b91,802 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -6718,10 +6558,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹22,000",
+      "display_price": "\u20b922,000",
       "price_value": 22000,
       "price_per_sqft": 44,
-      "price_per_marla": "₹9,910 / Marla",
+      "price_per_marla": "\u20b99,910 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -6778,7 +6618,7 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹9,000",
+      "display_price": "\u20b99,000",
       "price_value": 9000,
       "price_per_sqft": 9000,
       "price_per_marla": null,
@@ -6833,10 +6673,10 @@
     "type_of_property": "Builder Floor Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹29,000",
+      "display_price": "\u20b929,000",
       "price_value": 29000,
       "price_per_sqft": 14,
-      "price_per_marla": "₹3,262 / Marla",
+      "price_per_marla": "\u20b93,262 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -6887,10 +6727,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹5,000",
+      "display_price": "\u20b95,000",
       "price_value": 5000,
       "price_per_sqft": null,
-      "price_per_marla": "₹5,618 / Marla",
+      "price_per_marla": "\u20b95,618 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -6934,78 +6774,16 @@
     "status": "Immediately"
   },
   {
-    "property_id": "86216205",
-    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-2200-Sq-ft-Residential-House-FOR-Rent-Bari-Brahmana-in-Jammu&id=4d423836323136323035",
-    "title": "2BHK Residential House for Rent in Bari Brahmana",
-    "type_of_property": "Residential House",
-    "furnished_status": "Semi-Furnished",
-    "price": {
-      "display_price": "₹13,000",
-      "price_value": 13000,
-      "price_per_sqft": 6,
-      "price_per_marla": "₹1,329 / Marla",
-      "security_deposit": null,
-      "maintenance_charges": "Monthly"
-    },
-    "area": {
-      "area_display": "2200 sqft",
-      "area_sqft": 2200.0,
-      "area_type": "Covered Area",
-      "area_in_marla": "9.78 Marla"
-    },
-    "address": {
-      "full_address": "Sheela Shobha Niwas Near Palli Morh, Bari Brahmana, Jammu, Jammu & Kashmir",
-      "locality": "Bari Brahmana",
-      "city": "Jammu",
-      "coordinates": {
-        "latitude": 32.63717269897461,
-        "longitude": 74.9137954711914
-      }
-    },
-    "configuration": {
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "balconies": 2,
-      "additional_rooms": null,
-      "summary": "2 BHK / Bedrooms, 2 Bathrooms, 2 Balconies"
-    },
-    "property_ownership": null,
-    "floors": null,
-    "property_age": "New Construction",
-    "highlights": [
-      "Facing: Garden/Park, Pool, Main Road",
-      "Tenant Preference: Bachelors/Family",
-      "Transaction: Rent"
-    ],
-    "key_highlights": [
-      "Residential House",
-      "Immediately",
-      "Semi-Furnished",
-      "9.78 Marla (2200 sqft)"
-    ],
-    "amenities": [
-      "Town House",
-      "Jogging and Strolling Track",
-      "Visitor Parking",
-      "Swimming Pool"
-    ],
-    "furnished_components": [
-      "Wardrobe",
-      "Bed"
-    ],
-    "status": "Immediately"
-  },
-  {
     "property_id": "86913381",
     "url": "https://www.magicbricks.com/propertyDetails/1-BHK-1200-Sq-ft-Multistorey-Apartment-FOR-Rent-Talab-Tillo-in-Jammu&id=4d423836393133333831",
     "title": "1BHK Multistorey Apartment for Rent in Talab Tillo",
     "type_of_property": "Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹9,000",
+      "display_price": "\u20b99,000",
       "price_value": 9000,
       "price_per_sqft": 8,
-      "price_per_marla": "₹3,333 / Marla",
+      "price_per_marla": "\u20b93,333 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -7057,10 +6835,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹8,500",
+      "display_price": "\u20b98,500",
       "price_value": 8500,
       "price_per_sqft": 8,
-      "price_per_marla": "₹1,914 / Marla",
+      "price_per_marla": "\u20b91,914 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -7112,10 +6890,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹14,000",
+      "display_price": "\u20b914,000",
       "price_value": 14000,
       "price_per_sqft": 14,
-      "price_per_marla": "₹3,153 / Marla",
+      "price_per_marla": "\u20b93,153 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -7167,10 +6945,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹10,000",
+      "display_price": "\u20b910,000",
       "price_value": 10000,
       "price_per_sqft": 14,
-      "price_per_marla": "₹3,215 / Marla",
+      "price_per_marla": "\u20b93,215 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -7224,10 +7002,10 @@
     "type_of_property": "Apartment",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹6,000",
+      "display_price": "\u20b96,000",
       "price_value": 6000,
       "price_per_sqft": 21,
-      "price_per_marla": "₹4,511 / Marla",
+      "price_per_marla": "\u20b94,511 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Quarterly"
     },
@@ -7279,10 +7057,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹9,000",
+      "display_price": "\u20b99,000",
       "price_value": 9000,
       "price_per_sqft": 12,
-      "price_per_marla": "₹3,114 / Marla",
+      "price_per_marla": "\u20b93,114 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -7331,10 +7109,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹11,500",
+      "display_price": "\u20b911,500",
       "price_value": 11500,
       "price_per_sqft": 9,
-      "price_per_marla": "₹1,990 / Marla",
+      "price_per_marla": "\u20b91,990 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -7388,10 +7166,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
       "price_per_sqft": null,
-      "price_per_marla": "₹4,823 / Marla",
+      "price_per_marla": "\u20b94,823 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -7442,10 +7220,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹25,000",
+      "display_price": "\u20b925,000",
       "price_value": 25000,
       "price_per_sqft": 17,
-      "price_per_marla": "₹4,019 / Marla",
+      "price_per_marla": "\u20b94,019 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -7498,10 +7276,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
       "price_per_sqft": 7,
-      "price_per_marla": "₹1,984 / Marla",
+      "price_per_marla": "\u20b91,984 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -7553,10 +7331,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹20,000",
+      "display_price": "\u20b920,000",
       "price_value": 20000,
       "price_per_sqft": 13,
-      "price_per_marla": "₹2,999 / Marla",
+      "price_per_marla": "\u20b92,999 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -7610,10 +7388,10 @@
     "type_of_property": "Builder Floor Apartment",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹30,000",
+      "display_price": "\u20b930,000",
       "price_value": 30000,
       "price_per_sqft": 33,
-      "price_per_marla": "₹7,937 / Marla",
+      "price_per_marla": "\u20b97,937 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -7666,10 +7444,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹17,500",
+      "display_price": "\u20b917,500",
       "price_value": 17500,
       "price_per_sqft": 23,
-      "price_per_marla": "₹6,554 / Marla",
+      "price_per_marla": "\u20b96,554 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -7728,10 +7506,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹10,000",
+      "display_price": "\u20b910,000",
       "price_value": 10000,
       "price_per_sqft": 10,
-      "price_per_marla": "₹2,500 / Marla",
+      "price_per_marla": "\u20b92,500 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -7780,10 +7558,10 @@
     "type_of_property": "Builder Floor Apartment",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹14,000",
+      "display_price": "\u20b914,000",
       "price_value": 14000,
       "price_per_sqft": 20,
-      "price_per_marla": "₹4,502 / Marla",
+      "price_per_marla": "\u20b94,502 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -7833,10 +7611,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
       "price_per_sqft": 23,
-      "price_per_marla": "₹5,190 / Marla",
+      "price_per_marla": "\u20b95,190 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -7885,10 +7663,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹4,000",
+      "display_price": "\u20b94,000",
       "price_value": 4000,
       "price_per_sqft": 8,
-      "price_per_marla": "₹1,802 / Marla",
+      "price_per_marla": "\u20b91,802 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -7938,10 +7716,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹22,000",
+      "display_price": "\u20b922,000",
       "price_value": 22000,
       "price_per_sqft": 14,
-      "price_per_marla": "₹3,094 / Marla",
+      "price_per_marla": "\u20b93,094 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -7990,10 +7768,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹7,000",
+      "display_price": "\u20b97,000",
       "price_value": 7000,
       "price_per_sqft": 12,
-      "price_per_marla": "₹2,622 / Marla",
+      "price_per_marla": "\u20b92,622 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -8043,10 +7821,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹12,000",
+      "display_price": "\u20b912,000",
       "price_value": 12000,
       "price_per_sqft": 13,
-      "price_per_marla": "₹3,000 / Marla",
+      "price_per_marla": "\u20b93,000 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -8096,10 +7874,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹16,000",
+      "display_price": "\u20b916,000",
       "price_value": 16000,
       "price_per_sqft": 13,
-      "price_per_marla": "₹3,002 / Marla",
+      "price_per_marla": "\u20b93,002 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -8149,10 +7927,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹18,000",
+      "display_price": "\u20b918,000",
       "price_value": 18000,
       "price_per_sqft": 15,
-      "price_per_marla": "₹3,377 / Marla",
+      "price_per_marla": "\u20b93,377 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -8201,10 +7979,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹20,000",
+      "display_price": "\u20b920,000",
       "price_value": 20000,
       "price_per_sqft": 8,
-      "price_per_marla": "₹2,500 / Marla",
+      "price_per_marla": "\u20b92,500 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -8257,7 +8035,7 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹Call for Price",
+      "display_price": "\u20b9Call for Price",
       "price_value": null,
       "price_per_sqft": null,
       "price_per_marla": null,
@@ -8303,67 +8081,16 @@
     "status": "Immediately"
   },
   {
-    "property_id": "83624973",
-    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-Residential-House-FOR-Rent-Bari-Brahmana-in-Jammu&id=4d423833363234393733",
-    "title": "3BHK Residential House for Rent in Bari Brahmana",
-    "type_of_property": "Residential House",
-    "furnished_status": "Semi-Furnished",
-    "price": {
-      "display_price": "₹Call for Price",
-      "price_value": null,
-      "price_per_sqft": null,
-      "price_per_marla": null,
-      "security_deposit": null,
-      "maintenance_charges": null
-    },
-    "area": {
-      "area_display": null,
-      "area_sqft": null,
-      "area_type": null,
-      "area_in_marla": null
-    },
-    "address": {
-      "full_address": "Bari Brahmana, Jammu, Jammu & Kashmir",
-      "locality": "Bari Brahmana",
-      "city": "Jammu",
-      "coordinates": null
-    },
-    "configuration": {
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "balconies": 2,
-      "additional_rooms": null,
-      "summary": "3 BHK / Bedrooms, 2 Bathrooms, 2 Balconies"
-    },
-    "property_ownership": null,
-    "floors": null,
-    "property_age": null,
-    "highlights": [
-      "Tenant Preference: Bachelors/Family",
-      "Transaction: Rent"
-    ],
-    "key_highlights": [
-      "Residential House",
-      "Immediately",
-      "Semi-Furnished"
-    ],
-    "amenities": [],
-    "furnished_components": [
-      "Semi-Furnished (fixtures / woodwork included)"
-    ],
-    "status": "Immediately"
-  },
-  {
     "property_id": "84896661",
     "url": "https://www.magicbricks.com/propertyDetails/3-BHK-2500-Sq-ft-Multistorey-Apartment-FOR-Rent-Channi-Rama-in-Jammu&id=4d423834383936363631",
     "title": "3BHK Multistorey Apartment for Rent in Channi Rama",
     "type_of_property": "Apartment",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹22,000",
+      "display_price": "\u20b922,000",
       "price_value": 22000,
       "price_per_sqft": 9,
-      "price_per_marla": "₹2,475 / Marla",
+      "price_per_marla": "\u20b92,475 / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -8417,10 +8144,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹15,000",
+      "display_price": "\u20b915,000",
       "price_value": 15000,
       "price_per_sqft": null,
-      "price_per_marla": "₹11,278 / Marla",
+      "price_per_marla": "\u20b911,278 / Marla",
       "security_deposit": null,
       "maintenance_charges": "Monthly"
     },
@@ -8469,10 +8196,10 @@
     "type_of_property": "Residential House",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹7,000",
+      "display_price": "\u20b97,000",
       "price_value": 7000,
       "price_per_sqft": 3,
-      "price_per_marla": "₹1.75 L / Marla",
+      "price_per_marla": "\u20b91.75 L / Marla",
       "security_deposit": null,
       "maintenance_charges": null
     },
@@ -8512,6 +8239,59 @@
       "Semi-Furnished",
       "1 out of 2",
       "0.04 Marla (10 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
+    "status": "Immediately"
+  },
+  {
+    "property_id": "81428911",
+    "url": "https://www.magicbricks.com/propertyDetails/1-BHK-824-Sq-ft-Builder-Floor-Apartment-FOR-Rent-Kunjwani-in-Jammu&id=4d423831343238393131",
+    "title": "1BHK Builder Floor Apartment for Rent in Kunjwani",
+    "type_of_property": "Builder Floor Apartment",
+    "furnished_status": "Semi-Furnished",
+    "price": {
+      "display_price": "\u20b98,000",
+      "price_value": 8000,
+      "price_per_sqft": 10,
+      "price_per_marla": "\u20b98,989 / Marla",
+      "security_deposit": null,
+      "maintenance_charges": "Quarterly"
+    },
+    "area": {
+      "area_display": "200 sqft",
+      "area_sqft": 200.0,
+      "area_type": "Carpet Area",
+      "area_in_marla": "0.89 Marla"
+    },
+    "address": {
+      "full_address": "Baba farid nagar ,Lupin Factories, Bari Brahmana, Jammu, 181132, Kunjwani, Jammu, Jammu & Kashmir",
+      "locality": "Kunjwani",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "1 BHK / Bedrooms, 1 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": "1 out of 1",
+    "property_age": "Less than 5 years",
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Rent"
+    ],
+    "key_highlights": [
+      "Builder Floor Apartment",
+      "Immediately",
+      "Semi-Furnished",
+      "1 out of 1",
+      "0.89 Marla (200 sqft)"
     ],
     "amenities": [],
     "furnished_components": [

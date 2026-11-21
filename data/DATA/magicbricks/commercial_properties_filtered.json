@@ -6,10 +6,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹8.80 Cr",
+      "display_price": "\u20b98.80 Cr",
       "price_value": 88000000,
       "price_per_sqft": 16296,
-      "price_per_marla": "₹44.00 L / Marla"
+      "price_per_marla": "\u20b944.00 L / Marla"
     },
     "area": {
       "area_display": "4500 sqft",
@@ -61,10 +61,10 @@
     "type_of_property": "Commercial Shop",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹1.25 Cr",
+      "display_price": "\u20b91.25 Cr",
       "price_value": 12500000,
       "price_per_sqft": 22727,
-      "price_per_marla": "₹51.23 L / Marla"
+      "price_per_marla": "\u20b951.23 L / Marla"
     },
     "area": {
       "area_display": "550 sqft",
@@ -113,10 +113,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹6 Cr",
+      "display_price": "\u20b96 Cr",
       "price_value": 60000000,
       "price_per_sqft": 13774,
-      "price_per_marla": "₹85.71 Cr / Marla"
+      "price_per_marla": "\u20b985.71 Cr / Marla"
     },
     "area": {
       "area_display": "16 sqft",
@@ -167,10 +167,10 @@
     "type_of_property": "Commercial Shop",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹50 Lac",
+      "display_price": "\u20b950 Lac",
       "price_value": 5000000,
       "price_per_sqft": 13889,
-      "price_per_marla": "₹36.50 L / Marla"
+      "price_per_marla": "\u20b936.50 L / Marla"
     },
     "area": {
       "area_display": "308 sqft",
@@ -219,10 +219,10 @@
     "type_of_property": "Commercial Shop",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹9 Lac",
+      "display_price": "\u20b99 Lac",
       "price_value": 899999,
       "price_per_sqft": 11250,
-      "price_per_marla": "₹25.00 L / Marla"
+      "price_per_marla": "\u20b925.00 L / Marla"
     },
     "area": {
       "area_display": "80 sqft",
@@ -264,68 +264,16 @@
     "status": "Ready to Move"
   },
   {
-    "property_id": "67516189",
-    "url": "https://www.magicbricks.com/propertyDetails/560-Sq-ft-Commercial-Shop-FOR-Sale-Bari-Brahmana-in-Jammu&id=4d423637353136313839",
-    "title": " Commercial Shop for Resale in Bari Brahmana",
-    "type_of_property": "Commercial Shop",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹75 Lac",
-      "price_value": 7500000,
-      "price_per_sqft": 13393,
-      "price_per_marla": "₹30.12 L / Marla"
-    },
-    "area": {
-      "area_display": "560 sqft",
-      "area_sqft": 560.0,
-      "area_type": "Carpet Area",
-      "area_in_marla": "2.49 Marla"
-    },
-    "address": {
-      "full_address": "sarore near toll plaza, Bari Brahmana, Jammu, Jammu & Kashmir",
-      "locality": "Bari Brahmana",
-      "city": "Jammu",
-      "coordinates": null
-    },
-    "configuration": {
-      "bedrooms": null,
-      "bathrooms": null,
-      "balconies": null,
-      "additional_rooms": null,
-      "summary": "Commercial Space"
-    },
-    "property_ownership": null,
-    "floors": "Ground out of 1",
-    "property_age": null,
-    "highlights": [
-      "Facing: Main Road",
-      "Tenant Preference: Bachelors/Family",
-      "Transaction: Resale"
-    ],
-    "key_highlights": [
-      "Commercial Shop",
-      "Ready to Move",
-      "Unfurnished",
-      "Ground out of 1",
-      "2.49 Marla (560 sqft)"
-    ],
-    "amenities": [],
-    "furnished_components": [
-      "Unfurnished (no furniture/appliances provided)"
-    ],
-    "status": "Ready to Move"
-  },
-  {
     "property_id": "82428457",
     "url": "https://www.magicbricks.com/propertyDetails/1600-Sq-ft-Commercial-Shop-FOR-Sale-Greater-Kailash-in-Jammu&id=4d423832343238343537",
     "title": " Commercial Shop for Resale in Greater Kailash",
     "type_of_property": "Commercial Shop",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹2.45 Cr",
+      "display_price": "\u20b92.45 Cr",
       "price_value": 24500000,
       "price_per_sqft": 15312,
-      "price_per_marla": "₹1.38 Cr / Marla"
+      "price_per_marla": "\u20b91.38 Cr / Marla"
     },
     "area": {
       "area_display": "400 sqft",
@@ -373,10 +321,10 @@
     "type_of_property": "Commercial Shop",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹4 Cr",
+      "display_price": "\u20b94 Cr",
       "price_value": 40000000,
       "price_per_sqft": 22222,
-      "price_per_marla": "₹50.00 L / Marla"
+      "price_per_marla": "\u20b950.00 L / Marla"
     },
     "area": {
       "area_display": "1800 sqft",
@@ -419,68 +367,16 @@
     "status": "Ready to Move"
   },
   {
-    "property_id": "84986067",
-    "url": "https://www.magicbricks.com/propertyDetails/1160-Sq-ft-Commercial-Shop-FOR-Sale-Bari-Brahmana-in-Jammu&id=4d423834393836303637",
-    "title": " Commercial Shop for Resale in Bari Brahmana",
-    "type_of_property": "Commercial Shop",
-    "furnished_status": "Furnished",
-    "price": {
-      "display_price": "₹82 Lac",
-      "price_value": 8200000,
-      "price_per_sqft": 7069,
-      "price_per_marla": "₹16.02 L / Marla"
-    },
-    "area": {
-      "area_display": "1152 sqft",
-      "area_sqft": 1152.0,
-      "area_type": "Carpet Area",
-      "area_in_marla": "5.12 Marla"
-    },
-    "address": {
-      "full_address": "sidco complex main chowk bari barhmana, Bari Brahmana, Jammu, Jammu & Kashmir",
-      "locality": "Bari Brahmana",
-      "city": "Jammu",
-      "coordinates": null
-    },
-    "configuration": {
-      "bedrooms": null,
-      "bathrooms": null,
-      "balconies": null,
-      "additional_rooms": null,
-      "summary": "Commercial Space"
-    },
-    "property_ownership": "Freehold",
-    "floors": "3 out of 3",
-    "property_age": "10 to 15 years",
-    "highlights": [
-      "Facing: Main Road",
-      "Tenant Preference: Bachelors/Family",
-      "Transaction: Resale"
-    ],
-    "key_highlights": [
-      "Commercial Shop",
-      "Ready to Move",
-      "Furnished",
-      "3 out of 3",
-      "5.12 Marla (1152 sqft)"
-    ],
-    "amenities": [],
-    "furnished_components": [
-      "Furnished with essential fixtures & furniture"
-    ],
-    "status": "Ready to Move"
-  },
-  {
     "property_id": "57951019",
     "url": "https://www.magicbricks.com/propertyDetails/300-Sq-ft-Commercial-Shop-FOR-Sale-Talab-Tillo-in-Jammu&id=4d423537393531303139",
     "title": " Commercial Shop for Resale in Talab Tillo",
     "type_of_property": "Commercial Shop",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹48 Lac",
+      "display_price": "\u20b948 Lac",
       "price_value": 4800000,
       "price_per_sqft": 16000,
-      "price_per_marla": "₹36.09 L / Marla"
+      "price_per_marla": "\u20b936.09 L / Marla"
     },
     "area": {
       "area_display": "300 sqft",
@@ -528,10 +424,10 @@
     "type_of_property": "Commercial Office Space",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹5.50 Cr",
+      "display_price": "\u20b95.50 Cr",
       "price_value": 55000000,
       "price_per_sqft": 17188,
-      "price_per_marla": "₹1.03 Cr / Marla"
+      "price_per_marla": "\u20b91.03 Cr / Marla"
     },
     "area": {
       "area_display": "1200 sqft",
@@ -580,10 +476,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹1.50 Cr",
+      "display_price": "\u20b91.50 Cr",
       "price_value": 15000000,
       "price_per_sqft": 50000,
-      "price_per_marla": "₹1.13 Cr / Marla"
+      "price_per_marla": "\u20b91.13 Cr / Marla"
     },
     "area": {
       "area_display": "300 sqft",
@@ -631,10 +527,10 @@
     "type_of_property": "Commercial Shop",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹52 Lac",
+      "display_price": "\u20b952 Lac",
       "price_value": 5200000,
       "price_per_sqft": 20968,
-      "price_per_marla": "₹47.27 L / Marla"
+      "price_per_marla": "\u20b947.27 L / Marla"
     },
     "area": {
       "area_display": "248 sqft",
@@ -683,10 +579,10 @@
     "type_of_property": "Commercial Shop",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹65 Lac",
+      "display_price": "\u20b965 Lac",
       "price_value": 6500000,
       "price_per_sqft": 12897,
-      "price_per_marla": "₹29.02 L / Marla"
+      "price_per_marla": "\u20b929.02 L / Marla"
     },
     "area": {
       "area_display": "504 sqft",
@@ -734,10 +630,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹6 Cr",
+      "display_price": "\u20b96 Cr",
       "price_value": 60000000,
       "price_per_sqft": 19231,
-      "price_per_marla": "₹43.26 L / Marla"
+      "price_per_marla": "\u20b943.26 L / Marla"
     },
     "area": {
       "area_display": "3120 sqft",
@@ -785,10 +681,10 @@
     "type_of_property": "Commercial Shop",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹105 Cr",
+      "display_price": "\u20b9105 Cr",
       "price_value": 1050000000,
       "price_per_sqft": 2100000,
-      "price_per_marla": "₹47.30 Cr / Marla"
+      "price_per_marla": "\u20b947.30 Cr / Marla"
     },
     "area": {
       "area_display": "500 sqft",
@@ -836,10 +732,10 @@
     "type_of_property": "Commercial Shop",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹35 Lac",
+      "display_price": "\u20b935 Lac",
       "price_value": 3500000,
       "price_per_sqft": null,
-      "price_per_marla": "₹7.88 L / Marla"
+      "price_per_marla": "\u20b97.88 L / Marla"
     },
     "area": {
       "area_display": "1000 sqft",
@@ -895,10 +791,10 @@
     "type_of_property": "Commercial Office Space",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹65 Lac",
+      "display_price": "\u20b965 Lac",
       "price_value": 6500000,
       "price_per_sqft": 5416,
-      "price_per_marla": "₹12.20 L / Marla"
+      "price_per_marla": "\u20b912.20 L / Marla"
     },
     "area": {
       "area_display": "1200 sqft",
@@ -946,10 +842,10 @@
     "type_of_property": "Commercial Shop",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹26.5 Lac",
+      "display_price": "\u20b926.5 Lac",
       "price_value": 2650000,
       "price_per_sqft": null,
-      "price_per_marla": "₹34.87 L / Marla"
+      "price_per_marla": "\u20b934.87 L / Marla"
     },
     "area": {
       "area_display": "170 sqft",
@@ -1001,10 +897,10 @@
     "type_of_property": "Commercial Office Space",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹1 Lac",
+      "display_price": "\u20b91 Lac",
       "price_value": 100000,
       "price_per_sqft": 5,
-      "price_per_marla": "₹1,250 / Marla"
+      "price_per_marla": "\u20b91,250 / Marla"
     },
     "area": {
       "area_display": "18000 sqft",
@@ -1055,10 +951,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹2.99 Cr",
+      "display_price": "\u20b92.99 Cr",
       "price_value": 29900000,
       "price_per_sqft": 17915,
-      "price_per_marla": "₹45.79 L / Marla"
+      "price_per_marla": "\u20b945.79 L / Marla"
     },
     "area": {
       "area_display": "1469 sqft",
@@ -1110,10 +1006,10 @@
     "type_of_property": "Commercial Shop",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹55 Lac",
+      "display_price": "\u20b955 Lac",
       "price_value": 5500000,
       "price_per_sqft": 12222,
-      "price_per_marla": "₹27.50 L / Marla"
+      "price_per_marla": "\u20b927.50 L / Marla"
     },
     "area": {
       "area_display": "450 sqft",
@@ -1161,10 +1057,10 @@
     "type_of_property": "Commercial Shop",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹25 Lac",
+      "display_price": "\u20b925 Lac",
       "price_value": 2500000,
       "price_per_sqft": 12500,
-      "price_per_marla": "₹28.09 L / Marla"
+      "price_per_marla": "\u20b928.09 L / Marla"
     },
     "area": {
       "area_display": "200 sqft",
@@ -1212,10 +1108,10 @@
     "type_of_property": "Commercial Shop",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹1 Cr",
+      "display_price": "\u20b91 Cr",
       "price_value": 10000000,
       "price_per_sqft": 41322,
-      "price_per_marla": "₹92.59 L / Marla"
+      "price_per_marla": "\u20b992.59 L / Marla"
     },
     "area": {
       "area_display": "242 sqft",
@@ -1263,10 +1159,10 @@
     "type_of_property": "Commercial Office Space",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹4.50 Cr",
+      "display_price": "\u20b94.50 Cr",
       "price_value": 45000000,
       "price_per_sqft": 30000,
-      "price_per_marla": "₹67.47 L / Marla"
+      "price_per_marla": "\u20b967.47 L / Marla"
     },
     "area": {
       "area_display": "1500 sqft",
@@ -1314,10 +1210,10 @@
     "type_of_property": "Commercial Shop",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹48 Lac",
+      "display_price": "\u20b948 Lac",
       "price_value": 4800000,
       "price_per_sqft": 5877,
-      "price_per_marla": "₹48.00 Cr / Marla"
+      "price_per_marla": "\u20b948.00 Cr / Marla"
     },
     "area": {
       "area_display": "3 sqft",
@@ -1366,10 +1262,10 @@
     "type_of_property": "Commercial Shop",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹20 Lac",
+      "display_price": "\u20b920 Lac",
       "price_value": 2000000,
       "price_per_sqft": 55556,
-      "price_per_marla": "₹1.25 Cr / Marla"
+      "price_per_marla": "\u20b91.25 Cr / Marla"
     },
     "area": {
       "area_display": "36 sqft",
@@ -1426,10 +1322,10 @@
     "type_of_property": "Commercial Shop",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹20 Lac",
+      "display_price": "\u20b920 Lac",
       "price_value": 2000000,
       "price_per_sqft": 16667,
-      "price_per_marla": "₹55.56 L / Marla"
+      "price_per_marla": "\u20b955.56 L / Marla"
     },
     "area": {
       "area_display": "80 sqft",
@@ -1481,10 +1377,10 @@
     "type_of_property": "Commercial Shop",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹50 Lac",
+      "display_price": "\u20b950 Lac",
       "price_value": 5000000,
       "price_per_sqft": 28409,
-      "price_per_marla": "₹64.10 L / Marla"
+      "price_per_marla": "\u20b964.10 L / Marla"
     },
     "area": {
       "area_display": "176 sqft",
@@ -1536,10 +1432,10 @@
     "type_of_property": "Commercial Shop",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹60 Lac",
+      "display_price": "\u20b960 Lac",
       "price_value": 6000000,
       "price_per_sqft": 12000,
-      "price_per_marla": "₹27.03 L / Marla"
+      "price_per_marla": "\u20b927.03 L / Marla"
     },
     "area": {
       "area_display": "500 sqft",
@@ -1589,10 +1485,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹8 Cr",
+      "display_price": "\u20b98 Cr",
       "price_value": 80000000,
       "price_per_sqft": 38095,
-      "price_per_marla": "₹85.74 L / Marla"
+      "price_per_marla": "\u20b985.74 L / Marla"
     },
     "area": {
       "area_display": "2100 sqft",
@@ -1640,10 +1536,10 @@
     "type_of_property": "Commercial Shop",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹1.20 Cr",
+      "display_price": "\u20b91.20 Cr",
       "price_value": 12000000,
       "price_per_sqft": 13333,
-      "price_per_marla": "₹36.04 L / Marla"
+      "price_per_marla": "\u20b936.04 L / Marla"
     },
     "area": {
       "area_display": "750 sqft",
@@ -1689,70 +1585,16 @@
     "status": "Ready to Move"
   },
   {
-    "property_id": "86646631",
-    "url": "https://www.magicbricks.com/propertyDetails/10000-Sq-ft-Commercial-Office-Space-FOR-Sale-Kunjwani-in-Jammu&id=4d423836363436363331",
-    "title": " Commercial Office Space for Resale in Kunjwani",
-    "type_of_property": "Commercial Office Space",
-    "furnished_status": "Furnished",
-    "price": {
-      "display_price": "₹2 Cr",
-      "price_value": 20000000,
-      "price_per_sqft": 2000,
-      "price_per_marla": "₹4.50 L / Marla"
-    },
-    "area": {
-      "area_display": "10000 sqft",
-      "area_sqft": 10000.0,
-      "area_type": "Covered Area",
-      "area_in_marla": "44.44 Marla"
-    },
-    "address": {
-      "full_address": "Kunjwani, Jammu, Jammu & Kashmir",
-      "locality": "Kunjwani",
-      "city": "Jammu",
-      "coordinates": {
-        "latitude": 32.67164611816406,
-        "longitude": 74.87013244628906
-      }
-    },
-    "configuration": {
-      "bedrooms": null,
-      "bathrooms": 2,
-      "balconies": null,
-      "additional_rooms": null,
-      "summary": "2 Bathrooms"
-    },
-    "property_ownership": null,
-    "floors": "5 out of 5",
-    "property_age": null,
-    "highlights": [
-      "Tenant Preference: Bachelors/Family",
-      "Transaction: Resale"
-    ],
-    "key_highlights": [
-      "Commercial Office Space",
-      "Ready to Move",
-      "Furnished",
-      "5 out of 5",
-      "44.44 Marla (10000 sqft)"
-    ],
-    "amenities": [],
-    "furnished_components": [
-      "Furnished with essential fixtures & furniture"
-    ],
-    "status": "Ready to Move"
-  },
-  {
     "property_id": "82914115",
     "url": "https://www.magicbricks.com/propertyDetails/300-Sq-ft-Commercial-Shop-FOR-Sale-in-Jammu&id=4d423832393134313135",
     "title": " Commercial Shop for Resale in ",
     "type_of_property": "Commercial Shop",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹30 Lac",
+      "display_price": "\u20b930 Lac",
       "price_value": 3000000,
       "price_per_sqft": 10000,
-      "price_per_marla": "₹22.56 L / Marla"
+      "price_per_marla": "\u20b922.56 L / Marla"
     },
     "area": {
       "area_display": "300 sqft",
@@ -1795,70 +1637,16 @@
     "status": "Ready to Move"
   },
   {
-    "property_id": "82982735",
-    "url": "https://www.magicbricks.com/propertyDetails/20000-Sq-ft-Commercial-Showroom-FOR-Sale-Bari-Brahmana-in-Jammu&id=4d423832393832373335",
-    "title": " Commercial Showroom for Resale in Bari Brahmana",
-    "type_of_property": "Commercial Showroom",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹8 Lac",
-      "price_value": 800000,
-      "price_per_sqft": 40,
-      "price_per_marla": "₹9,000 / Marla"
-    },
-    "area": {
-      "area_display": "20000 sqft",
-      "area_sqft": 20000.0,
-      "area_type": "Covered Area",
-      "area_in_marla": "88.89 Marla"
-    },
-    "address": {
-      "full_address": "Bari Brahmana, Jammu, Jammu & Kashmir",
-      "locality": "Bari Brahmana",
-      "city": "Jammu",
-      "coordinates": {
-        "latitude": 32.63717269897461,
-        "longitude": 74.9137954711914
-      }
-    },
-    "configuration": {
-      "bedrooms": null,
-      "bathrooms": 4,
-      "balconies": null,
-      "additional_rooms": null,
-      "summary": "4 Bathrooms"
-    },
-    "property_ownership": null,
-    "floors": "Upper Basement out of 4",
-    "property_age": null,
-    "highlights": [
-      "Tenant Preference: Bachelors/Family",
-      "Transaction: Resale"
-    ],
-    "key_highlights": [
-      "Commercial Showroom",
-      "Under Construction",
-      "Unfurnished",
-      "Upper Basement out of 4",
-      "88.89 Marla (20000 sqft)"
-    ],
-    "amenities": [],
-    "furnished_components": [
-      "Unfurnished (no furniture/appliances provided)"
-    ],
-    "status": "Under Construction"
-  },
-  {
     "property_id": "86511693",
     "url": "https://www.magicbricks.com/propertyDetails/700-Sq-ft-Commercial-Shop-FOR-Sale-Narwal-in-Jammu&id=4d423836353131363933",
     "title": " Commercial Shop for Resale in Narwal",
     "type_of_property": "Commercial Shop",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹95 Lac",
+      "display_price": "\u20b995 Lac",
       "price_value": 9500000,
       "price_per_sqft": 13571,
-      "price_per_marla": "₹34.42 L / Marla"
+      "price_per_marla": "\u20b934.42 L / Marla"
     },
     "area": {
       "area_display": "620 sqft",
@@ -1906,10 +1694,10 @@
     "type_of_property": "Commercial Shop",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹65 Lac",
+      "display_price": "\u20b965 Lac",
       "price_value": 6500000,
       "price_per_sqft": 4333,
-      "price_per_marla": "₹9.75 L / Marla"
+      "price_per_marla": "\u20b99.75 L / Marla"
     },
     "area": {
       "area_display": "1500 sqft",
@@ -1957,10 +1745,10 @@
     "type_of_property": "Commercial Shop",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹1.50 Cr",
+      "display_price": "\u20b91.50 Cr",
       "price_value": 15000000,
       "price_per_sqft": 18750,
-      "price_per_marla": "₹42.13 L / Marla"
+      "price_per_marla": "\u20b942.13 L / Marla"
     },
     "area": {
       "area_display": "800 sqft",
@@ -2008,10 +1796,10 @@
     "type_of_property": "Commercial Office Space",
     "furnished_status": "Semi-Furnished",
     "price": {
-      "display_price": "₹11 Cr",
+      "display_price": "\u20b911 Cr",
       "price_value": 110000000,
       "price_per_sqft": 6790,
-      "price_per_marla": "₹15.28 L / Marla"
+      "price_per_marla": "\u20b915.28 L / Marla"
     },
     "area": {
       "area_display": "16200 sqft",
@@ -2065,10 +1853,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹6 Cr",
+      "display_price": "\u20b96 Cr",
       "price_value": 60000000,
       "price_per_sqft": 27547,
-      "price_per_marla": "₹150.00 Cr / Marla"
+      "price_per_marla": "\u20b9150.00 Cr / Marla"
     },
     "area": {
       "area_display": "8 sqft",
@@ -2117,10 +1905,10 @@
     "type_of_property": "Commercial Shop",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹61.25 Cr",
+      "display_price": "\u20b961.25 Cr",
       "price_value": 612500000,
       "price_per_sqft": 1750000,
-      "price_per_marla": "₹39.26 Cr / Marla"
+      "price_per_marla": "\u20b939.26 Cr / Marla"
     },
     "area": {
       "area_display": "350 sqft",
@@ -2169,10 +1957,10 @@
     "type_of_property": "Commercial Shop",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹55 Lac",
+      "display_price": "\u20b955 Lac",
       "price_value": 5500000,
       "price_per_sqft": 34161,
-      "price_per_marla": "₹76.39 L / Marla"
+      "price_per_marla": "\u20b976.39 L / Marla"
     },
     "area": {
       "area_display": "161 sqft",
@@ -2224,10 +2012,10 @@
     "type_of_property": "Commercial Shop",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹7.3 Lac",
+      "display_price": "\u20b97.3 Lac",
       "price_value": 725000,
       "price_per_sqft": 2788,
-      "price_per_marla": "₹6.25 L / Marla"
+      "price_per_marla": "\u20b96.25 L / Marla"
     },
     "area": {
       "area_display": "260 sqft",
@@ -2275,10 +2063,10 @@
     "type_of_property": "Commercial Office Space",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹30 Lac",
+      "display_price": "\u20b930 Lac",
       "price_value": 3000000,
       "price_per_sqft": null,
-      "price_per_marla": "₹16.04 L / Marla"
+      "price_per_marla": "\u20b916.04 L / Marla"
     },
     "area": {
       "area_display": "420 sqft",
@@ -2332,10 +2120,10 @@
     "type_of_property": "Commercial Shop",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹35 Lac",
+      "display_price": "\u20b935 Lac",
       "price_value": 3500000,
       "price_per_sqft": 3500,
-      "price_per_marla": "₹7.88 L / Marla"
+      "price_per_marla": "\u20b97.88 L / Marla"
     },
     "area": {
       "area_display": "1000 sqft",
@@ -2381,10 +2169,10 @@
     "type_of_property": "Commercial Shop",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹95 Lac",
+      "display_price": "\u20b995 Lac",
       "price_value": 9500000,
       "price_per_sqft": 29688,
-      "price_per_marla": "₹78.51 L / Marla"
+      "price_per_marla": "\u20b978.51 L / Marla"
     },
     "area": {
       "area_display": "273 sqft",
@@ -2441,7 +2229,7 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": null,
     "price": {
-      "display_price": "₹Call for Price",
+      "display_price": "\u20b9Call for Price",
       "price_value": null,
       "price_per_sqft": null,
       "price_per_marla": null
@@ -2487,10 +2275,10 @@
     "type_of_property": "Commercial Office Space",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹10 Cr",
+      "display_price": "\u20b910 Cr",
       "price_value": 100000000,
       "price_per_sqft": 18519,
-      "price_per_marla": "₹46.88 L / Marla"
+      "price_per_marla": "\u20b946.88 L / Marla"
     },
     "area": {
       "area_display": "4800 sqft",
@@ -2538,10 +2326,10 @@
     "type_of_property": "Commercial Showroom",
     "furnished_status": "Furnished",
     "price": {
-      "display_price": "₹10 Cr",
+      "display_price": "\u20b910 Cr",
       "price_value": 100000000,
       "price_per_sqft": null,
-      "price_per_marla": "₹46.88 L / Marla"
+      "price_per_marla": "\u20b946.88 L / Marla"
     },
     "area": {
       "area_display": "4800 sqft",
@@ -2579,6 +2367,60 @@
       "Furnished",
       "Ground out of 2",
       "21.33 Marla (4800 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
+    "status": "Ready to Move"
+  },
+  {
+    "property_id": "86646631",
+    "url": "https://www.magicbricks.com/propertyDetails/10000-Sq-ft-Commercial-Office-Space-FOR-Sale-Kunjwani-in-Jammu&id=4d423836363436363331",
+    "title": " Commercial Office Space for Resale in Kunjwani",
+    "type_of_property": "Commercial Office Space",
+    "furnished_status": "Furnished",
+    "price": {
+      "display_price": "\u20b92 Cr",
+      "price_value": 20000000,
+      "price_per_sqft": 2000,
+      "price_per_marla": "\u20b94.50 L / Marla"
+    },
+    "area": {
+      "area_display": "10000 sqft",
+      "area_sqft": 10000.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "44.44 Marla"
+    },
+    "address": {
+      "full_address": "Kunjwani, Jammu, Jammu & Kashmir",
+      "locality": "Kunjwani",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": 32.67164611816406,
+        "longitude": 74.87013244628906
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": 2,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "2 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": "5 out of 5",
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Commercial Office Space",
+      "Ready to Move",
+      "Furnished",
+      "5 out of 5",
+      "44.44 Marla (10000 sqft)"
     ],
     "amenities": [],
     "furnished_components": [

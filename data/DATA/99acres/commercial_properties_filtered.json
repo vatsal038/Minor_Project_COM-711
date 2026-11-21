@@ -6,10 +6,10 @@
     "type_of_property": "Manufacturing",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹20 Cr",
+      "display_price": "\u20b920 Cr",
       "price_value": 200000000,
-      "price_per_sqft": "₹4,591 /sqft",
-      "price_per_marla": "₹10.33 L / Marla"
+      "price_per_sqft": "\u20b94,591 /sqft",
+      "price_per_marla": "\u20b910.33 L / Marla"
     },
     "area": {
       "area_display": "43559 sqft sqft",
@@ -63,10 +63,10 @@
     "type_of_property": "Commercial Showrooms",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹1.25 Cr",
+      "display_price": "\u20b91.25 Cr",
       "price_value": 12500000,
-      "price_per_sqft": "₹36,982 /sqft",
-      "price_per_marla": "₹83.21 L / Marla"
+      "price_per_sqft": "\u20b936,982 /sqft",
+      "price_per_marla": "\u20b983.21 L / Marla"
     },
     "area": {
       "area_display": "338 sqft sqft",
@@ -125,10 +125,10 @@
     "type_of_property": "Commercial Showrooms",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹10 Cr",
+      "display_price": "\u20b910 Cr",
       "price_value": 100000000,
-      "price_per_sqft": "₹20,833 /sqft",
-      "price_per_marla": "₹46.87 L / Marla"
+      "price_per_sqft": "\u20b920,833 /sqft",
+      "price_per_marla": "\u20b946.87 L / Marla"
     },
     "area": {
       "area_display": "4800 sqft sqft",
@@ -198,10 +198,10 @@
     "type_of_property": "Commercial Land/Inst. Land",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹4.5 Cr",
+      "display_price": "\u20b94.5 Cr",
       "price_value": 45000000,
-      "price_per_sqft": "₹2,133 /sqft",
-      "price_per_marla": "₹4.80 L / Marla"
+      "price_per_sqft": "\u20b92,133 /sqft",
+      "price_per_marla": "\u20b94.80 L / Marla"
     },
     "area": {
       "area_display": "21096 sqft sqft",
@@ -255,10 +255,10 @@
     "type_of_property": "Commercial Showrooms",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹25 Cr",
+      "display_price": "\u20b925 Cr",
       "price_value": 250000000,
-      "price_per_sqft": "₹25,000 /sqft",
-      "price_per_marla": "₹56.25 L / Marla"
+      "price_per_sqft": "\u20b925,000 /sqft",
+      "price_per_marla": "\u20b956.25 L / Marla"
     },
     "area": {
       "area_display": "10000 sqft sqft",
@@ -319,10 +319,10 @@
     "type_of_property": "Commercial Shops",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹4.4 Cr",
+      "display_price": "\u20b94.4 Cr",
       "price_value": 44000000,
-      "price_per_sqft": "₹2.44 L /sqft",
-      "price_per_marla": "₹5.49 Cr / Marla"
+      "price_per_sqft": "\u20b92.44 L /sqft",
+      "price_per_marla": "\u20b95.49 Cr / Marla"
     },
     "area": {
       "area_display": "180 sqft sqft",
@@ -375,78 +375,16 @@
     "status": "Ready to Move"
   },
   {
-    "property_id": "V94096004",
-    "url": "https://www.99acres.com/factory-for-sale-in-bari-brahmana-jammu-15246-sqft-spid-V94096004",
-    "title": "Factory for sale in Bari Brahmana, Jammu",
-    "type_of_property": "Factory",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹2.8 Cr",
-      "price_value": 28000000,
-      "price_per_sqft": "₹1,714 /sqft",
-      "price_per_marla": "₹3.86 L / Marla"
-    },
-    "area": {
-      "area_display": "15245 sqft kanal",
-      "area_sqft": 15245.97751218317,
-      "area_type": "BUILTUP_AREA",
-      "area_in_marla": "67.76 Marla"
-    },
-    "address": {
-      "full_address": "Factory for sale in Bari Brahmana, Jammu, Bari Brahmana, Jammu",
-      "locality": "Bari Brahmana",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "",
-        "SOCIETY_NAME": "",
-        "LOCALITY_ID": "8889",
-        "LOCALITY_NAME": "Bari Brahmana",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": null,
-      "bathrooms": "0",
-      "balconies": null,
-      "summary": "0 Bathrooms"
-    },
-    "property_ownership": "Leasehold",
-    "floors": null,
-    "property_age": "5-10 years",
-    "highlights": [
-      "Fully built up factory ready to use with office space including 4 cabins and reception. Shed area is huge + a separate loading area."
-    ],
-    "key_highlights": [
-      "Factory",
-      "67.76 Marla (15246 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [
-      "Vaastu Compliant",
-      "Internet/Wi-Fi",
-      "Amenity ID 19",
-      "Reserved Parking"
-    ],
-    "furnished_components": [
-      "ac"
-    ],
-    "status": "Ready to Move"
-  },
-  {
     "property_id": "K91085856",
     "url": "https://www.99acres.com/shop-for-sale-in-resham-ghar-colony-jammu-200-sqft-spid-K91085856",
     "title": "Shop for sale in Resham Ghar Colony, Jammu",
     "type_of_property": "Commercial Shops",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹35 L",
+      "display_price": "\u20b935 L",
       "price_value": 3500000,
-      "price_per_sqft": "₹17,500 /sqft",
-      "price_per_marla": "₹39.38 L / Marla"
+      "price_per_sqft": "\u20b917,500 /sqft",
+      "price_per_marla": "\u20b939.38 L / Marla"
     },
     "area": {
       "area_display": "200 sqft sqft",
@@ -507,10 +445,10 @@
     "type_of_property": "Commercial Land/Inst. Land",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹2.7 Cr",
+      "display_price": "\u20b92.7 Cr",
       "price_value": 27000000,
-      "price_per_sqft": "₹6,667 /sqft",
-      "price_per_marla": "₹15.00 L / Marla"
+      "price_per_sqft": "\u20b96,667 /sqft",
+      "price_per_marla": "\u20b915.00 L / Marla"
     },
     "area": {
       "area_display": "4050 sqft sqft",
@@ -567,10 +505,10 @@
     "type_of_property": "Commercial Showrooms",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹2 Cr",
+      "display_price": "\u20b92 Cr",
       "price_value": 20000000,
-      "price_per_sqft": "₹6,666 /sqft",
-      "price_per_marla": "₹15.00 L / Marla"
+      "price_per_sqft": "\u20b96,666 /sqft",
+      "price_per_marla": "\u20b915.00 L / Marla"
     },
     "area": {
       "area_display": "3000 sqft sqft",
@@ -632,10 +570,10 @@
     "type_of_property": "Ready to move office space",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹1.2 Cr",
+      "display_price": "\u20b91.2 Cr",
       "price_value": 12000000,
-      "price_per_sqft": "₹10,000 /sqft",
-      "price_per_marla": "₹22.50 L / Marla"
+      "price_per_sqft": "\u20b910,000 /sqft",
+      "price_per_marla": "\u20b922.50 L / Marla"
     },
     "area": {
       "area_display": "1200 sqft sqft",
@@ -693,10 +631,10 @@
     "type_of_property": "Industrial Lands/Plots",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹7.5 Cr",
+      "display_price": "\u20b97.5 Cr",
       "price_value": 75000000,
-      "price_per_sqft": "₹2,500 /sqft",
-      "price_per_marla": "₹5.62 L / Marla"
+      "price_per_sqft": "\u20b92,500 /sqft",
+      "price_per_marla": "\u20b95.62 L / Marla"
     },
     "area": {
       "area_display": "30000 sqft sqft",
@@ -752,10 +690,10 @@
     "type_of_property": "Commercial Land/Inst. Land",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹4 L",
+      "display_price": "\u20b94 L",
       "price_value": 400000,
-      "price_per_sqft": "₹177 /sqft",
-      "price_per_marla": "₹39,825 / Marla"
+      "price_per_sqft": "\u20b9177 /sqft",
+      "price_per_marla": "\u20b939,825 / Marla"
     },
     "area": {
       "area_display": "2250 sqft sqft",
@@ -809,10 +747,10 @@
     "type_of_property": "Industrial Lands/Plots",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹4 L",
+      "display_price": "\u20b94 L",
       "price_value": 400000,
-      "price_per_sqft": "₹177 /sqft",
-      "price_per_marla": "₹39,825 / Marla"
+      "price_per_sqft": "\u20b9177 /sqft",
+      "price_per_marla": "\u20b939,825 / Marla"
     },
     "area": {
       "area_display": "2250 sqft sqft",
@@ -869,10 +807,10 @@
     "type_of_property": "Other",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹1.65 Cr",
+      "display_price": "\u20b91.65 Cr",
       "price_value": 16500000,
-      "price_per_sqft": "₹54,817 /sqft",
-      "price_per_marla": "₹1.23 Cr / Marla"
+      "price_per_sqft": "\u20b954,817 /sqft",
+      "price_per_marla": "\u20b91.23 Cr / Marla"
     },
     "area": {
       "area_display": "301 sqft sqft",
@@ -926,10 +864,10 @@
     "type_of_property": "Commercial Land/Inst. Land",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹1.65 Cr",
+      "display_price": "\u20b91.65 Cr",
       "price_value": 16500000,
-      "price_per_sqft": "₹54,817 /sqft",
-      "price_per_marla": "₹1.23 Cr / Marla"
+      "price_per_sqft": "\u20b954,817 /sqft",
+      "price_per_marla": "\u20b91.23 Cr / Marla"
     },
     "area": {
       "area_display": "301 sqft sqft",
@@ -983,10 +921,10 @@
     "type_of_property": "Industrial Lands/Plots",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹70 L",
+      "display_price": "\u20b970 L",
       "price_value": 7000000,
-      "price_per_sqft": "₹1,285 /sqft",
-      "price_per_marla": "₹2.89 L / Marla"
+      "price_per_sqft": "\u20b91,285 /sqft",
+      "price_per_marla": "\u20b92.89 L / Marla"
     },
     "area": {
       "area_display": "5444 sqft sqft",
@@ -1040,10 +978,10 @@
     "type_of_property": "Commercial Shops",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹2 Cr",
+      "display_price": "\u20b92 Cr",
       "price_value": 20000000,
-      "price_per_sqft": "₹71,428 /sqft",
-      "price_per_marla": "₹1.61 Cr / Marla"
+      "price_per_sqft": "\u20b971,428 /sqft",
+      "price_per_marla": "\u20b91.61 Cr / Marla"
     },
     "area": {
       "area_display": "280 sqft sqft",
@@ -1103,10 +1041,10 @@
     "type_of_property": "Commercial Showrooms",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹1.15 Cr",
+      "display_price": "\u20b91.15 Cr",
       "price_value": 11500000,
-      "price_per_sqft": "₹71,875 /sqft",
-      "price_per_marla": "₹1.62 Cr / Marla"
+      "price_per_sqft": "\u20b971,875 /sqft",
+      "price_per_marla": "\u20b91.62 Cr / Marla"
     },
     "area": {
       "area_display": "160 sqft sqft",
@@ -1161,10 +1099,10 @@
     "type_of_property": "Commercial Shops",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹1.15 Cr",
+      "display_price": "\u20b91.15 Cr",
       "price_value": 11500000,
-      "price_per_sqft": "₹71,875 /sqft",
-      "price_per_marla": "₹1.62 Cr / Marla"
+      "price_per_sqft": "\u20b971,875 /sqft",
+      "price_per_marla": "\u20b91.62 Cr / Marla"
     },
     "area": {
       "area_display": "160 sqft sqft",
@@ -1219,10 +1157,10 @@
     "type_of_property": "Commercial Shops",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹90 L",
+      "display_price": "\u20b990 L",
       "price_value": 9000000,
-      "price_per_sqft": "₹15,000 /sqft",
-      "price_per_marla": "₹33.75 L / Marla"
+      "price_per_sqft": "\u20b915,000 /sqft",
+      "price_per_marla": "\u20b933.75 L / Marla"
     },
     "area": {
       "area_display": "600 sqft sqft",
@@ -1284,10 +1222,10 @@
     "type_of_property": "Commercial Showrooms",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹3.2 L",
+      "display_price": "\u20b93.2 L",
       "price_value": 320000,
-      "price_per_sqft": "₹152 /sqft",
-      "price_per_marla": "₹34,200 / Marla"
+      "price_per_sqft": "\u20b9152 /sqft",
+      "price_per_marla": "\u20b934,200 / Marla"
     },
     "area": {
       "area_display": "2100 sqft sqft",
@@ -1345,9 +1283,9 @@
     "type_of_property": "Agricultural/Farm Land",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹2.2 L",
+      "display_price": "\u20b92.2 L",
       "price_value": 220000,
-      "price_per_sqft": "₹0 /sqft",
+      "price_per_sqft": "\u20b90 /sqft",
       "price_per_marla": null
     },
     "area": {
@@ -1396,130 +1334,16 @@
     "status": "Ready to Move"
   },
   {
-    "property_id": "W95146814",
-    "url": "https://www.99acres.com/factory-for-sale-in-samba-jammu-6371-sqft-spid-W95146814",
-    "title": "Factory for sale in Samba, Jammu",
-    "type_of_property": "Factory",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹5 Cr",
-      "price_value": 50000000,
-      "price_per_sqft": "₹7,849 /sqft",
-      "price_per_marla": "₹17.66 L / Marla"
-    },
-    "area": {
-      "area_display": "6370 sqft sqft",
-      "area_sqft": 591.79211,
-      "area_type": "CARPET_AREA",
-      "area_in_marla": "28.31 Marla"
-    },
-    "address": {
-      "full_address": "Factory for sale in Samba, Jammu, Samba, Jammu",
-      "locality": "Samba",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "",
-        "SOCIETY_NAME": "",
-        "LOCALITY_ID": "1053018",
-        "LOCALITY_NAME": "Samba",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": null,
-      "bathrooms": "0",
-      "balconies": null,
-      "summary": "0 Bathrooms"
-    },
-    "property_ownership": null,
-    "floors": null,
-    "property_age": "1-5 years",
-    "highlights": [
-      "Located in samba, jammu, this 43,560 sqft commercial factory is available for immediate sale at rs 6 crore. Built within the last 1-5 years, the property offers modern facilities suitable for various industrial uses. With no washroom included, it focuses on maximizing operational space in a strategic location."
-    ],
-    "key_highlights": [
-      "Factory",
-      "2.63 Marla (592 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [],
-    "furnished_components": [
-      "ac"
-    ],
-    "status": "Ready to Move"
-  },
-  {
-    "property_id": "X95034258",
-    "url": "https://www.99acres.com/industrial-land-plot-for-sale-in-samba-jammu-1912-sqyd-spid-X95034258",
-    "title": "Industrial land / Plot for sale in Samba, Jammu",
-    "type_of_property": "Industrial Lands/Plots",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹3.8 Cr",
-      "price_value": 38000000,
-      "price_per_sqft": "₹2,208 /sqft",
-      "price_per_marla": "₹4.97 L / Marla"
-    },
-    "area": {
-      "area_display": "17206 sqft sqft",
-      "area_sqft": 1598.489018,
-      "area_type": "SUPER_AREA",
-      "area_in_marla": "76.47 Marla"
-    },
-    "address": {
-      "full_address": "Industrial land / Plot for sale in Samba, Jammu, Samba, Jammu",
-      "locality": "Samba",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "",
-        "SOCIETY_NAME": "",
-        "LOCALITY_ID": "1053018",
-        "LOCALITY_NAME": "Samba",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": null,
-      "bathrooms": "0",
-      "balconies": null,
-      "summary": "0 Bathrooms"
-    },
-    "property_ownership": "Freehold",
-    "floors": null,
-    "property_age": "New / Ready for Possession",
-    "highlights": [
-      "Plot/ land located in samba on byside nh44 highway \n3 kanal 16 marla"
-    ],
-    "key_highlights": [
-      "Industrial Lands/Plots",
-      "7.10 Marla (1598 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [],
-    "furnished_components": [
-      "None explicitly mentioned in description"
-    ],
-    "status": "Ready to Move"
-  },
-  {
     "property_id": "C80950169",
     "url": "https://www.99acres.com/other-commercial-property-for-sale-in-lower-gadigarh-jammu-2500-sqft-r2-spid-C80950169",
     "title": "Commercial property in Lower Gadigarh, Jammu",
     "type_of_property": "Other",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹60,000",
+      "display_price": "\u20b960,000",
       "price_value": 60000,
-      "price_per_sqft": "₹24 /sqft",
-      "price_per_marla": "₹5,400 / Marla"
+      "price_per_sqft": "\u20b924 /sqft",
+      "price_per_marla": "\u20b95,400 / Marla"
     },
     "area": {
       "area_display": "2500 sqft sqft",
@@ -1576,10 +1400,10 @@
     "type_of_property": "Ready to move office space",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹50,000",
+      "display_price": "\u20b950,000",
       "price_value": 50000,
-      "price_per_sqft": "₹231 /sqft",
-      "price_per_marla": "₹51,975 / Marla"
+      "price_per_sqft": "\u20b9231 /sqft",
+      "price_per_marla": "\u20b951,975 / Marla"
     },
     "area": {
       "area_display": "216 sqft sqft",
@@ -1636,10 +1460,10 @@
     "type_of_property": "Commercial Land/Inst. Land",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹95 L",
+      "display_price": "\u20b995 L",
       "price_value": 9500000,
-      "price_per_sqft": "₹2,638 /sqft",
-      "price_per_marla": "₹5.94 L / Marla"
+      "price_per_sqft": "\u20b92,638 /sqft",
+      "price_per_marla": "\u20b95.94 L / Marla"
     },
     "area": {
       "area_display": "3600 sqft sqft",
@@ -1693,10 +1517,10 @@
     "type_of_property": "Commercial Shops",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹26 L",
+      "display_price": "\u20b926 L",
       "price_value": 2600000,
-      "price_per_sqft": "₹8,666 /sqft",
-      "price_per_marla": "₹19.50 L / Marla"
+      "price_per_sqft": "\u20b98,666 /sqft",
+      "price_per_marla": "\u20b919.50 L / Marla"
     },
     "area": {
       "area_display": "300 sqft sqft",
@@ -1750,10 +1574,10 @@
     "type_of_property": "Commercial Shops",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹5 Cr",
+      "display_price": "\u20b95 Cr",
       "price_value": 50000000,
-      "price_per_sqft": "₹1.43 L /sqft",
-      "price_per_marla": "₹3.22 Cr / Marla"
+      "price_per_sqft": "\u20b91.43 L /sqft",
+      "price_per_marla": "\u20b93.22 Cr / Marla"
     },
     "area": {
       "area_display": "350 sqft sqft",
@@ -1811,10 +1635,10 @@
     "type_of_property": "Commercial Land/Inst. Land",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹2.5 Cr",
+      "display_price": "\u20b92.5 Cr",
       "price_value": 25000000,
-      "price_per_sqft": "₹4,444 /sqft",
-      "price_per_marla": "₹10.00 L / Marla"
+      "price_per_sqft": "\u20b94,444 /sqft",
+      "price_per_marla": "\u20b910.00 L / Marla"
     },
     "area": {
       "area_display": "5625 sqft sqft",
@@ -1868,10 +1692,10 @@
     "type_of_property": "Commercial Shops",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹95 L",
+      "display_price": "\u20b995 L",
       "price_value": 9500000,
-      "price_per_sqft": "₹15,322 /sqft",
-      "price_per_marla": "₹34.47 L / Marla"
+      "price_per_sqft": "\u20b915,322 /sqft",
+      "price_per_marla": "\u20b934.47 L / Marla"
     },
     "area": {
       "area_display": "620 sqft sqft",
@@ -1932,10 +1756,10 @@
     "type_of_property": "Commercial Shops",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹5.85 Cr",
+      "display_price": "\u20b95.85 Cr",
       "price_value": 58500000,
-      "price_per_sqft": "₹32,054 /sqft",
-      "price_per_marla": "₹72.12 L / Marla"
+      "price_per_sqft": "\u20b932,054 /sqft",
+      "price_per_marla": "\u20b972.12 L / Marla"
     },
     "area": {
       "area_display": "1825 sqft sq.ft.",
@@ -1995,10 +1819,10 @@
     "type_of_property": "Bare shell office space",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹25 Cr",
+      "display_price": "\u20b925 Cr",
       "price_value": 250000000,
-      "price_per_sqft": "₹25,000 /sqft",
-      "price_per_marla": "₹56.25 L / Marla"
+      "price_per_sqft": "\u20b925,000 /sqft",
+      "price_per_marla": "\u20b956.25 L / Marla"
     },
     "area": {
       "area_display": "10000 sqft sqft",
@@ -2058,10 +1882,10 @@
     "type_of_property": "Commercial Showrooms",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹2.5 L",
+      "display_price": "\u20b92.5 L",
       "price_value": 250000,
-      "price_per_sqft": "₹55 /sqft",
-      "price_per_marla": "₹12,375 / Marla"
+      "price_per_sqft": "\u20b955 /sqft",
+      "price_per_marla": "\u20b912,375 / Marla"
     },
     "area": {
       "area_display": "4500 sqft sqft",
@@ -2118,10 +1942,10 @@
     "type_of_property": "Other",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹90,000",
+      "display_price": "\u20b990,000",
       "price_value": 90000,
-      "price_per_sqft": "₹15 /sqft",
-      "price_per_marla": "₹3,375 / Marla"
+      "price_per_sqft": "\u20b915 /sqft",
+      "price_per_marla": "\u20b93,375 / Marla"
     },
     "area": {
       "area_display": "6000 sqft sqft",
@@ -2160,7 +1984,7 @@
       "Other",
       "2.48 Marla (557 sqft)",
       "Unfurnished",
-      "₹2/MO RENTAL INCOME"
+      "\u20b92/MO RENTAL INCOME"
     ],
     "amenities": [
       "Fire Fighting Equipment"
@@ -2177,10 +2001,10 @@
     "type_of_property": "Commercial Land/Inst. Land",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹85 L",
+      "display_price": "\u20b985 L",
       "price_value": 8500000,
-      "price_per_sqft": "₹1,642 /sqft",
-      "price_per_marla": "₹3.69 L / Marla"
+      "price_per_sqft": "\u20b91,642 /sqft",
+      "price_per_marla": "\u20b93.69 L / Marla"
     },
     "area": {
       "area_display": "5175 sqft sqft",
@@ -2234,10 +2058,10 @@
     "type_of_property": "Industrial Lands/Plots",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹85 L",
+      "display_price": "\u20b985 L",
       "price_value": 8500000,
-      "price_per_sqft": "₹1,642 /sqft",
-      "price_per_marla": "₹3.69 L / Marla"
+      "price_per_sqft": "\u20b91,642 /sqft",
+      "price_per_marla": "\u20b93.69 L / Marla"
     },
     "area": {
       "area_display": "5175 sqft sqft",
@@ -2291,10 +2115,10 @@
     "type_of_property": "Manufacturing",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹50,000",
+      "display_price": "\u20b950,000",
       "price_value": 50000,
-      "price_per_sqft": "₹18 /sqft",
-      "price_per_marla": "₹4,050 / Marla"
+      "price_per_sqft": "\u20b918 /sqft",
+      "price_per_marla": "\u20b94,050 / Marla"
     },
     "area": {
       "area_display": "2700 sqft sqft",
@@ -2342,136 +2166,16 @@
     "status": "Ready to Move"
   },
   {
-    "property_id": "C93942340",
-    "url": "https://www.99acres.com/shop-for-sale-in-bari-brahmana-jammu-4500-sqft-spid-C93942340",
-    "title": "Shop for sale in Bari Brahmana, Jammu",
-    "type_of_property": "Commercial Shops",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹2.5 L",
-      "price_value": 250000,
-      "price_per_sqft": "₹55 /sqft",
-      "price_per_marla": "₹12,375 / Marla"
-    },
-    "area": {
-      "area_display": "4500 sqft sqft",
-      "area_sqft": 418.0635,
-      "area_type": "CARPET_AREA",
-      "area_in_marla": "20.00 Marla"
-    },
-    "address": {
-      "full_address": "Shop for sale in Bari Brahmana, Jammu, Bari Brahmana, Jammu",
-      "locality": "Bari Brahmana",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "VC Tower",
-        "SOCIETY_NAME": "VC Tower",
-        "LOCALITY_ID": "8889",
-        "LOCALITY_NAME": "Bari Brahmana",
-        "LOCATED_INSIDE": "4",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": null,
-      "bathrooms": "0",
-      "balconies": null,
-      "summary": "0 Bathrooms"
-    },
-    "property_ownership": "Freehold",
-    "floors": "Floor G",
-    "property_age": "5-10 years",
-    "highlights": [
-      "A suitable commercial shop for sale in bari brahmana jammu .\n\nWell-Established roads, numerous public utilities and smooth traveling choices, makes this shop/showroom space an obvious preference for any business setup.\n\nConfigurations:\nThe property comes with an area of 4500 sqft and is a quality construction. It offers a modern and friendly working environment. Every detail is carefully selected and crafted with quality.\n\nFeatures and amenities:\nIt comes with the amalgamation of the best interiors and classic features.\nThe place is ideally suitable for any kind of shop/showroom spaces or commercial establishments."
-    ],
-    "key_highlights": [
-      "Commercial Shops",
-      "1.86 Marla (418 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [
-      "Amenity ID 22",
-      "Park",
-      "Maintenance Staff",
-      "Reserved Parking"
-    ],
-    "furnished_components": [
-      "ac"
-    ],
-    "status": "Ready to Move"
-  },
-  {
-    "property_id": "J80572367",
-    "url": "https://www.99acres.com/industrial-land-plot-for-sale-in-jammu-764-sqyd-r2-spid-J80572367",
-    "title": "Industrial land / Plot for sale in mata vaishno devi katra, Jammu",
-    "type_of_property": "Industrial Lands/Plots",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹16 Cr",
-      "price_value": 160000000,
-      "price_per_sqft": "₹23,255 /sqft",
-      "price_per_marla": "₹52.32 L / Marla"
-    },
-    "area": {
-      "area_display": "6880 sqft sqft",
-      "area_sqft": 639.17264,
-      "area_type": "SUPER_AREA",
-      "area_in_marla": "30.58 Marla"
-    },
-    "address": {
-      "full_address": "Industrial land / Plot for sale in mata vaishno devi katra, Jammu, mata vaishno devi katra, Jammu",
-      "locality": "mata vaishno devi katra",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "",
-        "SOCIETY_NAME": "",
-        "LOCALITY_ID": "0",
-        "LOCALITY_NAME": "mata vaishno devi katra",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": null,
-      "bathrooms": "0",
-      "balconies": null,
-      "summary": "0 Bathrooms"
-    },
-    "property_ownership": null,
-    "floors": null,
-    "property_age": "New / Ready for Possession",
-    "highlights": [
-      "I am looking for buyer to purchase industrial land available for sale in mata vaishno devi katra, jammu. Available at price of rs 16 crores. It has plot area of 6880 sq ft."
-    ],
-    "key_highlights": [
-      "Industrial Lands/Plots",
-      "2.84 Marla (639 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [],
-    "furnished_components": [
-      "None explicitly mentioned in description"
-    ],
-    "status": "Ready to Move"
-  },
-  {
     "property_id": "H93925352",
     "url": "https://www.99acres.com/industrial-land-plot-for-sale-in-bishna-jammu-475-sqyd-spid-H93925352",
     "title": "Industrial land / Plot for sale in Bishna, Jammu",
     "type_of_property": "Industrial Lands/Plots",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹60 L",
+      "display_price": "\u20b960 L",
       "price_value": 6000000,
-      "price_per_sqft": "₹1,403 /sqft",
-      "price_per_marla": "₹3.16 L / Marla"
+      "price_per_sqft": "\u20b91,403 /sqft",
+      "price_per_marla": "\u20b93.16 L / Marla"
     },
     "area": {
       "area_display": "4275 sqft sqft",
@@ -2525,10 +2229,10 @@
     "type_of_property": "Commercial Land/Inst. Land",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹4 Cr",
+      "display_price": "\u20b94 Cr",
       "price_value": 40000000,
-      "price_per_sqft": "₹22,805 /sqft",
-      "price_per_marla": "₹51.31 L / Marla"
+      "price_per_sqft": "\u20b922,805 /sqft",
+      "price_per_marla": "\u20b951.31 L / Marla"
     },
     "area": {
       "area_display": "1754 sqft sqft",
@@ -2584,10 +2288,10 @@
     "type_of_property": "Other",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹65 L",
+      "display_price": "\u20b965 L",
       "price_value": 6500000,
-      "price_per_sqft": "₹5,416 /sqft",
-      "price_per_marla": "₹12.19 L / Marla"
+      "price_per_sqft": "\u20b95,416 /sqft",
+      "price_per_marla": "\u20b912.19 L / Marla"
     },
     "area": {
       "area_display": "1200 sqft sqft",
@@ -2643,10 +2347,10 @@
     "type_of_property": "Industrial Lands/Plots",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹64 Cr",
+      "display_price": "\u20b964 Cr",
       "price_value": 640000000,
-      "price_per_sqft": "₹304 /sqft",
-      "price_per_marla": "₹68,400 / Marla"
+      "price_per_sqft": "\u20b9304 /sqft",
+      "price_per_marla": "\u20b968,400 / Marla"
     },
     "area": {
       "area_display": "2100000 sqft sqft",
@@ -2703,10 +2407,10 @@
     "type_of_property": "Commercial Land/Inst. Land",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹64 Cr",
+      "display_price": "\u20b964 Cr",
       "price_value": 640000000,
-      "price_per_sqft": "₹3,047 /sqft",
-      "price_per_marla": "₹6.86 L / Marla"
+      "price_per_sqft": "\u20b93,047 /sqft",
+      "price_per_marla": "\u20b96.86 L / Marla"
     },
     "area": {
       "area_display": "210000 sqft sqft",
@@ -2763,10 +2467,10 @@
     "type_of_property": "Commercial Shops",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹2.5 Cr",
+      "display_price": "\u20b92.5 Cr",
       "price_value": 25000000,
-      "price_per_sqft": "₹19,230 /sqft",
-      "price_per_marla": "₹43.27 L / Marla"
+      "price_per_sqft": "\u20b919,230 /sqft",
+      "price_per_marla": "\u20b943.27 L / Marla"
     },
     "area": {
       "area_display": "1300 sqft sqft",
@@ -2820,10 +2524,10 @@
     "type_of_property": "Ware House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹50,000",
+      "display_price": "\u20b950,000",
       "price_value": 50000,
-      "price_per_sqft": "₹17 /sqft",
-      "price_per_marla": "₹3,825 / Marla"
+      "price_per_sqft": "\u20b917 /sqft",
+      "price_per_marla": "\u20b93,825 / Marla"
     },
     "area": {
       "area_display": "2800 sqft sqft",
@@ -2877,10 +2581,10 @@
     "type_of_property": "Other",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹55,000",
+      "display_price": "\u20b955,000",
       "price_value": 55000,
-      "price_per_sqft": "₹43 /sqft",
-      "price_per_marla": "₹9,675 / Marla"
+      "price_per_sqft": "\u20b943 /sqft",
+      "price_per_marla": "\u20b99,675 / Marla"
     },
     "area": {
       "area_display": "1275 sqft sqft",
@@ -2936,10 +2640,10 @@
     "type_of_property": "Industrial Lands/Plots",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹2 Cr",
+      "display_price": "\u20b92 Cr",
       "price_value": 20000000,
-      "price_per_sqft": "₹153 /sqft",
-      "price_per_marla": "₹34,425 / Marla"
+      "price_per_sqft": "\u20b9153 /sqft",
+      "price_per_marla": "\u20b934,425 / Marla"
     },
     "area": {
       "area_display": "130680 sqft sqft",
@@ -2987,74 +2691,16 @@
     "status": "Ready to Move"
   },
   {
-    "property_id": "K93176026",
-    "url": "https://www.99acres.com/shop-for-sale-in-kunjwani-jammu-221-sqft-spid-K93176026",
-    "title": "Shop for sale in Kunjwani, Jammu",
-    "type_of_property": "Commercial Shops",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹50 L",
-      "price_value": 5000000,
-      "price_per_sqft": "₹22,624 /sqft",
-      "price_per_marla": "₹50.90 L / Marla"
-    },
-    "area": {
-      "area_display": "221 sqft sqft",
-      "area_sqft": 20.531563,
-      "area_type": "CARPET_AREA",
-      "area_in_marla": "0.98 Marla"
-    },
-    "address": {
-      "full_address": "Shop for sale in Kunjwani, Jammu, Kunjwani, Jammu",
-      "locality": "Kunjwani",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "",
-        "SOCIETY_NAME": "",
-        "LOCALITY_ID": "903409",
-        "LOCALITY_NAME": "Kunjwani",
-        "LOCATED_INSIDE": "5",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": null,
-      "bathrooms": "0",
-      "balconies": null,
-      "summary": "0 Bathrooms"
-    },
-    "property_ownership": "Freehold",
-    "floors": "T of 1 floors",
-    "property_age": "5-10 years",
-    "highlights": [
-      "A spacious and well-Designed commercial shop is available in shati nagar near apna vihar opposite army school kaluchak , jammu for sale. This space is located in the near 10 meter national highway (Nh44). This is one of the economic properties in the neighbourhood. The shop has well equipped parking.The building is ready to move and is aged 10+ year. The property is available at 50 lac."
-    ],
-    "key_highlights": [
-      "Commercial Shops",
-      "0.09 Marla (21 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [],
-    "furnished_components": [
-      "ac"
-    ],
-    "status": "Ready to Move"
-  },
-  {
     "property_id": "P93148246",
     "url": "https://www.99acres.com/showroom-for-sale-in-sector-1-paloura-jammu-1000-sqft-spid-P93148246",
     "title": "Showroom for sale in Sector 1 Paloura, Jammu",
     "type_of_property": "Commercial Showrooms",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹3.5 Cr",
+      "display_price": "\u20b93.5 Cr",
       "price_value": 35000000,
-      "price_per_sqft": "₹35,000 /sqft",
-      "price_per_marla": "₹78.75 L / Marla"
+      "price_per_sqft": "\u20b935,000 /sqft",
+      "price_per_marla": "\u20b978.75 L / Marla"
     },
     "area": {
       "area_display": "1000 sqft sqft",
@@ -3109,10 +2755,10 @@
     "type_of_property": "Commercial Shops",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹68 L",
+      "display_price": "\u20b968 L",
       "price_value": 6800000,
-      "price_per_sqft": "₹54,400 /sqft",
-      "price_per_marla": "₹1.22 Cr / Marla"
+      "price_per_sqft": "\u20b954,400 /sqft",
+      "price_per_marla": "\u20b91.22 Cr / Marla"
     },
     "area": {
       "area_display": "125 sqft sq.ft.",
@@ -3161,89 +2807,16 @@
     "status": "Ready to Move"
   },
   {
-    "property_id": "E92933076",
-    "url": "https://www.99acres.com/showroom-for-sale-in-samba-jammu-2800-sqft-spid-E92933076",
-    "title": "Showroom for sale in Samba, Jammu",
-    "type_of_property": "Commercial Showrooms",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹5 L",
-      "price_value": 500000,
-      "price_per_sqft": "₹178 /sqft",
-      "price_per_marla": "₹40,050 / Marla"
-    },
-    "area": {
-      "area_display": "2800 sqft sqft",
-      "area_sqft": 260.1284,
-      "area_type": "CARPET_AREA",
-      "area_in_marla": "12.44 Marla"
-    },
-    "address": {
-      "full_address": "Showroom for sale in Samba, Jammu, Samba, Jammu",
-      "locality": "Samba",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "",
-        "SOCIETY_NAME": "",
-        "LOCALITY_ID": "1053018",
-        "LOCALITY_NAME": "Samba",
-        "LOCATED_INSIDE": "3",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": null,
-      "bathrooms": "0",
-      "balconies": null,
-      "summary": "0 Bathrooms"
-    },
-    "property_ownership": "Freehold",
-    "floors": "3 of 3 floors",
-    "property_age": "6",
-    "highlights": [
-      "It is near aims,samba and provide special feature to our coustmer for their mindful setups and give hue sale because of the property was on nh44"
-    ],
-    "key_highlights": [
-      "Commercial Showrooms",
-      "1.16 Marla (260 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [
-      "Water Supply",
-      "Vaastu Compliant",
-      "ATM",
-      "Amenity ID 11",
-      "Cafeteria/Food Court",
-      "Fire Fighting Equipment",
-      "Gymnasium",
-      "Amenity ID 19",
-      "Reserved Parking",
-      "Amenity ID 26",
-      "Conference Room",
-      "Park",
-      "Maintenance Staff",
-      "Waste Disposal"
-    ],
-    "furnished_components": [
-      "None explicitly mentioned in description"
-    ],
-    "status": "Ready to Move"
-  },
-  {
     "property_id": "V92890628",
     "url": "https://www.99acres.com/warehouse-for-sale-in-chatha-jammu-2450-sqft-spid-V92890628",
     "title": "Warehouse for sale in Chatha, Jammu",
     "type_of_property": "Ware House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹60,000",
+      "display_price": "\u20b960,000",
       "price_value": 60000,
-      "price_per_sqft": "₹24 /sqft",
-      "price_per_marla": "₹5,400 / Marla"
+      "price_per_sqft": "\u20b924 /sqft",
+      "price_per_marla": "\u20b95,400 / Marla"
     },
     "area": {
       "area_display": "2450 sqft sqft",
@@ -3295,73 +2868,16 @@
     "status": "Ready to Move"
   },
   {
-    "property_id": "S92776616",
-    "url": "https://www.99acres.com/warehouse-for-sale-in-bari-brahmana-jammu-1800-sqft-spid-S92776616",
-    "title": "Warehouse for sale in Bari Brahmana, Jammu",
-    "type_of_property": "Ware House",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹40,000",
-      "price_value": 40000,
-      "price_per_sqft": "₹22 /sqft",
-      "price_per_marla": "₹4,950 / Marla"
-    },
-    "area": {
-      "area_display": "1800 sqft sqft",
-      "area_sqft": 167.2254,
-      "area_type": "SUPER_AREA",
-      "area_in_marla": "8.00 Marla"
-    },
-    "address": {
-      "full_address": "Warehouse for sale in Bari Brahmana, Jammu, Bari Brahmana, Jammu",
-      "locality": "Bari Brahmana",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "",
-        "SOCIETY_NAME": "",
-        "LOCALITY_ID": "8889",
-        "LOCALITY_NAME": "Bari Brahmana",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": null,
-      "bathrooms": "0",
-      "balconies": null,
-      "summary": "0 Bathrooms"
-    },
-    "property_ownership": "Freehold",
-    "floors": null,
-    "property_age": "0-1 years",
-    "highlights": [
-      "Godown at nh 44 uniqe location"
-    ],
-    "key_highlights": [
-      "Ware House",
-      "0.74 Marla (167 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [],
-    "furnished_components": [
-      "None explicitly mentioned in description"
-    ],
-    "status": "Ready to Move"
-  },
-  {
     "property_id": "T92743802",
     "url": "https://www.99acres.com/other-commercial-property-for-sale-in-toph-sherkhanian-jammu-30-sqft-spid-T92743802",
     "title": "Commercial property in Toph Sherkhanian, Jammu",
     "type_of_property": "Other",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹25,000",
+      "display_price": "\u20b925,000",
       "price_value": 25000,
-      "price_per_sqft": "₹833 /sqft",
-      "price_per_marla": "₹1.87 L / Marla"
+      "price_per_sqft": "\u20b9833 /sqft",
+      "price_per_marla": "\u20b91.87 L / Marla"
     },
     "area": {
       "area_display": "30 sqft sqft",
@@ -3415,10 +2931,10 @@
     "type_of_property": "Other",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹1.35 L",
+      "display_price": "\u20b91.35 L",
       "price_value": 135000,
-      "price_per_sqft": "₹52 /sqft",
-      "price_per_marla": "₹11,700 / Marla"
+      "price_per_sqft": "\u20b952 /sqft",
+      "price_per_marla": "\u20b911,700 / Marla"
     },
     "area": {
       "area_display": "3800 sqft sqft",
@@ -3475,10 +2991,10 @@
     "type_of_property": "Factory",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹75 L",
+      "display_price": "\u20b975 L",
       "price_value": 7500000,
-      "price_per_sqft": "₹37,500 /sqft",
-      "price_per_marla": "₹84.38 L / Marla"
+      "price_per_sqft": "\u20b937,500 /sqft",
+      "price_per_marla": "\u20b984.38 L / Marla"
     },
     "area": {
       "area_display": "200 sqft sqft",
@@ -3535,10 +3051,10 @@
     "type_of_property": "Other",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹7 Cr",
+      "display_price": "\u20b97 Cr",
       "price_value": 70000000,
-      "price_per_sqft": "₹1.75 L /sqft",
-      "price_per_marla": "₹3.94 Cr / Marla"
+      "price_per_sqft": "\u20b91.75 L /sqft",
+      "price_per_marla": "\u20b93.94 Cr / Marla"
     },
     "area": {
       "area_display": "401 sqft sqft",
@@ -3589,310 +3105,16 @@
     "status": "Ready to Move"
   },
   {
-    "property_id": "P82074434",
-    "url": "https://www.99acres.com/warehouse-for-sale-in-vijaypur-jammu-1800-sqft-r2-spid-P82074434",
-    "title": "Warehouse for sale in Vijaypur, Jammu",
-    "type_of_property": "Ware House",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹50,000",
-      "price_value": 50000,
-      "price_per_sqft": "₹27 /sqft",
-      "price_per_marla": "₹6,075 / Marla"
-    },
-    "area": {
-      "area_display": "1800 sqft sqft",
-      "area_sqft": 167.2254,
-      "area_type": "SUPER_AREA",
-      "area_in_marla": "8.00 Marla"
-    },
-    "address": {
-      "full_address": "Warehouse for sale in Vijaypur, Jammu, Vijaypur, Jammu",
-      "locality": "Vijaypur",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "",
-        "SOCIETY_NAME": "",
-        "LOCALITY_ID": "1045770",
-        "LOCALITY_NAME": "Vijaypur",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": null,
-      "bathrooms": "0",
-      "balconies": null,
-      "summary": "0 Bathrooms"
-    },
-    "property_ownership": "Power of Attorney",
-    "floors": null,
-    "property_age": "6",
-    "highlights": [
-      "500 meters from aiims vijaypur jammu,near hanuman mandir on national highway"
-    ],
-    "key_highlights": [
-      "Ware House",
-      "0.74 Marla (167 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [
-      "Amenity ID 19"
-    ],
-    "furnished_components": [
-      "None explicitly mentioned in description"
-    ],
-    "status": "Ready to Move"
-  },
-  {
-    "property_id": "H92451966",
-    "url": "https://www.99acres.com/commercial-institutional-land-for-sale-in-bari-brahmana-jammu-1111-sqyd-spid-H92451966",
-    "title": "Commercial plot / Land for sale in Bari Brahmana, Jammu",
-    "type_of_property": "Commercial Land/Inst. Land",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹1.6 Cr",
-      "price_value": 16000000,
-      "price_per_sqft": "₹1,600 /sqft",
-      "price_per_marla": "₹3.60 L / Marla"
-    },
-    "area": {
-      "area_display": "10000 sqft sqft",
-      "area_sqft": 929.03,
-      "area_type": "SUPER_AREA",
-      "area_in_marla": "44.44 Marla"
-    },
-    "address": {
-      "full_address": "Commercial plot / Land for sale in Bari Brahmana, Jammu, Bari Brahmana, Jammu",
-      "locality": "Bari Brahmana",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "",
-        "SOCIETY_NAME": "",
-        "LOCALITY_ID": "8889",
-        "LOCALITY_NAME": "Bari Brahmana",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": null,
-      "bathrooms": "0",
-      "balconies": null,
-      "summary": "0 Bathrooms"
-    },
-    "property_ownership": "Leasehold",
-    "floors": null,
-    "property_age": "New / Ready for Possession",
-    "highlights": [
-      "It is a good property to do business in jammu"
-    ],
-    "key_highlights": [
-      "Commercial Land/Inst. Land",
-      "4.13 Marla (929 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [],
-    "furnished_components": [
-      "None explicitly mentioned in description"
-    ],
-    "status": "Ready to Move"
-  },
-  {
-    "property_id": "D91976756",
-    "url": "https://www.99acres.com/commercial-institutional-land-for-sale-in-vijaypur-jammu-303-sqyd-spid-D91976756",
-    "title": "Commercial plot / Land for sale in Vijaypur, Jammu",
-    "type_of_property": "Commercial Land/Inst. Land",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹1.4 Cr",
-      "price_value": 14000000,
-      "price_per_sqft": "₹5,131 /sqft",
-      "price_per_marla": "₹11.54 L / Marla"
-    },
-    "area": {
-      "area_display": "2728 sqft sqft",
-      "area_sqft": 253.439384,
-      "area_type": "SUPER_AREA",
-      "area_in_marla": "12.12 Marla"
-    },
-    "address": {
-      "full_address": "Commercial plot / Land for sale in Vijaypur, Jammu, Vijaypur, Jammu",
-      "locality": "Vijaypur",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "10 marla(6 and 4 marla)",
-        "SOCIETY_NAME": "10 marla(6 and 4 marla)",
-        "LOCALITY_ID": "1045770",
-        "LOCALITY_NAME": "Vijaypur",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": null,
-      "bathrooms": "0",
-      "balconies": null,
-      "summary": "0 Bathrooms"
-    },
-    "property_ownership": "Freehold",
-    "floors": null,
-    "property_age": "New / Ready for Possession",
-    "highlights": [
-      "10 marla plot for sale. Sale- 6 marla and 4 marla seperately if u want to buy. Best location near boundary wall aiims residential complex. Great opportunity for u..."
-    ],
-    "key_highlights": [
-      "Commercial Land/Inst. Land",
-      "1.13 Marla (253 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [],
-    "furnished_components": [
-      "None explicitly mentioned in description"
-    ],
-    "status": "Ready to Move"
-  },
-  {
-    "property_id": "L91944674",
-    "url": "https://www.99acres.com/shop-for-sale-in-vijaypur-jammu-180-sqft-spid-L91944674",
-    "title": "Shop for sale in Vijaypur, Jammu",
-    "type_of_property": "Commercial Shops",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹2.5 Cr",
-      "price_value": 25000000,
-      "price_per_sqft": "₹1.39 L /sqft",
-      "price_per_marla": "₹3.13 Cr / Marla"
-    },
-    "area": {
-      "area_display": "180 sqft sqft",
-      "area_sqft": 16.72254,
-      "area_type": "CARPET_AREA",
-      "area_in_marla": "0.80 Marla"
-    },
-    "address": {
-      "full_address": "Shop for sale in Vijaypur, Jammu, Vijaypur, Jammu",
-      "locality": "Vijaypur",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "railway chowk ",
-        "SOCIETY_NAME": "railway chowk ",
-        "LOCALITY_ID": "1045770",
-        "LOCALITY_NAME": "Vijaypur",
-        "LOCATED_INSIDE": "5",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": null,
-      "bathrooms": "0",
-      "balconies": null,
-      "summary": "0 Bathrooms"
-    },
-    "property_ownership": "Freehold",
-    "floors": "Total 1 floors",
-    "property_age": "5-10 years",
-    "highlights": [
-      "Situated at railway chowk, vijaypur, this 180 sqft commercial shop is available for immediate sale at rs 2.5 crore. Over 10 years old, the property offers a prime spot for business in a bustling area of jammu, combining convenience with established foot traffic. Ideal for entrepreneurs seeking a ready-To-Use commercial space."
-    ],
-    "key_highlights": [
-      "Commercial Shops",
-      "0.07 Marla (17 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [
-      "Amenity ID 22"
-    ],
-    "furnished_components": [
-      "ac"
-    ],
-    "status": "Ready to Move"
-  },
-  {
-    "property_id": "J91903992",
-    "url": "https://www.99acres.com/bare-shell-office-space-for-sale-in-jammu-909-sqft-spid-J91903992",
-    "title": "Bare shell Office Space for sale in Sunderbani, Jammu",
-    "type_of_property": "Bare shell office space",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹90,000",
-      "price_value": 90000,
-      "price_per_sqft": "₹99 /sqft",
-      "price_per_marla": "₹22,275 / Marla"
-    },
-    "area": {
-      "area_display": "909 sqft sqft",
-      "area_sqft": 84.448827,
-      "area_type": "SUPERBUILTUP_AREA",
-      "area_in_marla": "4.04 Marla"
-    },
-    "address": {
-      "full_address": "Bare shell Office Space for sale in Sunderbani, Jammu, Sunderbani, Jammu",
-      "locality": "Sunderbani",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "",
-        "SOCIETY_NAME": "",
-        "LOCALITY_ID": "0",
-        "LOCALITY_NAME": "Sunderbani",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": null,
-      "bathrooms": "0",
-      "balconies": null,
-      "summary": "0 Bathrooms"
-    },
-    "property_ownership": "Freehold",
-    "floors": "B,1,2,3 of 3 floors",
-    "property_age": "Under Construction",
-    "highlights": [
-      "It can be made to your idea as it not fully furnished or completed so it can be made up to your design"
-    ],
-    "key_highlights": [
-      "Bare shell office space",
-      "0.38 Marla (84 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [
-      "Lift",
-      "Fire Fighting Equipment",
-      "Park"
-    ],
-    "furnished_components": [
-      "None explicitly mentioned in description"
-    ],
-    "status": "Ready to Move"
-  },
-  {
     "property_id": "C91791982",
     "url": "https://www.99acres.com/warehouse-for-sale-in-domana-jammu-192-sqft-spid-C91791982",
     "title": "Warehouse for sale in Domana, Jammu",
     "type_of_property": "Ware House",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹22 L",
+      "display_price": "\u20b922 L",
       "price_value": 2200000,
-      "price_per_sqft": "₹11,458 /sqft",
-      "price_per_marla": "₹25.78 L / Marla"
+      "price_per_sqft": "\u20b911,458 /sqft",
+      "price_per_marla": "\u20b925.78 L / Marla"
     },
     "area": {
       "area_display": "192 sqft sqft",
@@ -3946,10 +3168,10 @@
     "type_of_property": "Commercial Shops",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹22 L",
+      "display_price": "\u20b922 L",
       "price_value": 2200000,
-      "price_per_sqft": "₹11,458 /sqft",
-      "price_per_marla": "₹25.78 L / Marla"
+      "price_per_sqft": "\u20b911,458 /sqft",
+      "price_per_marla": "\u20b925.78 L / Marla"
     },
     "area": {
       "area_display": "192 sqft sqft",
@@ -4004,10 +3226,10 @@
     "type_of_property": "Commercial Shops",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹2.2 Cr",
+      "display_price": "\u20b92.2 Cr",
       "price_value": 22000000,
-      "price_per_sqft": "₹40,000 /sqft",
-      "price_per_marla": "₹90.00 L / Marla"
+      "price_per_sqft": "\u20b940,000 /sqft",
+      "price_per_marla": "\u20b990.00 L / Marla"
     },
     "area": {
       "area_display": "550 sqft sqft",
@@ -4066,10 +3288,10 @@
     "type_of_property": "Agricultural/Farm Land",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹20 L",
+      "display_price": "\u20b920 L",
       "price_value": 2000000,
-      "price_per_sqft": "₹183 /sqft",
-      "price_per_marla": "₹41,175 / Marla"
+      "price_per_sqft": "\u20b9183 /sqft",
+      "price_per_marla": "\u20b941,175 / Marla"
     },
     "area": {
       "area_display": "10875 sqft sqft",
@@ -4123,10 +3345,10 @@
     "type_of_property": "Commercial Shops",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹35 L",
+      "display_price": "\u20b935 L",
       "price_value": 3500000,
-      "price_per_sqft": "₹3.5 L /sqft",
-      "price_per_marla": "₹7.88 Cr / Marla"
+      "price_per_sqft": "\u20b93.5 L /sqft",
+      "price_per_marla": "\u20b97.88 Cr / Marla"
     },
     "area": {
       "area_display": "10 sqft sqft",
@@ -4187,10 +3409,10 @@
     "type_of_property": "Commercial Showrooms",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹26 L",
+      "display_price": "\u20b926 L",
       "price_value": 2600000,
-      "price_per_sqft": "₹9,285 /sqft",
-      "price_per_marla": "₹20.89 L / Marla"
+      "price_per_sqft": "\u20b99,285 /sqft",
+      "price_per_marla": "\u20b920.89 L / Marla"
     },
     "area": {
       "area_display": "280 sqft sqft",
@@ -4254,10 +3476,10 @@
     "type_of_property": "Commercial Showrooms",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹8.5 Cr",
+      "display_price": "\u20b98.5 Cr",
       "price_value": 85000000,
-      "price_per_sqft": "₹17,708 /sqft",
-      "price_per_marla": "₹39.84 L / Marla"
+      "price_per_sqft": "\u20b917,708 /sqft",
+      "price_per_marla": "\u20b939.84 L / Marla"
     },
     "area": {
       "area_display": "4800 sqft sqft",
@@ -4314,10 +3536,10 @@
     "type_of_property": "Commercial Shops",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹20 L",
+      "display_price": "\u20b920 L",
       "price_value": 2000000,
-      "price_per_sqft": "₹25,000 /sqft",
-      "price_per_marla": "₹56.25 L / Marla"
+      "price_per_sqft": "\u20b925,000 /sqft",
+      "price_per_marla": "\u20b956.25 L / Marla"
     },
     "area": {
       "area_display": "80 sqft sqft",
@@ -4378,10 +3600,10 @@
     "type_of_property": "Commercial Showrooms",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹2 Cr",
+      "display_price": "\u20b92 Cr",
       "price_value": 20000000,
-      "price_per_sqft": "₹36,363 /sqft",
-      "price_per_marla": "₹81.82 L / Marla"
+      "price_per_sqft": "\u20b936,363 /sqft",
+      "price_per_marla": "\u20b981.82 L / Marla"
     },
     "area": {
       "area_display": "550 sqft sqft",
@@ -4435,73 +3657,16 @@
     "status": "Ready to Move"
   },
   {
-    "property_id": "S91052740",
-    "url": "https://www.99acres.com/agricultural-farm-land-for-sale-in-samba-jammu-3630-sqyd-spid-S91052740",
-    "title": "Farm / Agriculture land for sale in Samba, Jammu",
-    "type_of_property": "Agricultural/Farm Land",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹1.5 Cr",
-      "price_value": 15000000,
-      "price_per_sqft": "₹459 /sqft",
-      "price_per_marla": "₹1.03 L / Marla"
-    },
-    "area": {
-      "area_display": "32669 sqft sqft",
-      "area_sqft": 3035.048107,
-      "area_type": "SUPER_AREA",
-      "area_in_marla": "145.20 Marla"
-    },
-    "address": {
-      "full_address": "Farm / Agriculture land for sale in Samba, Jammu, Samba, Jammu",
-      "locality": "Samba",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "",
-        "SOCIETY_NAME": "",
-        "LOCALITY_ID": "1053018",
-        "LOCALITY_NAME": "Samba",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": null,
-      "bathrooms": "0",
-      "balconies": null,
-      "summary": "0 Bathrooms"
-    },
-    "property_ownership": null,
-    "floors": null,
-    "property_age": "New / Ready for Possession",
-    "highlights": [
-      "6 kanal of land with boundary plinth constructed"
-    ],
-    "key_highlights": [
-      "Agricultural/Farm Land",
-      "13.49 Marla (3035 sqft)",
-      "Unfurnished",
-      "UNDER CONSTRUCTION"
-    ],
-    "amenities": [],
-    "furnished_components": [
-      "None explicitly mentioned in description"
-    ],
-    "status": "UNDER CONSTRUCTION"
-  },
-  {
     "property_id": "Q91025158",
     "url": "https://www.99acres.com/agricultural-farm-land-for-sale-in-mishriwala-jammu-5144-sqyd-spid-Q91025158",
     "title": "Farm / Agriculture land for sale in Mishriwala, Jammu",
     "type_of_property": "Agricultural/Farm Land",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹4.2 L",
+      "display_price": "\u20b94.2 L",
       "price_value": 420000,
-      "price_per_sqft": "₹9 /sqft",
-      "price_per_marla": "₹2,025 / Marla"
+      "price_per_sqft": "\u20b99 /sqft",
+      "price_per_marla": "\u20b92,025 / Marla"
     },
     "area": {
       "area_display": "46295 sqft sqft",
@@ -4557,10 +3722,10 @@
     "type_of_property": "Commercial Land/Inst. Land",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹3 Cr",
+      "display_price": "\u20b93 Cr",
       "price_value": 30000000,
-      "price_per_sqft": "₹64 /sqft",
-      "price_per_marla": "₹14,400 / Marla"
+      "price_per_sqft": "\u20b964 /sqft",
+      "price_per_marla": "\u20b914,400 / Marla"
     },
     "area": {
       "area_display": "462824 sqft sqft",
@@ -4614,10 +3779,10 @@
     "type_of_property": "Commercial Land/Inst. Land",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹15 L",
+      "display_price": "\u20b915 L",
       "price_value": 1500000,
-      "price_per_sqft": "₹266 /sqft",
-      "price_per_marla": "₹59,850 / Marla"
+      "price_per_sqft": "\u20b9266 /sqft",
+      "price_per_marla": "\u20b959,850 / Marla"
     },
     "area": {
       "area_display": "5625 sqft sqft",
@@ -4675,10 +3840,10 @@
     "type_of_property": "Commercial Shops",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹1.2 Cr",
+      "display_price": "\u20b91.2 Cr",
       "price_value": 12000000,
-      "price_per_sqft": "₹45,454 /sqft",
-      "price_per_marla": "₹1.02 Cr / Marla"
+      "price_per_sqft": "\u20b945,454 /sqft",
+      "price_per_marla": "\u20b91.02 Cr / Marla"
     },
     "area": {
       "area_display": "264 sqft sqft",
@@ -4733,10 +3898,10 @@
     "type_of_property": "Commercial Shops",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹1.3 Cr",
+      "display_price": "\u20b91.3 Cr",
       "price_value": 13000000,
-      "price_per_sqft": "₹16,250 /sqft",
-      "price_per_marla": "₹36.56 L / Marla"
+      "price_per_sqft": "\u20b916,250 /sqft",
+      "price_per_marla": "\u20b936.56 L / Marla"
     },
     "area": {
       "area_display": "800 sqft sqft",
@@ -4791,10 +3956,10 @@
     "type_of_property": "Factory",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹1.5 Cr",
+      "display_price": "\u20b91.5 Cr",
       "price_value": 15000000,
-      "price_per_sqft": "₹32 /sqft",
-      "price_per_marla": "₹7,200 / Marla"
+      "price_per_sqft": "\u20b932 /sqft",
+      "price_per_marla": "\u20b97,200 / Marla"
     },
     "area": {
       "area_display": "462824 sqft kanal",
@@ -4842,74 +4007,16 @@
     "status": "Ready to Move"
   },
   {
-    "property_id": "Q90596818",
-    "url": "https://www.99acres.com/shop-for-sale-in-vijaypur-jammu-527-sqft-spid-Q90596818",
-    "title": "Shop for sale in Vijaypur, Jammu",
-    "type_of_property": "Commercial Shops",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹1.6 Cr",
-      "price_value": 16000000,
-      "price_per_sqft": "₹30,360 /sqft",
-      "price_per_marla": "₹68.31 L / Marla"
-    },
-    "area": {
-      "area_display": "527 sqft sqft",
-      "area_sqft": 48.959881,
-      "area_type": "CARPET_AREA",
-      "area_in_marla": "2.34 Marla"
-    },
-    "address": {
-      "full_address": "Shop for sale in Vijaypur, Jammu, Vijaypur, Jammu",
-      "locality": "Vijaypur",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "purana mohalla ",
-        "SOCIETY_NAME": "purana mohalla ",
-        "LOCALITY_ID": "1045770",
-        "LOCALITY_NAME": "Vijaypur",
-        "LOCATED_INSIDE": "5",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": null,
-      "bathrooms": "0",
-      "balconies": null,
-      "summary": "0 Bathrooms"
-    },
-    "property_ownership": null,
-    "floors": "Total 3 floors",
-    "property_age": "1-5 years",
-    "highlights": [
-      "Located in purana mohalla, vijaypur, these commercial shops span 527 sq.Ft. And are available for immediate sale at rs1.6 crore. The property, aged between 5-10 years, offers a strategic spot for businesses seeking a well-Established commercial area in jammu."
-    ],
-    "key_highlights": [
-      "Commercial Shops",
-      "0.22 Marla (49 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [],
-    "furnished_components": [
-      "None explicitly mentioned in description"
-    ],
-    "status": "Ready to Move"
-  },
-  {
     "property_id": "J90566384",
     "url": "https://www.99acres.com/other-commercial-property-for-sale-in-pakki-dhaki-jammu-27225-sqft-spid-J90566384",
     "title": "Commercial property in Pakki Dhaki, Jammu",
     "type_of_property": "Other",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹5 Cr",
+      "display_price": "\u20b95 Cr",
       "price_value": 50000000,
-      "price_per_sqft": "₹191 /sqft",
-      "price_per_marla": "₹42,975 / Marla"
+      "price_per_sqft": "\u20b9191 /sqft",
+      "price_per_marla": "\u20b942,975 / Marla"
     },
     "area": {
       "area_display": "27224 sqft kanal",
@@ -4963,10 +4070,10 @@
     "type_of_property": "Commercial Shops",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹65 L",
+      "display_price": "\u20b965 L",
       "price_value": 6500000,
-      "price_per_sqft": "₹4,642 /sqft",
-      "price_per_marla": "₹10.44 L / Marla"
+      "price_per_sqft": "\u20b94,642 /sqft",
+      "price_per_marla": "\u20b910.44 L / Marla"
     },
     "area": {
       "area_display": "1400 sqft sqft",
@@ -5014,79 +4121,16 @@
     "status": "Ready to Move"
   },
   {
-    "property_id": "S90025568",
-    "url": "https://www.99acres.com/shop-for-sale-in-bari-brahmana-jammu-1153-sqft-spid-S90025568",
-    "title": "Shop for sale in Bari Brahmana, Jammu",
-    "type_of_property": "Commercial Shops",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹82 L",
-      "price_value": 8200000,
-      "price_per_sqft": "₹7,118 /sqft",
-      "price_per_marla": "₹16.02 L / Marla"
-    },
-    "area": {
-      "area_display": "1152 sqft sq.ft.",
-      "area_sqft": 1153,
-      "area_type": "CARPET_AREA",
-      "area_in_marla": "5.12 Marla"
-    },
-    "address": {
-      "full_address": "Shop for sale in Bari Brahmana, Jammu, Bari Brahmana, Jammu",
-      "locality": "Bari Brahmana",
-      "city": "Jammu",
-      "coordinates": {
-        "CITY": "111",
-        "CITY_NAME": "Jammu",
-        "BUILDING_ID": "0",
-        "BUILDING_NAME": "main chowk ",
-        "SOCIETY_NAME": "main chowk ",
-        "LOCALITY_ID": "8889",
-        "LOCALITY_NAME": "Bari Brahmana",
-        "LOCATED_INSIDE": "5",
-        "CITY_SEO_ENTITY_LABEL": "Jammu"
-      }
-    },
-    "configuration": {
-      "bedrooms": null,
-      "bathrooms": "0",
-      "balconies": null,
-      "summary": "0 Bathrooms"
-    },
-    "property_ownership": "Freehold",
-    "floors": "G of 3 floors",
-    "property_age": "5-10 years",
-    "highlights": [
-      "Situated at main chowk, bari brahmana, this 1153 sq.Ft. Commercial shop on the ground floor of a 3-Story building is available for immediate sale. Priced at rs1.1 crore, the property offers excellent visibility and accessibility, ideal for businesses seeking a prime location in jammus bustling commercial hub."
-    ],
-    "key_highlights": [
-      "Commercial Shops",
-      "5.12 Marla (1153 sqft)",
-      "Unfurnished",
-      "Ready to Move"
-    ],
-    "amenities": [
-      "Amenity ID 11",
-      "Cafeteria/Food Court",
-      "Gymnasium",
-      "Conference Room"
-    ],
-    "furnished_components": [
-      "ac"
-    ],
-    "status": "Ready to Move"
-  },
-  {
     "property_id": "C89884696",
     "url": "https://www.99acres.com/commercial-institutional-land-for-sale-in-lower-muthi-jammu-125-sqyd-spid-C89884696",
     "title": "Commercial plot / Land for sale in Lower Muthi, Jammu",
     "type_of_property": "Commercial Land/Inst. Land",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹25 L",
+      "display_price": "\u20b925 L",
       "price_value": 2500000,
-      "price_per_sqft": "₹2,222 /sqft",
-      "price_per_marla": "₹5.00 L / Marla"
+      "price_per_sqft": "\u20b92,222 /sqft",
+      "price_per_marla": "\u20b95.00 L / Marla"
     },
     "area": {
       "area_display": "1125 sqft sqft",
@@ -5140,10 +4184,10 @@
     "type_of_property": "Commercial Land/Inst. Land",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹1.05 Cr",
+      "display_price": "\u20b91.05 Cr",
       "price_value": 10500000,
-      "price_per_sqft": "₹964 /sqft",
-      "price_per_marla": "₹2.17 L / Marla"
+      "price_per_sqft": "\u20b9964 /sqft",
+      "price_per_marla": "\u20b92.17 L / Marla"
     },
     "area": {
       "area_display": "10889 sqft sqft",
@@ -5199,10 +4243,10 @@
     "type_of_property": "Agricultural/Farm Land",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹3.2 Cr",
+      "display_price": "\u20b93.2 Cr",
       "price_value": 32000000,
-      "price_per_sqft": "₹839 /sqft",
-      "price_per_marla": "₹1.89 L / Marla"
+      "price_per_sqft": "\u20b9839 /sqft",
+      "price_per_marla": "\u20b91.89 L / Marla"
     },
     "area": {
       "area_display": "38114 sqft sqft",
@@ -5256,10 +4300,10 @@
     "type_of_property": "Other",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹32 L",
+      "display_price": "\u20b932 L",
       "price_value": 3200000,
-      "price_per_sqft": "₹9,808 /sqft",
-      "price_per_marla": "₹22.07 L / Marla"
+      "price_per_sqft": "\u20b99,808 /sqft",
+      "price_per_marla": "\u20b922.07 L / Marla"
     },
     "area": {
       "area_display": "326 sqft sqft",
@@ -5313,10 +4357,10 @@
     "type_of_property": "Commercial Land/Inst. Land",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹18 Cr",
+      "display_price": "\u20b918 Cr",
       "price_value": 180000000,
-      "price_per_sqft": "₹12,949 /sqft",
-      "price_per_marla": "₹29.14 L / Marla"
+      "price_per_sqft": "\u20b912,949 /sqft",
+      "price_per_marla": "\u20b929.14 L / Marla"
     },
     "area": {
       "area_display": "13900 sqft sqft",
@@ -5371,10 +4415,10 @@
     "type_of_property": "Commercial Land/Inst. Land",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹30 L",
+      "display_price": "\u20b930 L",
       "price_value": 3000000,
-      "price_per_sqft": "₹2,205 /sqft",
-      "price_per_marla": "₹4.96 L / Marla"
+      "price_per_sqft": "\u20b92,205 /sqft",
+      "price_per_marla": "\u20b94.96 L / Marla"
     },
     "area": {
       "area_display": "1360 sqft sqft",
@@ -5428,10 +4472,10 @@
     "type_of_property": "Commercial Shops",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹55 L",
+      "display_price": "\u20b955 L",
       "price_value": 5500000,
-      "price_per_sqft": "₹12,222 /sqft",
-      "price_per_marla": "₹27.50 L / Marla"
+      "price_per_sqft": "\u20b912,222 /sqft",
+      "price_per_marla": "\u20b927.50 L / Marla"
     },
     "area": {
       "area_display": "450 sqft sqft",
@@ -5486,10 +4530,10 @@
     "type_of_property": "Ready to move office space",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹2 Cr",
+      "display_price": "\u20b92 Cr",
       "price_value": 20000000,
-      "price_per_sqft": "₹3,333 /sqft",
-      "price_per_marla": "₹7.50 L / Marla"
+      "price_per_sqft": "\u20b93,333 /sqft",
+      "price_per_marla": "\u20b97.50 L / Marla"
     },
     "area": {
       "area_display": "6000 sqft sqft",
@@ -5543,10 +4587,10 @@
     "type_of_property": "Ready to move office space",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹7 Cr",
+      "display_price": "\u20b97 Cr",
       "price_value": 70000000,
-      "price_per_sqft": "₹3,181 /sqft",
-      "price_per_marla": "₹7.16 L / Marla"
+      "price_per_sqft": "\u20b93,181 /sqft",
+      "price_per_marla": "\u20b97.16 L / Marla"
     },
     "area": {
       "area_display": "22000 sqft sqft",
@@ -5606,10 +4650,10 @@
     "type_of_property": "Manufacturing",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹6.5 Cr",
+      "display_price": "\u20b96.5 Cr",
       "price_value": 65000000,
-      "price_per_sqft": "₹2,321 /sqft",
-      "price_per_marla": "₹5.22 L / Marla"
+      "price_per_sqft": "\u20b92,321 /sqft",
+      "price_per_marla": "\u20b95.22 L / Marla"
     },
     "area": {
       "area_display": "8500 sqft sq.ft.",
@@ -5654,6 +4698,64 @@
     "amenities": [],
     "furnished_components": [
       "None explicitly mentioned in description"
+    ],
+    "status": "Ready to Move"
+  },
+  {
+    "property_id": "K93176026",
+    "url": "https://www.99acres.com/shop-for-sale-in-kunjwani-jammu-221-sqft-spid-K93176026",
+    "title": "Shop for sale in Kunjwani, Jammu",
+    "type_of_property": "Commercial Shops",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "\u20b950 L",
+      "price_value": 5000000,
+      "price_per_sqft": "\u20b922,624 /sqft",
+      "price_per_marla": "\u20b950.90 L / Marla"
+    },
+    "area": {
+      "area_display": "221 sqft sqft",
+      "area_sqft": 20.531563,
+      "area_type": "CARPET_AREA",
+      "area_in_marla": "0.98 Marla"
+    },
+    "address": {
+      "full_address": "Shop for sale in Kunjwani, Jammu, Kunjwani, Jammu",
+      "locality": "Kunjwani",
+      "city": "Jammu",
+      "coordinates": {
+        "CITY": "111",
+        "CITY_NAME": "Jammu",
+        "BUILDING_ID": "0",
+        "BUILDING_NAME": "",
+        "SOCIETY_NAME": "",
+        "LOCALITY_ID": "903409",
+        "LOCALITY_NAME": "Kunjwani",
+        "LOCATED_INSIDE": "5",
+        "CITY_SEO_ENTITY_LABEL": "Jammu"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": "0",
+      "balconies": null,
+      "summary": "0 Bathrooms"
+    },
+    "property_ownership": "Freehold",
+    "floors": "T of 1 floors",
+    "property_age": "5-10 years",
+    "highlights": [
+      "A spacious and well-Designed commercial shop is available in shati nagar near apna vihar opposite army school kaluchak , jammu for sale. This space is located in the near 10 meter national highway (Nh44). This is one of the economic properties in the neighbourhood. The shop has well equipped parking.The building is ready to move and is aged 10+ year. The property is available at 50 lac."
+    ],
+    "key_highlights": [
+      "Commercial Shops",
+      "0.09 Marla (21 sqft)",
+      "Unfurnished",
+      "Ready to Move"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "ac"
     ],
     "status": "Ready to Move"
   }

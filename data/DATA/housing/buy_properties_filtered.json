@@ -6,10 +6,10 @@
     "type_of_property": "Apartment / Flat",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹55.0 L",
+      "display_price": "\u20b955.0 L",
       "price_value": 5500000,
-      "price_per_sqft": "₹5.67 K/sq.ft",
-      "price_per_marla": "₹12.76 L / Marla"
+      "price_per_sqft": "\u20b95.67 K/sq.ft",
+      "price_per_marla": "\u20b912.76 L / Marla"
     },
     "area": {
       "area_display": "970 sq.ft",
@@ -60,10 +60,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹55.0 L",
+      "display_price": "\u20b955.0 L",
       "price_value": 5500000,
-      "price_per_sqft": "₹4.04 K/sq.ft",
-      "price_per_marla": "₹9.11 L / Marla"
+      "price_per_sqft": "\u20b94.04 K/sq.ft",
+      "price_per_marla": "\u20b99.11 L / Marla"
     },
     "area": {
       "area_display": "1360 sq.ft",
@@ -107,10 +107,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹3.5 L",
+      "display_price": "\u20b93.5 L",
       "price_value": 350000,
-      "price_per_sqft": "₹583/sq.yd",
-      "price_per_marla": "₹1.31 L / Marla"
+      "price_per_sqft": "\u20b9583/sq.yd",
+      "price_per_marla": "\u20b91.31 L / Marla"
     },
     "area": {
       "area_display": "600 sq.yd",
@@ -157,10 +157,10 @@
     "type_of_property": "Apartment / Flat",
     "furnished_status": "Semi Furnished",
     "price": {
-      "display_price": "₹30.0 L",
+      "display_price": "\u20b930.0 L",
       "price_value": 3000000,
-      "price_per_sqft": "₹7.5 K/sq.ft",
-      "price_per_marla": "₹16.85 L / Marla"
+      "price_per_sqft": "\u20b97.5 K/sq.ft",
+      "price_per_marla": "\u20b916.85 L / Marla"
     },
     "area": {
       "area_display": "400 sq.ft",
@@ -209,10 +209,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Fully Furnished",
     "price": {
-      "display_price": "₹1.5 Cr",
+      "display_price": "\u20b91.5 Cr",
       "price_value": 15000000,
-      "price_per_sqft": "₹3.44 K/sq.ft",
-      "price_per_marla": "₹7.75 L / Marla"
+      "price_per_sqft": "\u20b93.44 K/sq.ft",
+      "price_per_marla": "\u20b97.75 L / Marla"
     },
     "area": {
       "area_display": "4356 sq.ft",
@@ -266,10 +266,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Semi Furnished",
     "price": {
-      "display_price": "₹1.2 Cr",
+      "display_price": "\u20b91.2 Cr",
       "price_value": 12000000,
-      "price_per_sqft": "₹4.64 K/sq.ft",
-      "price_per_marla": "₹10.44 L / Marla"
+      "price_per_sqft": "\u20b94.64 K/sq.ft",
+      "price_per_marla": "\u20b910.44 L / Marla"
     },
     "area": {
       "area_display": "2586 sq.ft",
@@ -316,10 +316,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Semi Furnished",
     "price": {
-      "display_price": "₹1.25 Cr",
+      "display_price": "\u20b91.25 Cr",
       "price_value": 12500000,
-      "price_per_sqft": "₹4.54 K/sq.ft",
-      "price_per_marla": "₹10.23 L / Marla"
+      "price_per_sqft": "\u20b94.54 K/sq.ft",
+      "price_per_marla": "\u20b910.23 L / Marla"
     },
     "area": {
       "area_display": "2750 sq.ft",
@@ -368,10 +368,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹89.0 L",
+      "display_price": "\u20b989.0 L",
       "price_value": 8900000,
-      "price_per_sqft": "₹2.72 K/sq.ft",
-      "price_per_marla": "₹6.13 L / Marla"
+      "price_per_sqft": "\u20b92.72 K/sq.ft",
+      "price_per_marla": "\u20b96.13 L / Marla"
     },
     "area": {
       "area_display": "3267 sq.ft",
@@ -415,10 +415,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Semi Furnished",
     "price": {
-      "display_price": "₹2.9 Cr",
+      "display_price": "\u20b92.9 Cr",
       "price_value": 28999999,
-      "price_per_sqft": "₹8.66 K/sq.ft",
-      "price_per_marla": "₹19.48 L / Marla"
+      "price_per_sqft": "\u20b98.66 K/sq.ft",
+      "price_per_marla": "\u20b919.48 L / Marla"
     },
     "area": {
       "area_display": "3350 sq.ft",
@@ -467,10 +467,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹42.0 L",
+      "display_price": "\u20b942.0 L",
       "price_value": 4200000,
-      "price_per_sqft": "₹1.91 K/sq.ft",
-      "price_per_marla": "₹4.29 L / Marla"
+      "price_per_sqft": "\u20b91.91 K/sq.ft",
+      "price_per_marla": "\u20b94.29 L / Marla"
     },
     "area": {
       "area_display": "2200 sq.ft",
@@ -516,10 +516,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹4.1 L",
+      "display_price": "\u20b94.1 L",
       "price_value": 410000,
-      "price_per_sqft": "₹200/sq.ft",
-      "price_per_marla": "₹45,204 / Marla"
+      "price_per_sqft": "\u20b9200/sq.ft",
+      "price_per_marla": "\u20b945,204 / Marla"
     },
     "area": {
       "area_display": "2040 sq.ft",
@@ -563,10 +563,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹36.0 L",
+      "display_price": "\u20b936.0 L",
       "price_value": 3600000,
-      "price_per_sqft": "₹2.57 K/sq.ft",
-      "price_per_marla": "₹5.79 L / Marla"
+      "price_per_sqft": "\u20b92.57 K/sq.ft",
+      "price_per_marla": "\u20b95.79 L / Marla"
     },
     "area": {
       "area_display": "1400 sq.ft",
@@ -612,10 +612,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Fully Furnished",
     "price": {
-      "display_price": "₹1.3 Cr",
+      "display_price": "\u20b91.3 Cr",
       "price_value": 13000000,
-      "price_per_sqft": "₹13 K/sq.ft",
-      "price_per_marla": "₹29.28 L / Marla"
+      "price_per_sqft": "\u20b913 K/sq.ft",
+      "price_per_marla": "\u20b929.28 L / Marla"
     },
     "area": {
       "area_display": "1000 sq.ft",
@@ -665,10 +665,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹25.0 L",
+      "display_price": "\u20b925.0 L",
       "price_value": 2500000,
-      "price_per_sqft": "₹3.85 K/sq.ft",
-      "price_per_marla": "₹8.65 L / Marla"
+      "price_per_sqft": "\u20b93.85 K/sq.ft",
+      "price_per_marla": "\u20b98.65 L / Marla"
     },
     "area": {
       "area_display": "650 sq.ft",
@@ -709,63 +709,16 @@
     "status": "Ready to move"
   },
   {
-    "property_id": "19308829",
-    "url": "https://housing.com/in/buy/resale/page/19308829-residential-plot-in-vijaypur-for-rs-900000000-v2",
-    "title": "Residential Plot",
-    "type_of_property": "Residential Land / Plot",
-    "furnished_status": null,
-    "price": {
-      "display_price": "₹90.0 Cr",
-      "price_value": 900000000,
-      "price_per_sqft": "₹2.73 K/sq.ft",
-      "price_per_marla": "₹6.14 L / Marla"
-    },
-    "area": {
-      "area_display": "330000 sq.ft",
-      "area_sqft": 330000.0,
-      "area_type": "Plot Area",
-      "area_in_marla": "1466.67 Marla"
-    },
-    "address": {
-      "full_address": "Vijaypur, Jammu",
-      "locality": "Vijaypur",
-      "city": "Jammu",
-      "coordinates": {
-        "latitude": "32.563342",
-        "longitude": "75.023057"
-      }
-    },
-    "configuration": {
-      "bedrooms": 0,
-      "bathrooms": null,
-      "balconies": "-",
-      "parking": "No Parking",
-      "summary": "- Balconies, Parking: No Parking"
-    },
-    "property_ownership": null,
-    "floors": null,
-    "property_age": "5 Year Old",
-    "highlights": [],
-    "key_highlights": [
-      "Residential Land / Plot",
-      "Immediate",
-      "1466.67 Marla (330000 sq.ft)"
-    ],
-    "amenities": [],
-    "furnished_components": null,
-    "status": "Immediate"
-  },
-  {
     "property_id": "19471994",
     "url": "https://housing.com/in/buy/resale/page/19471994-3-bhk-independent-house-in-gandhi-nagar-for-rs-1990000",
     "title": "3 BHK Independent House",
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹19.9 L",
+      "display_price": "\u20b919.9 L",
       "price_value": 1990000,
-      "price_per_sqft": "₹3.62 K/sq.ft",
-      "price_per_marla": "₹8.16 L / Marla"
+      "price_per_sqft": "\u20b93.62 K/sq.ft",
+      "price_per_marla": "\u20b98.16 L / Marla"
     },
     "area": {
       "area_display": "550 sq.ft",
@@ -816,10 +769,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Fully Furnished",
     "price": {
-      "display_price": "₹6.35 Cr",
+      "display_price": "\u20b96.35 Cr",
       "price_value": 63500000,
-      "price_per_sqft": "₹10.58 K/sq.ft",
-      "price_per_marla": "₹23.81 L / Marla"
+      "price_per_sqft": "\u20b910.58 K/sq.ft",
+      "price_per_marla": "\u20b923.81 L / Marla"
     },
     "area": {
       "area_display": "6000 sq.ft",
@@ -871,10 +824,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Semi Furnished",
     "price": {
-      "display_price": "₹60.0 L",
+      "display_price": "\u20b960.0 L",
       "price_value": 6000000,
-      "price_per_sqft": "₹2.75 K/sq.ft",
-      "price_per_marla": "₹6.20 L / Marla"
+      "price_per_sqft": "\u20b92.75 K/sq.ft",
+      "price_per_marla": "\u20b96.20 L / Marla"
     },
     "area": {
       "area_display": "2178 sq.ft",
@@ -923,10 +876,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹85.0 L",
+      "display_price": "\u20b985.0 L",
       "price_value": 8500000,
-      "price_per_sqft": "₹3.12 K/sq.ft",
-      "price_per_marla": "₹7.02 L / Marla"
+      "price_per_sqft": "\u20b93.12 K/sq.ft",
+      "price_per_marla": "\u20b97.02 L / Marla"
     },
     "area": {
       "area_display": "2722 sq.ft",
@@ -977,10 +930,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Semi Furnished",
     "price": {
-      "display_price": "₹48.0 L",
+      "display_price": "\u20b948.0 L",
       "price_value": 4800000,
-      "price_per_sqft": "₹3.84 K/sq.ft",
-      "price_per_marla": "₹8.63 L / Marla"
+      "price_per_sqft": "\u20b93.84 K/sq.ft",
+      "price_per_marla": "\u20b98.63 L / Marla"
     },
     "area": {
       "area_display": "1250 sq.ft",
@@ -1029,10 +982,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Semi Furnished",
     "price": {
-      "display_price": "₹95.0 L",
+      "display_price": "\u20b995.0 L",
       "price_value": 9500000,
-      "price_per_sqft": "₹3.17 K/sq.ft",
-      "price_per_marla": "₹7.13 L / Marla"
+      "price_per_sqft": "\u20b93.17 K/sq.ft",
+      "price_per_marla": "\u20b97.13 L / Marla"
     },
     "area": {
       "area_display": "3000 sq.ft",
@@ -1084,10 +1037,10 @@
     "type_of_property": "Apartment / Flat",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹1.32 Cr",
+      "display_price": "\u20b91.32 Cr",
       "price_value": 13200000,
-      "price_per_sqft": "₹9.04 K/sq.ft",
-      "price_per_marla": "₹20.34 L / Marla"
+      "price_per_sqft": "\u20b99.04 K/sq.ft",
+      "price_per_marla": "\u20b920.34 L / Marla"
     },
     "area": {
       "area_display": "1460 sq.ft",
@@ -1142,10 +1095,10 @@
     "type_of_property": "Independent Builder Floor",
     "furnished_status": "Fully Furnished",
     "price": {
-      "display_price": "₹40.0 L",
+      "display_price": "\u20b940.0 L",
       "price_value": 4000000,
-      "price_per_sqft": "₹7.27 K/sq.ft",
-      "price_per_marla": "₹16.39 L / Marla"
+      "price_per_sqft": "\u20b97.27 K/sq.ft",
+      "price_per_marla": "\u20b916.39 L / Marla"
     },
     "area": {
       "area_display": "550 sq.ft",
@@ -1197,10 +1150,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Fully Furnished",
     "price": {
-      "display_price": "₹87.0 L",
+      "display_price": "\u20b987.0 L",
       "price_value": 8700000,
-      "price_per_sqft": "₹12.43 K/sq.ft",
-      "price_per_marla": "₹27.97 L / Marla"
+      "price_per_sqft": "\u20b912.43 K/sq.ft",
+      "price_per_marla": "\u20b927.97 L / Marla"
     },
     "area": {
       "area_display": "700 sq.ft",
@@ -1249,10 +1202,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹2.7 Cr",
+      "display_price": "\u20b92.7 Cr",
       "price_value": 27000000,
-      "price_per_sqft": "₹5.51 K/sq.ft",
-      "price_per_marla": "₹12.40 L / Marla"
+      "price_per_sqft": "\u20b95.51 K/sq.ft",
+      "price_per_marla": "\u20b912.40 L / Marla"
     },
     "area": {
       "area_display": "4900 sq.ft",
@@ -1296,10 +1249,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹42.0 L",
+      "display_price": "\u20b942.0 L",
       "price_value": 4200000,
-      "price_per_sqft": "₹1.54 K/sq.ft",
-      "price_per_marla": "₹3.47 L / Marla"
+      "price_per_sqft": "\u20b91.54 K/sq.ft",
+      "price_per_marla": "\u20b93.47 L / Marla"
     },
     "area": {
       "area_display": "2722 sq.ft",
@@ -1343,10 +1296,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Fully Furnished",
     "price": {
-      "display_price": "₹40.0 L",
+      "display_price": "\u20b940.0 L",
       "price_value": 4000000,
-      "price_per_sqft": "₹571/sq.ft",
-      "price_per_marla": "₹1.29 L / Marla"
+      "price_per_sqft": "\u20b9571/sq.ft",
+      "price_per_marla": "\u20b91.29 L / Marla"
     },
     "area": {
       "area_display": "6997 sq.ft",
@@ -1399,10 +1352,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹65.0 L",
+      "display_price": "\u20b965.0 L",
       "price_value": 6500000,
-      "price_per_sqft": "₹3.98 K/sq.ft",
-      "price_per_marla": "₹8.95 L / Marla"
+      "price_per_sqft": "\u20b93.98 K/sq.ft",
+      "price_per_marla": "\u20b98.95 L / Marla"
     },
     "area": {
       "area_display": "1633 sq.ft",
@@ -1452,10 +1405,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Semi Furnished",
     "price": {
-      "display_price": "₹75.0 L",
+      "display_price": "\u20b975.0 L",
       "price_value": 7500000,
-      "price_per_sqft": "₹9.38 K/sq.ft",
-      "price_per_marla": "₹21.07 L / Marla"
+      "price_per_sqft": "\u20b99.38 K/sq.ft",
+      "price_per_marla": "\u20b921.07 L / Marla"
     },
     "area": {
       "area_display": "800 sq.ft",
@@ -1502,10 +1455,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹47.45 L",
+      "display_price": "\u20b947.45 L",
       "price_value": 4745000,
-      "price_per_sqft": "₹2.69 K/sq.ft",
-      "price_per_marla": "₹6.06 L / Marla"
+      "price_per_sqft": "\u20b92.69 K/sq.ft",
+      "price_per_marla": "\u20b96.06 L / Marla"
     },
     "area": {
       "area_display": "1762 sq.ft",
@@ -1549,10 +1502,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": "Semi Furnished",
     "price": {
-      "display_price": "₹25.0 L",
+      "display_price": "\u20b925.0 L",
       "price_value": 2500000,
-      "price_per_sqft": "₹764/sq.ft",
-      "price_per_marla": "₹1.72 L / Marla"
+      "price_per_sqft": "\u20b9764/sq.ft",
+      "price_per_marla": "\u20b91.72 L / Marla"
     },
     "area": {
       "area_display": "3270 sq.ft",
@@ -1599,10 +1552,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹89.0 L",
+      "display_price": "\u20b989.0 L",
       "price_value": 8900000,
-      "price_per_sqft": "₹3.27 K/sq.ft",
-      "price_per_marla": "₹7.36 L / Marla"
+      "price_per_sqft": "\u20b93.27 K/sq.ft",
+      "price_per_marla": "\u20b97.36 L / Marla"
     },
     "area": {
       "area_display": "2722 sq.ft",
@@ -1649,10 +1602,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Semi Furnished",
     "price": {
-      "display_price": "₹50.0 L",
+      "display_price": "\u20b950.0 L",
       "price_value": 5000000,
-      "price_per_sqft": "₹3.68 K/sq.ft",
-      "price_per_marla": "₹8.28 L / Marla"
+      "price_per_sqft": "\u20b93.68 K/sq.ft",
+      "price_per_marla": "\u20b98.28 L / Marla"
     },
     "area": {
       "area_display": "1360 sq.ft",
@@ -1699,10 +1652,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹30.0 L",
+      "display_price": "\u20b930.0 L",
       "price_value": 3000000,
-      "price_per_sqft": "₹1.12 K/sq.ft",
-      "price_per_marla": "₹2.53 L / Marla"
+      "price_per_sqft": "\u20b91.12 K/sq.ft",
+      "price_per_marla": "\u20b92.53 L / Marla"
     },
     "area": {
       "area_display": "2668 sq.ft",
@@ -1746,10 +1699,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Semi Furnished",
     "price": {
-      "display_price": "₹2.5 Cr",
+      "display_price": "\u20b92.5 Cr",
       "price_value": 25000000,
-      "price_per_sqft": "₹9.18 K/sq.ft",
-      "price_per_marla": "₹20.66 L / Marla"
+      "price_per_sqft": "\u20b99.18 K/sq.ft",
+      "price_per_marla": "\u20b920.66 L / Marla"
     },
     "area": {
       "area_display": "2722 sq.ft",
@@ -1800,10 +1753,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Fully Furnished",
     "price": {
-      "display_price": "₹1.5 Cr",
+      "display_price": "\u20b91.5 Cr",
       "price_value": 15000000,
-      "price_per_sqft": "₹4.69 K/sq.ft",
-      "price_per_marla": "₹10.55 L / Marla"
+      "price_per_sqft": "\u20b94.69 K/sq.ft",
+      "price_per_marla": "\u20b910.55 L / Marla"
     },
     "area": {
       "area_display": "3200 sq.ft",
@@ -1852,10 +1805,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Semi Furnished",
     "price": {
-      "display_price": "₹50.0 L",
+      "display_price": "\u20b950.0 L",
       "price_value": 5000000,
-      "price_per_sqft": "₹3.06 K/sq.ft",
-      "price_per_marla": "₹6.89 L / Marla"
+      "price_per_sqft": "\u20b93.06 K/sq.ft",
+      "price_per_marla": "\u20b96.89 L / Marla"
     },
     "area": {
       "area_display": "1633 sq.ft",
@@ -1902,10 +1855,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Fully Furnished",
     "price": {
-      "display_price": "₹99.7 L",
+      "display_price": "\u20b999.7 L",
       "price_value": 9970000,
-      "price_per_sqft": "₹5.66 K/sq.ft",
-      "price_per_marla": "₹12.75 L / Marla"
+      "price_per_sqft": "\u20b95.66 K/sq.ft",
+      "price_per_marla": "\u20b912.75 L / Marla"
     },
     "area": {
       "area_display": "1760 sq.ft",
@@ -1957,10 +1910,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹26.0 L",
+      "display_price": "\u20b926.0 L",
       "price_value": 2600000,
-      "price_per_sqft": "₹2.36 K/sq.ft",
-      "price_per_marla": "₹5.32 L / Marla"
+      "price_per_sqft": "\u20b92.36 K/sq.ft",
+      "price_per_marla": "\u20b95.32 L / Marla"
     },
     "area": {
       "area_display": "1100 sq.ft",
@@ -2004,10 +1957,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹80.0 L",
+      "display_price": "\u20b980.0 L",
       "price_value": 8000000,
-      "price_per_sqft": "₹1.48 K/sq.ft",
-      "price_per_marla": "₹3.33 L / Marla"
+      "price_per_sqft": "\u20b91.48 K/sq.ft",
+      "price_per_marla": "\u20b93.33 L / Marla"
     },
     "area": {
       "area_display": "5400 sq.ft",
@@ -2051,10 +2004,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Fully Furnished",
     "price": {
-      "display_price": "₹45.0 L",
+      "display_price": "\u20b945.0 L",
       "price_value": 4500000,
-      "price_per_sqft": "₹3.91 K/sq.ft",
-      "price_per_marla": "₹8.81 L / Marla"
+      "price_per_sqft": "\u20b93.91 K/sq.ft",
+      "price_per_marla": "\u20b98.81 L / Marla"
     },
     "area": {
       "area_display": "1150 sq.ft",
@@ -2095,72 +2048,16 @@
     "status": "Ready to move"
   },
   {
-    "property_id": "21007727",
-    "url": "https://housing.com/in/buy/resale/page/21007727-9-bhk-apartment-in-udhampur-for-rs-14000000",
-    "title": "9 BHK Flat",
-    "type_of_property": "Apartment / Flat",
-    "furnished_status": "Semi Furnished",
-    "price": {
-      "display_price": "₹1.4 Cr",
-      "price_value": 14000000,
-      "price_per_sqft": "₹3.5 K/sq.ft",
-      "price_per_marla": "₹7.87 L / Marla"
-    },
-    "area": {
-      "area_display": "4000 sq.ft",
-      "area_sqft": 4000.0,
-      "area_type": "Built Up Area",
-      "area_in_marla": "17.78 Marla"
-    },
-    "address": {
-      "full_address": "Udhampur Town, Udhampur",
-      "locality": "Udhampur Town",
-      "city": "Jammu",
-      "coordinates": {
-        "latitude": "32.915756",
-        "longitude": "75.131029"
-      }
-    },
-    "configuration": {
-      "bedrooms": 9,
-      "bathrooms": 7,
-      "balconies": "4",
-      "parking": "No Parking",
-      "summary": "9 BHK / Bedrooms, 7 Bathrooms, 4 Balconies, Parking: No Parking"
-    },
-    "property_ownership": null,
-    "floors": "4 of 4",
-    "property_age": null,
-    "highlights": [],
-    "key_highlights": [
-      "Apartment / Flat",
-      "Ready to move",
-      "Semi Furnished",
-      "Floor: 4 of 4",
-      "17.78 Marla (4000 sq.ft)"
-    ],
-    "amenities": [
-      "Power Backup",
-      "Water Supply",
-      "Servent Room",
-      "Gas Pipeline"
-    ],
-    "furnished_components": [
-      "Semi Furnished (fixtures/woodwork included)"
-    ],
-    "status": "Ready to move"
-  },
-  {
     "property_id": "21279978",
     "url": "https://housing.com/in/buy/resale/page/21279978-3.5-bhk-independent-house-in-janipur-for-rs-8000000",
     "title": "3.5 BHK Independent House",
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Fully Furnished",
     "price": {
-      "display_price": "₹80.0 L",
+      "display_price": "\u20b980.0 L",
       "price_value": 8000000,
-      "price_per_sqft": "₹10 K/sq.ft",
-      "price_per_marla": "₹22.47 L / Marla"
+      "price_per_sqft": "\u20b910 K/sq.ft",
+      "price_per_marla": "\u20b922.47 L / Marla"
     },
     "area": {
       "area_display": "800 sq.ft",
@@ -2209,10 +2106,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Semi Furnished",
     "price": {
-      "display_price": "₹38.0 L",
+      "display_price": "\u20b938.0 L",
       "price_value": 3800000,
-      "price_per_sqft": "₹4.75 K/sq.ft",
-      "price_per_marla": "₹10.67 L / Marla"
+      "price_per_sqft": "\u20b94.75 K/sq.ft",
+      "price_per_marla": "\u20b910.67 L / Marla"
     },
     "area": {
       "area_display": "800 sq.ft",
@@ -2259,10 +2156,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹86.0 L",
+      "display_price": "\u20b986.0 L",
       "price_value": 8600000,
-      "price_per_sqft": "₹4.78 K/sq.ft",
-      "price_per_marla": "₹10.75 L / Marla"
+      "price_per_sqft": "\u20b94.78 K/sq.ft",
+      "price_per_marla": "\u20b910.75 L / Marla"
     },
     "area": {
       "area_display": "1800 sq.ft",
@@ -2308,10 +2205,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Semi Furnished",
     "price": {
-      "display_price": "₹5.0 L",
+      "display_price": "\u20b95.0 L",
       "price_value": 500000,
-      "price_per_sqft": "₹3.31 K/sq.ft",
-      "price_per_marla": "₹7.46 L / Marla"
+      "price_per_sqft": "\u20b93.31 K/sq.ft",
+      "price_per_marla": "\u20b97.46 L / Marla"
     },
     "area": {
       "area_display": "151 sq.ft",
@@ -2358,10 +2255,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Semi Furnished",
     "price": {
-      "display_price": "₹25.0 L",
+      "display_price": "\u20b925.0 L",
       "price_value": 2500000,
-      "price_per_sqft": "₹4.59 K/sq.ft",
-      "price_per_marla": "₹10.33 L / Marla"
+      "price_per_sqft": "\u20b94.59 K/sq.ft",
+      "price_per_marla": "\u20b910.33 L / Marla"
     },
     "area": {
       "area_display": "544 sq.ft",
@@ -2408,10 +2305,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Fully Furnished",
     "price": {
-      "display_price": "₹75.0 L",
+      "display_price": "\u20b975.0 L",
       "price_value": 7500000,
-      "price_per_sqft": "₹5.55 K/sq.ft",
-      "price_per_marla": "₹12.50 L / Marla"
+      "price_per_sqft": "\u20b95.55 K/sq.ft",
+      "price_per_marla": "\u20b912.50 L / Marla"
     },
     "area": {
       "area_display": "1350 sq.ft",
@@ -2458,10 +2355,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Fully Furnished",
     "price": {
-      "display_price": "₹10.5 Cr",
+      "display_price": "\u20b910.5 Cr",
       "price_value": 105000000,
-      "price_per_sqft": "₹21 K/sq.ft",
-      "price_per_marla": "₹47.25 L / Marla"
+      "price_per_sqft": "\u20b921 K/sq.ft",
+      "price_per_marla": "\u20b947.25 L / Marla"
     },
     "area": {
       "area_display": "5000 sq.ft",
@@ -2511,10 +2408,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Semi Furnished",
     "price": {
-      "display_price": "₹50.0 L",
+      "display_price": "\u20b950.0 L",
       "price_value": 5000000,
-      "price_per_sqft": "₹5 K/sq.ft",
-      "price_per_marla": "₹11.26 L / Marla"
+      "price_per_sqft": "\u20b95 K/sq.ft",
+      "price_per_marla": "\u20b911.26 L / Marla"
     },
     "area": {
       "area_display": "1000 sq.ft",
@@ -2561,10 +2458,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.5 Cr",
+      "display_price": "\u20b91.5 Cr",
       "price_value": 15000000,
-      "price_per_sqft": "₹787/sq.ft",
-      "price_per_marla": "₹1.77 L / Marla"
+      "price_per_sqft": "\u20b9787/sq.ft",
+      "price_per_marla": "\u20b91.77 L / Marla"
     },
     "area": {
       "area_display": "19057 sq.ft",
@@ -2608,10 +2505,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Semi Furnished",
     "price": {
-      "display_price": "₹1.2 Cr",
+      "display_price": "\u20b91.2 Cr",
       "price_value": 12000000,
-      "price_per_sqft": "₹4.69 K/sq.ft",
-      "price_per_marla": "₹10.54 L / Marla"
+      "price_per_sqft": "\u20b94.69 K/sq.ft",
+      "price_per_marla": "\u20b910.54 L / Marla"
     },
     "area": {
       "area_display": "2560 sq.ft",
@@ -2658,10 +2555,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹3.5 Cr",
+      "display_price": "\u20b93.5 Cr",
       "price_value": 35000000,
-      "price_per_sqft": "₹12.96 K/sq.ft",
-      "price_per_marla": "₹29.17 L / Marla"
+      "price_per_sqft": "\u20b912.96 K/sq.ft",
+      "price_per_marla": "\u20b929.17 L / Marla"
     },
     "area": {
       "area_display": "2700 sq.ft",
@@ -2702,63 +2599,16 @@
     "status": "Ready to move"
   },
   {
-    "property_id": "18822986",
-    "url": "https://housing.com/in/buy/resale/page/18822986-residential-plot-in-bari-brahmana-for-rs-600000-v2",
-    "title": "Residential Plot",
-    "type_of_property": "Residential Land / Plot",
-    "furnished_status": null,
-    "price": {
-      "display_price": "₹6.0 L",
-      "price_value": 600000,
-      "price_per_sqft": "₹722/sq.ft",
-      "price_per_marla": "₹1.63 L / Marla"
-    },
-    "area": {
-      "area_display": "830 sq.ft",
-      "area_sqft": 830.0,
-      "area_type": "Plot Area",
-      "area_in_marla": "3.69 Marla"
-    },
-    "address": {
-      "full_address": "Lupin Factories, Bari Brahmana",
-      "locality": "Lupin Factories",
-      "city": "Jammu",
-      "coordinates": {
-        "latitude": "32.652813",
-        "longitude": "74.875566"
-      }
-    },
-    "configuration": {
-      "bedrooms": 0,
-      "bathrooms": null,
-      "balconies": "-",
-      "parking": "No Parking",
-      "summary": "- Balconies, Parking: No Parking"
-    },
-    "property_ownership": null,
-    "floors": null,
-    "property_age": null,
-    "highlights": [],
-    "key_highlights": [
-      "Residential Land / Plot",
-      "Immediate",
-      "3.69 Marla (830 sq.ft)"
-    ],
-    "amenities": [],
-    "furnished_components": null,
-    "status": "Immediate"
-  },
-  {
     "property_id": "18985663",
     "url": "https://housing.com/in/buy/resale/page/18985663-residential-plot-in-lower-shiv-nagar-for-rs-5500000",
     "title": "Residential Plot",
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹55.0 L",
+      "display_price": "\u20b955.0 L",
       "price_value": 5500000,
-      "price_per_sqft": "₹4.09 K/sq.ft",
-      "price_per_marla": "₹9.21 L / Marla"
+      "price_per_sqft": "\u20b94.09 K/sq.ft",
+      "price_per_marla": "\u20b99.21 L / Marla"
     },
     "area": {
       "area_display": "1344 sq.ft",
@@ -2802,10 +2652,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹39.0 L",
+      "display_price": "\u20b939.0 L",
       "price_value": 3900000,
-      "price_per_sqft": "₹975/sq.ft",
-      "price_per_marla": "₹2.19 L / Marla"
+      "price_per_sqft": "\u20b9975/sq.ft",
+      "price_per_marla": "\u20b92.19 L / Marla"
     },
     "area": {
       "area_display": "4000 sq.ft",
@@ -2843,69 +2693,16 @@
     "status": "Immediate"
   },
   {
-    "property_id": "19224350",
-    "url": "https://housing.com/in/buy/resale/page/19224350-3-bhk-independent-house-in-udhampur-for-rs-15000000",
-    "title": "3 BHK Independent House",
-    "type_of_property": "Independent House / Villa",
-    "furnished_status": "Semi Furnished",
-    "price": {
-      "display_price": "₹1.5 Cr",
-      "price_value": 15000000,
-      "price_per_sqft": "₹8.33 K/sq.ft",
-      "price_per_marla": "₹18.75 L / Marla"
-    },
-    "area": {
-      "area_display": "1800 sq.ft",
-      "area_sqft": 1800.0,
-      "area_type": "Built Up Area",
-      "area_in_marla": "8 Marla"
-    },
-    "address": {
-      "full_address": "Omala, Udhampur Town",
-      "locality": "Omala",
-      "city": "Jammu",
-      "coordinates": {
-        "latitude": "32.915756",
-        "longitude": "75.131029"
-      }
-    },
-    "configuration": {
-      "bedrooms": 3,
-      "bathrooms": 1,
-      "balconies": "-",
-      "parking": "No Parking",
-      "summary": "3 BHK / Bedrooms, 1 Bathrooms, - Balconies, Parking: No Parking"
-    },
-    "property_ownership": null,
-    "floors": null,
-    "property_age": "30 Year Old",
-    "highlights": [],
-    "key_highlights": [
-      "Independent House / Villa",
-      "Ready to move",
-      "Semi Furnished",
-      "8 Marla (1800 sq.ft)"
-    ],
-    "amenities": [
-      "Garden",
-      "Water Supply"
-    ],
-    "furnished_components": [
-      "Semi Furnished (fixtures/woodwork included)"
-    ],
-    "status": "Ready to move"
-  },
-  {
     "property_id": "19341859",
     "url": "https://housing.com/in/buy/resale/page/19341859-2.5-bhk-independent-house-in-sunjwan-for-rs-8500000",
     "title": "2.5 BHK Independent House",
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Fully Furnished",
     "price": {
-      "display_price": "₹85.0 L",
+      "display_price": "\u20b985.0 L",
       "price_value": 8500000,
-      "price_per_sqft": "₹5.43 K/sq.ft",
-      "price_per_marla": "₹12.21 L / Marla"
+      "price_per_sqft": "\u20b95.43 K/sq.ft",
+      "price_per_marla": "\u20b912.21 L / Marla"
     },
     "area": {
       "area_display": "1565 sq.ft",
@@ -2954,10 +2751,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹2.91 L",
+      "display_price": "\u20b92.91 L",
       "price_value": 291000,
-      "price_per_sqft": "₹29/sq.ft",
-      "price_per_marla": "₹6,548 / Marla"
+      "price_per_sqft": "\u20b929/sq.ft",
+      "price_per_marla": "\u20b96,548 / Marla"
     },
     "area": {
       "area_display": "10000 sq.ft",
@@ -3003,10 +2800,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Fully Furnished",
     "price": {
-      "display_price": "₹1.5 Cr",
+      "display_price": "\u20b91.5 Cr",
       "price_value": 15000000,
-      "price_per_sqft": "₹6 K/sq.ft",
-      "price_per_marla": "₹13.50 L / Marla"
+      "price_per_sqft": "\u20b96 K/sq.ft",
+      "price_per_marla": "\u20b913.50 L / Marla"
     },
     "area": {
       "area_display": "2500 sq.ft",
@@ -3055,10 +2852,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹52.0 L",
+      "display_price": "\u20b952.0 L",
       "price_value": 5200000,
-      "price_per_sqft": "₹2.74 K/sq.ft",
-      "price_per_marla": "₹6.16 L / Marla"
+      "price_per_sqft": "\u20b92.74 K/sq.ft",
+      "price_per_marla": "\u20b96.16 L / Marla"
     },
     "area": {
       "area_display": "1900 sq.ft",
@@ -3102,10 +2899,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹4.5 L",
+      "display_price": "\u20b94.5 L",
       "price_value": 450000,
-      "price_per_sqft": "₹137/sq.ft",
-      "price_per_marla": "₹30,992 / Marla"
+      "price_per_sqft": "\u20b9137/sq.ft",
+      "price_per_marla": "\u20b930,992 / Marla"
     },
     "area": {
       "area_display": "3267 sq.ft",
@@ -3149,10 +2946,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹70.0 L",
+      "display_price": "\u20b970.0 L",
       "price_value": 7000000,
-      "price_per_sqft": "₹2.86 K/sq.ft",
-      "price_per_marla": "₹6.43 L / Marla"
+      "price_per_sqft": "\u20b92.86 K/sq.ft",
+      "price_per_marla": "\u20b96.43 L / Marla"
     },
     "area": {
       "area_display": "2450 sq.ft",
@@ -3199,10 +2996,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹85.0 L",
+      "display_price": "\u20b985.0 L",
       "price_value": 8500000,
-      "price_per_sqft": "₹3.15 K/sq.ft",
-      "price_per_marla": "₹7.08 L / Marla"
+      "price_per_sqft": "\u20b93.15 K/sq.ft",
+      "price_per_marla": "\u20b97.08 L / Marla"
     },
     "area": {
       "area_display": "2700 sq.ft",
@@ -3246,10 +3043,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Fully Furnished",
     "price": {
-      "display_price": "₹35.0 L",
+      "display_price": "\u20b935.0 L",
       "price_value": 3500000,
-      "price_per_sqft": "₹7.78 K/sq.ft",
-      "price_per_marla": "₹17.50 L / Marla"
+      "price_per_sqft": "\u20b97.78 K/sq.ft",
+      "price_per_marla": "\u20b917.50 L / Marla"
     },
     "area": {
       "area_display": "450 sq.ft",
@@ -3296,10 +3093,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹3.8 L",
+      "display_price": "\u20b93.8 L",
       "price_value": 380000,
-      "price_per_sqft": "₹126/sq.ft",
-      "price_per_marla": "₹28,507 / Marla"
+      "price_per_sqft": "\u20b9126/sq.ft",
+      "price_per_marla": "\u20b928,507 / Marla"
     },
     "area": {
       "area_display": "3000 sq.ft",
@@ -3343,10 +3140,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.14 Cr",
+      "display_price": "\u20b91.14 Cr",
       "price_value": 11400000,
-      "price_per_sqft": "₹1.4 K/sq.ft",
-      "price_per_marla": "₹3.14 L / Marla"
+      "price_per_sqft": "\u20b91.4 K/sq.ft",
+      "price_per_marla": "\u20b93.14 L / Marla"
     },
     "area": {
       "area_display": "8160 sq.ft",
@@ -3390,10 +3187,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹1.55 Cr",
+      "display_price": "\u20b91.55 Cr",
       "price_value": 15500000,
-      "price_per_sqft": "₹5.69 K/sq.ft",
-      "price_per_marla": "₹12.81 L / Marla"
+      "price_per_sqft": "\u20b95.69 K/sq.ft",
+      "price_per_marla": "\u20b912.81 L / Marla"
     },
     "area": {
       "area_display": "2722 sq.ft",
@@ -3440,10 +3237,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹68.0 L",
+      "display_price": "\u20b968.0 L",
       "price_value": 6800000,
-      "price_per_sqft": "₹3.11 K/sq.ft",
-      "price_per_marla": "₹7.00 L / Marla"
+      "price_per_sqft": "\u20b93.11 K/sq.ft",
+      "price_per_marla": "\u20b97.00 L / Marla"
     },
     "area": {
       "area_display": "2184 sq.ft",
@@ -3487,10 +3284,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹13.5 L",
+      "display_price": "\u20b913.5 L",
       "price_value": 1350000,
-      "price_per_sqft": "₹168/sq.ft",
-      "price_per_marla": "₹37,964 / Marla"
+      "price_per_sqft": "\u20b9168/sq.ft",
+      "price_per_marla": "\u20b937,964 / Marla"
     },
     "area": {
       "area_display": "8000 sq.ft",
@@ -3534,10 +3331,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹85.0 L",
+      "display_price": "\u20b985.0 L",
       "price_value": 8500000,
-      "price_per_sqft": "₹3.15 K/sq.ft",
-      "price_per_marla": "₹7.08 L / Marla"
+      "price_per_sqft": "\u20b93.15 K/sq.ft",
+      "price_per_marla": "\u20b97.08 L / Marla"
     },
     "area": {
       "area_display": "2700 sq.ft",
@@ -3581,10 +3378,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹85.0 L",
+      "display_price": "\u20b985.0 L",
       "price_value": 8500000,
-      "price_per_sqft": "₹3.15 K/sq.ft",
-      "price_per_marla": "₹7.08 L / Marla"
+      "price_per_sqft": "\u20b93.15 K/sq.ft",
+      "price_per_marla": "\u20b97.08 L / Marla"
     },
     "area": {
       "area_display": "2700 sq.ft",
@@ -3628,10 +3425,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹1.2 Cr",
+      "display_price": "\u20b91.2 Cr",
       "price_value": 12000000,
-      "price_per_sqft": "₹11.02 K/sq.ft",
-      "price_per_marla": "₹24.79 L / Marla"
+      "price_per_sqft": "\u20b911.02 K/sq.ft",
+      "price_per_marla": "\u20b924.79 L / Marla"
     },
     "area": {
       "area_display": "1089 sq.ft",
@@ -3683,10 +3480,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Fully Furnished",
     "price": {
-      "display_price": "₹11.0 L",
+      "display_price": "\u20b911.0 L",
       "price_value": 1100000,
-      "price_per_sqft": "₹404/sq.ft",
-      "price_per_marla": "₹90,909 / Marla"
+      "price_per_sqft": "\u20b9404/sq.ft",
+      "price_per_marla": "\u20b990,909 / Marla"
     },
     "area": {
       "area_display": "2722 sq.ft",
@@ -3733,10 +3530,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹75.0 L",
+      "display_price": "\u20b975.0 L",
       "price_value": 7500000,
-      "price_per_sqft": "₹5.51 K/sq.ft",
-      "price_per_marla": "₹12.40 L / Marla"
+      "price_per_sqft": "\u20b95.51 K/sq.ft",
+      "price_per_marla": "\u20b912.40 L / Marla"
     },
     "area": {
       "area_display": "1361 sq.ft",
@@ -3791,10 +3588,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹25.0 L",
+      "display_price": "\u20b925.0 L",
       "price_value": 2500000,
-      "price_per_sqft": "₹1.85 K/sq.ft",
-      "price_per_marla": "₹4.17 L / Marla"
+      "price_per_sqft": "\u20b91.85 K/sq.ft",
+      "price_per_marla": "\u20b94.17 L / Marla"
     },
     "area": {
       "area_display": "1350 sq.ft",
@@ -3838,10 +3635,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹80.0 L",
+      "display_price": "\u20b980.0 L",
       "price_value": 8000000,
-      "price_per_sqft": "₹10 K/sq.ft",
-      "price_per_marla": "₹22.47 L / Marla"
+      "price_per_sqft": "\u20b910 K/sq.ft",
+      "price_per_marla": "\u20b922.47 L / Marla"
     },
     "area": {
       "area_display": "800 sq.ft",
@@ -3888,10 +3685,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Fully Furnished",
     "price": {
-      "display_price": "₹75.0 L",
+      "display_price": "\u20b975.0 L",
       "price_value": 7500000,
-      "price_per_sqft": "₹3 K/sq.ft",
-      "price_per_marla": "₹6.75 L / Marla"
+      "price_per_sqft": "\u20b93 K/sq.ft",
+      "price_per_marla": "\u20b96.75 L / Marla"
     },
     "area": {
       "area_display": "2500 sq.ft",
@@ -3940,10 +3737,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹90.0 L",
+      "display_price": "\u20b990.0 L",
       "price_value": 9000000,
-      "price_per_sqft": "₹3.31 K/sq.ft",
-      "price_per_marla": "₹7.44 L / Marla"
+      "price_per_sqft": "\u20b93.31 K/sq.ft",
+      "price_per_marla": "\u20b97.44 L / Marla"
     },
     "area": {
       "area_display": "2723 sq.ft",
@@ -3991,10 +3788,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹1.2 Cr",
+      "display_price": "\u20b91.2 Cr",
       "price_value": 12000000,
-      "price_per_sqft": "₹4.9 K/sq.ft",
-      "price_per_marla": "₹11.02 L / Marla"
+      "price_per_sqft": "\u20b94.9 K/sq.ft",
+      "price_per_marla": "\u20b911.02 L / Marla"
     },
     "area": {
       "area_display": "2450 sq.ft",
@@ -4041,10 +3838,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹1.0 Cr",
+      "display_price": "\u20b91.0 Cr",
       "price_value": 10000000,
-      "price_per_sqft": "₹5.25 K/sq.ft",
-      "price_per_marla": "₹11.81 L / Marla"
+      "price_per_sqft": "\u20b95.25 K/sq.ft",
+      "price_per_marla": "\u20b911.81 L / Marla"
     },
     "area": {
       "area_display": "1905 sq.ft",
@@ -4082,63 +3879,16 @@
     "status": "Immediate"
   },
   {
-    "property_id": "18446325",
-    "url": "https://housing.com/in/buy/resale/page/18446325-residential-plot-in-vijaypur-for-rs-8000000",
-    "title": "Residential Plot",
-    "type_of_property": "Residential Land / Plot",
-    "furnished_status": null,
-    "price": {
-      "display_price": "₹80.0 L",
-      "price_value": 8000000,
-      "price_per_sqft": "₹734/sq.ft",
-      "price_per_marla": "₹1.65 L / Marla"
-    },
-    "area": {
-      "area_display": "10890 sq.ft",
-      "area_sqft": 10890.0,
-      "area_type": "Plot Area",
-      "area_in_marla": "48.4 Marla"
-    },
-    "address": {
-      "full_address": "Vijaypur, Jammu",
-      "locality": "Vijaypur",
-      "city": "Jammu",
-      "coordinates": {
-        "latitude": "32.5633415384054",
-        "longitude": "75.0230570180302"
-      }
-    },
-    "configuration": {
-      "bedrooms": 0,
-      "bathrooms": null,
-      "balconies": "-",
-      "parking": "No Parking",
-      "summary": "- Balconies, Parking: No Parking"
-    },
-    "property_ownership": null,
-    "floors": null,
-    "property_age": null,
-    "highlights": [],
-    "key_highlights": [
-      "Residential Land / Plot",
-      "Immediate",
-      "48.4 Marla (10890 sq.ft)"
-    ],
-    "amenities": [],
-    "furnished_components": null,
-    "status": "Immediate"
-  },
-  {
     "property_id": "18954615",
     "url": "https://housing.com/in/buy/resale/page/18954615-5-bhk-independent-house-in-sunjwan-for-rs-8000000",
     "title": "5 BHK Independent House",
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹80.0 L",
+      "display_price": "\u20b980.0 L",
       "price_value": 8000000,
-      "price_per_sqft": "₹5.33 K/sq.ft",
-      "price_per_marla": "₹11.99 L / Marla"
+      "price_per_sqft": "\u20b95.33 K/sq.ft",
+      "price_per_marla": "\u20b911.99 L / Marla"
     },
     "area": {
       "area_display": "1500 sq.ft",
@@ -4185,10 +3935,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹37.0 L",
+      "display_price": "\u20b937.0 L",
       "price_value": 3700000,
-      "price_per_sqft": "₹1.94 K/sq.ft",
-      "price_per_marla": "₹4.36 L / Marla"
+      "price_per_sqft": "\u20b91.94 K/sq.ft",
+      "price_per_marla": "\u20b94.36 L / Marla"
     },
     "area": {
       "area_display": "1910 sq.ft",
@@ -4232,10 +3982,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹47.0 L",
+      "display_price": "\u20b947.0 L",
       "price_value": 4700000,
-      "price_per_sqft": "₹3.92 K/sq.ft",
-      "price_per_marla": "₹8.82 L / Marla"
+      "price_per_sqft": "\u20b93.92 K/sq.ft",
+      "price_per_marla": "\u20b98.82 L / Marla"
     },
     "area": {
       "area_display": "1200 sq.ft",
@@ -4282,10 +4032,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹1.8 Cr",
+      "display_price": "\u20b91.8 Cr",
       "price_value": 18000000,
-      "price_per_sqft": "₹9 K/sq.ft",
-      "price_per_marla": "₹20.25 L / Marla"
+      "price_per_sqft": "\u20b99 K/sq.ft",
+      "price_per_marla": "\u20b920.25 L / Marla"
     },
     "area": {
       "area_display": "2000 sq.ft",
@@ -4332,10 +4082,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Semi Furnished",
     "price": {
-      "display_price": "₹1.35 Cr",
+      "display_price": "\u20b91.35 Cr",
       "price_value": 13500000,
-      "price_per_sqft": "₹6.75 K/sq.ft",
-      "price_per_marla": "₹15.19 L / Marla"
+      "price_per_sqft": "\u20b96.75 K/sq.ft",
+      "price_per_marla": "\u20b915.19 L / Marla"
     },
     "area": {
       "area_display": "2000 sq.ft",
@@ -4382,10 +4132,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Semi Furnished",
     "price": {
-      "display_price": "₹1.4 Cr",
+      "display_price": "\u20b91.4 Cr",
       "price_value": 14000000,
-      "price_per_sqft": "₹25.93 K/sq.ft",
-      "price_per_marla": "₹58.33 L / Marla"
+      "price_per_sqft": "\u20b925.93 K/sq.ft",
+      "price_per_marla": "\u20b958.33 L / Marla"
     },
     "area": {
       "area_display": "540 sq.ft",
@@ -4432,10 +4182,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹30.0 L",
+      "display_price": "\u20b930.0 L",
       "price_value": 3000000,
-      "price_per_sqft": "₹275/sq.ft",
-      "price_per_marla": "₹61,983 / Marla"
+      "price_per_sqft": "\u20b9275/sq.ft",
+      "price_per_marla": "\u20b961,983 / Marla"
     },
     "area": {
       "area_display": "10890 sq.ft",
@@ -4479,10 +4229,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Semi Furnished",
     "price": {
-      "display_price": "₹3.33 Cr",
+      "display_price": "\u20b93.33 Cr",
       "price_value": 33300033,
-      "price_per_sqft": "₹6.01 K/sq.ft",
-      "price_per_marla": "₹13.54 L / Marla"
+      "price_per_sqft": "\u20b96.01 K/sq.ft",
+      "price_per_marla": "\u20b913.54 L / Marla"
     },
     "area": {
       "area_display": "5536 sq.ft",
@@ -4535,10 +4285,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹58.75 L",
+      "display_price": "\u20b958.75 L",
       "price_value": 5875000,
-      "price_per_sqft": "₹2.29 K/sq.ft",
-      "price_per_marla": "₹5.15 L / Marla"
+      "price_per_sqft": "\u20b92.29 K/sq.ft",
+      "price_per_marla": "\u20b95.15 L / Marla"
     },
     "area": {
       "area_display": "2565 sq.ft",
@@ -4582,10 +4332,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹50.0 L",
+      "display_price": "\u20b950.0 L",
       "price_value": 5000000,
-      "price_per_sqft": "₹1.84 K/sq.ft",
-      "price_per_marla": "₹4.13 L / Marla"
+      "price_per_sqft": "\u20b91.84 K/sq.ft",
+      "price_per_marla": "\u20b94.13 L / Marla"
     },
     "area": {
       "area_display": "2722 sq.ft",
@@ -4629,10 +4379,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹24.0 L",
+      "display_price": "\u20b924.0 L",
       "price_value": 2400000,
-      "price_per_sqft": "₹1.1 K/sq.ft",
-      "price_per_marla": "₹2.48 L / Marla"
+      "price_per_sqft": "\u20b91.1 K/sq.ft",
+      "price_per_marla": "\u20b92.48 L / Marla"
     },
     "area": {
       "area_display": "2178 sq.ft",
@@ -4679,10 +4429,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹90.0 L",
+      "display_price": "\u20b990.0 L",
       "price_value": 9000000,
-      "price_per_sqft": "₹1.1 K/sq.ft",
-      "price_per_marla": "₹2.48 L / Marla"
+      "price_per_sqft": "\u20b91.1 K/sq.ft",
+      "price_per_marla": "\u20b92.48 L / Marla"
     },
     "area": {
       "area_display": "8167 sq.ft",
@@ -4726,10 +4476,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Semi Furnished",
     "price": {
-      "display_price": "₹90.0 L",
+      "display_price": "\u20b990.0 L",
       "price_value": 9000000,
-      "price_per_sqft": "₹8.26 K/sq.ft",
-      "price_per_marla": "₹18.60 L / Marla"
+      "price_per_sqft": "\u20b98.26 K/sq.ft",
+      "price_per_marla": "\u20b918.60 L / Marla"
     },
     "area": {
       "area_display": "1090 sq.ft",
@@ -4776,10 +4526,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹3.5 Cr",
+      "display_price": "\u20b93.5 Cr",
       "price_value": 35000000,
-      "price_per_sqft": "₹7 K/sq.ft",
-      "price_per_marla": "₹15.75 L / Marla"
+      "price_per_sqft": "\u20b97 K/sq.ft",
+      "price_per_marla": "\u20b915.75 L / Marla"
     },
     "area": {
       "area_display": "5000 sq.ft",
@@ -4826,10 +4576,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Semi Furnished",
     "price": {
-      "display_price": "₹1.1 Cr",
+      "display_price": "\u20b91.1 Cr",
       "price_value": 11000000,
-      "price_per_sqft": "₹6.22 K/sq.ft",
-      "price_per_marla": "₹13.99 L / Marla"
+      "price_per_sqft": "\u20b96.22 K/sq.ft",
+      "price_per_marla": "\u20b913.99 L / Marla"
     },
     "area": {
       "area_display": "1769 sq.ft",
@@ -4876,10 +4626,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Fully Furnished",
     "price": {
-      "display_price": "₹90.0 L",
+      "display_price": "\u20b990.0 L",
       "price_value": 9000000,
-      "price_per_sqft": "₹6.62 K/sq.ft",
-      "price_per_marla": "₹14.90 L / Marla"
+      "price_per_sqft": "\u20b96.62 K/sq.ft",
+      "price_per_marla": "\u20b914.90 L / Marla"
     },
     "area": {
       "area_display": "1360 sq.ft",
@@ -4928,10 +4678,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹82.5 L",
+      "display_price": "\u20b982.5 L",
       "price_value": 8250000,
-      "price_per_sqft": "₹3.92 K/sq.ft",
-      "price_per_marla": "₹8.81 L / Marla"
+      "price_per_sqft": "\u20b93.92 K/sq.ft",
+      "price_per_marla": "\u20b98.81 L / Marla"
     },
     "area": {
       "area_display": "2106 sq.ft",
@@ -4975,10 +4725,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Semi Furnished",
     "price": {
-      "display_price": "₹1.2 Cr",
+      "display_price": "\u20b91.2 Cr",
       "price_value": 12000000,
-      "price_per_sqft": "₹3.69 K/sq.ft",
-      "price_per_marla": "₹8.29 L / Marla"
+      "price_per_sqft": "\u20b93.69 K/sq.ft",
+      "price_per_marla": "\u20b98.29 L / Marla"
     },
     "area": {
       "area_display": "3256 sq.ft",
@@ -5025,10 +4775,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Fully Furnished",
     "price": {
-      "display_price": "₹1.02 Cr",
+      "display_price": "\u20b91.02 Cr",
       "price_value": 10200000,
-      "price_per_sqft": "₹10.74 K/sq.ft",
-      "price_per_marla": "₹24.17 L / Marla"
+      "price_per_sqft": "\u20b910.74 K/sq.ft",
+      "price_per_marla": "\u20b924.17 L / Marla"
     },
     "area": {
       "area_display": "950 sq.ft",
@@ -5075,10 +4825,10 @@
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹24.0 L",
+      "display_price": "\u20b924.0 L",
       "price_value": 2400000,
-      "price_per_sqft": "₹1.76 K/sq.ft",
-      "price_per_marla": "₹3.97 L / Marla"
+      "price_per_sqft": "\u20b91.76 K/sq.ft",
+      "price_per_marla": "\u20b93.97 L / Marla"
     },
     "area": {
       "area_display": "1360 sq.ft",
@@ -5116,63 +4866,16 @@
     "status": "Immediate"
   },
   {
-    "property_id": "21238694",
-    "url": "https://housing.com/in/buy/resale/page/21238694-residential-plot-in-vijaypur-for-rs-28000000",
-    "title": "Residential Plot",
-    "type_of_property": "Residential Land / Plot",
-    "furnished_status": null,
-    "price": {
-      "display_price": "₹2.8 Cr",
-      "price_value": 28000000,
-      "price_per_sqft": "₹1.92 K/sq.ft",
-      "price_per_marla": "₹4.31 L / Marla"
-    },
-    "area": {
-      "area_display": "14615 sq.ft",
-      "area_sqft": 14615.0,
-      "area_type": "Plot Area",
-      "area_in_marla": "64.96 Marla"
-    },
-    "address": {
-      "full_address": "Vijaypur, Jammu",
-      "locality": "Vijaypur",
-      "city": "Jammu",
-      "coordinates": {
-        "latitude": "32.5633415384054",
-        "longitude": "75.0230570180302"
-      }
-    },
-    "configuration": {
-      "bedrooms": 0,
-      "bathrooms": null,
-      "balconies": "-",
-      "parking": "No Parking",
-      "summary": "- Balconies, Parking: No Parking"
-    },
-    "property_ownership": null,
-    "floors": null,
-    "property_age": null,
-    "highlights": [],
-    "key_highlights": [
-      "Residential Land / Plot",
-      "Immediate",
-      "64.96 Marla (14615 sq.ft)"
-    ],
-    "amenities": [],
-    "furnished_components": null,
-    "status": "Immediate"
-  },
-  {
     "property_id": "21274545",
     "url": "https://housing.com/in/buy/resale/page/21274545-residential-plot-in-bari-brahmana-for-rs-500000",
     "title": "Residential Plot",
     "type_of_property": "Residential Land / Plot",
     "furnished_status": null,
     "price": {
-      "display_price": "₹5.0 L",
+      "display_price": "\u20b95.0 L",
       "price_value": 500000,
-      "price_per_sqft": "₹1.84 K/sq.ft",
-      "price_per_marla": "₹4.13 L / Marla"
+      "price_per_sqft": "\u20b91.84 K/sq.ft",
+      "price_per_marla": "\u20b94.13 L / Marla"
     },
     "area": {
       "area_display": "272 sq.ft",
@@ -5218,10 +4921,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Unfurnished",
     "price": {
-      "display_price": "₹2.0 Cr",
+      "display_price": "\u20b92.0 Cr",
       "price_value": 20000000,
-      "price_per_sqft": "₹4.44 K/sq.ft",
-      "price_per_marla": "₹10.00 L / Marla"
+      "price_per_sqft": "\u20b94.44 K/sq.ft",
+      "price_per_marla": "\u20b910.00 L / Marla"
     },
     "area": {
       "area_display": "4500 sq.ft",
@@ -5260,53 +4963,6 @@
       "Unfurnished (no furniture/appliances provided)"
     ],
     "status": "Ready to move"
-  },
-  {
-    "property_id": "21294292",
-    "url": "https://housing.com/in/buy/resale/page/21294292-residential-plot-in-udhampur-for-rs-6000000",
-    "title": "Residential Plot",
-    "type_of_property": "Residential Land / Plot",
-    "furnished_status": null,
-    "price": {
-      "display_price": "₹60.0 L",
-      "price_value": 6000000,
-      "price_per_sqft": "₹36/sq.ft",
-      "price_per_marla": "₹8,271 / Marla"
-    },
-    "area": {
-      "area_display": "163216 sq.ft",
-      "area_sqft": 163216.0,
-      "area_type": "Plot Area",
-      "area_in_marla": "725.4 Marla"
-    },
-    "address": {
-      "full_address": "Kaller Himmat, Udhampur Town",
-      "locality": "Kaller Himmat",
-      "city": "Jammu",
-      "coordinates": {
-        "latitude": "32.9076298",
-        "longitude": "75.12243"
-      }
-    },
-    "configuration": {
-      "bedrooms": 0,
-      "bathrooms": null,
-      "balconies": "-",
-      "parking": "No Parking",
-      "summary": "- Balconies, Parking: No Parking"
-    },
-    "property_ownership": null,
-    "floors": null,
-    "property_age": null,
-    "highlights": [],
-    "key_highlights": [
-      "Residential Land / Plot",
-      "Immediate",
-      "725.4 Marla (163216 sq.ft)"
-    ],
-    "amenities": [],
-    "furnished_components": null,
-    "status": "Immediate"
   },
   {
     "property_id": "19985",
@@ -5366,10 +5022,10 @@
     "type_of_property": "Project",
     "furnished_status": null,
     "price": {
-      "display_price": "₹35.81 L",
+      "display_price": "\u20b935.81 L",
       "price_value": 3580500,
-      "price_per_sqft": "₹3.1 K/sq.ft",
-      "price_per_marla": "₹6.98 L / Marla"
+      "price_per_sqft": "\u20b93.1 K/sq.ft",
+      "price_per_marla": "\u20b96.98 L / Marla"
     },
     "area": {
       "area_display": "1155 sq.ft.",
@@ -5417,10 +5073,10 @@
     "type_of_property": "Project",
     "furnished_status": null,
     "price": {
-      "display_price": "₹70.01 L - 1.27 Cr",
+      "display_price": "\u20b970.01 L - 1.27 Cr",
       "price_value": 7000997,
-      "price_per_sqft": "₹6.86 K/sq.ft",
-      "price_per_marla": "₹15.42 L / Marla"
+      "price_per_sqft": "\u20b96.86 K/sq.ft",
+      "price_per_marla": "\u20b915.42 L / Marla"
     },
     "area": {
       "area_display": "1021 - 1848 sq.ft.",
@@ -5467,10 +5123,10 @@
     "type_of_property": "Project",
     "furnished_status": null,
     "price": {
-      "display_price": "₹56.08 L - 72.2 L",
+      "display_price": "\u20b956.08 L - 72.2 L",
       "price_value": 5608000,
-      "price_per_sqft": "₹4 K/sq.ft",
-      "price_per_marla": "₹9.00 L / Marla"
+      "price_per_sqft": "\u20b94 K/sq.ft",
+      "price_per_marla": "\u20b99.00 L / Marla"
     },
     "area": {
       "area_display": "1402 - 1805 sq.ft.",
@@ -5519,10 +5175,10 @@
     "type_of_property": "Project",
     "furnished_status": null,
     "price": {
-      "display_price": "₹57.5 L - 66.7 L",
+      "display_price": "\u20b957.5 L - 66.7 L",
       "price_value": 5750000,
-      "price_per_sqft": "₹4.6 K/sq.ft",
-      "price_per_marla": "₹10.34 L / Marla"
+      "price_per_sqft": "\u20b94.6 K/sq.ft",
+      "price_per_marla": "\u20b910.34 L / Marla"
     },
     "area": {
       "area_display": "1250 - 1450 sq.ft.",
@@ -5572,10 +5228,10 @@
     "type_of_property": "Project",
     "furnished_status": null,
     "price": {
-      "display_price": "₹58.9 L",
+      "display_price": "\u20b958.9 L",
       "price_value": 5890000,
-      "price_per_sqft": "₹3.8 K/sq.ft",
-      "price_per_marla": "₹8.55 L / Marla"
+      "price_per_sqft": "\u20b93.8 K/sq.ft",
+      "price_per_marla": "\u20b98.55 L / Marla"
     },
     "area": {
       "area_display": "1550 sq.ft.",
@@ -5624,10 +5280,10 @@
     "type_of_property": "Project",
     "furnished_status": null,
     "price": {
-      "display_price": "₹70.01 L - 1.27 Cr",
+      "display_price": "\u20b970.01 L - 1.27 Cr",
       "price_value": 7000997,
-      "price_per_sqft": "₹6.86 K/sq.ft",
-      "price_per_marla": "₹15.42 L / Marla"
+      "price_per_sqft": "\u20b96.86 K/sq.ft",
+      "price_per_marla": "\u20b915.42 L / Marla"
     },
     "area": {
       "area_display": "1021 - 1848 sq.ft.",
@@ -5673,10 +5329,10 @@
     "type_of_property": "Project",
     "furnished_status": null,
     "price": {
-      "display_price": "₹24.98 L - 74.41 L",
+      "display_price": "\u20b924.98 L - 74.41 L",
       "price_value": 2497662,
-      "price_per_sqft": "₹4.02 K/sq.ft",
-      "price_per_marla": "₹9.05 L / Marla"
+      "price_per_sqft": "\u20b94.02 K/sq.ft",
+      "price_per_marla": "\u20b99.05 L / Marla"
     },
     "area": {
       "area_display": "621 - 1850 sq.ft.",
@@ -5909,10 +5565,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Fully Furnished",
     "price": {
-      "display_price": "₹1.7 Cr",
+      "display_price": "\u20b91.7 Cr",
       "price_value": 17000000,
-      "price_per_sqft": "₹13.08 K/sq.ft",
-      "price_per_marla": "₹29.41 L / Marla"
+      "price_per_sqft": "\u20b913.08 K/sq.ft",
+      "price_per_marla": "\u20b929.41 L / Marla"
     },
     "area": {
       "area_display": "1300 sq.ft",
@@ -5959,10 +5615,10 @@
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Fully Furnished",
     "price": {
-      "display_price": "₹85.0 L",
+      "display_price": "\u20b985.0 L",
       "price_value": 8500000,
-      "price_per_sqft": "₹4.36 K/sq.ft",
-      "price_per_marla": "₹9.82 L / Marla"
+      "price_per_sqft": "\u20b94.36 K/sq.ft",
+      "price_per_marla": "\u20b99.82 L / Marla"
     },
     "area": {
       "area_display": "1949 sq.ft",
@@ -6003,66 +5659,16 @@
     "status": "Ready to move"
   },
   {
-    "property_id": "20895755",
-    "url": "https://housing.com/in/buy/resale/page/20895755-4-bhk-independent-house-in-udhampur-for-rs-8500000",
-    "title": "4 BHK Independent House",
-    "type_of_property": "Independent House / Villa",
-    "furnished_status": "Unfurnished",
-    "price": {
-      "display_price": "₹85.0 L",
-      "price_value": 8500000,
-      "price_per_sqft": "₹4.25 K/sq.ft",
-      "price_per_marla": "₹9.56 L / Marla"
-    },
-    "area": {
-      "area_display": "2000 sq.ft",
-      "area_sqft": 2000.0,
-      "area_type": "Built Up Area",
-      "area_in_marla": "8.89 Marla"
-    },
-    "address": {
-      "full_address": "Udhampur Town, Udhampur",
-      "locality": "Udhampur Town",
-      "city": "Jammu",
-      "coordinates": {
-        "latitude": "32.9157557741479",
-        "longitude": "75.1310288141748"
-      }
-    },
-    "configuration": {
-      "bedrooms": 4,
-      "bathrooms": 4,
-      "balconies": "-",
-      "parking": "No Parking",
-      "summary": "4 BHK / Bedrooms, 4 Bathrooms, - Balconies, Parking: No Parking"
-    },
-    "property_ownership": null,
-    "floors": null,
-    "property_age": null,
-    "highlights": [],
-    "key_highlights": [
-      "Independent House / Villa",
-      "Ready to move",
-      "Unfurnished",
-      "8.89 Marla (2000 sq.ft)"
-    ],
-    "amenities": [],
-    "furnished_components": [
-      "Unfurnished (no furniture/appliances provided)"
-    ],
-    "status": "Ready to move"
-  },
-  {
     "property_id": "20898360",
     "url": "https://housing.com/in/buy/resale/page/20898360-4-bhk-independent-house-in-preet-nagar-for-rs-10000000",
     "title": "4 BHK Independent House",
     "type_of_property": "Independent House / Villa",
     "furnished_status": "Fully Furnished",
     "price": {
-      "display_price": "₹1.0 Cr",
+      "display_price": "\u20b91.0 Cr",
       "price_value": 10000000,
-      "price_per_sqft": "₹12.5 K/sq.ft",
-      "price_per_marla": "₹28.09 L / Marla"
+      "price_per_sqft": "\u20b912.5 K/sq.ft",
+      "price_per_marla": "\u20b928.09 L / Marla"
     },
     "area": {
       "area_display": "800 sq.ft",
