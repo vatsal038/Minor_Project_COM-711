@@ -1,0 +1,3550 @@
+[
+  {
+    "property_id": "21261477",
+    "url": "https://housing.com/in/buy/resale/page/21261477-1-bhk-independent-house-in-sedhar-for-rs-3500000",
+    "title": "1 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Fully Furnished",
+    "price": {
+      "display_price": "₹35.0 L",
+      "price_value": 3500000,
+      "price_per_sqft": "₹7.78 K/sq.ft",
+      "price_per_marla": "₹17.50 L / Marla"
+    },
+    "area": {
+      "area_display": "450 sq.ft",
+      "area_sqft": 450.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "2 Marla"
+    },
+    "address": {
+      "full_address": "Sedhar, Jammu",
+      "locality": "Sedhar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.7378396",
+        "longitude": "74.849251"
+      }
+    },
+    "configuration": {
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "1 BHK / Bedrooms, 1 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Fully Furnished",
+      "2 Marla (450 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Fully Furnished with essential fixtures & fittings"
+    ],
+    "status": "Ready to move",
+    "source_portal": "housing",
+    "source_category": "buy",
+    "locality_original": "Sedhar",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Unrecognized locality 'Sedhar' requiring administrative boundary review"
+  },
+  {
+    "property_id": "20848763",
+    "url": "https://housing.com/in/buy/resale/page/20848763-4-bhk-independent-house-in-rohi-for-rs-8500000",
+    "title": "4 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Fully Furnished",
+    "price": {
+      "display_price": "₹85.0 L",
+      "price_value": 8500000,
+      "price_per_sqft": "₹4.36 K/sq.ft",
+      "price_per_marla": "₹9.82 L / Marla"
+    },
+    "area": {
+      "area_display": "1949 sq.ft",
+      "area_sqft": 1949.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "8.66 Marla"
+    },
+    "address": {
+      "full_address": "Rohi, Jammu",
+      "locality": "Rohi",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.662997",
+        "longitude": "74.851268"
+      }
+    },
+    "configuration": {
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "4 BHK / Bedrooms, 4 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Ready to move",
+      "Fully Furnished",
+      "8.66 Marla (1949 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Fully Furnished with essential fixtures & fittings"
+    ],
+    "status": "Ready to move",
+    "source_portal": "housing",
+    "source_category": "buy",
+    "locality_original": "Rohi",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Unrecognized locality 'Rohi' requiring administrative boundary review"
+  },
+  {
+    "property_id": "100461826",
+    "url": "https://housing.com/commercial/buy/resale/100461826-commercial-plot-for-sale-in-ranjan-jammu-jammu-and-kashmir-1-for-rs-16000000",
+    "title": "Commercial Plot",
+    "type_of_property": "Commercial Plot / Land",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹1.6 Cr",
+      "price_value": 16000000,
+      "price_per_sqft": "₹2.45K/sq.ft",
+      "price_per_marla": "₹5.51 L / Marla"
+    },
+    "area": {
+      "area_display": "6534 sq.ft",
+      "area_sqft": 6534.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "29.04 Marla"
+    },
+    "address": {
+      "full_address": "Ranjan, Jammu",
+      "locality": "Ranjan",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.869611",
+        "longitude": "74.765835"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Plot / Land (No rooms)"
+    },
+    "property_ownership": "Power Of Attorney",
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Plot / Land",
+      "29.04 Marla (6534 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": null,
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Ranjan",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Unrecognized locality 'Ranjan' requiring administrative boundary review"
+  },
+  {
+    "property_id": "100424376",
+    "url": "https://housing.com/commercial/buy/resale/100424376-commercial-plot-for-sale-in-panj-garain-jammu-jammu-and-kashmir-1-for-rs-4200000",
+    "title": "Commercial Plot",
+    "type_of_property": "Commercial Plot / Land",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹42.0 L",
+      "price_value": 4200000,
+      "price_per_sqft": "₹2.21K/sq.ft",
+      "price_per_marla": "₹4.96 L / Marla"
+    },
+    "area": {
+      "area_display": "1904 sq.ft",
+      "area_sqft": 1904.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "8.46 Marla"
+    },
+    "address": {
+      "full_address": "Panj Garain, Jammu",
+      "locality": "Panj Garain",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.832624",
+        "longitude": "74.891646"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Plot / Land (No rooms)"
+    },
+    "property_ownership": "Freehold",
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Plot / Land",
+      "8.46 Marla (1904 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": null,
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Panj Garain",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Unrecognized locality 'Panj Garain' requiring administrative boundary review"
+  },
+  {
+    "property_id": "100334258",
+    "url": "https://housing.com/commercial/buy/resale/100334258-warehouse-for-sale-in-kabir-colony-jammu-jammu-jammu-and-kashmir-1-for-rs-52500000",
+    "title": "Warehouse",
+    "type_of_property": "Warehouse / Godown",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹5.25 Cr",
+      "price_value": 52500000,
+      "price_per_sqft": "₹3.32K/sq.ft",
+      "price_per_marla": "₹7.48 L / Marla"
+    },
+    "area": {
+      "area_display": "15790 sq.ft",
+      "area_sqft": 15790.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "70.18 Marla"
+    },
+    "address": {
+      "full_address": "Kabir Colony, Jammu",
+      "locality": "Kabir Colony",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.734804",
+        "longitude": "74.821835"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": null
+    },
+    "property_ownership": "Freehold",
+    "floors": "GF,1st/ 1 floors",
+    "property_age": "5 Years",
+    "highlights": [],
+    "key_highlights": [
+      "Warehouse / Godown",
+      "Ready to move",
+      "Floor: GF,1st/ 1 floors",
+      "70.18 Marla (15790 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Ready to move",
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Kabir Colony",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Unrecognized locality 'Kabir Colony' requiring administrative boundary review"
+  },
+  {
+    "property_id": "100613609",
+    "url": "https://housing.com/commercial/buy/resale/100613609-commercial-plot-for-sale-in-kathar-jammu-jammu-and-kashmir-1-for-rs-1200000000",
+    "title": "Commercial Plot",
+    "type_of_property": "Commercial Plot / Land",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹120.0 Cr",
+      "price_value": 1200000000,
+      "price_per_sqft": "₹15.0K/sq.ft",
+      "price_per_marla": "₹33.75 L / Marla"
+    },
+    "area": {
+      "area_display": "80000 sq.ft",
+      "area_sqft": 80000.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "355.56 Marla"
+    },
+    "address": {
+      "full_address": "Kathar, Jammu",
+      "locality": "Kathar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "33.017606",
+        "longitude": "74.719075"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Plot / Land (No rooms)"
+    },
+    "property_ownership": "Leasehold",
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Plot / Land",
+      "355.56 Marla (80000 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": null,
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Kathar",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Unrecognized locality 'Kathar' requiring administrative boundary review"
+  },
+  {
+    "property_id": "100589908",
+    "url": "https://housing.com/commercial/buy/resale/100589908-showroom-for-sale-in-jamil-jammu-jammu-and-kashmir-1-for-rs-30000000",
+    "title": "Showroom",
+    "type_of_property": "Commercial Showroom",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹3.0 Cr",
+      "price_value": 30000000,
+      "price_per_sqft": "₹14.29K/sq.ft",
+      "price_per_marla": "₹32.15 L / Marla"
+    },
+    "area": {
+      "area_display": "2100 sq.ft",
+      "area_sqft": 2100.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "9.33 Marla"
+    },
+    "address": {
+      "full_address": "Jamil, Jammu",
+      "locality": "Jamil",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.758839",
+        "longitude": "75.088855"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Commercial Space"
+    },
+    "property_ownership": "Freehold",
+    "floors": "GF/ 1 floors",
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Showroom",
+      "Under Construction",
+      "Floor: GF/ 1 floors",
+      "9.33 Marla (2100 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Under Construction",
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Jamil",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Unrecognized locality 'Jamil' requiring administrative boundary review"
+  },
+  {
+    "property_id": "100589028",
+    "url": "https://housing.com/commercial/buy/resale/100589028-commercial-plot-for-sale-in-shiba-jammu-jammu-and-kashmir-1-for-rs-1000000",
+    "title": "Commercial Plot",
+    "type_of_property": "Commercial Plot / Land",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹10.0 L",
+      "price_value": 1000000,
+      "price_per_sqft": "₹61.22/sq.ft",
+      "price_per_marla": "₹13,774 / Marla"
+    },
+    "area": {
+      "area_display": "16335 sq.ft",
+      "area_sqft": 16335.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "72.6 Marla"
+    },
+    "address": {
+      "full_address": "Shiba, Jammu",
+      "locality": "Shiba",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.8599099",
+        "longitude": "74.8448648"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Plot / Land (No rooms)"
+    },
+    "property_ownership": "Freehold",
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Plot / Land",
+      "72.6 Marla (16335 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": null,
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Shiba",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Unrecognized locality 'Shiba' requiring administrative boundary review"
+  },
+  {
+    "property_id": "100589029",
+    "url": "https://housing.com/commercial/buy/resale/100589029-commercial-plot-for-sale-in-shiba-jammu-jammu-and-kashmir-1-for-rs-1000000",
+    "title": "Commercial Plot",
+    "type_of_property": "Commercial Plot / Land",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹10.0 L",
+      "price_value": 1000000,
+      "price_per_sqft": "₹61.22/sq.ft",
+      "price_per_marla": "₹13,774 / Marla"
+    },
+    "area": {
+      "area_display": "16335 sq.ft",
+      "area_sqft": 16335.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "72.6 Marla"
+    },
+    "address": {
+      "full_address": "Shiba, Jammu",
+      "locality": "Shiba",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.8599099",
+        "longitude": "74.8448648"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Plot / Land (No rooms)"
+    },
+    "property_ownership": "Freehold",
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Plot / Land",
+      "72.6 Marla (16335 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": null,
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Shiba",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Unrecognized locality 'Shiba' requiring administrative boundary review"
+  },
+  {
+    "property_id": "100572879",
+    "url": "https://housing.com/commercial/buy/resale/100572879-commercial-plot-for-sale-in-kathar-jammu-jammu-and-kashmir-1-for-rs-150000000",
+    "title": "Commercial Plot",
+    "type_of_property": "Commercial Plot / Land",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹15.0 Cr",
+      "price_value": 150000000,
+      "price_per_sqft": "₹2.3K/sq.ft",
+      "price_per_marla": "₹5.17 L / Marla"
+    },
+    "area": {
+      "area_display": "65340 sq.ft",
+      "area_sqft": 65340.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "290.4 Marla"
+    },
+    "address": {
+      "full_address": "Kathar, Jammu",
+      "locality": "Kathar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "33.017606",
+        "longitude": "74.719075"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Plot / Land (No rooms)"
+    },
+    "property_ownership": "Freehold",
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Plot / Land",
+      "290.4 Marla (65340 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": null,
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Kathar",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Unrecognized locality 'Kathar' requiring administrative boundary review"
+  },
+  {
+    "property_id": "100570902",
+    "url": "https://housing.com/commercial/buy/resale/100570902-shop-for-sale-in-chak-preman-jammu-jammu-and-kashmir-1-for-rs-500000",
+    "title": "Shop",
+    "type_of_property": "Commercial Shop / Retail",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹5.0 L",
+      "price_value": 500000,
+      "price_per_sqft": "₹367.11/sq.ft",
+      "price_per_marla": "₹82,645 / Marla"
+    },
+    "area": {
+      "area_display": "1362 sq.ft",
+      "area_sqft": 1362.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "6.05 Marla"
+    },
+    "address": {
+      "full_address": "Chak Preman, Jammu",
+      "locality": "Chak Preman",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.5202895",
+        "longitude": "74.7410222"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Commercial Space"
+    },
+    "property_ownership": "Freehold",
+    "floors": "GF/ 1 floors",
+    "property_age": "3 Years",
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Shop / Retail",
+      "Ready to move",
+      "Floor: GF/ 1 floors",
+      "6.05 Marla (1362 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Ready to move",
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Chak Preman",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Unrecognized locality 'Chak Preman' requiring administrative boundary review"
+  },
+  {
+    "property_id": "100570903",
+    "url": "https://housing.com/commercial/buy/resale/100570903-shop-for-sale-in-chak-preman-jammu-jammu-and-kashmir-1-for-rs-500000",
+    "title": "Shop",
+    "type_of_property": "Commercial Shop / Retail",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹5.0 L",
+      "price_value": 500000,
+      "price_per_sqft": "₹367.11/sq.ft",
+      "price_per_marla": "₹82,645 / Marla"
+    },
+    "area": {
+      "area_display": "1362 sq.ft",
+      "area_sqft": 1362.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "6.05 Marla"
+    },
+    "address": {
+      "full_address": "Chak Preman, Jammu",
+      "locality": "Chak Preman",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.5202895",
+        "longitude": "74.7410222"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Commercial Space"
+    },
+    "property_ownership": "Freehold",
+    "floors": "GF/ 1 floors",
+    "property_age": "3 Years",
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Shop / Retail",
+      "Ready to move",
+      "Floor: GF/ 1 floors",
+      "6.05 Marla (1362 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Ready to move",
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Chak Preman",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Unrecognized locality 'Chak Preman' requiring administrative boundary review"
+  },
+  {
+    "property_id": "100177065",
+    "url": "https://housing.com/commercial/buy/resale/100177065-commercial-plot-for-sale-in-mallah-peli-for-rs-1400000",
+    "title": "Commercial Plot",
+    "type_of_property": "Commercial Plot / Land",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹14.0 L",
+      "price_value": 1400000,
+      "price_per_sqft": "₹128.68/sq.ft",
+      "price_per_marla": "₹28,950 / Marla"
+    },
+    "area": {
+      "area_display": "10880 sq.ft",
+      "area_sqft": 10880.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "48.36 Marla"
+    },
+    "address": {
+      "full_address": "Mallah, Jammu",
+      "locality": "Mallah",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.994347",
+        "longitude": "74.466118"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Plot / Land (No rooms)"
+    },
+    "property_ownership": "Power Of Attorney",
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Plot / Land",
+      "Ready to move",
+      "48.36 Marla (10880 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Ready to move",
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Mallah",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Unrecognized locality 'Mallah' requiring administrative boundary review"
+  },
+  {
+    "property_id": "100086151",
+    "url": "https://housing.com/commercial/buy/resale/100086151-commercial-plot-for-sale-in-kaluchak-jammu-jammu-and-kashmir-1-for-rs-220000000",
+    "title": "Commercial Plot",
+    "type_of_property": "Commercial Plot / Land",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹22.0 Cr",
+      "price_value": 220000000,
+      "price_per_sqft": "₹4.53K/sq.ft",
+      "price_per_marla": "₹10.19 L / Marla"
+    },
+    "area": {
+      "area_display": "48600 sq.ft",
+      "area_sqft": 48600.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "216 Marla"
+    },
+    "address": {
+      "full_address": "Kaluchak, Jammu",
+      "locality": "Kaluchak",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.65905",
+        "longitude": "74.881414"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Plot / Land (No rooms)"
+    },
+    "property_ownership": "Freehold",
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Plot / Land",
+      "Ready to move",
+      "216 Marla (48600 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Ready to move",
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Kaluchak",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Unrecognized locality 'Kaluchak' requiring administrative boundary review"
+  },
+  {
+    "property_id": "21360113",
+    "url": "https://housing.com/rent/21360113-2400-sqft-2-bhk-independent-house-on-rent-in-jabah-jammu",
+    "title": "2 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Semi Furnished",
+    "price": {
+      "display_price": "₹18,000",
+      "price_value": 18000,
+      "price_per_sqft": null,
+      "price_per_marla": "₹1,687 / Marla",
+      "security_deposit": "₹20,000",
+      "maintenance_charges": "Included in rent",
+      "brokerage": "0"
+    },
+    "area": {
+      "area_display": "2400 sq.ft",
+      "area_sqft": 2400.0,
+      "area_type": "Carpet area",
+      "area_in_marla": "10.67 Marla"
+    },
+    "address": {
+      "full_address": "Jabah, Jammu",
+      "locality": "Jabah",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.69687048",
+        "longitude": "74.85042282"
+      }
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "balconies": "No Balcony",
+      "parking": "No Parking",
+      "summary": "2 BHK / Bedrooms, 2 Bathrooms, No Balcony Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "null year",
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Semi Furnished",
+      "10.67 Marla (2400 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi Furnished (fixtures/woodwork included)"
+    ],
+    "status": null,
+    "source_portal": "housing",
+    "source_category": "rent",
+    "locality_original": "Jabah",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Unrecognized locality 'Jabah' requiring administrative boundary review"
+  },
+  {
+    "property_id": "21260793",
+    "url": "https://housing.com/rent/21260793-250-sqft-1-rk-independent-house-on-rent-in-bahu-jammu",
+    "title": "1 RK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "₹6,000",
+      "price_value": 6000,
+      "price_per_sqft": null,
+      "price_per_marla": null,
+      "security_deposit": "₹6,000",
+      "maintenance_charges": "Included in rent",
+      "brokerage": "0"
+    },
+    "area": {
+      "area_display": null,
+      "area_sqft": null,
+      "area_type": null,
+      "area_in_marla": null
+    },
+    "address": {
+      "full_address": "Bahu, Jammu",
+      "locality": "Bahu",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.606263",
+        "longitude": "74.811233"
+      }
+    },
+    "configuration": {
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "1 BHK / Bedrooms, 1 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "null year",
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Unfurnished"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": null,
+    "source_portal": "housing",
+    "source_category": "rent",
+    "locality_original": "Bahu",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Unrecognized locality 'Bahu' requiring administrative boundary review"
+  },
+  {
+    "property_id": "21348397",
+    "url": "https://housing.com/rent/21348397-1000-sqft-1-bhk-independent-floor-on-rent-in-chak-mian-sahib-sin-jammu",
+    "title": "1 BHK Independent Builder Floor",
+    "type_of_property": "Independent Builder Floor",
+    "furnished_status": "Fully Furnished",
+    "price": {
+      "display_price": "₹5,000",
+      "price_value": 5000,
+      "price_per_sqft": null,
+      "price_per_marla": null,
+      "security_deposit": "₹5,000",
+      "maintenance_charges": "Included in rent",
+      "brokerage": "0"
+    },
+    "area": {
+      "area_display": null,
+      "area_sqft": null,
+      "area_type": null,
+      "area_in_marla": null
+    },
+    "address": {
+      "full_address": "Chak Mian Sahib Sin, Jammu",
+      "locality": "Chak Mian Sahib Sin",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.559181",
+        "longitude": "74.888722"
+      }
+    },
+    "configuration": {
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "1 BHK / Bedrooms, 1 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "null year",
+    "highlights": [],
+    "key_highlights": [
+      "Independent Builder Floor",
+      "Fully Furnished"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Fully Furnished with essential fixtures & fittings"
+    ],
+    "status": null,
+    "source_portal": "housing",
+    "source_category": "rent",
+    "locality_original": "Chak Mian Sahib Sin",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Unrecognized locality 'Chak Mian Sahib Sin' requiring administrative boundary review"
+  },
+  {
+    "property_id": "20977778",
+    "url": "https://housing.com/rent/20977778-1400-sqft-3-bhk-independent-house-on-rent-in-kunjwani-jammu",
+    "title": "3 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Fully Furnished",
+    "price": {
+      "display_price": "₹14,000",
+      "price_value": 14000,
+      "price_per_sqft": null,
+      "price_per_marla": null,
+      "security_deposit": "₹14,000",
+      "maintenance_charges": "Included in rent",
+      "brokerage": "0"
+    },
+    "area": {
+      "area_display": null,
+      "area_sqft": null,
+      "area_type": null,
+      "area_in_marla": null
+    },
+    "address": {
+      "full_address": "Kunjwani, Jammu",
+      "locality": "Kunjwani",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.669555",
+        "longitude": "74.873156"
+      }
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "3 BHK / Bedrooms, 3 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "null year",
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Fully Furnished"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Fully Furnished with essential fixtures & fittings"
+    ],
+    "status": null,
+    "source_portal": "housing",
+    "source_category": "rent",
+    "locality_original": "Kunjwani",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Address conflict: 'Saror' and 'Kunjwani' both present"
+  },
+  {
+    "property_id": "21379717",
+    "url": "https://housing.com/rent/21379717-650-sqft-1-bhk-independent-floor-on-rent-in-kunjwani-jammu",
+    "title": "1 BHK Independent Builder Floor",
+    "type_of_property": "Independent Builder Floor",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "₹4,500",
+      "price_value": 4500,
+      "price_per_sqft": null,
+      "price_per_marla": "₹2,250 / Marla",
+      "security_deposit": "₹4,500",
+      "maintenance_charges": "Included in rent",
+      "brokerage": "0"
+    },
+    "area": {
+      "area_display": "450 sq.ft",
+      "area_sqft": 450.0,
+      "area_type": "Carpet area",
+      "area_in_marla": "2 Marla"
+    },
+    "address": {
+      "full_address": "Kunjwani, Jammu",
+      "locality": "Kunjwani",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.671528",
+        "longitude": "74.876297"
+      }
+    },
+    "configuration": {
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "balconies": "No Balcony",
+      "parking": "No Parking",
+      "summary": "1 BHK / Bedrooms, 1 Bathrooms, No Balcony Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": "1 of 1 floor",
+    "property_age": "null year",
+    "highlights": [],
+    "key_highlights": [
+      "Independent Builder Floor",
+      "Unfurnished",
+      "Floor: 1 of 1 floor",
+      "2 Marla (450 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": null,
+    "source_portal": "housing",
+    "source_category": "rent",
+    "locality_original": "Kunjwani",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Address conflict: 'Saror' and 'Kunjwani' both present"
+  },
+  {
+    "property_id": "21049550",
+    "url": "https://housing.com/rent/21049550-2400-sqft-4.5-bhk-apartment-on-rent-in-kunjwani-jammu",
+    "title": "4.5 BHK Flat",
+    "type_of_property": "Apartment / Flat",
+    "furnished_status": "Fully Furnished",
+    "price": {
+      "display_price": "₹50,000",
+      "price_value": 50000,
+      "price_per_sqft": null,
+      "price_per_marla": "₹4,708 / Marla",
+      "security_deposit": "₹50,000",
+      "maintenance_charges": "Included in rent",
+      "brokerage": "₹25,000"
+    },
+    "area": {
+      "area_display": "2390 sq.ft",
+      "area_sqft": 2390.0,
+      "area_type": "Carpet area",
+      "area_in_marla": "10.62 Marla"
+    },
+    "address": {
+      "full_address": "Kunjwani, Jammu",
+      "locality": "Kunjwani",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.671528",
+        "longitude": "74.876297"
+      }
+    },
+    "configuration": {
+      "bedrooms": 5,
+      "bathrooms": 5,
+      "balconies": "3",
+      "parking": "1 open, 1 closed",
+      "summary": "5 BHK / Bedrooms, 5 Bathrooms, 3 Balconies, Parking: 1 open, 1 closed"
+    },
+    "property_ownership": null,
+    "floors": "6 of 13 floors",
+    "property_age": "1 year",
+    "highlights": [],
+    "key_highlights": [
+      "Apartment / Flat",
+      "Fully Furnished",
+      "Floor: 6 of 13 floors",
+      "10.62 Marla (2390 sq.ft)"
+    ],
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Lift",
+      "Parking",
+      "Power Backup",
+      "Garden",
+      "Sports Facility",
+      "Kids Area",
+      "Gated Community",
+      "Water Supply"
+    ],
+    "furnished_components": [
+      "Fully Furnished with essential fixtures & fittings"
+    ],
+    "status": null,
+    "source_portal": "housing",
+    "source_category": "rent",
+    "locality_original": "Kunjwani",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Address conflict: 'Saror' and 'Kunjwani' both present"
+  },
+  {
+    "property_id": "21124821",
+    "url": "https://housing.com/rent/21124821-1760-sqft-3-bhk-apartment-on-rent-in-kunjwani-jammu",
+    "title": "3 BHK Flat",
+    "type_of_property": "Apartment / Flat",
+    "furnished_status": "Fully Furnished",
+    "price": {
+      "display_price": "₹39,000",
+      "price_value": 39000,
+      "price_per_sqft": null,
+      "price_per_marla": "₹5,321 / Marla",
+      "security_deposit": "₹39,000",
+      "maintenance_charges": "Included in rent",
+      "brokerage": "₹19,500"
+    },
+    "area": {
+      "area_display": "1650 sq.ft",
+      "area_sqft": 1650.0,
+      "area_type": "Carpet area",
+      "area_in_marla": "7.33 Marla"
+    },
+    "address": {
+      "full_address": "Kunjwani, Jammu",
+      "locality": "Kunjwani",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.671528",
+        "longitude": "74.876297"
+      }
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "balconies": "2",
+      "parking": "0 open, 1 closed",
+      "summary": "3 BHK / Bedrooms, 3 Bathrooms, 2 Balconies, Parking: 0 open, 1 closed"
+    },
+    "property_ownership": null,
+    "floors": "1 of 13 floors",
+    "property_age": "1 year",
+    "highlights": [],
+    "key_highlights": [
+      "Apartment / Flat",
+      "Fully Furnished",
+      "Floor: 1 of 13 floors",
+      "7.33 Marla (1650 sq.ft)"
+    ],
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Lift",
+      "Parking",
+      "Power Backup",
+      "Garden",
+      "Sports Facility",
+      "Kids Area",
+      "Gated Community",
+      "Water Supply",
+      "Gas Pipeline"
+    ],
+    "furnished_components": [
+      "Fully Furnished with essential fixtures & fittings"
+    ],
+    "status": null,
+    "source_portal": "housing",
+    "source_category": "rent",
+    "locality_original": "Kunjwani",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Address conflict: 'Saror' and 'Kunjwani' both present"
+  },
+  {
+    "property_id": "21414828",
+    "url": "https://housing.com/rent/21414828-200-sqft-2-bhk-independent-house-on-rent-in-kunjwani-jammu",
+    "title": "2 BHK Independent House",
+    "type_of_property": "Independent House / Villa",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "₹6,000",
+      "price_value": 6000,
+      "price_per_sqft": null,
+      "price_per_marla": null,
+      "security_deposit": "₹6,000",
+      "maintenance_charges": "Included in rent",
+      "brokerage": "0"
+    },
+    "area": {
+      "area_display": null,
+      "area_sqft": null,
+      "area_type": null,
+      "area_in_marla": null
+    },
+    "address": {
+      "full_address": "Kunjwani, Jammu",
+      "locality": "Kunjwani",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.671528",
+        "longitude": "74.876297"
+      }
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "2 BHK / Bedrooms, 2 Bathrooms, - Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "null year",
+    "highlights": [],
+    "key_highlights": [
+      "Independent House / Villa",
+      "Unfurnished"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": null,
+    "source_portal": "housing",
+    "source_category": "rent",
+    "locality_original": "Kunjwani",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Address conflict: 'Saror' and 'Kunjwani' both present"
+  },
+  {
+    "property_id": "65586991",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-3200-Sq-ft-Residential-House-FOR-Sale-in-Jammu&id=4d423635353836393931",
+    "title": "2BHK Residential House for Resale in ",
+    "type_of_property": "Residential House",
+    "furnished_status": "Semi-Furnished",
+    "price": {
+      "display_price": "₹70 Lac",
+      "price_value": 7000000,
+      "price_per_sqft": 2188,
+      "price_per_marla": "₹4.92 L / Marla"
+    },
+    "area": {
+      "area_display": "3200 sqft",
+      "area_sqft": 3200.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "14.22 Marla"
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": 3,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "2 BHK / Bedrooms, 3 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": "1 out of 1",
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "Ready to Move",
+      "Semi-Furnished",
+      "1 out of 1",
+      "14.22 Marla (3200 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
+    "status": "Ready to Move",
+    "source_portal": "magicbricks",
+    "source_category": "buy",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "50357148",
+    "url": "https://www.magicbricks.com/propertyDetails/6-BHK-2200-Sq-ft-Residential-House-FOR-Sale-in-Jammu&id=4d423530333537313438",
+    "title": "6BHK Residential House for Resale in ",
+    "type_of_property": "Residential House",
+    "furnished_status": "Furnished",
+    "price": {
+      "display_price": "₹2.40 Cr",
+      "price_value": 24000000,
+      "price_per_sqft": 10909,
+      "price_per_marla": "₹25.72 L / Marla"
+    },
+    "area": {
+      "area_display": "2100 sqft",
+      "area_sqft": 2100.0,
+      "area_type": "Carpet Area",
+      "area_in_marla": "9.33 Marla"
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 6,
+      "bathrooms": 4,
+      "balconies": 3,
+      "additional_rooms": null,
+      "summary": "6 BHK / Bedrooms, 4 Bathrooms, 3 Balconies"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "5 to 10 years",
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "Ready to Move",
+      "Furnished",
+      "9.33 Marla (2100 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
+    "status": "Ready to Move",
+    "source_portal": "magicbricks",
+    "source_category": "buy",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "84890393",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1600-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Jammu&id=4d423834383930333933",
+    "title": "3BHK Multistorey Apartment for Resale in ",
+    "type_of_property": "Apartment",
+    "furnished_status": "Semi-Furnished",
+    "price": {
+      "display_price": "₹1.40 Cr",
+      "price_value": 14000000,
+      "price_per_sqft": 8750,
+      "price_per_marla": "₹19.69 L / Marla"
+    },
+    "area": {
+      "area_display": "1600 sqft",
+      "area_sqft": 1600.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "7.11 Marla"
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "3 BHK / Bedrooms, 3 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": "9 out of 20",
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Apartment",
+      "Ready to Move",
+      "Semi-Furnished",
+      "9 out of 20",
+      "7.11 Marla (1600 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
+    "status": "Ready to Move",
+    "source_portal": "magicbricks",
+    "source_category": "buy",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "85588213",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1350-Sq-ft-Residential-House-FOR-Sale-in-Jammu&id=4d423835353838323133",
+    "title": "2BHK Residential House for Resale in ",
+    "type_of_property": "Residential House",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹70 Lac",
+      "price_value": 7000000,
+      "price_per_sqft": 5185,
+      "price_per_marla": "₹11.67 L / Marla"
+    },
+    "area": {
+      "area_display": "1350 sqft",
+      "area_sqft": 1350.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "6 Marla"
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": null,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "2 BHK / Bedrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "Ready to Move",
+      "6 Marla (1350 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Ready to Move",
+    "source_portal": "magicbricks",
+    "source_category": "buy",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "69055111",
+    "url": "https://www.magicbricks.com/propertyDetails/5-BHK-1925-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Jammu&id=4d423639303535313131",
+    "title": "5BHK Multistorey Apartment for Resale in ",
+    "type_of_property": "Apartment",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "₹2 Cr",
+      "price_value": 20000000,
+      "price_per_sqft": 10390,
+      "price_per_marla": "₹23.36 L / Marla"
+    },
+    "area": {
+      "area_display": "1925 sqft",
+      "area_sqft": 1925.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "8.56 Marla"
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "5 BHK / Bedrooms, 3 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": "1 out of 1",
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Apartment",
+      "Ready to Move",
+      "Unfurnished",
+      "1 out of 1",
+      "8.56 Marla (1925 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": "Ready to Move",
+    "source_portal": "magicbricks",
+    "source_category": "buy",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "73343657",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1200-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Jammu&id=4d423733333433363537",
+    "title": "2BHK Multistorey Apartment for Resale in ",
+    "type_of_property": "Apartment",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "₹80 Lac",
+      "price_value": 8000000,
+      "price_per_sqft": 6667,
+      "price_per_marla": "₹15.01 L / Marla"
+    },
+    "area": {
+      "area_display": "1200 sqft",
+      "area_sqft": 1200.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "5.33 Marla"
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "balconies": 1,
+      "additional_rooms": null,
+      "summary": "2 BHK / Bedrooms, 2 Bathrooms, 1 Balconies"
+    },
+    "property_ownership": "Freehold",
+    "floors": "2 out of 6",
+    "property_age": "5 to 10 years",
+    "highlights": [
+      "Facing: Garden/Park, Pool",
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Apartment",
+      "Ready to Move",
+      "Unfurnished",
+      "2 out of 6",
+      "5.33 Marla (1200 sqft)"
+    ],
+    "amenities": [
+      "Jogging and Strolling Track",
+      "RO Water System",
+      "Visitor Parking",
+      "Intercom Facility"
+    ],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": "Ready to Move",
+    "source_portal": "magicbricks",
+    "source_category": "buy",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "48469599",
+    "url": "https://www.magicbricks.com/propertyDetails/7-BHK-5500-Sq-ft-Residential-House-FOR-Sale-in-Jammu&id=4d423438343639353939",
+    "title": "7BHK Residential House for Resale in ",
+    "type_of_property": "Residential House",
+    "furnished_status": "Furnished",
+    "price": {
+      "display_price": "₹3 Cr",
+      "price_value": 30000000,
+      "price_per_sqft": 5455,
+      "price_per_marla": "₹12.27 L / Marla"
+    },
+    "area": {
+      "area_display": "5500 sqft",
+      "area_sqft": 5500.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "24.44 Marla"
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 7,
+      "bathrooms": 7,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "7 BHK / Bedrooms, 7 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "Furnished",
+      "24.44 Marla (5500 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
+    "status": null,
+    "source_portal": "magicbricks",
+    "source_category": "buy",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "66835739",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1300-Sq-ft-Residential-House-FOR-Sale-in-Jammu&id=4d423636383335373339",
+    "title": "3BHK Residential House for Resale in ",
+    "type_of_property": "Residential House",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "₹1.30 Cr",
+      "price_value": 13000000,
+      "price_per_sqft": 10000,
+      "price_per_marla": "₹24.39 L / Marla"
+    },
+    "area": {
+      "area_display": "1200 sqft",
+      "area_sqft": 1200.0,
+      "area_type": "Carpet Area",
+      "area_in_marla": "5.33 Marla"
+    },
+    "address": {
+      "full_address": "kunjwani bishnah road, Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "balconies": 1,
+      "additional_rooms": null,
+      "summary": "3 BHK / Bedrooms, 1 Bathrooms, 1 Balconies"
+    },
+    "property_ownership": null,
+    "floors": "1 out of 1",
+    "property_age": "New Construction",
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "Ready to Move",
+      "Unfurnished",
+      "1 out of 1",
+      "5.33 Marla (1200 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": "Ready to Move",
+    "source_portal": "magicbricks",
+    "source_category": "buy",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Address conflict: 'Saror' and 'Kunjwani' both present"
+  },
+  {
+    "property_id": "81873327",
+    "url": "https://www.magicbricks.com/propertyDetails/8-BHK-7344-Sq-ft-Villa-FOR-Sale-in-Jammu&id=4d423831383733333237",
+    "title": "8BHK Villa for Resale in ",
+    "type_of_property": "Villa",
+    "furnished_status": "Furnished",
+    "price": {
+      "display_price": "₹10 Cr",
+      "price_value": 100000000,
+      "price_per_sqft": 13617,
+      "price_per_marla": "₹37.50 L / Marla"
+    },
+    "area": {
+      "area_display": "6000 sqft",
+      "area_sqft": 6000.0,
+      "area_type": "Carpet Area",
+      "area_in_marla": "26.67 Marla"
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 8,
+      "bathrooms": 7,
+      "balconies": 4,
+      "additional_rooms": "Store,Servant Room",
+      "summary": "8 BHK / Bedrooms, 7 Bathrooms, 4 Balconies, Additional: Store,Servant Room"
+    },
+    "property_ownership": "Freehold",
+    "floors": null,
+    "property_age": "10 to 15 years",
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Villa",
+      "Ready to Move",
+      "Furnished",
+      "26.67 Marla (6000 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
+    "status": "Ready to Move",
+    "source_portal": "magicbricks",
+    "source_category": "buy",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "74199919",
+    "url": "https://www.magicbricks.com/propertyDetails/5-BHK-10-Marla-Residential-House-FOR-Sale-in-Jammu&id=4d423734313939393139",
+    "title": "5BHK Residential House for Resale in ",
+    "type_of_property": "Residential House",
+    "furnished_status": "Semi-Furnished",
+    "price": {
+      "display_price": "₹75 Lac",
+      "price_value": 7500000,
+      "price_per_sqft": 2755,
+      "price_per_marla": "₹18.75 Cr / Marla"
+    },
+    "area": {
+      "area_display": "10 sqft",
+      "area_sqft": 10.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "0.04 Marla"
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "5 BHK / Bedrooms, 2 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": "1 out of 3",
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "Ready to Move",
+      "Semi-Furnished",
+      "1 out of 3",
+      "0.04 Marla (10 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
+    "status": "Ready to Move",
+    "source_portal": "magicbricks",
+    "source_category": "buy",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "63602385",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1850-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Jammu&id=4d423633363032333835",
+    "title": "3BHK Multistorey Apartment for Resale in ",
+    "type_of_property": "Apartment",
+    "furnished_status": "Semi-Furnished",
+    "price": {
+      "display_price": "₹86 Lac",
+      "price_value": 8600000,
+      "price_per_sqft": 4649,
+      "price_per_marla": "₹10.46 L / Marla"
+    },
+    "area": {
+      "area_display": "1850 sqft",
+      "area_sqft": 1850.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "8.22 Marla"
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "3 BHK / Bedrooms, 3 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": "5 out of 8",
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Apartment",
+      "Ready to Move",
+      "Semi-Furnished",
+      "5 out of 8",
+      "8.22 Marla (1850 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
+    "status": "Ready to Move",
+    "source_portal": "magicbricks",
+    "source_category": "buy",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "74803873",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-8-Marla-Residential-House-FOR-Sale-in-Jammu&id=4d423734383033383733",
+    "title": "2BHK Residential House for Resale in ",
+    "type_of_property": "Residential House",
+    "furnished_status": "Furnished",
+    "price": {
+      "display_price": "₹9.50 Cr",
+      "price_value": 95000000,
+      "price_per_sqft": 43616,
+      "price_per_marla": "₹237.50 Cr / Marla"
+    },
+    "area": {
+      "area_display": "8 sqft",
+      "area_sqft": 8.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "0.04 Marla"
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "2 BHK / Bedrooms, 2 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "Ready to Move",
+      "Furnished",
+      "0.04 Marla (8 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
+    "status": "Ready to Move",
+    "source_portal": "magicbricks",
+    "source_category": "buy",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "75797245",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-300-Sq-ft-Residential-House-FOR-Sale-in-Jammu&id=4d423735373937323435",
+    "title": "2BHK Residential House for Resale in ",
+    "type_of_property": "Residential House",
+    "furnished_status": "Semi-Furnished",
+    "price": {
+      "display_price": "₹30 Lac",
+      "price_value": 3000000,
+      "price_per_sqft": 10000,
+      "price_per_marla": "₹22.56 L / Marla"
+    },
+    "area": {
+      "area_display": "300 sqft",
+      "area_sqft": 300.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "1.33 Marla"
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "2 BHK / Bedrooms, 2 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "Under Construction",
+      "Semi-Furnished",
+      "1.33 Marla (300 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
+    "status": "Under Construction",
+    "source_portal": "magicbricks",
+    "source_category": "buy",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "76453235",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-11-Marla-Residential-House-FOR-Sale-in-Jammu&id=4d423736343533323335",
+    "title": "3BHK Residential House for Resale in ",
+    "type_of_property": "Residential House",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "₹28 Lac",
+      "price_value": 2800000,
+      "price_per_sqft": 935,
+      "price_per_marla": "₹5.60 Cr / Marla"
+    },
+    "area": {
+      "area_display": "11 sqft",
+      "area_sqft": 11.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "0.05 Marla"
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "3 BHK / Bedrooms, 1 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "Under Construction",
+      "Unfurnished",
+      "0.05 Marla (11 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": "Under Construction",
+    "source_portal": "magicbricks",
+    "source_category": "buy",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "78864637",
+    "url": "https://www.magicbricks.com/propertyDetails/Residential-House-FOR-Sale-in-Jammu&id=4d423738383634363337",
+    "title": " Residential House for Resale in ",
+    "type_of_property": "Residential House",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹50 Lac",
+      "price_value": 5000000,
+      "price_per_sqft": null,
+      "price_per_marla": null
+    },
+    "area": {
+      "area_display": null,
+      "area_sqft": null,
+      "area_type": null,
+      "area_in_marla": null
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": null
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Residential House"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": null,
+    "source_portal": "magicbricks",
+    "source_category": "buy",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "82697943",
+    "url": "https://www.magicbricks.com/propertyDetails/Residential-House-FOR-Sale-in-Jammu&id=4d423832363937393433",
+    "title": " Residential House for Resale in ",
+    "type_of_property": "Residential House",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹Call for Price",
+      "price_value": null,
+      "price_per_sqft": null,
+      "price_per_marla": null
+    },
+    "area": {
+      "area_display": null,
+      "area_sqft": null,
+      "area_type": null,
+      "area_in_marla": null
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": null
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Residential House"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": null,
+    "source_portal": "magicbricks",
+    "source_category": "buy",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "85981529",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-2000-Sq-ft-Residential-House-FOR-Sale-in-Jammu&id=4d423835393831353239",
+    "title": "2BHK Residential House for Resale in ",
+    "type_of_property": "Residential House",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹Call for Price",
+      "price_value": null,
+      "price_per_sqft": null,
+      "price_per_marla": null
+    },
+    "area": {
+      "area_display": "2000 sqft",
+      "area_sqft": 2000.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "8.89 Marla"
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": null,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "2 BHK / Bedrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "8.89 Marla (2000 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": null,
+    "source_portal": "magicbricks",
+    "source_category": "buy",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "85649655",
+    "url": "https://www.magicbricks.com/propertyDetails/Multistorey-Apartment-FOR-Sale-in-Jammu&id=4d423835363439363535",
+    "title": " Multistorey Apartment for Resale in ",
+    "type_of_property": "Apartment",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹Call for Price",
+      "price_value": null,
+      "price_per_sqft": null,
+      "price_per_marla": null
+    },
+    "area": {
+      "area_display": null,
+      "area_sqft": null,
+      "area_type": null,
+      "area_in_marla": null
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": null
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Apartment"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": null,
+    "source_portal": "magicbricks",
+    "source_category": "buy",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "85870355",
+    "url": "https://www.magicbricks.com/propertyDetails/Multistorey-Apartment-FOR-Sale-in-Jammu&id=4d423835383730333535",
+    "title": " Multistorey Apartment for Resale in ",
+    "type_of_property": "Apartment",
+    "furnished_status": null,
+    "price": {
+      "display_price": null,
+      "price_value": null,
+      "price_per_sqft": null,
+      "price_per_marla": null
+    },
+    "area": {
+      "area_display": null,
+      "area_sqft": null,
+      "area_type": null,
+      "area_in_marla": null
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": null
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Apartment"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": null,
+    "source_portal": "magicbricks",
+    "source_category": "buy",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "33546245",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1550-Sq-ft-Multistorey-Apartment-FOR-Sale-in-Jammu&id=4d423333353436323435",
+    "title": "3BHK Multistorey Apartment for Resale in ",
+    "type_of_property": "Apartment",
+    "furnished_status": "Semi-Furnished",
+    "price": {
+      "display_price": "₹52 Lac",
+      "price_value": 5200000,
+      "price_per_sqft": 3355,
+      "price_per_marla": "₹7.55 L / Marla"
+    },
+    "area": {
+      "area_display": "1550 sqft",
+      "area_sqft": 1550.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "6.89 Marla"
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "3 BHK / Bedrooms, 3 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "5 to 10 years",
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Apartment",
+      "Ready to Move",
+      "Semi-Furnished",
+      "6.89 Marla (1550 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
+    "status": "Ready to Move",
+    "source_portal": "magicbricks",
+    "source_category": "buy",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "67768919",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1800-Sq-ft-Residential-House-FOR-Sale-Kunjwani-in-Jammu&id=4d423637373638393139",
+    "title": "2BHK Residential House for Resale in Kunjwani",
+    "type_of_property": "Residential House",
+    "furnished_status": "Semi-Furnished",
+    "price": {
+      "display_price": "₹1.40 Cr",
+      "price_value": 14000000,
+      "price_per_sqft": 7778,
+      "price_per_marla": "₹17.50 L / Marla"
+    },
+    "area": {
+      "area_display": "1800 sqft",
+      "area_sqft": 1800.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "8 Marla"
+    },
+    "address": {
+      "full_address": "Kunjwani, Jammu, Jammu & Kashmir",
+      "locality": "Kunjwani",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "2 BHK / Bedrooms, 2 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "Semi-Furnished",
+      "8 Marla (1800 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
+    "status": null,
+    "source_portal": "magicbricks",
+    "source_category": "buy",
+    "locality_original": "Kunjwani",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Address conflict: 'Saror' and 'Kunjwani' both present"
+  },
+  {
+    "property_id": "67768927",
+    "url": "https://www.magicbricks.com/propertyDetails/7-BHK-3240-Sq-ft-Residential-House-FOR-Sale-Kunjwani-in-Jammu&id=4d423637373638393237",
+    "title": "7BHK Residential House for Resale in Kunjwani",
+    "type_of_property": "Residential House",
+    "furnished_status": "Furnished",
+    "price": {
+      "display_price": "₹90 Lac",
+      "price_value": 9000000,
+      "price_per_sqft": 2778,
+      "price_per_marla": "₹6.25 L / Marla"
+    },
+    "area": {
+      "area_display": "3240 sqft",
+      "area_sqft": 3240.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "14.4 Marla"
+    },
+    "address": {
+      "full_address": "Kunjwani, Jammu, Jammu & Kashmir",
+      "locality": "Kunjwani",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 7,
+      "bathrooms": 4,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "7 BHK / Bedrooms, 4 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "Furnished",
+      "14.4 Marla (3240 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
+    "status": null,
+    "source_portal": "magicbricks",
+    "source_category": "buy",
+    "locality_original": "Kunjwani",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Address conflict: 'Saror' and 'Kunjwani' both present"
+  },
+  {
+    "property_id": "67768923",
+    "url": "https://www.magicbricks.com/propertyDetails/4-BHK-9000-Sq-ft-Residential-House-FOR-Sale-Kunjwani-in-Jammu&id=4d423637373638393233",
+    "title": "4BHK Residential House for Resale in Kunjwani",
+    "type_of_property": "Residential House",
+    "furnished_status": "Semi-Furnished",
+    "price": {
+      "display_price": "₹1.35 Cr",
+      "price_value": 13500000,
+      "price_per_sqft": 1500,
+      "price_per_marla": "₹3.38 L / Marla"
+    },
+    "area": {
+      "area_display": "9000 sqft",
+      "area_sqft": 9000.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "40 Marla"
+    },
+    "address": {
+      "full_address": "Kunjwani, Jammu, Jammu & Kashmir",
+      "locality": "Kunjwani",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "4 BHK / Bedrooms, 2 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "Semi-Furnished",
+      "40 Marla (9000 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
+    "status": null,
+    "source_portal": "magicbricks",
+    "source_category": "buy",
+    "locality_original": "Kunjwani",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Address conflict: 'Saror' and 'Kunjwani' both present"
+  },
+  {
+    "property_id": "78582897",
+    "url": "https://www.magicbricks.com/propertyDetails/5-BHK-3000-Sq-ft-Residential-House-FOR-Sale-Kunjwani-in-Jammu&id=4d423738353832383937",
+    "title": "5BHK Residential House for Resale in Kunjwani",
+    "type_of_property": "Residential House",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "₹2.50 Cr",
+      "price_value": 25000000,
+      "price_per_sqft": 8333,
+      "price_per_marla": "₹18.75 L / Marla"
+    },
+    "area": {
+      "area_display": "3000 sqft",
+      "area_sqft": 3000.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "13.33 Marla"
+    },
+    "address": {
+      "full_address": "Kunjwani, Jammu, Jammu & Kashmir",
+      "locality": "Kunjwani",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 5,
+      "bathrooms": 6,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "5 BHK / Bedrooms, 6 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": "1 out of 2",
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "Ready to Move",
+      "Unfurnished",
+      "1 out of 2",
+      "13.33 Marla (3000 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": "Ready to Move",
+    "source_portal": "magicbricks",
+    "source_category": "buy",
+    "locality_original": "Kunjwani",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Address conflict: 'Saror' and 'Kunjwani' both present"
+  },
+  {
+    "property_id": "86348045",
+    "url": "https://www.magicbricks.com/propertyDetails/5-BHK-Residential-House-FOR-Sale-Kunjwani-in-Jammu&id=4d423836333438303435",
+    "title": "5BHK Residential House in Kunjwani",
+    "type_of_property": "Residential House",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹Call for Price",
+      "price_value": null,
+      "price_per_sqft": null,
+      "price_per_marla": null
+    },
+    "area": {
+      "area_display": null,
+      "area_sqft": null,
+      "area_type": null,
+      "area_in_marla": null
+    },
+    "address": {
+      "full_address": "Kunjwani, Jammu, Jammu & Kashmir",
+      "locality": "Kunjwani",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 5,
+      "bathrooms": null,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "5 BHK / Bedrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family"
+    ],
+    "key_highlights": [
+      "Residential House"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": null,
+    "source_portal": "magicbricks",
+    "source_category": "buy",
+    "locality_original": "Kunjwani",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Address conflict: 'Saror' and 'Kunjwani' both present"
+  },
+  {
+    "property_id": "82836081",
+    "url": "https://www.magicbricks.com/propertyDetails/16200-Sq-ft-Commercial-Office-Space-FOR-Sale-in-Jammu&id=4d423832383336303831",
+    "title": " Commercial Office Space for Resale in ",
+    "type_of_property": "Commercial Office Space",
+    "furnished_status": "Semi-Furnished",
+    "price": {
+      "display_price": "₹11 Cr",
+      "price_value": 110000000,
+      "price_per_sqft": 6790,
+      "price_per_marla": "₹15.28 L / Marla"
+    },
+    "area": {
+      "area_display": "16200 sqft",
+      "area_sqft": 16200.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "72 Marla"
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": "> 10",
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "> 10 Bathrooms"
+    },
+    "property_ownership": "Leasehold",
+    "floors": "1 out of 1",
+    "property_age": null,
+    "highlights": [
+      "Facing: Main Road",
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Commercial Office Space",
+      "Ready to Move",
+      "Semi-Furnished",
+      "1 out of 1",
+      "72 Marla (16200 sqft)"
+    ],
+    "amenities": [
+      "Air Conditioned",
+      "Internet/Wi-Fi Connectivity",
+      "Visitor Parking",
+      "Power Back Up"
+    ],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
+    "status": "Ready to Move",
+    "source_portal": "magicbricks",
+    "source_category": "commercial",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "69358025",
+    "url": "https://www.magicbricks.com/propertyDetails/205-Sq-ft-Commercial-Showroom-FOR-Sale-in-Jammu&id=4d423639333538303235",
+    "title": " Commercial Showroom for Resale in ",
+    "type_of_property": "Commercial Showroom",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹Call for Price",
+      "price_value": null,
+      "price_per_sqft": null,
+      "price_per_marla": null
+    },
+    "area": {
+      "area_display": "205 sqft",
+      "area_sqft": 205.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "0.91 Marla"
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "Commercial Space"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Commercial Showroom",
+      "0.91 Marla (205 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": null,
+    "source_portal": "magicbricks",
+    "source_category": "commercial",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "86646631",
+    "url": "https://www.magicbricks.com/propertyDetails/10000-Sq-ft-Commercial-Office-Space-FOR-Sale-Kunjwani-in-Jammu&id=4d423836363436363331",
+    "title": " Commercial Office Space for Resale in Kunjwani",
+    "type_of_property": "Commercial Office Space",
+    "furnished_status": "Furnished",
+    "price": {
+      "display_price": "₹2 Cr",
+      "price_value": 20000000,
+      "price_per_sqft": 2000,
+      "price_per_marla": "₹4.50 L / Marla"
+    },
+    "area": {
+      "area_display": "10000 sqft",
+      "area_sqft": 10000.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "44.44 Marla"
+    },
+    "address": {
+      "full_address": "Kunjwani, Jammu, Jammu & Kashmir",
+      "locality": "Kunjwani",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": 32.67164611816406,
+        "longitude": 74.87013244628906
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": 2,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "2 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": "5 out of 5",
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Resale"
+    ],
+    "key_highlights": [
+      "Commercial Office Space",
+      "Ready to Move",
+      "Furnished",
+      "5 out of 5",
+      "44.44 Marla (10000 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
+    "status": "Ready to Move",
+    "source_portal": "magicbricks",
+    "source_category": "commercial",
+    "locality_original": "Kunjwani",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Address conflict: 'Saror' and 'Kunjwani' both present"
+  },
+  {
+    "property_id": "80959767",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1800-Sq-ft-Residential-House-FOR-Rent-in-Jammu&id=4d423830393539373637",
+    "title": "2BHK Residential House for Rent in ",
+    "type_of_property": "Residential House",
+    "furnished_status": "Semi-Furnished",
+    "price": {
+      "display_price": "₹12,000",
+      "price_value": 12000,
+      "price_per_sqft": 7,
+      "price_per_marla": "₹1,799 / Marla",
+      "security_deposit": null,
+      "maintenance_charges": null
+    },
+    "area": {
+      "area_display": "1500 sqft",
+      "area_sqft": 1500.0,
+      "area_type": "Carpet Area",
+      "area_in_marla": "6.67 Marla"
+    },
+    "address": {
+      "full_address": "lane no 4 , Ekta Vihar Kunjwani ,Jammu, Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "balconies": 1,
+      "additional_rooms": "Puja Room,Study,Store",
+      "summary": "2 BHK / Bedrooms, 2 Bathrooms, 1 Balconies, Additional: Puja Room,Study,Store"
+    },
+    "property_ownership": null,
+    "floors": "Ground out of 2",
+    "property_age": "New Construction",
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Rent"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "Immediately",
+      "Semi-Furnished",
+      "Ground out of 2",
+      "6.67 Marla (1500 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
+    "status": "Immediately",
+    "source_portal": "magicbricks",
+    "source_category": "rent",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Address conflict: 'Saror' and 'Kunjwani' both present"
+  },
+  {
+    "property_id": "84432543",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1650-Sq-ft-Multistorey-Apartment-FOR-Rent-in-Jammu&id=4d423834343332353433",
+    "title": "3BHK Multistorey Apartment for Rent in ",
+    "type_of_property": "Apartment",
+    "furnished_status": "Furnished",
+    "price": {
+      "display_price": "₹30,000",
+      "price_value": 30000,
+      "price_per_sqft": 18,
+      "price_per_marla": "₹4,093 / Marla",
+      "security_deposit": null,
+      "maintenance_charges": null
+    },
+    "area": {
+      "area_display": "1650 sqft",
+      "area_sqft": 1650.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "7.33 Marla"
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "3 BHK / Bedrooms, 3 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": "1 out of 2",
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Rent"
+    ],
+    "key_highlights": [
+      "Apartment",
+      "Immediately",
+      "Furnished",
+      "1 out of 2",
+      "7.33 Marla (1650 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
+    "status": "Immediately",
+    "source_portal": "magicbricks",
+    "source_category": "rent",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "86411791",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1100-Sq-ft-Residential-House-FOR-Rent-in-Jammu&id=4d423836343131373931",
+    "title": "2BHK Residential House for Rent in ",
+    "type_of_property": "Residential House",
+    "furnished_status": "Semi-Furnished",
+    "price": {
+      "display_price": "₹12,000",
+      "price_value": 12000,
+      "price_per_sqft": 11,
+      "price_per_marla": "₹2,454 / Marla",
+      "security_deposit": null,
+      "maintenance_charges": null
+    },
+    "area": {
+      "area_display": "1100 sqft",
+      "area_sqft": 1100.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "4.89 Marla"
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "2 BHK / Bedrooms, 2 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Rent"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "Immediately",
+      "Semi-Furnished",
+      "4.89 Marla (1100 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
+    "status": "Immediately",
+    "source_portal": "magicbricks",
+    "source_category": "rent",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "61828493",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-400-Sq-ft-Residential-House-FOR-Rent-in-Jammu&id=4d423631383238343933",
+    "title": "2BHK Residential House for Rent in ",
+    "type_of_property": "Residential House",
+    "furnished_status": "Semi-Furnished",
+    "price": {
+      "display_price": "₹7,500",
+      "price_value": 7500,
+      "price_per_sqft": 19,
+      "price_per_marla": "₹4,213 / Marla",
+      "security_deposit": null,
+      "maintenance_charges": "Monthly"
+    },
+    "area": {
+      "area_display": "400 sqft",
+      "area_sqft": 400.0,
+      "area_type": "Carpet Area",
+      "area_in_marla": "1.78 Marla"
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "balconies": 1,
+      "additional_rooms": "Puja Room",
+      "summary": "2 BHK / Bedrooms, 1 Bathrooms, 1 Balconies, Additional: Puja Room"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "5 to 10 years",
+    "highlights": [
+      "Tenant Preference: Bachelors",
+      "Transaction: Rent"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "Immediately",
+      "Semi-Furnished",
+      "1.78 Marla (400 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
+    "status": "Immediately",
+    "source_portal": "magicbricks",
+    "source_category": "rent",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "79149247",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1440-Sq-ft-Multistorey-Apartment-FOR-Rent-in-Jammu&id=4d423739313439323437",
+    "title": "3BHK Multistorey Apartment for Rent in ",
+    "type_of_property": "Apartment",
+    "furnished_status": "Semi-Furnished",
+    "price": {
+      "display_price": "₹30,000",
+      "price_value": 30000,
+      "price_per_sqft": 21,
+      "price_per_marla": "₹5,629 / Marla",
+      "security_deposit": null,
+      "maintenance_charges": "Monthly"
+    },
+    "area": {
+      "area_display": "1200 sqft",
+      "area_sqft": 1200.0,
+      "area_type": "Carpet Area",
+      "area_in_marla": "5.33 Marla"
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "balconies": 1,
+      "additional_rooms": "Store",
+      "summary": "3 BHK / Bedrooms, 3 Bathrooms, 1 Balconies, Additional: Store"
+    },
+    "property_ownership": null,
+    "floors": "3 out of 4",
+    "property_age": "5 to 10 years",
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Rent"
+    ],
+    "key_highlights": [
+      "Apartment",
+      "Immediately",
+      "Semi-Furnished",
+      "3 out of 4",
+      "5.33 Marla (1200 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
+    "status": "Immediately",
+    "source_portal": "magicbricks",
+    "source_category": "rent",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "86427293",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1500-Sq-ft-Residential-House-FOR-Rent-in-Jammu&id=4d423836343237323933",
+    "title": "3BHK Residential House for Rent in ",
+    "type_of_property": "Residential House",
+    "furnished_status": "Semi-Furnished",
+    "price": {
+      "display_price": "₹15,000",
+      "price_value": 15000,
+      "price_per_sqft": 10,
+      "price_per_marla": "₹2,249 / Marla",
+      "security_deposit": null,
+      "maintenance_charges": null
+    },
+    "area": {
+      "area_display": "1500 sqft",
+      "area_sqft": 1500.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "6.67 Marla"
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "3 BHK / Bedrooms, 1 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Rent"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "Immediately",
+      "Semi-Furnished",
+      "6.67 Marla (1500 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
+    "status": "Immediately",
+    "source_portal": "magicbricks",
+    "source_category": "rent",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "86813523",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1800-Sq-ft-Residential-House-FOR-Rent-in-Jammu&id=4d423836383133353233",
+    "title": "2BHK Residential House for Rent in ",
+    "type_of_property": "Residential House",
+    "furnished_status": "Semi-Furnished",
+    "price": {
+      "display_price": "₹23,000",
+      "price_value": 23000,
+      "price_per_sqft": 13,
+      "price_per_marla": "₹2,875 / Marla",
+      "security_deposit": null,
+      "maintenance_charges": null
+    },
+    "area": {
+      "area_display": "1800 sqft",
+      "area_sqft": 1800.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "8 Marla"
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "2 BHK / Bedrooms, 2 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Rent"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "Immediately",
+      "Semi-Furnished",
+      "8 Marla (1800 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
+    "status": "Immediately",
+    "source_portal": "magicbricks",
+    "source_category": "rent",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "74430131",
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-900-Sq-ft-Residential-House-FOR-Rent-in-Jammu&id=4d423734343330313331",
+    "title": "2BHK Residential House for Rent in ",
+    "type_of_property": "Residential House",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "₹19,000",
+      "price_value": 19000,
+      "price_per_sqft": 21,
+      "price_per_marla": "₹4,750 / Marla",
+      "security_deposit": null,
+      "maintenance_charges": null
+    },
+    "area": {
+      "area_display": "900 sqft",
+      "area_sqft": 900.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "4 Marla"
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "2 BHK / Bedrooms, 1 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Rent"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "Immediately",
+      "Unfurnished",
+      "4 Marla (900 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": "Immediately",
+    "source_portal": "magicbricks",
+    "source_category": "rent",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "71236499",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-750-Sq-ft-Residential-House-FOR-Rent-in-Jammu&id=4d423731323336343939",
+    "title": "3BHK Residential House for Rent in ",
+    "type_of_property": "Residential House",
+    "furnished_status": "Furnished",
+    "price": {
+      "display_price": "₹9,000",
+      "price_value": 9000,
+      "price_per_sqft": 12,
+      "price_per_marla": "₹2,703 / Marla",
+      "security_deposit": null,
+      "maintenance_charges": null
+    },
+    "area": {
+      "area_display": "750 sqft",
+      "area_sqft": 750.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "3.33 Marla"
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "3 BHK / Bedrooms, 3 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": "1 out of 2",
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Rent"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "Immediately",
+      "Furnished",
+      "1 out of 2",
+      "3.33 Marla (750 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
+    "status": "Immediately",
+    "source_portal": "magicbricks",
+    "source_category": "rent",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "86440439",
+    "url": "https://www.magicbricks.com/propertyDetails/1-BHK-550-Sq-ft-Residential-House-FOR-Rent-in-Jammu&id=4d423836343430343339",
+    "title": "1BHK Residential House for Rent in ",
+    "type_of_property": "Residential House",
+    "furnished_status": "Semi-Furnished",
+    "price": {
+      "display_price": "₹5,500",
+      "price_value": 5500,
+      "price_per_sqft": 10,
+      "price_per_marla": "₹2,254 / Marla",
+      "security_deposit": null,
+      "maintenance_charges": null
+    },
+    "area": {
+      "area_display": "550 sqft",
+      "area_sqft": 550.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "2.44 Marla"
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "1 BHK / Bedrooms, 1 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Rent"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "Immediately",
+      "Semi-Furnished",
+      "2.44 Marla (550 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
+    "status": "Immediately",
+    "source_portal": "magicbricks",
+    "source_category": "rent",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "85939761",
+    "url": "https://www.magicbricks.com/propertyDetails/1-BHK-350-Sq-ft-Residential-House-FOR-Rent-in-Jammu&id=4d423835393339373631",
+    "title": "1BHK Residential House for Rent in ",
+    "type_of_property": "Residential House",
+    "furnished_status": "Unfurnished",
+    "price": {
+      "display_price": "₹6,000",
+      "price_value": 6000,
+      "price_per_sqft": 17,
+      "price_per_marla": "₹1,929 / Marla",
+      "security_deposit": null,
+      "maintenance_charges": null
+    },
+    "area": {
+      "area_display": "700 sqft",
+      "area_sqft": 700.0,
+      "area_type": "Carpet Area",
+      "area_in_marla": "3.11 Marla"
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "1 BHK / Bedrooms, 1 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "New Construction",
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Rent"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "Immediately",
+      "Unfurnished",
+      "3.11 Marla (700 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Unfurnished (no furniture/appliances provided)"
+    ],
+    "status": "Immediately",
+    "source_portal": "magicbricks",
+    "source_category": "rent",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "57633619",
+    "url": "https://www.magicbricks.com/propertyDetails/1-BHK-500-Sq-ft-Residential-House-FOR-Rent-in-Jammu&id=4d423537363333363139",
+    "title": "1BHK Residential House for Rent in ",
+    "type_of_property": "Residential House",
+    "furnished_status": "Semi-Furnished",
+    "price": {
+      "display_price": "₹4,000",
+      "price_value": 4000,
+      "price_per_sqft": 8,
+      "price_per_marla": "₹1,802 / Marla",
+      "security_deposit": null,
+      "maintenance_charges": null
+    },
+    "area": {
+      "area_display": "500 sqft",
+      "area_sqft": 500.0,
+      "area_type": "Covered Area",
+      "area_in_marla": "2.22 Marla"
+    },
+    "address": {
+      "full_address": "Jammu, Jammu & Kashmir",
+      "locality": "",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "1 BHK / Bedrooms, 1 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": "2 out of 2",
+    "property_age": null,
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Rent"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "Immediately",
+      "Semi-Furnished",
+      "2 out of 2",
+      "2.22 Marla (500 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
+    "status": "Immediately",
+    "source_portal": "magicbricks",
+    "source_category": "rent",
+    "locality_original": "",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Missing or generic locality without specific colony/neighbourhood"
+  },
+  {
+    "property_id": "84896661",
+    "url": "https://www.magicbricks.com/propertyDetails/3-BHK-2500-Sq-ft-Multistorey-Apartment-FOR-Rent-Channi-Rama-in-Jammu&id=4d423834383936363631",
+    "title": "3BHK Multistorey Apartment for Rent in Channi Rama",
+    "type_of_property": "Apartment",
+    "furnished_status": "Semi-Furnished",
+    "price": {
+      "display_price": "₹22,000",
+      "price_value": 22000,
+      "price_per_sqft": 9,
+      "price_per_marla": "₹2,475 / Marla",
+      "security_deposit": null,
+      "maintenance_charges": null
+    },
+    "area": {
+      "area_display": "2000 sqft",
+      "area_sqft": 2000.0,
+      "area_type": "Carpet Area",
+      "area_in_marla": "8.89 Marla"
+    },
+    "address": {
+      "full_address": "Jammu-kunjwani bypass road , guru tegh bahadur nagar, Channi Rama, Jammu, Jammu & Kashmir",
+      "locality": "Channi Rama",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": 32.70488357543945,
+        "longitude": 74.92288208007812
+      }
+    },
+    "configuration": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "balconies": 1,
+      "additional_rooms": "Store",
+      "summary": "3 BHK / Bedrooms, 3 Bathrooms, 1 Balconies, Additional: Store"
+    },
+    "property_ownership": null,
+    "floors": "3 out of 3",
+    "property_age": "5 to 10 years",
+    "highlights": [
+      "Facing: Main Road",
+      "Tenant Preference: Bachelors",
+      "Transaction: Rent"
+    ],
+    "key_highlights": [
+      "Apartment",
+      "Immediately",
+      "Semi-Furnished",
+      "3 out of 3",
+      "8.89 Marla (2000 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Semi-Furnished (fixtures / woodwork included)"
+    ],
+    "status": "Immediately",
+    "source_portal": "magicbricks",
+    "source_category": "rent",
+    "locality_original": "Channi Rama",
+    "locality_clean": null,
+    "geographic_status": "REVIEW",
+    "review_reason": "Address conflict: 'Saror' and 'Kunjwani' both present"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "property_id": "15671868",
+    "url": "https://housing.com/in/buy/resale/page/15671868-residential-plot-in-channi-himmat-for-rs-350000-v3",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹3.5 L",
+      "price_value": 350000,
+      "price_per_sqft": "₹583/sq.yd",
+      "price_per_marla": "₹1.31 L / Marla"
+    },
+    "area": {
+      "area_display": "600 sq.yd",
+      "area_sqft": 600.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "2.67 Marla"
+    },
+    "address": {
+      "full_address": "Channi Himmat, Jammu",
+      "locality": "Channi Himmat",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.692392",
+        "longitude": "74.894569"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "20 Year Old",
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "2.67 Marla (600 sq.yd)"
+    ],
+    "amenities": [
+      "Gym",
+      "Garden"
+    ],
+    "furnished_components": null,
+    "status": "Immediate",
+    "source_portal": "housing",
+    "source_category": "buy",
+    "locality_original": "Channi Himmat",
+    "locality_clean": "Channi Himmat",
+    "geographic_status": "KEEP",
+    "quality_flag": "unit_conversion_discrepancy: display reports 600.0 sq.yd (5400 sq.ft), but stored as 600.0 sq.ft"
+  }
+]

@@ -1,0 +1,118 @@
+{
+  "validation_timestamp": "2026-11-28T16:15:00+05:30",
+  "verdict": {
+    "dataset_correctness": "VERIFIED_CORRECT",
+    "record_accounting": "100_PERCENT_RECONCILED",
+    "geographic_integrity": "STRICT_JAMMU_DISTRICT_ENFORCED_ZERO_LEAKS",
+    "ml_baseline_readiness": "READY_FOR_PRELIMINARY_BASELINE_WITH_CAVEATS",
+    "additional_data_required": "99ACRES_INTEGRATION_AND_CIRCLE_RATES_STRONGLY_RECOMMENDED"
+  },
+  "discrepancy_resolution": {
+    "discrepancy_reported": "Housing Buy reported 115 total vs 114 original, Overall reported 966 vs 965 original",
+    "root_cause": "Listing ID 15671868 (Plot in Channi Himmat) was dual-counted: it was retained in housing_residential_cleaned.json with verified converted area (5,400 sq.ft) AND also added to data_quality_review.json as an advisory review artifact. In the previous report table, it was incremented in both final_retained (+1) and flagged_review (+1).",
+    "resolution": "Reconciled into a strictly mutually exclusive partition. Listing 15671868 is categorized as CLEANED (with advisory quality flag). Geographic reviews (63 total, 2 in housing buy) are categorized as REVIEW. Totals now add up with 100% mathematical precision: Housing Buy = 94 Cleaned + 7 Removed + 2 Review + 11 Separated = 114; Overall = 687 Cleaned + 204 Removed + 63 Review + 11 Separated = 965."
+  },
+  "reconciliation_matrix": {
+    "housing_buy": {
+      "CLEANED": 94,
+      "REMOVED": 7,
+      "REVIEW": 2,
+      "SEPARATED": 11,
+      "TOTAL": 114
+    },
+    "housing_commercial": {
+      "CLEANED": 160,
+      "REMOVED": 34,
+      "REVIEW": 12,
+      "SEPARATED": 0,
+      "TOTAL": 206
+    },
+    "housing_rent": {
+      "CLEANED": 167,
+      "REMOVED": 118,
+      "REVIEW": 8,
+      "SEPARATED": 0,
+      "TOTAL": 293
+    },
+    "magicbricks_buy": {
+      "CLEANED": 100,
+      "REMOVED": 29,
+      "REVIEW": 25,
+      "SEPARATED": 0,
+      "TOTAL": 154
+    },
+    "magicbricks_commercial": {
+      "CLEANED": 41,
+      "REMOVED": 2,
+      "REVIEW": 3,
+      "SEPARATED": 0,
+      "TOTAL": 46
+    },
+    "magicbricks_rent": {
+      "CLEANED": 125,
+      "REMOVED": 14,
+      "REVIEW": 13,
+      "SEPARATED": 0,
+      "TOTAL": 152
+    },
+    "overall_totals": {
+      "CLEANED": 687,
+      "REMOVED": 204,
+      "REVIEW": 63,
+      "SEPARATED": 11,
+      "TOTAL": 965
+    }
+  },
+  "numerical_validation": {
+    "residential_null_prices": 0,
+    "residential_null_areas": 0,
+    "residential_pps_formula_mismatches": 0,
+    "commercial_null_prices": 0,
+    "commercial_null_areas": 0,
+    "commercial_pps_formula_mismatches": 0
+  },
+  "geographic_validation": {
+    "confirmed_jammu_residential": 194,
+    "outside_district_leaks_residential": 0,
+    "outside_district_leaks_commercial": 0,
+    "ambiguous_records_in_review": 63
+  },
+  "ml_dataset_profile_residential": {
+    "total_usable_records": 194,
+    "unique_localities": 58,
+    "top_locality_concentration_pct": 26.29,
+    "localities_with_single_record": 18,
+    "price_stats_inr": {
+      "min": 350000.0,
+      "median": 9965000.0,
+      "mean": 16313506.530927835,
+      "max": 260000000.0,
+      "skewness": 6.47
+    },
+    "area_stats_sqft": {
+      "min": 111.0,
+      "median": 1905.0,
+      "mean": 2447.90206185567,
+      "max": 19057.0,
+      "skewness": 3.66
+    },
+    "price_per_sqft_stats": {
+      "min": 64.81,
+      "median": 5667.435,
+      "mean": 8215.589175257734,
+      "max": 153153.15,
+      "skewness": 8.47
+    },
+    "flagged_outliers_count": 4,
+    "property_types_count": {
+      "Residential House": 78,
+      "Independent House / Villa": 55,
+      "Residential Land / Plot": 35,
+      "Apartment": 10,
+      "Villa": 8,
+      "Builder Floor Apartment": 4,
+      "Apartment / Flat": 3,
+      "Independent Builder Floor": 1
+    }
+  }
+}

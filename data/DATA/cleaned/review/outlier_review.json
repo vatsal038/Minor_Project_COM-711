@@ -1,0 +1,42 @@
+[
+  {
+    "property_id": "15671868",
+    "source_portal": "housing",
+    "title": "Residential Plot",
+    "locality_clean": "Channi Himmat",
+    "price_inr": 350000.0,
+    "area_sqft": 5400.0,
+    "price_per_sqft": 64.81,
+    "outlier_reason": "price_per_sqft 64.81 outside normal bounds [100.0, 25933.6]"
+  },
+  {
+    "property_id": "85069003",
+    "source_portal": "magicbricks",
+    "title": "1BHK Builder Floor Apartment for New Property in Akhnoor Road",
+    "locality_clean": "Akhnoor Road",
+    "price_inr": 260000000.0,
+    "area_sqft": 3350.0,
+    "price_per_sqft": 77611.94,
+    "outlier_reason": "price_per_sqft 77611.94 outside normal bounds [100.0, 25933.6]"
+  },
+  {
+    "property_id": "81161389",
+    "source_portal": "magicbricks",
+    "title": "6BHK Residential House for Resale in Roop Nagar",
+    "locality_clean": "Roop Nagar",
+    "price_inr": 15000000.0,
+    "area_sqft": 300.0,
+    "price_per_sqft": 50000.0,
+    "outlier_reason": "price_per_sqft 50000.0 outside normal bounds [100.0, 25933.6]"
+  },
+  {
+    "property_id": "84619627",
+    "source_portal": "magicbricks",
+    "title": "9BHK Villa for Resale in Gorkha Nagar",
+    "locality_clean": "Gorkha Nagar",
+    "price_inr": 17000000.0,
+    "area_sqft": 111.0,
+    "price_per_sqft": 153153.15,
+    "outlier_reason": "price_per_sqft 153153.15 outside normal bounds [100.0, 25933.6]"
+  }
+]

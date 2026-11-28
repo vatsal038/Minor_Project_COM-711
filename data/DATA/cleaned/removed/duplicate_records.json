@@ -1,0 +1,1599 @@
+[
+  {
+    "property_id": "21376609",
+    "url": "https://housing.com/in/buy/resale/page/21376609-residential-plot-in-upper-gadigarh-for-rs-8500000",
+    "title": "Residential Plot",
+    "type_of_property": "Residential Land / Plot",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹85.0 L",
+      "price_value": 8500000,
+      "price_per_sqft": "₹3.15 K/sq.ft",
+      "price_per_marla": "₹7.08 L / Marla"
+    },
+    "area": {
+      "area_display": "2700 sq.ft",
+      "area_sqft": 2700.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "12 Marla"
+    },
+    "address": {
+      "full_address": "Upper Gadigarh, Jammu",
+      "locality": "Upper Gadigarh",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.670152",
+        "longitude": "74.842672"
+      }
+    },
+    "configuration": {
+      "bedrooms": 0,
+      "bathrooms": null,
+      "balconies": "-",
+      "parking": "No Parking",
+      "summary": "- Balconies, Parking: No Parking"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "20 Year Old",
+    "highlights": [],
+    "key_highlights": [
+      "Residential Land / Plot",
+      "Immediate",
+      "12 Marla (2700 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Immediate",
+    "source_portal": "housing",
+    "source_category": "buy",
+    "locality_original": "Upper Gadigarh",
+    "locality_clean": "Gadigarh",
+    "geographic_status": "KEEP",
+    "price_inr": 8500000.0,
+    "area_sqft_clean": 2700.0,
+    "price_per_sqft": 3148.15,
+    "area_in_marla": 12.0,
+    "price_per_marla": 708333.33,
+    "property_category": "buy",
+    "data_quality_flag": "clean",
+    "removal_reason": "duplicate_listing",
+    "duplicate_of_id": "21258866"
+  },
+  {
+    "property_id": "100631654",
+    "url": "https://housing.com/commercial/buy/resale/100631654-commercial-plot-for-sale-in-patoli-jammu-jammu-jammu-and-kashmir-1-for-rs-4400000",
+    "title": "Commercial Plot",
+    "type_of_property": "Commercial Plot / Land",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹44.0 L",
+      "price_value": 4400000,
+      "price_per_sqft": "₹1.47K/sq.ft",
+      "price_per_marla": "₹3.31 L / Marla"
+    },
+    "area": {
+      "area_display": "2994 sq.ft",
+      "area_sqft": 2994.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "13.31 Marla"
+    },
+    "address": {
+      "full_address": "Patoli, Jammu",
+      "locality": "Patoli",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.7753294",
+        "longitude": "74.8068454"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Plot / Land (No rooms)"
+    },
+    "property_ownership": "Freehold",
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Plot / Land",
+      "13.31 Marla (2994 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": null,
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Patoli",
+    "locality_clean": "Patoli",
+    "geographic_status": "KEEP",
+    "price_inr": 4400000.0,
+    "area_sqft_clean": 2994.0,
+    "price_per_sqft": 1469.61,
+    "area_in_marla": 13.31,
+    "price_per_marla": 330578.51,
+    "property_category": "commercial",
+    "data_quality_flag": "clean",
+    "removal_reason": "duplicate_listing",
+    "duplicate_of_id": "100631653"
+  },
+  {
+    "property_id": "100639284",
+    "url": "https://housing.com/commercial/buy/resale/100639284-commercial-plot-for-sale-in-kot-jammu-and-kashmir-jammu-jammu-and-kashmir-1-for-rs-12000000",
+    "title": "Commercial Plot",
+    "type_of_property": "Commercial Plot / Land",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹1.2 Cr",
+      "price_value": 12000000,
+      "price_per_sqft": "₹110.19/sq.ft",
+      "price_per_marla": "₹24,793 / Marla"
+    },
+    "area": {
+      "area_display": "108900 sq.ft",
+      "area_sqft": 108900.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "484 Marla"
+    },
+    "address": {
+      "full_address": "Kot, Jammu",
+      "locality": "Kot",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.7932409",
+        "longitude": "74.751263"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Plot / Land (No rooms)"
+    },
+    "property_ownership": "Freehold",
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Plot / Land",
+      "484 Marla (108900 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": null,
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Kot",
+    "locality_clean": "Kot Bhalwal",
+    "geographic_status": "KEEP",
+    "price_inr": 12000000.0,
+    "area_sqft_clean": 108900.0,
+    "price_per_sqft": 110.19,
+    "area_in_marla": 484.0,
+    "price_per_marla": 24793.39,
+    "property_category": "commercial",
+    "data_quality_flag": "clean",
+    "removal_reason": "duplicate_listing",
+    "duplicate_of_id": "100639283"
+  },
+  {
+    "property_id": "100642477",
+    "url": "https://housing.com/commercial/buy/resale/100642477-ready-to-use-office-space-for-sale-in-old-heritage-city-jammu-jammu-and-kashmir-1-for-rs-3000000",
+    "title": "Ready to use Office Space",
+    "type_of_property": "Commercial Office Space",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹30.0 L",
+      "price_value": 3000000,
+      "price_per_sqft": "₹7.14K/sq.ft",
+      "price_per_marla": "₹16.04 L / Marla"
+    },
+    "area": {
+      "area_display": "420 sq.ft",
+      "area_sqft": 420.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "1.87 Marla"
+    },
+    "address": {
+      "full_address": "Pakki Dhaki, Old Heritage City, Jammu",
+      "locality": "Pakki Dhaki",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.7348446",
+        "longitude": "74.8697188"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Commercial Space"
+    },
+    "property_ownership": "Freehold",
+    "floors": "2nd/ 2 floors",
+    "property_age": "30 Years",
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Office Space",
+      "Ready to move",
+      "Floor: 2nd/ 2 floors",
+      "1.87 Marla (420 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Ready to move",
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Pakki Dhaki",
+    "locality_clean": "Pakki Dhaki",
+    "geographic_status": "KEEP",
+    "price_inr": 3000000.0,
+    "area_sqft_clean": 420.0,
+    "price_per_sqft": 7142.86,
+    "area_in_marla": 1.87,
+    "price_per_marla": 1604278.07,
+    "property_category": "commercial",
+    "data_quality_flag": "clean",
+    "removal_reason": "duplicate_listing",
+    "duplicate_of_id": "100642476"
+  },
+  {
+    "property_id": "100526647",
+    "url": "https://housing.com/commercial/buy/resale/100526647-shop-for-sale-in-paloura-jammu-jammu-and-kashmir-1-for-rs-12500000",
+    "title": "Shop",
+    "type_of_property": "Commercial Shop / Retail",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹1.25 Cr",
+      "price_value": 12500000,
+      "price_per_sqft": "₹22.73K/sq.ft",
+      "price_per_marla": "₹51.23 L / Marla"
+    },
+    "area": {
+      "area_display": "550 sq.ft",
+      "area_sqft": 550.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "2.44 Marla"
+    },
+    "address": {
+      "full_address": "Paloura Top, Paloura, Jammu",
+      "locality": "Paloura Top",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.755449",
+        "longitude": "74.824394"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Commercial Space"
+    },
+    "property_ownership": "Freehold",
+    "floors": "GF,1st,2nd/ 2 floors",
+    "property_age": "5 Years",
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Shop / Retail",
+      "Ready to move",
+      "Floor: GF,1st,2nd/ 2 floors",
+      "2.44 Marla (550 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Ready to move",
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Paloura Top",
+    "locality_clean": "Paloura",
+    "geographic_status": "KEEP",
+    "price_inr": 12500000.0,
+    "area_sqft_clean": 550.0,
+    "price_per_sqft": 22727.27,
+    "area_in_marla": 2.44,
+    "price_per_marla": 5122950.82,
+    "property_category": "commercial",
+    "data_quality_flag": "clean",
+    "removal_reason": "duplicate_listing",
+    "duplicate_of_id": "100526645"
+  },
+  {
+    "property_id": "100427121",
+    "url": "https://housing.com/commercial/buy/resale/100427121-commercial-plot-for-sale-in-lower-barnai-jammu-jammu-and-kashmir-1-for-rs-380000",
+    "title": "Commercial Plot",
+    "type_of_property": "Commercial Plot / Land",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹3.8 L",
+      "price_value": 380000,
+      "price_per_sqft": "₹380.0/sq.ft",
+      "price_per_marla": "₹85,586 / Marla"
+    },
+    "area": {
+      "area_display": "1000 sq.ft",
+      "area_sqft": 1000.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "4.44 Marla"
+    },
+    "address": {
+      "full_address": "Barnai, Dharmal, Jammu",
+      "locality": "Barnai",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.768982",
+        "longitude": "74.811233"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Plot / Land (No rooms)"
+    },
+    "property_ownership": "Freehold",
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Plot / Land",
+      "4.44 Marla (1000 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": null,
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Barnai",
+    "locality_clean": "Barnai",
+    "geographic_status": "KEEP",
+    "price_inr": 380000.0,
+    "area_sqft_clean": 1000.0,
+    "price_per_sqft": 380.0,
+    "area_in_marla": 4.44,
+    "price_per_marla": 85585.59,
+    "property_category": "commercial",
+    "data_quality_flag": "clean",
+    "removal_reason": "duplicate_listing",
+    "duplicate_of_id": "100427120"
+  },
+  {
+    "property_id": "100241030",
+    "url": "https://housing.com/commercial/buy/resale/100241030-showroom-for-sale-in-old-heritage-city-jammu-jammu-and-kashmir-1-for-rs-60000000",
+    "title": "Showroom",
+    "type_of_property": "Commercial Showroom",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹6.0 Cr",
+      "price_value": 60000000,
+      "price_per_sqft": "₹30.0K/sq.ft",
+      "price_per_marla": "₹67.49 L / Marla"
+    },
+    "area": {
+      "area_display": "2000 sq.ft",
+      "area_sqft": 2000.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "8.89 Marla"
+    },
+    "address": {
+      "full_address": "Pakki Dhaki, Old Heritage City, Jammu",
+      "locality": "Pakki Dhaki",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.737242",
+        "longitude": "74.866795"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Commercial Space"
+    },
+    "property_ownership": "Freehold",
+    "floors": "GF,1st,2nd/ 3 floors",
+    "property_age": "15 Years",
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Showroom",
+      "Ready to move",
+      "Floor: GF,1st,2nd/ 3 floors",
+      "8.89 Marla (2000 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Ready to move",
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Pakki Dhaki",
+    "locality_clean": "Pakki Dhaki",
+    "geographic_status": "KEEP",
+    "price_inr": 60000000.0,
+    "area_sqft_clean": 2000.0,
+    "price_per_sqft": 30000.0,
+    "area_in_marla": 8.89,
+    "price_per_marla": 6749156.36,
+    "property_category": "commercial",
+    "data_quality_flag": "clean",
+    "removal_reason": "duplicate_listing",
+    "duplicate_of_id": "100240691"
+  },
+  {
+    "property_id": "100241034",
+    "url": "https://housing.com/commercial/buy/resale/100241034-showroom-for-sale-in-old-heritage-city-jammu-jammu-and-kashmir-1-for-rs-60000000",
+    "title": "Showroom",
+    "type_of_property": "Commercial Showroom",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹6.0 Cr",
+      "price_value": 60000000,
+      "price_per_sqft": "₹30.0K/sq.ft",
+      "price_per_marla": "₹67.49 L / Marla"
+    },
+    "area": {
+      "area_display": "2000 sq.ft",
+      "area_sqft": 2000.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "8.89 Marla"
+    },
+    "address": {
+      "full_address": "Pakki Dhaki, Old Heritage City, Jammu",
+      "locality": "Pakki Dhaki",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.737242",
+        "longitude": "74.866795"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Commercial Space"
+    },
+    "property_ownership": "Freehold",
+    "floors": "GF,1st,2nd/ 3 floors",
+    "property_age": "15 Years",
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Showroom",
+      "Ready to move",
+      "Floor: GF,1st,2nd/ 3 floors",
+      "8.89 Marla (2000 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Ready to move",
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Pakki Dhaki",
+    "locality_clean": "Pakki Dhaki",
+    "geographic_status": "KEEP",
+    "price_inr": 60000000.0,
+    "area_sqft_clean": 2000.0,
+    "price_per_sqft": 30000.0,
+    "area_in_marla": 8.89,
+    "price_per_marla": 6749156.36,
+    "property_category": "commercial",
+    "data_quality_flag": "clean",
+    "removal_reason": "duplicate_listing",
+    "duplicate_of_id": "100240691"
+  },
+  {
+    "property_id": "100604038",
+    "url": "https://housing.com/commercial/buy/resale/100604038-shop-for-sale-in-sedhar-jammu-jammu-and-kashmir-1-for-rs-2000000",
+    "title": "Shop",
+    "type_of_property": "Commercial Shop / Retail",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹20.0 L",
+      "price_value": 2000000,
+      "price_per_sqft": "₹4.0K/sq.ft",
+      "price_per_marla": "₹9.01 L / Marla"
+    },
+    "area": {
+      "area_display": "500 sq.ft",
+      "area_sqft": 500.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "2.22 Marla"
+    },
+    "address": {
+      "full_address": "Pakki Dhaki, Old Heritage City, Jammu",
+      "locality": "Pakki Dhaki",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.7372422",
+        "longitude": "74.866795"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Commercial Space"
+    },
+    "property_ownership": "Freehold",
+    "floors": "1st/ 1 floors",
+    "property_age": "4 Years",
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Shop / Retail",
+      "Ready to move",
+      "Floor: 1st/ 1 floors",
+      "2.22 Marla (500 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Ready to move",
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Pakki Dhaki",
+    "locality_clean": "Pakki Dhaki",
+    "geographic_status": "KEEP",
+    "price_inr": 2000000.0,
+    "area_sqft_clean": 500.0,
+    "price_per_sqft": 4000.0,
+    "area_in_marla": 2.22,
+    "price_per_marla": 900900.9,
+    "property_category": "commercial",
+    "data_quality_flag": "clean",
+    "removal_reason": "duplicate_listing",
+    "duplicate_of_id": "100604037"
+  },
+  {
+    "property_id": "100591639",
+    "url": "https://housing.com/commercial/buy/resale/100591639-showroom-for-sale-in-shastri-nagar-jammu-jammu-jammu-and-kashmir-1-for-rs-100000000",
+    "title": "Showroom",
+    "type_of_property": "Commercial Showroom",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹10.0 Cr",
+      "price_value": 100000000,
+      "price_per_sqft": "₹28.57K/sq.ft",
+      "price_per_marla": "₹64.27 L / Marla"
+    },
+    "area": {
+      "area_display": "3500 sq.ft",
+      "area_sqft": 3500.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "15.56 Marla"
+    },
+    "address": {
+      "full_address": "Shastri Nagar, Jammu",
+      "locality": "Shastri Nagar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.694439",
+        "longitude": "74.855099"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Commercial Space"
+    },
+    "property_ownership": "Freehold",
+    "floors": "3rd/ 3 floors",
+    "property_age": "15 Years",
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Showroom",
+      "Ready to move",
+      "Floor: 3rd/ 3 floors",
+      "15.56 Marla (3500 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Ready to move",
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Shastri Nagar",
+    "locality_clean": "Shastri Nagar",
+    "geographic_status": "KEEP",
+    "price_inr": 100000000.0,
+    "area_sqft_clean": 3500.0,
+    "price_per_sqft": 28571.43,
+    "area_in_marla": 15.56,
+    "price_per_marla": 6426735.22,
+    "property_category": "commercial",
+    "data_quality_flag": "clean",
+    "removal_reason": "duplicate_listing",
+    "duplicate_of_id": "100592669"
+  },
+  {
+    "property_id": "100588896",
+    "url": "https://housing.com/commercial/buy/resale/100588896-warehouse-for-sale-in-talab-tillo-jammu-jammu-and-kashmir-1-for-rs-5500000",
+    "title": "Warehouse",
+    "type_of_property": "Warehouse / Godown",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹55.0 L",
+      "price_value": 5500000,
+      "price_per_sqft": "₹2.75K/sq.ft",
+      "price_per_marla": "₹6.19 L / Marla"
+    },
+    "area": {
+      "area_display": "2000 sq.ft",
+      "area_sqft": 2000.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "8.89 Marla"
+    },
+    "address": {
+      "full_address": "Talab Tillo, Jammu",
+      "locality": "Talab Tillo",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.7226129",
+        "longitude": "74.837554"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": null
+    },
+    "property_ownership": "Freehold",
+    "floors": "GF/ 2 floors",
+    "property_age": "5 Years",
+    "highlights": [],
+    "key_highlights": [
+      "Warehouse / Godown",
+      "Ready to move",
+      "Floor: GF/ 2 floors",
+      "8.89 Marla (2000 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Ready to move",
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Talab Tillo",
+    "locality_clean": "Talab Tillo",
+    "geographic_status": "KEEP",
+    "price_inr": 5500000.0,
+    "area_sqft_clean": 2000.0,
+    "price_per_sqft": 2750.0,
+    "area_in_marla": 8.89,
+    "price_per_marla": 618672.67,
+    "property_category": "commercial",
+    "data_quality_flag": "clean",
+    "removal_reason": "duplicate_listing",
+    "duplicate_of_id": "100588895"
+  },
+  {
+    "property_id": "100581092",
+    "url": "https://housing.com/commercial/buy/resale/100581092-commercial-plot-for-sale-in-talab-tillo-jammu-jammu-and-kashmir-1-for-rs-900000000",
+    "title": "Commercial Plot",
+    "type_of_property": "Commercial Plot / Land",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹90.0 Cr",
+      "price_value": 900000000,
+      "price_per_sqft": "₹5.51K/sq.ft",
+      "price_per_marla": "₹12.40 L / Marla"
+    },
+    "area": {
+      "area_display": "163350 sq.ft",
+      "area_sqft": 163350.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "726 Marla"
+    },
+    "address": {
+      "full_address": "Talab Tillo, Jammu",
+      "locality": "Talab Tillo",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.7226129",
+        "longitude": "74.837554"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Plot / Land (No rooms)"
+    },
+    "property_ownership": "Freehold",
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Plot / Land",
+      "726 Marla (163350 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": null,
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Talab Tillo",
+    "locality_clean": "Talab Tillo",
+    "geographic_status": "KEEP",
+    "price_inr": 900000000.0,
+    "area_sqft_clean": 163350.0,
+    "price_per_sqft": 5509.64,
+    "area_in_marla": 726.0,
+    "price_per_marla": 1239669.42,
+    "property_category": "commercial",
+    "data_quality_flag": "clean",
+    "removal_reason": "duplicate_listing",
+    "duplicate_of_id": "100581091"
+  },
+  {
+    "property_id": "100578816",
+    "url": "https://housing.com/commercial/buy/resale/100578816-commercial-plot-for-sale-in-raipur-satwari-jammu-jammu-jammu-and-kashmir-1-for-rs-500000",
+    "title": "Commercial Plot",
+    "type_of_property": "Commercial Plot / Land",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹5.0 L",
+      "price_value": 500000,
+      "price_per_sqft": "₹405.84/sq.ft",
+      "price_per_marla": "₹91,241 / Marla"
+    },
+    "area": {
+      "area_display": "1232 sq.ft",
+      "area_sqft": 1232.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "5.48 Marla"
+    },
+    "address": {
+      "full_address": "Chatha, Raipur Satwari, Jammu",
+      "locality": "Chatha",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.6806428",
+        "longitude": "74.8214693"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Plot / Land (No rooms)"
+    },
+    "property_ownership": "Freehold",
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Plot / Land",
+      "5.48 Marla (1232 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": null,
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Chatha",
+    "locality_clean": "Chatha",
+    "geographic_status": "KEEP",
+    "price_inr": 500000.0,
+    "area_sqft_clean": 1232.0,
+    "price_per_sqft": 405.84,
+    "area_in_marla": 5.48,
+    "price_per_marla": 91240.88,
+    "property_category": "commercial",
+    "data_quality_flag": "clean",
+    "removal_reason": "duplicate_listing",
+    "duplicate_of_id": "100578815"
+  },
+  {
+    "property_id": "100570892",
+    "url": "https://housing.com/commercial/buy/resale/100570892-showroom-for-sale-in-bishnah-jammu-jammu-and-kashmir-1-for-rs-85000000",
+    "title": "Showroom",
+    "type_of_property": "Commercial Showroom",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹8.5 Cr",
+      "price_value": 85000000,
+      "price_per_sqft": "₹17.71K/sq.ft",
+      "price_per_marla": "₹39.85 L / Marla"
+    },
+    "area": {
+      "area_display": "4800 sq.ft",
+      "area_sqft": 4800.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "21.33 Marla"
+    },
+    "address": {
+      "full_address": "Bishnah, Jammu",
+      "locality": "Bishnah",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.6108195",
+        "longitude": "74.8594853"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Commercial Space"
+    },
+    "property_ownership": "Freehold",
+    "floors": "1st/ 1 floors",
+    "property_age": "20 Years",
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Showroom",
+      "Ready to move",
+      "Floor: 1st/ 1 floors",
+      "21.33 Marla (4800 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Ready to move",
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Bishnah",
+    "locality_clean": "Bishnah",
+    "geographic_status": "KEEP",
+    "price_inr": 85000000.0,
+    "area_sqft_clean": 4800.0,
+    "price_per_sqft": 17708.33,
+    "area_in_marla": 21.33,
+    "price_per_marla": 3984997.66,
+    "property_category": "commercial",
+    "data_quality_flag": "clean",
+    "removal_reason": "duplicate_listing",
+    "duplicate_of_id": "100570891"
+  },
+  {
+    "property_id": "100540649",
+    "url": "https://housing.com/commercial/buy/resale/100540649-commercial-plot-for-sale-in-toph-sherkhanian-jammu-for-rs-25600000",
+    "title": "Commercial Plot",
+    "type_of_property": "Commercial Plot / Land",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹2.56 Cr",
+      "price_value": 25600000,
+      "price_per_sqft": "₹5.88K/sq.ft",
+      "price_per_marla": "₹13.22 L / Marla"
+    },
+    "area": {
+      "area_display": "4356 sq.ft",
+      "area_sqft": 4356.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "19.36 Marla"
+    },
+    "address": {
+      "full_address": "Toph Sherkhanian, Jammu",
+      "locality": "Toph Sherkhanian",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.7483848",
+        "longitude": "74.8397473"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Plot / Land (No rooms)"
+    },
+    "property_ownership": "Freehold",
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Plot / Land",
+      "19.36 Marla (4356 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": null,
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Toph Sherkhanian",
+    "locality_clean": "Toph Sherkhanian",
+    "geographic_status": "KEEP",
+    "price_inr": 25600000.0,
+    "area_sqft_clean": 4356.0,
+    "price_per_sqft": 5876.95,
+    "area_in_marla": 19.36,
+    "price_per_marla": 1322314.05,
+    "property_category": "commercial",
+    "data_quality_flag": "clean",
+    "removal_reason": "duplicate_listing",
+    "duplicate_of_id": "100540648"
+  },
+  {
+    "property_id": "100508749",
+    "url": "https://housing.com/commercial/buy/resale/100508749-shop-for-sale-in-patoli-jammu-jammu-jammu-and-kashmir-1-for-rs-5500000",
+    "title": "Shop",
+    "type_of_property": "Commercial Shop / Retail",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹55.0 L",
+      "price_value": 5500000,
+      "price_per_sqft": "₹12.22K/sq.ft",
+      "price_per_marla": "₹27.50 L / Marla"
+    },
+    "area": {
+      "area_display": "450 sq.ft",
+      "area_sqft": 450.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "2 Marla"
+    },
+    "address": {
+      "full_address": "Kheri, Jammu",
+      "locality": "Kheri",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.7909136",
+        "longitude": "74.8214693"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Commercial Space"
+    },
+    "property_ownership": "Freehold",
+    "floors": "GF/ 1 floors",
+    "property_age": "4 Years",
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Shop / Retail",
+      "Ready to move",
+      "Floor: GF/ 1 floors",
+      "2 Marla (450 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Ready to move",
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Kheri",
+    "locality_clean": "Kheri",
+    "geographic_status": "KEEP",
+    "price_inr": 5500000.0,
+    "area_sqft_clean": 450.0,
+    "price_per_sqft": 12222.22,
+    "area_in_marla": 2.0,
+    "price_per_marla": 2750000.0,
+    "property_category": "commercial",
+    "data_quality_flag": "clean",
+    "removal_reason": "duplicate_listing",
+    "duplicate_of_id": "100508748"
+  },
+  {
+    "property_id": "100490312",
+    "url": "https://housing.com/commercial/buy/resale/100490312-bare-shell-office-space-for-sale-in-gangayal-jammu-jammu-and-kashmir-1-for-rs-70000000",
+    "title": "Bare shell Office Space",
+    "type_of_property": "Commercial Office Space",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹7.0 Cr",
+      "price_value": 70000000,
+      "price_per_sqft": "₹3.18K/sq.ft",
+      "price_per_marla": "₹7.16 L / Marla"
+    },
+    "area": {
+      "area_display": "22000 sq.ft",
+      "area_sqft": 22000.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "97.78 Marla"
+    },
+    "address": {
+      "full_address": "Gangayal, Jammu",
+      "locality": "Gangayal",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.6682911",
+        "longitude": "74.866795"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Commercial Space"
+    },
+    "property_ownership": "Freehold",
+    "floors": "GF/ 3 floors",
+    "property_age": "7 Years",
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Office Space",
+      "Ready to move",
+      "Floor: GF/ 3 floors",
+      "97.78 Marla (22000 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Ready to move",
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Gangayal",
+    "locality_clean": "Gangyal",
+    "geographic_status": "KEEP",
+    "price_inr": 70000000.0,
+    "area_sqft_clean": 22000.0,
+    "price_per_sqft": 3181.82,
+    "area_in_marla": 97.78,
+    "price_per_marla": 715892.82,
+    "property_category": "commercial",
+    "data_quality_flag": "clean",
+    "removal_reason": "duplicate_listing",
+    "duplicate_of_id": "100490311"
+  },
+  {
+    "property_id": "100485239",
+    "url": "https://housing.com/commercial/buy/resale/100485239-commercial-plot-for-sale-in-raipur-satwari-jammu-jammu-jammu-and-kashmir-1-for-rs-3500000",
+    "title": "Commercial Plot",
+    "type_of_property": "Commercial Plot / Land",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹35.0 L",
+      "price_value": 3500000,
+      "price_per_sqft": "₹218.15/sq.ft",
+      "price_per_marla": "₹49,081 / Marla"
+    },
+    "area": {
+      "area_display": "16044 sq.ft",
+      "area_sqft": 16044.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "71.31 Marla"
+    },
+    "address": {
+      "full_address": "Satwari, Raipur Satwari, Jammu",
+      "locality": "Satwari",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.6847243",
+        "longitude": "74.8434026"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Plot / Land (No rooms)"
+    },
+    "property_ownership": "Freehold",
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Plot / Land",
+      "71.31 Marla (16044 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": null,
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Satwari",
+    "locality_clean": "Satwari",
+    "geographic_status": "KEEP",
+    "price_inr": 3500000.0,
+    "area_sqft_clean": 16044.0,
+    "price_per_sqft": 218.15,
+    "area_in_marla": 71.31,
+    "price_per_marla": 49081.48,
+    "property_category": "commercial",
+    "data_quality_flag": "clean",
+    "removal_reason": "duplicate_listing",
+    "duplicate_of_id": "100485238"
+  },
+  {
+    "property_id": "100475332",
+    "url": "https://housing.com/commercial/buy/resale/100475332-shop-for-sale-in-durga-nagar-jammu-jammu-jammu-and-kashmir-1-for-rs-5000000",
+    "title": "Shop",
+    "type_of_property": "Commercial Shop / Retail",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹50.0 L",
+      "price_value": 5000000,
+      "price_per_sqft": "₹18.32K/sq.ft",
+      "price_per_marla": "₹41.32 L / Marla"
+    },
+    "area": {
+      "area_display": "273 sq.ft",
+      "area_sqft": 273.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "1.21 Marla"
+    },
+    "address": {
+      "full_address": "Durga Nagar, Jammu",
+      "locality": "Durga Nagar",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.7704273",
+        "longitude": "74.8229316"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Commercial Space"
+    },
+    "property_ownership": "Freehold",
+    "floors": "3rd/ 3 floors",
+    "property_age": "1 Years",
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Shop / Retail",
+      "Ready to move",
+      "Floor: 3rd/ 3 floors",
+      "1.21 Marla (273 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Ready to move",
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Durga Nagar",
+    "locality_clean": "Durga Nagar",
+    "geographic_status": "KEEP",
+    "price_inr": 5000000.0,
+    "area_sqft_clean": 273.0,
+    "price_per_sqft": 18315.02,
+    "area_in_marla": 1.21,
+    "price_per_marla": 4132231.4,
+    "property_category": "commercial",
+    "data_quality_flag": "clean",
+    "removal_reason": "duplicate_listing",
+    "duplicate_of_id": "100475331"
+  },
+  {
+    "property_id": "100445913",
+    "url": "https://housing.com/commercial/buy/resale/100445913-warehouse-for-sale-in-janipur-jammu-for-rs-50000000",
+    "title": "Warehouse",
+    "type_of_property": "Warehouse / Godown",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹5.0 Cr",
+      "price_value": 50000000,
+      "price_per_sqft": "₹1.67K/sq.ft",
+      "price_per_marla": "₹3.75 L / Marla"
+    },
+    "area": {
+      "area_display": "30000 sq.ft",
+      "area_sqft": 30000.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "133.33 Marla"
+    },
+    "address": {
+      "full_address": "Sarwal, Janipur, Jammu",
+      "locality": "Sarwal",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.7530639",
+        "longitude": "74.8609472"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": null
+    },
+    "property_ownership": "Freehold",
+    "floors": "2nd/ 2 floors",
+    "property_age": "2 Years",
+    "highlights": [],
+    "key_highlights": [
+      "Warehouse / Godown",
+      "Ready to move",
+      "Floor: 2nd/ 2 floors",
+      "133.33 Marla (30000 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Ready to move",
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Sarwal",
+    "locality_clean": "Sarwal",
+    "geographic_status": "KEEP",
+    "price_inr": 50000000.0,
+    "area_sqft_clean": 30000.0,
+    "price_per_sqft": 1666.67,
+    "area_in_marla": 133.33,
+    "price_per_marla": 375009.38,
+    "property_category": "commercial",
+    "data_quality_flag": "clean",
+    "removal_reason": "duplicate_listing",
+    "duplicate_of_id": "100445912"
+  },
+  {
+    "property_id": "100426698",
+    "url": "https://housing.com/commercial/buy/resale/100426698-commercial-plot-for-sale-in-sainik-colony-jammu-jammu-jammu-and-kashmir-1-for-rs-2000000",
+    "title": "Commercial Plot",
+    "type_of_property": "Commercial Plot / Land",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹20.0 L",
+      "price_value": 2000000,
+      "price_per_sqft": "₹10.1K/sq.ft",
+      "price_per_marla": "₹22.73 L / Marla"
+    },
+    "area": {
+      "area_display": "198 sq.ft",
+      "area_sqft": 198.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "0.88 Marla"
+    },
+    "address": {
+      "full_address": "Sector E, Sainik Colony, Jammu",
+      "locality": "Sector E",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.6724714",
+        "longitude": "74.9121083"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Plot / Land (No rooms)"
+    },
+    "property_ownership": "Freehold",
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Plot / Land",
+      "0.88 Marla (198 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": null,
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Sector E",
+    "locality_clean": "Sainik Colony",
+    "geographic_status": "KEEP",
+    "price_inr": 2000000.0,
+    "area_sqft_clean": 198.0,
+    "price_per_sqft": 10101.01,
+    "area_in_marla": 0.88,
+    "price_per_marla": 2272727.27,
+    "property_category": "commercial",
+    "data_quality_flag": "clean",
+    "removal_reason": "duplicate_listing",
+    "duplicate_of_id": "100426697"
+  },
+  {
+    "property_id": "100390066",
+    "url": "https://housing.com/commercial/buy/resale/100390066-shop-for-sale-in-bathindi-jammu-jammu-and-kashmir-1-for-rs-15000000",
+    "title": "Shop",
+    "type_of_property": "Commercial Shop / Retail",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹1.5 Cr",
+      "price_value": 15000000,
+      "price_per_sqft": "₹13.64K/sq.ft",
+      "price_per_marla": "₹30.67 L / Marla"
+    },
+    "area": {
+      "area_display": "1100 sq.ft",
+      "area_sqft": 1100.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "4.89 Marla"
+    },
+    "address": {
+      "full_address": "Bathindi, Jammu",
+      "locality": "Bathindi",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.7103768",
+        "longitude": "74.9062622"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Commercial Space"
+    },
+    "property_ownership": "Freehold",
+    "floors": "GF/ 5 floors",
+    "property_age": "8 Years",
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Shop / Retail",
+      "Ready to move",
+      "Floor: GF/ 5 floors",
+      "4.89 Marla (1100 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Ready to move",
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Bathindi",
+    "locality_clean": "Bathindi",
+    "geographic_status": "KEEP",
+    "price_inr": 15000000.0,
+    "area_sqft_clean": 1100.0,
+    "price_per_sqft": 13636.36,
+    "area_in_marla": 4.89,
+    "price_per_marla": 3067484.66,
+    "property_category": "commercial",
+    "data_quality_flag": "clean",
+    "removal_reason": "duplicate_listing",
+    "duplicate_of_id": "100389699"
+  },
+  {
+    "property_id": "100390067",
+    "url": "https://housing.com/commercial/buy/resale/100390067-shop-for-sale-in-bathindi-jammu-jammu-and-kashmir-1-for-rs-15000000",
+    "title": "Shop",
+    "type_of_property": "Commercial Shop / Retail",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹1.5 Cr",
+      "price_value": 15000000,
+      "price_per_sqft": "₹13.64K/sq.ft",
+      "price_per_marla": "₹30.67 L / Marla"
+    },
+    "area": {
+      "area_display": "1100 sq.ft",
+      "area_sqft": 1100.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "4.89 Marla"
+    },
+    "address": {
+      "full_address": "Bathindi, Jammu",
+      "locality": "Bathindi",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.7103768",
+        "longitude": "74.9062622"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Commercial Space"
+    },
+    "property_ownership": "Freehold",
+    "floors": "GF/ 5 floors",
+    "property_age": "8 Years",
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Shop / Retail",
+      "Ready to move",
+      "Floor: GF/ 5 floors",
+      "4.89 Marla (1100 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Ready to move",
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Bathindi",
+    "locality_clean": "Bathindi",
+    "geographic_status": "KEEP",
+    "price_inr": 15000000.0,
+    "area_sqft_clean": 1100.0,
+    "price_per_sqft": 13636.36,
+    "area_in_marla": 4.89,
+    "price_per_marla": 3067484.66,
+    "property_category": "commercial",
+    "data_quality_flag": "clean",
+    "removal_reason": "duplicate_listing",
+    "duplicate_of_id": "100389699"
+  },
+  {
+    "property_id": "100358462",
+    "url": "https://housing.com/commercial/buy/resale/100358462-shop-for-sale-in-canal-road-majhin-for-rs-35000000",
+    "title": "Shop",
+    "type_of_property": "Commercial Shop / Retail",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹3.5 Cr",
+      "price_value": 35000000,
+      "price_per_sqft": "₹50.0K/sq.ft",
+      "price_per_marla": "₹1.13 Cr / Marla"
+    },
+    "area": {
+      "area_display": "700 sq.ft",
+      "area_sqft": 700.0,
+      "area_type": "Built Up Area",
+      "area_in_marla": "3.11 Marla"
+    },
+    "address": {
+      "full_address": "Canal Road, Jammu",
+      "locality": "Canal Road",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.728609",
+        "longitude": "74.847058"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Commercial Space"
+    },
+    "property_ownership": "Freehold",
+    "floors": "GF/ 2 floors",
+    "property_age": "5 Years",
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Shop / Retail",
+      "Ready to move",
+      "Floor: GF/ 2 floors",
+      "3.11 Marla (700 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": "Ready to move",
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Canal Road",
+    "locality_clean": "Canal Road",
+    "geographic_status": "KEEP",
+    "price_inr": 35000000.0,
+    "area_sqft_clean": 700.0,
+    "price_per_sqft": 50000.0,
+    "area_in_marla": 3.11,
+    "price_per_marla": 11254019.29,
+    "property_category": "commercial",
+    "data_quality_flag": "clean",
+    "removal_reason": "duplicate_listing",
+    "duplicate_of_id": "100358459"
+  },
+  {
+    "property_id": "100289621",
+    "url": "https://housing.com/commercial/buy/resale/100289621-commercial-plot-for-sale-in-channi-rama-jammu-jammu-and-kashmir-1-for-rs-12500000",
+    "title": "Commercial Plot",
+    "type_of_property": "Commercial Plot / Land",
+    "furnished_status": null,
+    "price": {
+      "display_price": "₹1.25 Cr",
+      "price_value": 12500000,
+      "price_per_sqft": "₹9.09K/sq.ft",
+      "price_per_marla": "₹20.46 L / Marla"
+    },
+    "area": {
+      "area_display": "1375 sq.ft",
+      "area_sqft": 1375.0,
+      "area_type": "Plot Area",
+      "area_in_marla": "6.11 Marla"
+    },
+    "address": {
+      "full_address": "Channi Rama, Jammu",
+      "locality": "Channi Rama",
+      "city": "Jammu",
+      "coordinates": {
+        "latitude": "32.701493",
+        "longitude": "74.9238"
+      }
+    },
+    "configuration": {
+      "bedrooms": null,
+      "bathrooms": null,
+      "balconies": null,
+      "parking": null,
+      "summary": "Plot / Land (No rooms)"
+    },
+    "property_ownership": "Leasehold",
+    "floors": null,
+    "property_age": null,
+    "highlights": [],
+    "key_highlights": [
+      "Commercial Plot / Land",
+      "6.11 Marla (1375 sq.ft)"
+    ],
+    "amenities": [],
+    "furnished_components": null,
+    "status": null,
+    "source_portal": "housing",
+    "source_category": "commercial",
+    "locality_original": "Channi Rama",
+    "locality_clean": "Channi Rama",
+    "geographic_status": "KEEP",
+    "price_inr": 12500000.0,
+    "area_sqft_clean": 1375.0,
+    "price_per_sqft": 9090.91,
+    "area_in_marla": 6.11,
+    "price_per_marla": 2045826.51,
+    "property_category": "commercial",
+    "data_quality_flag": "clean",
+    "removal_reason": "duplicate_listing",
+    "duplicate_of_id": "100295023"
+  },
+  {
+    "property_id": "84740451",
+    "url": "https://www.magicbricks.com/propertyDetails/1-BHK-300-Sq-ft-Residential-House-FOR-Rent-Sainik-Colony-in-Jammu&id=4d423834373430343531",
+    "title": "1BHK Residential House for Rent in Sainik Colony",
+    "type_of_property": "Residential House",
+    "furnished_status": "Furnished",
+    "price": {
+      "display_price": "₹15,000",
+      "price_value": 15000,
+      "price_per_sqft": null,
+      "price_per_marla": "₹11,278 / Marla",
+      "security_deposit": null,
+      "maintenance_charges": "Monthly"
+    },
+    "area": {
+      "area_display": "300 sqft",
+      "area_sqft": 300.0,
+      "area_type": "Carpet Area",
+      "area_in_marla": "1.33 Marla"
+    },
+    "address": {
+      "full_address": "Sainik Colony, Jammu, Jammu & Kashmir",
+      "locality": "Sainik Colony",
+      "city": "Jammu",
+      "coordinates": null
+    },
+    "configuration": {
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "balconies": null,
+      "additional_rooms": null,
+      "summary": "1 BHK / Bedrooms, 1 Bathrooms"
+    },
+    "property_ownership": null,
+    "floors": null,
+    "property_age": "New Construction",
+    "highlights": [
+      "Tenant Preference: Bachelors/Family",
+      "Transaction: Rent"
+    ],
+    "key_highlights": [
+      "Residential House",
+      "Immediately",
+      "Furnished",
+      "1.33 Marla (300 sqft)"
+    ],
+    "amenities": [],
+    "furnished_components": [
+      "Furnished with essential fixtures & furniture"
+    ],
+    "status": "Immediately",
+    "source_portal": "magicbricks",
+    "source_category": "rent",
+    "locality_original": "Sainik Colony",
+    "locality_clean": "Sainik Colony",
+    "geographic_status": "KEEP",
+    "price_inr": 15000.0,
+    "area_sqft_clean": 300.0,
+    "price_per_sqft": 50.0,
+    "area_in_marla": 1.33,
+    "price_per_marla": 11278.2,
+    "property_category": "rent",
+    "data_quality_flag": "clean",
+    "removal_reason": "duplicate_listing",
+    "duplicate_of_id": "84669235"
+  }
+]
